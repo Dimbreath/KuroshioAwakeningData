@@ -1,0 +1,70 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Superposition": false,
+      "Type": 1,
+      "Value": 0.1,
+      "Valuetype": 2,
+      "LangStringTable": {
+        "Describe": "每日購買能源額外贈送<color=#00FFFF>{0}</color>%"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Superposition": false,
+      "Type": 2,
+      "Value": 0.05,
+      "Valuetype": 2,
+      "LangStringTable": {
+        "Describe": "每日成功壓制港口BP收益提升<color=#00FFFF>{0}</color>%（不包括利維坦深淵）"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Superposition": false,
+      "Type": 3,
+      "Value": 0.05,
+      "Valuetype": 2,
+      "LangStringTable": {
+        "Describe": "每日整備任務收益提升<color=#00FFFF>{0}</color>%"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Superposition": false,
+      "Type": 4,
+      "Value": 0.2,
+      "Valuetype": 2,
+      "LangStringTable": {
+        "Describe": "資料磁片獲取提升<color=#00FFFF>{0}</color>%"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Superposition": false,
+      "Type": 5,
+      "Value": 0.05,
+      "Valuetype": 2,
+      "LangStringTable": {
+        "Describe": "每日港口補給BP收益提升<color=#00FFFF>{0}</color>%"
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Superposition": false,
+      "Type": 6,
+      "Value": 10.0,
+      "Valuetype": 1,
+      "LangStringTable": {
+        "Describe": "單次自動打撈次數上限增加<color=#00FFFF>{0}</color>次"
+      }
+    }
+  }
+}

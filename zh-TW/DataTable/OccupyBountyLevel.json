@@ -1,0 +1,1329 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Unlockcondition": [
+        "10201,5007"
+      ],
+      "Number": 1,
+      "Surprisnumber": 0,
+      "Difficulty": 1,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Unlockcondition": [
+        "10201,5010"
+      ],
+      "Number": 1,
+      "Surprisnumber": 0,
+      "Difficulty": 2,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Unlockcondition": [
+        "10201,6001"
+      ],
+      "Number": 1,
+      "Surprisnumber": 0,
+      "Difficulty": 3,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Unlockcondition": [
+        "10201,6002"
+      ],
+      "Number": 1,
+      "Surprisnumber": 0,
+      "Difficulty": 4,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Unlockcondition": [
+        "10201,6004"
+      ],
+      "Number": 1,
+      "Surprisnumber": 0,
+      "Difficulty": 5,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Unlockcondition": [
+        "10201,6005"
+      ],
+      "Number": 1,
+      "Surprisnumber": 0,
+      "Difficulty": 6,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Unlockcondition": [
+        "10201,6003"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 7,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Unlockcondition": [
+        "10201,7004"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 7,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Unlockcondition": [
+        "10201,8006"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 7,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "Unlockcondition": [
+        "10201,6006"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "Unlockcondition": [
+        "10201,7007"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "Unlockcondition": [
+        "10201,8010"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "Unlockcondition": [
+        "10201,9009"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "14": {
+      "Cuid": 14,
+      "Id": 14,
+      "Unlockcondition": [
+        "10201,6007"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "Unlockcondition": [
+        "10201,7008"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "Unlockcondition": [
+        "10201,8011"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "17": {
+      "Cuid": 17,
+      "Id": 17,
+      "Unlockcondition": [
+        "10201,9014"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "18": {
+      "Cuid": 18,
+      "Id": 18,
+      "Unlockcondition": [
+        "10201,6008"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "19": {
+      "Cuid": 19,
+      "Id": 19,
+      "Unlockcondition": [
+        "10201,7009"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "Unlockcondition": [
+        "10201,8015"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "21": {
+      "Cuid": 21,
+      "Id": 21,
+      "Unlockcondition": [
+        "10201,9005"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "Unlockcondition": [
+        "10201,6009"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "Unlockcondition": [
+        "10201,7006"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "Unlockcondition": [
+        "10201,8004"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "Unlockcondition": [
+        "10201,9007"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "Unlockcondition": [
+        "10201,6014"
+      ],
+      "Number": 0,
+      "Surprisnumber": 1,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "27": {
+      "Cuid": 27,
+      "Id": 27,
+      "Unlockcondition": [
+        "10201,7012"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "28": {
+      "Cuid": 28,
+      "Id": 28,
+      "Unlockcondition": [
+        "10201,8007"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "29": {
+      "Cuid": 29,
+      "Id": 29,
+      "Unlockcondition": [
+        "10201,9010"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "30": {
+      "Cuid": 30,
+      "Id": 30,
+      "Unlockcondition": [
+        "10201,6015"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "31": {
+      "Cuid": 31,
+      "Id": 31,
+      "Unlockcondition": [
+        "10201,7011"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "32": {
+      "Cuid": 32,
+      "Id": 32,
+      "Unlockcondition": [
+        "10201,8008"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "33": {
+      "Cuid": 33,
+      "Id": 33,
+      "Unlockcondition": [
+        "10201,9015"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "34": {
+      "Cuid": 34,
+      "Id": 34,
+      "Unlockcondition": [
+        "10201,6013"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "35": {
+      "Cuid": 35,
+      "Id": 35,
+      "Unlockcondition": [
+        "10201,7010"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "36": {
+      "Cuid": 36,
+      "Id": 36,
+      "Unlockcondition": [
+        "10201,8009"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "37": {
+      "Cuid": 37,
+      "Id": 37,
+      "Unlockcondition": [
+        "10201,9012"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "38": {
+      "Cuid": 38,
+      "Id": 38,
+      "Unlockcondition": [
+        "10201,6010"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "39": {
+      "Cuid": 39,
+      "Id": 39,
+      "Unlockcondition": [
+        "10201,7014"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "40": {
+      "Cuid": 40,
+      "Id": 40,
+      "Unlockcondition": [
+        "10201,8018"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "41": {
+      "Cuid": 41,
+      "Id": 41,
+      "Unlockcondition": [
+        "10201,9013"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "42": {
+      "Cuid": 42,
+      "Id": 42,
+      "Unlockcondition": [
+        "10201,6012"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "43": {
+      "Cuid": 43,
+      "Id": 43,
+      "Unlockcondition": [
+        "10201,7013"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "44": {
+      "Cuid": 44,
+      "Id": 44,
+      "Unlockcondition": [
+        "10201,8016"
+      ],
+      "Number": 0,
+      "Surprisnumber": 1,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "45": {
+      "Cuid": 45,
+      "Id": 45,
+      "Unlockcondition": [
+        "10201,9011"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "46": {
+      "Cuid": 46,
+      "Id": 46,
+      "Unlockcondition": [
+        "10201,6011"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "47": {
+      "Cuid": 47,
+      "Id": 47,
+      "Unlockcondition": [
+        "10201,7016"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "48": {
+      "Cuid": 48,
+      "Id": 48,
+      "Unlockcondition": [
+        "10201,8012"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "49": {
+      "Cuid": 49,
+      "Id": 49,
+      "Unlockcondition": [
+        "10201,9018"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "50": {
+      "Cuid": 50,
+      "Id": 50,
+      "Unlockcondition": [
+        "10201,6017"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "51": {
+      "Cuid": 51,
+      "Id": 51,
+      "Unlockcondition": [
+        "10201,7018"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "52": {
+      "Cuid": 52,
+      "Id": 52,
+      "Unlockcondition": [
+        "10201,8014"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    },
+    "53": {
+      "Cuid": 53,
+      "Id": 53,
+      "Unlockcondition": [
+        "10201,9016"
+      ],
+      "Number": 0,
+      "Surprisnumber": 0,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "5,10,99999",
+        "4,10,99999",
+        "3,25,99999",
+        "2,30,99999",
+        "1,25,99999"
+      ],
+      "Qualitychanceshow": [
+        "5,10",
+        "4,10",
+        "3,25",
+        "2,30",
+        "1,25"
+      ],
+      "Typechance": null
+    }
+  }
+}

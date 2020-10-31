@@ -1,0 +1,7718 @@
+{
+  "Rows": {
+    "4294977316": {
+      "Cuid": 4294977316,
+      "Groupid": 1,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4294977326": {
+      "Cuid": 4294977326,
+      "Groupid": 1,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4294977416": {
+      "Cuid": 4294977416,
+      "Groupid": 1,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4294997336": {
+      "Cuid": 4294997336,
+      "Groupid": 1,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4294997396": {
+      "Cuid": 4294997396,
+      "Groupid": 1,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4295007396": {
+      "Cuid": 4295007396,
+      "Groupid": 1,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4295017616": {
+      "Cuid": 4295017616,
+      "Groupid": 1,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4295027366": {
+      "Cuid": 4295027366,
+      "Groupid": 1,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4295017766": {
+      "Cuid": 4295017766,
+      "Groupid": 1,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4295017806": {
+      "Cuid": 4295017806,
+      "Groupid": 1,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "8589944612": {
+      "Cuid": 8589944612,
+      "Groupid": 2,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "8589944622": {
+      "Cuid": 8589944622,
+      "Groupid": 2,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "8589944642": {
+      "Cuid": 8589944642,
+      "Groupid": 2,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589944672": {
+      "Cuid": 8589944672,
+      "Groupid": 2,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "8589944702": {
+      "Cuid": 8589944702,
+      "Groupid": 2,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589944712": {
+      "Cuid": 8589944712,
+      "Groupid": 2,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "8589944742": {
+      "Cuid": 8589944742,
+      "Groupid": 2,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589954612": {
+      "Cuid": 8589954612,
+      "Groupid": 2,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589954622": {
+      "Cuid": 8589954622,
+      "Groupid": 2,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "8589964632": {
+      "Cuid": 8589964632,
+      "Groupid": 2,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "8589964692": {
+      "Cuid": 8589964692,
+      "Groupid": 2,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "8589964752": {
+      "Cuid": 8589964752,
+      "Groupid": 2,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589974612": {
+      "Cuid": 8589974612,
+      "Groupid": 2,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589974622": {
+      "Cuid": 8589974622,
+      "Groupid": 2,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589974642": {
+      "Cuid": 8589974642,
+      "Groupid": 2,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589974652": {
+      "Cuid": 8589974652,
+      "Groupid": 2,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589974692": {
+      "Cuid": 8589974692,
+      "Groupid": 2,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "8589974722": {
+      "Cuid": 8589974722,
+      "Groupid": 2,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "8589974792": {
+      "Cuid": 8589974792,
+      "Groupid": 2,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589974802": {
+      "Cuid": 8589974802,
+      "Groupid": 2,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589984652": {
+      "Cuid": 8589984652,
+      "Groupid": 2,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "8589984692": {
+      "Cuid": 8589984692,
+      "Groupid": 2,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589984782": {
+      "Cuid": 8589984782,
+      "Groupid": 2,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589984852": {
+      "Cuid": 8589984852,
+      "Groupid": 2,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589984882": {
+      "Cuid": 8589984882,
+      "Groupid": 2,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589984902": {
+      "Cuid": 8589984902,
+      "Groupid": 2,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589984912": {
+      "Cuid": 8589984912,
+      "Groupid": 2,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "8589994662": {
+      "Cuid": 8589994662,
+      "Groupid": 2,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "8589994672": {
+      "Cuid": 8589994672,
+      "Groupid": 2,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589994682": {
+      "Cuid": 8589994682,
+      "Groupid": 2,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589994762": {
+      "Cuid": 8589994762,
+      "Groupid": 2,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589974892": {
+      "Cuid": 8589974892,
+      "Groupid": 2,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589974742": {
+      "Cuid": 8589974742,
+      "Groupid": 2,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589974752": {
+      "Cuid": 8589974752,
+      "Groupid": 2,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589984802": {
+      "Cuid": 8589984802,
+      "Groupid": 2,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589984812": {
+      "Cuid": 8589984812,
+      "Groupid": 2,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589985062": {
+      "Cuid": 8589985062,
+      "Groupid": 2,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "8589964602": {
+      "Cuid": 8589964602,
+      "Groupid": 2,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589964922": {
+      "Cuid": 8589964922,
+      "Groupid": 2,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589985082": {
+      "Cuid": 8589985082,
+      "Groupid": 2,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589994752": {
+      "Cuid": 8589994752,
+      "Groupid": 2,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "8589964732": {
+      "Cuid": 8589964732,
+      "Groupid": 2,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "8589985102": {
+      "Cuid": 8589985102,
+      "Groupid": 2,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "85899355940": {
+      "Cuid": 85899355940,
+      "Groupid": 20,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "85899355950": {
+      "Cuid": 85899355950,
+      "Groupid": 20,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "85899355970": {
+      "Cuid": 85899355970,
+      "Groupid": 20,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899356000": {
+      "Cuid": 85899356000,
+      "Groupid": 20,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "85899356030": {
+      "Cuid": 85899356030,
+      "Groupid": 20,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899356040": {
+      "Cuid": 85899356040,
+      "Groupid": 20,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "85899356070": {
+      "Cuid": 85899356070,
+      "Groupid": 20,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899365940": {
+      "Cuid": 85899365940,
+      "Groupid": 20,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899365950": {
+      "Cuid": 85899365950,
+      "Groupid": 20,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "85899375960": {
+      "Cuid": 85899375960,
+      "Groupid": 20,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "85899376020": {
+      "Cuid": 85899376020,
+      "Groupid": 20,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "85899376080": {
+      "Cuid": 85899376080,
+      "Groupid": 20,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899385940": {
+      "Cuid": 85899385940,
+      "Groupid": 20,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899385950": {
+      "Cuid": 85899385950,
+      "Groupid": 20,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899385970": {
+      "Cuid": 85899385970,
+      "Groupid": 20,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899385980": {
+      "Cuid": 85899385980,
+      "Groupid": 20,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899386020": {
+      "Cuid": 85899386020,
+      "Groupid": 20,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "85899386050": {
+      "Cuid": 85899386050,
+      "Groupid": 20,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "85899386120": {
+      "Cuid": 85899386120,
+      "Groupid": 20,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899386130": {
+      "Cuid": 85899386130,
+      "Groupid": 20,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899395980": {
+      "Cuid": 85899395980,
+      "Groupid": 20,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "85899396020": {
+      "Cuid": 85899396020,
+      "Groupid": 20,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396110": {
+      "Cuid": 85899396110,
+      "Groupid": 20,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396180": {
+      "Cuid": 85899396180,
+      "Groupid": 20,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396210": {
+      "Cuid": 85899396210,
+      "Groupid": 20,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396230": {
+      "Cuid": 85899396230,
+      "Groupid": 20,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396240": {
+      "Cuid": 85899396240,
+      "Groupid": 20,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "85899405990": {
+      "Cuid": 85899405990,
+      "Groupid": 20,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "85899406000": {
+      "Cuid": 85899406000,
+      "Groupid": 20,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899406010": {
+      "Cuid": 85899406010,
+      "Groupid": 20,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899406090": {
+      "Cuid": 85899406090,
+      "Groupid": 20,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899386220": {
+      "Cuid": 85899386220,
+      "Groupid": 20,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899386070": {
+      "Cuid": 85899386070,
+      "Groupid": 20,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899386080": {
+      "Cuid": 85899386080,
+      "Groupid": 20,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396130": {
+      "Cuid": 85899396130,
+      "Groupid": 20,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396140": {
+      "Cuid": 85899396140,
+      "Groupid": 20,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396390": {
+      "Cuid": 85899396390,
+      "Groupid": 20,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "85899375930": {
+      "Cuid": 85899375930,
+      "Groupid": 20,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899376250": {
+      "Cuid": 85899376250,
+      "Groupid": 20,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899396410": {
+      "Cuid": 85899396410,
+      "Groupid": 20,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899406080": {
+      "Cuid": 85899406080,
+      "Groupid": 20,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "85899376060": {
+      "Cuid": 85899376060,
+      "Groupid": 20,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "85899396430": {
+      "Cuid": 85899396430,
+      "Groupid": 20,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "90194323236": {
+      "Cuid": 90194323236,
+      "Groupid": 21,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "90194323246": {
+      "Cuid": 90194323246,
+      "Groupid": 21,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "90194323266": {
+      "Cuid": 90194323266,
+      "Groupid": 21,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194323296": {
+      "Cuid": 90194323296,
+      "Groupid": 21,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "90194323326": {
+      "Cuid": 90194323326,
+      "Groupid": 21,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194323336": {
+      "Cuid": 90194323336,
+      "Groupid": 21,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "90194323366": {
+      "Cuid": 90194323366,
+      "Groupid": 21,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194333236": {
+      "Cuid": 90194333236,
+      "Groupid": 21,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194333246": {
+      "Cuid": 90194333246,
+      "Groupid": 21,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "90194343256": {
+      "Cuid": 90194343256,
+      "Groupid": 21,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "90194343316": {
+      "Cuid": 90194343316,
+      "Groupid": 21,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "90194343376": {
+      "Cuid": 90194343376,
+      "Groupid": 21,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194353236": {
+      "Cuid": 90194353236,
+      "Groupid": 21,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194353246": {
+      "Cuid": 90194353246,
+      "Groupid": 21,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194353266": {
+      "Cuid": 90194353266,
+      "Groupid": 21,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194353276": {
+      "Cuid": 90194353276,
+      "Groupid": 21,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194353316": {
+      "Cuid": 90194353316,
+      "Groupid": 21,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "90194353346": {
+      "Cuid": 90194353346,
+      "Groupid": 21,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "90194353416": {
+      "Cuid": 90194353416,
+      "Groupid": 21,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194353426": {
+      "Cuid": 90194353426,
+      "Groupid": 21,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194363276": {
+      "Cuid": 90194363276,
+      "Groupid": 21,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "90194363316": {
+      "Cuid": 90194363316,
+      "Groupid": 21,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363406": {
+      "Cuid": 90194363406,
+      "Groupid": 21,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363476": {
+      "Cuid": 90194363476,
+      "Groupid": 21,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363506": {
+      "Cuid": 90194363506,
+      "Groupid": 21,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363526": {
+      "Cuid": 90194363526,
+      "Groupid": 21,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363536": {
+      "Cuid": 90194363536,
+      "Groupid": 21,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "90194373286": {
+      "Cuid": 90194373286,
+      "Groupid": 21,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "90194373296": {
+      "Cuid": 90194373296,
+      "Groupid": 21,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194373306": {
+      "Cuid": 90194373306,
+      "Groupid": 21,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194373386": {
+      "Cuid": 90194373386,
+      "Groupid": 21,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194353516": {
+      "Cuid": 90194353516,
+      "Groupid": 21,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194353366": {
+      "Cuid": 90194353366,
+      "Groupid": 21,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194353376": {
+      "Cuid": 90194353376,
+      "Groupid": 21,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363426": {
+      "Cuid": 90194363426,
+      "Groupid": 21,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363436": {
+      "Cuid": 90194363436,
+      "Groupid": 21,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363686": {
+      "Cuid": 90194363686,
+      "Groupid": 21,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "90194343226": {
+      "Cuid": 90194343226,
+      "Groupid": 21,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194343546": {
+      "Cuid": 90194343546,
+      "Groupid": 21,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194363706": {
+      "Cuid": 90194363706,
+      "Groupid": 21,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194373376": {
+      "Cuid": 90194373376,
+      "Groupid": 21,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "90194343356": {
+      "Cuid": 90194343356,
+      "Groupid": 21,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "90194363726": {
+      "Cuid": 90194363726,
+      "Groupid": 21,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "94489290532": {
+      "Cuid": 94489290532,
+      "Groupid": 22,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "94489290542": {
+      "Cuid": 94489290542,
+      "Groupid": 22,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "94489290562": {
+      "Cuid": 94489290562,
+      "Groupid": 22,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489290592": {
+      "Cuid": 94489290592,
+      "Groupid": 22,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "94489290622": {
+      "Cuid": 94489290622,
+      "Groupid": 22,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489290632": {
+      "Cuid": 94489290632,
+      "Groupid": 22,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "94489290662": {
+      "Cuid": 94489290662,
+      "Groupid": 22,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489300532": {
+      "Cuid": 94489300532,
+      "Groupid": 22,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489300542": {
+      "Cuid": 94489300542,
+      "Groupid": 22,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "94489310552": {
+      "Cuid": 94489310552,
+      "Groupid": 22,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "94489310612": {
+      "Cuid": 94489310612,
+      "Groupid": 22,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "94489310672": {
+      "Cuid": 94489310672,
+      "Groupid": 22,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489320532": {
+      "Cuid": 94489320532,
+      "Groupid": 22,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489320542": {
+      "Cuid": 94489320542,
+      "Groupid": 22,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489320562": {
+      "Cuid": 94489320562,
+      "Groupid": 22,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489320572": {
+      "Cuid": 94489320572,
+      "Groupid": 22,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489320612": {
+      "Cuid": 94489320612,
+      "Groupid": 22,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "94489320642": {
+      "Cuid": 94489320642,
+      "Groupid": 22,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "94489320712": {
+      "Cuid": 94489320712,
+      "Groupid": 22,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489320722": {
+      "Cuid": 94489320722,
+      "Groupid": 22,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489330572": {
+      "Cuid": 94489330572,
+      "Groupid": 22,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "94489330612": {
+      "Cuid": 94489330612,
+      "Groupid": 22,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330702": {
+      "Cuid": 94489330702,
+      "Groupid": 22,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330772": {
+      "Cuid": 94489330772,
+      "Groupid": 22,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330802": {
+      "Cuid": 94489330802,
+      "Groupid": 22,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330822": {
+      "Cuid": 94489330822,
+      "Groupid": 22,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330832": {
+      "Cuid": 94489330832,
+      "Groupid": 22,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "94489340582": {
+      "Cuid": 94489340582,
+      "Groupid": 22,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "94489340592": {
+      "Cuid": 94489340592,
+      "Groupid": 22,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489340602": {
+      "Cuid": 94489340602,
+      "Groupid": 22,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489340682": {
+      "Cuid": 94489340682,
+      "Groupid": 22,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489320812": {
+      "Cuid": 94489320812,
+      "Groupid": 22,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489320662": {
+      "Cuid": 94489320662,
+      "Groupid": 22,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489320672": {
+      "Cuid": 94489320672,
+      "Groupid": 22,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330722": {
+      "Cuid": 94489330722,
+      "Groupid": 22,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330732": {
+      "Cuid": 94489330732,
+      "Groupid": 22,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489330982": {
+      "Cuid": 94489330982,
+      "Groupid": 22,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "94489310522": {
+      "Cuid": 94489310522,
+      "Groupid": 22,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489310842": {
+      "Cuid": 94489310842,
+      "Groupid": 22,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489331002": {
+      "Cuid": 94489331002,
+      "Groupid": 22,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489340672": {
+      "Cuid": 94489340672,
+      "Groupid": 22,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "94489310652": {
+      "Cuid": 94489310652,
+      "Groupid": 22,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "94489331022": {
+      "Cuid": 94489331022,
+      "Groupid": 22,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "98784257828": {
+      "Cuid": 98784257828,
+      "Groupid": 23,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "98784257838": {
+      "Cuid": 98784257838,
+      "Groupid": 23,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "98784257858": {
+      "Cuid": 98784257858,
+      "Groupid": 23,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784257888": {
+      "Cuid": 98784257888,
+      "Groupid": 23,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "98784257918": {
+      "Cuid": 98784257918,
+      "Groupid": 23,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784257928": {
+      "Cuid": 98784257928,
+      "Groupid": 23,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "98784257958": {
+      "Cuid": 98784257958,
+      "Groupid": 23,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784267828": {
+      "Cuid": 98784267828,
+      "Groupid": 23,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784267838": {
+      "Cuid": 98784267838,
+      "Groupid": 23,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "98784277848": {
+      "Cuid": 98784277848,
+      "Groupid": 23,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "98784277908": {
+      "Cuid": 98784277908,
+      "Groupid": 23,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "98784277968": {
+      "Cuid": 98784277968,
+      "Groupid": 23,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784287828": {
+      "Cuid": 98784287828,
+      "Groupid": 23,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784287838": {
+      "Cuid": 98784287838,
+      "Groupid": 23,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784287858": {
+      "Cuid": 98784287858,
+      "Groupid": 23,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784287868": {
+      "Cuid": 98784287868,
+      "Groupid": 23,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784287908": {
+      "Cuid": 98784287908,
+      "Groupid": 23,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "98784287938": {
+      "Cuid": 98784287938,
+      "Groupid": 23,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "98784288008": {
+      "Cuid": 98784288008,
+      "Groupid": 23,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784288018": {
+      "Cuid": 98784288018,
+      "Groupid": 23,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784297868": {
+      "Cuid": 98784297868,
+      "Groupid": 23,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "98784297908": {
+      "Cuid": 98784297908,
+      "Groupid": 23,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784297998": {
+      "Cuid": 98784297998,
+      "Groupid": 23,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298068": {
+      "Cuid": 98784298068,
+      "Groupid": 23,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298098": {
+      "Cuid": 98784298098,
+      "Groupid": 23,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298118": {
+      "Cuid": 98784298118,
+      "Groupid": 23,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298128": {
+      "Cuid": 98784298128,
+      "Groupid": 23,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "98784307878": {
+      "Cuid": 98784307878,
+      "Groupid": 23,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "98784307888": {
+      "Cuid": 98784307888,
+      "Groupid": 23,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784307898": {
+      "Cuid": 98784307898,
+      "Groupid": 23,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784307978": {
+      "Cuid": 98784307978,
+      "Groupid": 23,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784307928": {
+      "Cuid": 98784307928,
+      "Groupid": 23,
+      "Boatid": 60120,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "98784288108": {
+      "Cuid": 98784288108,
+      "Groupid": 23,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784287958": {
+      "Cuid": 98784287958,
+      "Groupid": 23,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784287968": {
+      "Cuid": 98784287968,
+      "Groupid": 23,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298018": {
+      "Cuid": 98784298018,
+      "Groupid": 23,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298028": {
+      "Cuid": 98784298028,
+      "Groupid": 23,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298278": {
+      "Cuid": 98784298278,
+      "Groupid": 23,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "98784277818": {
+      "Cuid": 98784277818,
+      "Groupid": 23,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784278138": {
+      "Cuid": 98784278138,
+      "Groupid": 23,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784298298": {
+      "Cuid": 98784298298,
+      "Groupid": 23,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784307968": {
+      "Cuid": 98784307968,
+      "Groupid": 23,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "98784277948": {
+      "Cuid": 98784277948,
+      "Groupid": 23,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "98784298318": {
+      "Cuid": 98784298318,
+      "Groupid": 23,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "38654715714": {
+      "Cuid": 38654715714,
+      "Groupid": 9,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654715774": {
+      "Cuid": 38654715774,
+      "Groupid": 9,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654715814": {
+      "Cuid": 38654715814,
+      "Groupid": 9,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654725684": {
+      "Cuid": 38654725684,
+      "Groupid": 9,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654735824": {
+      "Cuid": 38654735824,
+      "Groupid": 9,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654745684": {
+      "Cuid": 38654745684,
+      "Groupid": 9,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654745694": {
+      "Cuid": 38654745694,
+      "Groupid": 9,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654745714": {
+      "Cuid": 38654745714,
+      "Groupid": 9,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654745724": {
+      "Cuid": 38654745724,
+      "Groupid": 9,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654745764": {
+      "Cuid": 38654745764,
+      "Groupid": 9,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "38654745864": {
+      "Cuid": 38654745864,
+      "Groupid": 9,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654745874": {
+      "Cuid": 38654745874,
+      "Groupid": 9,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654755764": {
+      "Cuid": 38654755764,
+      "Groupid": 9,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654755854": {
+      "Cuid": 38654755854,
+      "Groupid": 9,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654755924": {
+      "Cuid": 38654755924,
+      "Groupid": 9,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654755954": {
+      "Cuid": 38654755954,
+      "Groupid": 9,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654755974": {
+      "Cuid": 38654755974,
+      "Groupid": 9,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654755984": {
+      "Cuid": 38654755984,
+      "Groupid": 9,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "38654765744": {
+      "Cuid": 38654765744,
+      "Groupid": 9,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654765754": {
+      "Cuid": 38654765754,
+      "Groupid": 9,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654765834": {
+      "Cuid": 38654765834,
+      "Groupid": 9,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654745964": {
+      "Cuid": 38654745964,
+      "Groupid": 9,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654745814": {
+      "Cuid": 38654745814,
+      "Groupid": 9,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654745824": {
+      "Cuid": 38654745824,
+      "Groupid": 9,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654755874": {
+      "Cuid": 38654755874,
+      "Groupid": 9,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654755884": {
+      "Cuid": 38654755884,
+      "Groupid": 9,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654735674": {
+      "Cuid": 38654735674,
+      "Groupid": 9,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654735994": {
+      "Cuid": 38654735994,
+      "Groupid": 9,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654756154": {
+      "Cuid": 38654756154,
+      "Groupid": 9,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654765824": {
+      "Cuid": 38654765824,
+      "Groupid": 9,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "38654735804": {
+      "Cuid": 38654735804,
+      "Groupid": 9,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "38654735844": {
+      "Cuid": 38654735844,
+      "Groupid": 9,
+      "Boatid": 30180,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "17179879204": {
+      "Cuid": 17179879204,
+      "Groupid": 4,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "17179879214": {
+      "Cuid": 17179879214,
+      "Groupid": 4,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "17179879234": {
+      "Cuid": 17179879234,
+      "Groupid": 4,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179879304": {
+      "Cuid": 17179879304,
+      "Groupid": 4,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "17179879264": {
+      "Cuid": 17179879264,
+      "Groupid": 4,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "17179879294": {
+      "Cuid": 17179879294,
+      "Groupid": 4,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179879334": {
+      "Cuid": 17179879334,
+      "Groupid": 4,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179889204": {
+      "Cuid": 17179889204,
+      "Groupid": 4,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179889214": {
+      "Cuid": 17179889214,
+      "Groupid": 4,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "17179899224": {
+      "Cuid": 17179899224,
+      "Groupid": 4,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "17179899284": {
+      "Cuid": 17179899284,
+      "Groupid": 4,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "17179899344": {
+      "Cuid": 17179899344,
+      "Groupid": 4,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179909204": {
+      "Cuid": 17179909204,
+      "Groupid": 4,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179909214": {
+      "Cuid": 17179909214,
+      "Groupid": 4,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179909234": {
+      "Cuid": 17179909234,
+      "Groupid": 4,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179909244": {
+      "Cuid": 17179909244,
+      "Groupid": 4,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179909284": {
+      "Cuid": 17179909284,
+      "Groupid": 4,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "17179909314": {
+      "Cuid": 17179909314,
+      "Groupid": 4,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "17179909384": {
+      "Cuid": 17179909384,
+      "Groupid": 4,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179909394": {
+      "Cuid": 17179909394,
+      "Groupid": 4,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179919244": {
+      "Cuid": 17179919244,
+      "Groupid": 4,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "17179919284": {
+      "Cuid": 17179919284,
+      "Groupid": 4,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919374": {
+      "Cuid": 17179919374,
+      "Groupid": 4,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919444": {
+      "Cuid": 17179919444,
+      "Groupid": 4,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919474": {
+      "Cuid": 17179919474,
+      "Groupid": 4,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919494": {
+      "Cuid": 17179919494,
+      "Groupid": 4,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919504": {
+      "Cuid": 17179919504,
+      "Groupid": 4,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "17179929254": {
+      "Cuid": 17179929254,
+      "Groupid": 4,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "17179929264": {
+      "Cuid": 17179929264,
+      "Groupid": 4,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179929274": {
+      "Cuid": 17179929274,
+      "Groupid": 4,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179929354": {
+      "Cuid": 17179929354,
+      "Groupid": 4,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179909484": {
+      "Cuid": 17179909484,
+      "Groupid": 4,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179909334": {
+      "Cuid": 17179909334,
+      "Groupid": 4,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179909344": {
+      "Cuid": 17179909344,
+      "Groupid": 4,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919394": {
+      "Cuid": 17179919394,
+      "Groupid": 4,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919404": {
+      "Cuid": 17179919404,
+      "Groupid": 4,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919654": {
+      "Cuid": 17179919654,
+      "Groupid": 4,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "17179899194": {
+      "Cuid": 17179899194,
+      "Groupid": 4,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179899514": {
+      "Cuid": 17179899514,
+      "Groupid": 4,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179919674": {
+      "Cuid": 17179919674,
+      "Groupid": 4,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179929344": {
+      "Cuid": 17179929344,
+      "Groupid": 4,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "17179899324": {
+      "Cuid": 17179899324,
+      "Groupid": 4,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "17179919694": {
+      "Cuid": 17179919694,
+      "Groupid": 4,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "21474846630": {
+      "Cuid": 21474846630,
+      "Groupid": 5,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474856500": {
+      "Cuid": 21474856500,
+      "Groupid": 5,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474866640": {
+      "Cuid": 21474866640,
+      "Groupid": 5,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474876500": {
+      "Cuid": 21474876500,
+      "Groupid": 5,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474876510": {
+      "Cuid": 21474876510,
+      "Groupid": 5,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474876530": {
+      "Cuid": 21474876530,
+      "Groupid": 5,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474876540": {
+      "Cuid": 21474876540,
+      "Groupid": 5,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474876680": {
+      "Cuid": 21474876680,
+      "Groupid": 5,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474876690": {
+      "Cuid": 21474876690,
+      "Groupid": 5,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474896560": {
+      "Cuid": 21474896560,
+      "Groupid": 5,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474896570": {
+      "Cuid": 21474896570,
+      "Groupid": 5,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474866490": {
+      "Cuid": 21474866490,
+      "Groupid": 5,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474866810": {
+      "Cuid": 21474866810,
+      "Groupid": 5,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474886970": {
+      "Cuid": 21474886970,
+      "Groupid": 5,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "21474896640": {
+      "Cuid": 21474896640,
+      "Groupid": 5,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769813796": {
+      "Cuid": 25769813796,
+      "Groupid": 6,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "25769813806": {
+      "Cuid": 25769813806,
+      "Groupid": 6,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "25769813826": {
+      "Cuid": 25769813826,
+      "Groupid": 6,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769813856": {
+      "Cuid": 25769813856,
+      "Groupid": 6,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "25769813886": {
+      "Cuid": 25769813886,
+      "Groupid": 6,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769813896": {
+      "Cuid": 25769813896,
+      "Groupid": 6,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "25769813926": {
+      "Cuid": 25769813926,
+      "Groupid": 6,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769823796": {
+      "Cuid": 25769823796,
+      "Groupid": 6,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769823806": {
+      "Cuid": 25769823806,
+      "Groupid": 6,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "25769833816": {
+      "Cuid": 25769833816,
+      "Groupid": 6,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "25769833876": {
+      "Cuid": 25769833876,
+      "Groupid": 6,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "25769833936": {
+      "Cuid": 25769833936,
+      "Groupid": 6,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769843796": {
+      "Cuid": 25769843796,
+      "Groupid": 6,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769843806": {
+      "Cuid": 25769843806,
+      "Groupid": 6,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769843826": {
+      "Cuid": 25769843826,
+      "Groupid": 6,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769843836": {
+      "Cuid": 25769843836,
+      "Groupid": 6,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769843876": {
+      "Cuid": 25769843876,
+      "Groupid": 6,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "25769843906": {
+      "Cuid": 25769843906,
+      "Groupid": 6,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "25769843976": {
+      "Cuid": 25769843976,
+      "Groupid": 6,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769843986": {
+      "Cuid": 25769843986,
+      "Groupid": 6,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769853836": {
+      "Cuid": 25769853836,
+      "Groupid": 6,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "25769853876": {
+      "Cuid": 25769853876,
+      "Groupid": 6,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769853966": {
+      "Cuid": 25769853966,
+      "Groupid": 6,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769854036": {
+      "Cuid": 25769854036,
+      "Groupid": 6,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769854066": {
+      "Cuid": 25769854066,
+      "Groupid": 6,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769854086": {
+      "Cuid": 25769854086,
+      "Groupid": 6,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769854096": {
+      "Cuid": 25769854096,
+      "Groupid": 6,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "25769863846": {
+      "Cuid": 25769863846,
+      "Groupid": 6,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "25769863856": {
+      "Cuid": 25769863856,
+      "Groupid": 6,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769863866": {
+      "Cuid": 25769863866,
+      "Groupid": 6,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769863946": {
+      "Cuid": 25769863946,
+      "Groupid": 6,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769844076": {
+      "Cuid": 25769844076,
+      "Groupid": 6,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769843926": {
+      "Cuid": 25769843926,
+      "Groupid": 6,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769843936": {
+      "Cuid": 25769843936,
+      "Groupid": 6,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769853986": {
+      "Cuid": 25769853986,
+      "Groupid": 6,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769853996": {
+      "Cuid": 25769853996,
+      "Groupid": 6,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769854246": {
+      "Cuid": 25769854246,
+      "Groupid": 6,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "25769833786": {
+      "Cuid": 25769833786,
+      "Groupid": 6,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769834106": {
+      "Cuid": 25769834106,
+      "Groupid": 6,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769854266": {
+      "Cuid": 25769854266,
+      "Groupid": 6,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769863936": {
+      "Cuid": 25769863936,
+      "Groupid": 6,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "25769833916": {
+      "Cuid": 25769833916,
+      "Groupid": 6,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "25769854286": {
+      "Cuid": 25769854286,
+      "Groupid": 6,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "25769854116": {
+      "Cuid": 25769854116,
+      "Groupid": 6,
+      "Boatid": 50340,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "30064781092": {
+      "Cuid": 30064781092,
+      "Groupid": 7,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "30064781102": {
+      "Cuid": 30064781102,
+      "Groupid": 7,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "30064781122": {
+      "Cuid": 30064781122,
+      "Groupid": 7,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064781152": {
+      "Cuid": 30064781152,
+      "Groupid": 7,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "30064781182": {
+      "Cuid": 30064781182,
+      "Groupid": 7,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064781192": {
+      "Cuid": 30064781192,
+      "Groupid": 7,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "30064781222": {
+      "Cuid": 30064781222,
+      "Groupid": 7,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064791092": {
+      "Cuid": 30064791092,
+      "Groupid": 7,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064791102": {
+      "Cuid": 30064791102,
+      "Groupid": 7,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "30064801112": {
+      "Cuid": 30064801112,
+      "Groupid": 7,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "30064801172": {
+      "Cuid": 30064801172,
+      "Groupid": 7,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "30064801232": {
+      "Cuid": 30064801232,
+      "Groupid": 7,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064811092": {
+      "Cuid": 30064811092,
+      "Groupid": 7,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064811102": {
+      "Cuid": 30064811102,
+      "Groupid": 7,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064811122": {
+      "Cuid": 30064811122,
+      "Groupid": 7,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064811132": {
+      "Cuid": 30064811132,
+      "Groupid": 7,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064811172": {
+      "Cuid": 30064811172,
+      "Groupid": 7,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "30064811202": {
+      "Cuid": 30064811202,
+      "Groupid": 7,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "30064811272": {
+      "Cuid": 30064811272,
+      "Groupid": 7,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064811282": {
+      "Cuid": 30064811282,
+      "Groupid": 7,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064821132": {
+      "Cuid": 30064821132,
+      "Groupid": 7,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "30064821172": {
+      "Cuid": 30064821172,
+      "Groupid": 7,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821262": {
+      "Cuid": 30064821262,
+      "Groupid": 7,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821332": {
+      "Cuid": 30064821332,
+      "Groupid": 7,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821362": {
+      "Cuid": 30064821362,
+      "Groupid": 7,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821382": {
+      "Cuid": 30064821382,
+      "Groupid": 7,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821392": {
+      "Cuid": 30064821392,
+      "Groupid": 7,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "30064831142": {
+      "Cuid": 30064831142,
+      "Groupid": 7,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "30064831152": {
+      "Cuid": 30064831152,
+      "Groupid": 7,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064831162": {
+      "Cuid": 30064831162,
+      "Groupid": 7,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064831242": {
+      "Cuid": 30064831242,
+      "Groupid": 7,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064811372": {
+      "Cuid": 30064811372,
+      "Groupid": 7,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064811222": {
+      "Cuid": 30064811222,
+      "Groupid": 7,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064811232": {
+      "Cuid": 30064811232,
+      "Groupid": 7,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821282": {
+      "Cuid": 30064821282,
+      "Groupid": 7,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821292": {
+      "Cuid": 30064821292,
+      "Groupid": 7,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821542": {
+      "Cuid": 30064821542,
+      "Groupid": 7,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "30064801082": {
+      "Cuid": 30064801082,
+      "Groupid": 7,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064801402": {
+      "Cuid": 30064801402,
+      "Groupid": 7,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064821562": {
+      "Cuid": 30064821562,
+      "Groupid": 7,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064831232": {
+      "Cuid": 30064831232,
+      "Groupid": 7,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "30064801212": {
+      "Cuid": 30064801212,
+      "Groupid": 7,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "30064821582": {
+      "Cuid": 30064821582,
+      "Groupid": 7,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "34359748388": {
+      "Cuid": 34359748388,
+      "Groupid": 8,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "34359748398": {
+      "Cuid": 34359748398,
+      "Groupid": 8,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "34359748418": {
+      "Cuid": 34359748418,
+      "Groupid": 8,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359748448": {
+      "Cuid": 34359748448,
+      "Groupid": 8,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "34359748478": {
+      "Cuid": 34359748478,
+      "Groupid": 8,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359748488": {
+      "Cuid": 34359748488,
+      "Groupid": 8,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "34359748518": {
+      "Cuid": 34359748518,
+      "Groupid": 8,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359758388": {
+      "Cuid": 34359758388,
+      "Groupid": 8,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359758398": {
+      "Cuid": 34359758398,
+      "Groupid": 8,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "34359768408": {
+      "Cuid": 34359768408,
+      "Groupid": 8,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "34359768468": {
+      "Cuid": 34359768468,
+      "Groupid": 8,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "34359768528": {
+      "Cuid": 34359768528,
+      "Groupid": 8,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359778388": {
+      "Cuid": 34359778388,
+      "Groupid": 8,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359778398": {
+      "Cuid": 34359778398,
+      "Groupid": 8,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359778418": {
+      "Cuid": 34359778418,
+      "Groupid": 8,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359778428": {
+      "Cuid": 34359778428,
+      "Groupid": 8,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359778468": {
+      "Cuid": 34359778468,
+      "Groupid": 8,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "34359778498": {
+      "Cuid": 34359778498,
+      "Groupid": 8,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "34359778568": {
+      "Cuid": 34359778568,
+      "Groupid": 8,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359778578": {
+      "Cuid": 34359778578,
+      "Groupid": 8,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359788428": {
+      "Cuid": 34359788428,
+      "Groupid": 8,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "34359788468": {
+      "Cuid": 34359788468,
+      "Groupid": 8,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788558": {
+      "Cuid": 34359788558,
+      "Groupid": 8,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788628": {
+      "Cuid": 34359788628,
+      "Groupid": 8,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788658": {
+      "Cuid": 34359788658,
+      "Groupid": 8,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788678": {
+      "Cuid": 34359788678,
+      "Groupid": 8,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788688": {
+      "Cuid": 34359788688,
+      "Groupid": 8,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "34359798438": {
+      "Cuid": 34359798438,
+      "Groupid": 8,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "34359798448": {
+      "Cuid": 34359798448,
+      "Groupid": 8,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359798458": {
+      "Cuid": 34359798458,
+      "Groupid": 8,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359798538": {
+      "Cuid": 34359798538,
+      "Groupid": 8,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359778668": {
+      "Cuid": 34359778668,
+      "Groupid": 8,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359778518": {
+      "Cuid": 34359778518,
+      "Groupid": 8,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359778528": {
+      "Cuid": 34359778528,
+      "Groupid": 8,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788578": {
+      "Cuid": 34359788578,
+      "Groupid": 8,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788588": {
+      "Cuid": 34359788588,
+      "Groupid": 8,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788838": {
+      "Cuid": 34359788838,
+      "Groupid": 8,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "34359768378": {
+      "Cuid": 34359768378,
+      "Groupid": 8,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359768698": {
+      "Cuid": 34359768698,
+      "Groupid": 8,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359788858": {
+      "Cuid": 34359788858,
+      "Groupid": 8,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359798528": {
+      "Cuid": 34359798528,
+      "Groupid": 8,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "34359768508": {
+      "Cuid": 34359768508,
+      "Groupid": 8,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "34359788878": {
+      "Cuid": 34359788878,
+      "Groupid": 8,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "34359768548": {
+      "Cuid": 34359768548,
+      "Groupid": 8,
+      "Boatid": 30180,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "42949682980": {
+      "Cuid": 42949682980,
+      "Groupid": 10,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "42949682990": {
+      "Cuid": 42949682990,
+      "Groupid": 10,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "42949683010": {
+      "Cuid": 42949683010,
+      "Groupid": 10,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949683040": {
+      "Cuid": 42949683040,
+      "Groupid": 10,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "42949683070": {
+      "Cuid": 42949683070,
+      "Groupid": 10,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949683080": {
+      "Cuid": 42949683080,
+      "Groupid": 10,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "42949683110": {
+      "Cuid": 42949683110,
+      "Groupid": 10,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949692980": {
+      "Cuid": 42949692980,
+      "Groupid": 10,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949692990": {
+      "Cuid": 42949692990,
+      "Groupid": 10,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "42949703000": {
+      "Cuid": 42949703000,
+      "Groupid": 10,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "42949703060": {
+      "Cuid": 42949703060,
+      "Groupid": 10,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "42949703120": {
+      "Cuid": 42949703120,
+      "Groupid": 10,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949712980": {
+      "Cuid": 42949712980,
+      "Groupid": 10,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949712990": {
+      "Cuid": 42949712990,
+      "Groupid": 10,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949713010": {
+      "Cuid": 42949713010,
+      "Groupid": 10,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949713020": {
+      "Cuid": 42949713020,
+      "Groupid": 10,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949713060": {
+      "Cuid": 42949713060,
+      "Groupid": 10,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "42949713090": {
+      "Cuid": 42949713090,
+      "Groupid": 10,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "42949713160": {
+      "Cuid": 42949713160,
+      "Groupid": 10,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949713170": {
+      "Cuid": 42949713170,
+      "Groupid": 10,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949723020": {
+      "Cuid": 42949723020,
+      "Groupid": 10,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "42949723060": {
+      "Cuid": 42949723060,
+      "Groupid": 10,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723150": {
+      "Cuid": 42949723150,
+      "Groupid": 10,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723220": {
+      "Cuid": 42949723220,
+      "Groupid": 10,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723250": {
+      "Cuid": 42949723250,
+      "Groupid": 10,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723270": {
+      "Cuid": 42949723270,
+      "Groupid": 10,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723280": {
+      "Cuid": 42949723280,
+      "Groupid": 10,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "42949733030": {
+      "Cuid": 42949733030,
+      "Groupid": 10,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "42949733040": {
+      "Cuid": 42949733040,
+      "Groupid": 10,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949733050": {
+      "Cuid": 42949733050,
+      "Groupid": 10,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949733130": {
+      "Cuid": 42949733130,
+      "Groupid": 10,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949713260": {
+      "Cuid": 42949713260,
+      "Groupid": 10,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949713110": {
+      "Cuid": 42949713110,
+      "Groupid": 10,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949713120": {
+      "Cuid": 42949713120,
+      "Groupid": 10,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723170": {
+      "Cuid": 42949723170,
+      "Groupid": 10,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723180": {
+      "Cuid": 42949723180,
+      "Groupid": 10,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723430": {
+      "Cuid": 42949723430,
+      "Groupid": 10,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "42949702970": {
+      "Cuid": 42949702970,
+      "Groupid": 10,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949703290": {
+      "Cuid": 42949703290,
+      "Groupid": 10,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949723450": {
+      "Cuid": 42949723450,
+      "Groupid": 10,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949733120": {
+      "Cuid": 42949733120,
+      "Groupid": 10,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "42949703100": {
+      "Cuid": 42949703100,
+      "Groupid": 10,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "42949723470": {
+      "Cuid": 42949723470,
+      "Groupid": 10,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "47244650276": {
+      "Cuid": 47244650276,
+      "Groupid": 11,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "47244650286": {
+      "Cuid": 47244650286,
+      "Groupid": 11,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "47244650306": {
+      "Cuid": 47244650306,
+      "Groupid": 11,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244650336": {
+      "Cuid": 47244650336,
+      "Groupid": 11,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "47244650366": {
+      "Cuid": 47244650366,
+      "Groupid": 11,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244650376": {
+      "Cuid": 47244650376,
+      "Groupid": 11,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "47244650406": {
+      "Cuid": 47244650406,
+      "Groupid": 11,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244660276": {
+      "Cuid": 47244660276,
+      "Groupid": 11,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244660286": {
+      "Cuid": 47244660286,
+      "Groupid": 11,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "47244670296": {
+      "Cuid": 47244670296,
+      "Groupid": 11,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "47244670356": {
+      "Cuid": 47244670356,
+      "Groupid": 11,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "47244670416": {
+      "Cuid": 47244670416,
+      "Groupid": 11,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244680276": {
+      "Cuid": 47244680276,
+      "Groupid": 11,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244680286": {
+      "Cuid": 47244680286,
+      "Groupid": 11,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244680306": {
+      "Cuid": 47244680306,
+      "Groupid": 11,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244680316": {
+      "Cuid": 47244680316,
+      "Groupid": 11,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244680356": {
+      "Cuid": 47244680356,
+      "Groupid": 11,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "47244680386": {
+      "Cuid": 47244680386,
+      "Groupid": 11,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "47244680456": {
+      "Cuid": 47244680456,
+      "Groupid": 11,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244680466": {
+      "Cuid": 47244680466,
+      "Groupid": 11,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244690316": {
+      "Cuid": 47244690316,
+      "Groupid": 11,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "47244690356": {
+      "Cuid": 47244690356,
+      "Groupid": 11,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690446": {
+      "Cuid": 47244690446,
+      "Groupid": 11,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690516": {
+      "Cuid": 47244690516,
+      "Groupid": 11,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690546": {
+      "Cuid": 47244690546,
+      "Groupid": 11,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690566": {
+      "Cuid": 47244690566,
+      "Groupid": 11,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690576": {
+      "Cuid": 47244690576,
+      "Groupid": 11,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "47244700326": {
+      "Cuid": 47244700326,
+      "Groupid": 11,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "47244700336": {
+      "Cuid": 47244700336,
+      "Groupid": 11,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244700346": {
+      "Cuid": 47244700346,
+      "Groupid": 11,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244700426": {
+      "Cuid": 47244700426,
+      "Groupid": 11,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244700506": {
+      "Cuid": 47244700506,
+      "Groupid": 11,
+      "Boatid": 60250,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "47244680556": {
+      "Cuid": 47244680556,
+      "Groupid": 11,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244680406": {
+      "Cuid": 47244680406,
+      "Groupid": 11,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244680416": {
+      "Cuid": 47244680416,
+      "Groupid": 11,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690466": {
+      "Cuid": 47244690466,
+      "Groupid": 11,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690476": {
+      "Cuid": 47244690476,
+      "Groupid": 11,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690726": {
+      "Cuid": 47244690726,
+      "Groupid": 11,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "47244670266": {
+      "Cuid": 47244670266,
+      "Groupid": 11,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244670586": {
+      "Cuid": 47244670586,
+      "Groupid": 11,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244690746": {
+      "Cuid": 47244690746,
+      "Groupid": 11,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244700416": {
+      "Cuid": 47244700416,
+      "Groupid": 11,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "47244670396": {
+      "Cuid": 47244670396,
+      "Groupid": 11,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "47244690766": {
+      "Cuid": 47244690766,
+      "Groupid": 11,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "51539617572": {
+      "Cuid": 51539617572,
+      "Groupid": 12,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "51539617582": {
+      "Cuid": 51539617582,
+      "Groupid": 12,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "51539617602": {
+      "Cuid": 51539617602,
+      "Groupid": 12,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539617632": {
+      "Cuid": 51539617632,
+      "Groupid": 12,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "51539617662": {
+      "Cuid": 51539617662,
+      "Groupid": 12,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539617672": {
+      "Cuid": 51539617672,
+      "Groupid": 12,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "51539617702": {
+      "Cuid": 51539617702,
+      "Groupid": 12,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539627572": {
+      "Cuid": 51539627572,
+      "Groupid": 12,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539627582": {
+      "Cuid": 51539627582,
+      "Groupid": 12,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "51539637592": {
+      "Cuid": 51539637592,
+      "Groupid": 12,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "51539637652": {
+      "Cuid": 51539637652,
+      "Groupid": 12,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "51539637712": {
+      "Cuid": 51539637712,
+      "Groupid": 12,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539647572": {
+      "Cuid": 51539647572,
+      "Groupid": 12,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539647582": {
+      "Cuid": 51539647582,
+      "Groupid": 12,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539647602": {
+      "Cuid": 51539647602,
+      "Groupid": 12,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539647612": {
+      "Cuid": 51539647612,
+      "Groupid": 12,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539647652": {
+      "Cuid": 51539647652,
+      "Groupid": 12,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "51539647682": {
+      "Cuid": 51539647682,
+      "Groupid": 12,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "51539647752": {
+      "Cuid": 51539647752,
+      "Groupid": 12,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539647762": {
+      "Cuid": 51539647762,
+      "Groupid": 12,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539657612": {
+      "Cuid": 51539657612,
+      "Groupid": 12,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "51539657652": {
+      "Cuid": 51539657652,
+      "Groupid": 12,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539657742": {
+      "Cuid": 51539657742,
+      "Groupid": 12,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539657812": {
+      "Cuid": 51539657812,
+      "Groupid": 12,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539657842": {
+      "Cuid": 51539657842,
+      "Groupid": 12,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539657862": {
+      "Cuid": 51539657862,
+      "Groupid": 12,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539657872": {
+      "Cuid": 51539657872,
+      "Groupid": 12,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "51539667622": {
+      "Cuid": 51539667622,
+      "Groupid": 12,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "51539667632": {
+      "Cuid": 51539667632,
+      "Groupid": 12,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539667642": {
+      "Cuid": 51539667642,
+      "Groupid": 12,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539667722": {
+      "Cuid": 51539667722,
+      "Groupid": 12,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539617652": {
+      "Cuid": 51539617652,
+      "Groupid": 12,
+      "Boatid": 10100,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "51539647852": {
+      "Cuid": 51539647852,
+      "Groupid": 12,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539647702": {
+      "Cuid": 51539647702,
+      "Groupid": 12,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539647712": {
+      "Cuid": 51539647712,
+      "Groupid": 12,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539657762": {
+      "Cuid": 51539657762,
+      "Groupid": 12,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539657772": {
+      "Cuid": 51539657772,
+      "Groupid": 12,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539658022": {
+      "Cuid": 51539658022,
+      "Groupid": 12,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "51539637562": {
+      "Cuid": 51539637562,
+      "Groupid": 12,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539637882": {
+      "Cuid": 51539637882,
+      "Groupid": 12,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539658042": {
+      "Cuid": 51539658042,
+      "Groupid": 12,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539667712": {
+      "Cuid": 51539667712,
+      "Groupid": 12,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "51539637692": {
+      "Cuid": 51539637692,
+      "Groupid": 12,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "51539658062": {
+      "Cuid": 51539658062,
+      "Groupid": 12,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "55834584868": {
+      "Cuid": 55834584868,
+      "Groupid": 13,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "55834584878": {
+      "Cuid": 55834584878,
+      "Groupid": 13,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "55834584898": {
+      "Cuid": 55834584898,
+      "Groupid": 13,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834584928": {
+      "Cuid": 55834584928,
+      "Groupid": 13,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "55834584958": {
+      "Cuid": 55834584958,
+      "Groupid": 13,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834584968": {
+      "Cuid": 55834584968,
+      "Groupid": 13,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "55834584998": {
+      "Cuid": 55834584998,
+      "Groupid": 13,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834594868": {
+      "Cuid": 55834594868,
+      "Groupid": 13,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834594878": {
+      "Cuid": 55834594878,
+      "Groupid": 13,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "55834604888": {
+      "Cuid": 55834604888,
+      "Groupid": 13,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "55834604948": {
+      "Cuid": 55834604948,
+      "Groupid": 13,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "55834605008": {
+      "Cuid": 55834605008,
+      "Groupid": 13,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834614868": {
+      "Cuid": 55834614868,
+      "Groupid": 13,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834614878": {
+      "Cuid": 55834614878,
+      "Groupid": 13,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834614898": {
+      "Cuid": 55834614898,
+      "Groupid": 13,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834614908": {
+      "Cuid": 55834614908,
+      "Groupid": 13,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834614948": {
+      "Cuid": 55834614948,
+      "Groupid": 13,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "55834614978": {
+      "Cuid": 55834614978,
+      "Groupid": 13,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "55834615048": {
+      "Cuid": 55834615048,
+      "Groupid": 13,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834615058": {
+      "Cuid": 55834615058,
+      "Groupid": 13,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834624908": {
+      "Cuid": 55834624908,
+      "Groupid": 13,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "55834624948": {
+      "Cuid": 55834624948,
+      "Groupid": 13,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625038": {
+      "Cuid": 55834625038,
+      "Groupid": 13,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625108": {
+      "Cuid": 55834625108,
+      "Groupid": 13,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625138": {
+      "Cuid": 55834625138,
+      "Groupid": 13,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625158": {
+      "Cuid": 55834625158,
+      "Groupid": 13,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625168": {
+      "Cuid": 55834625168,
+      "Groupid": 13,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "55834634918": {
+      "Cuid": 55834634918,
+      "Groupid": 13,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "55834634928": {
+      "Cuid": 55834634928,
+      "Groupid": 13,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834634938": {
+      "Cuid": 55834634938,
+      "Groupid": 13,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834635018": {
+      "Cuid": 55834635018,
+      "Groupid": 13,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834615148": {
+      "Cuid": 55834615148,
+      "Groupid": 13,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834614998": {
+      "Cuid": 55834614998,
+      "Groupid": 13,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834615008": {
+      "Cuid": 55834615008,
+      "Groupid": 13,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625058": {
+      "Cuid": 55834625058,
+      "Groupid": 13,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625068": {
+      "Cuid": 55834625068,
+      "Groupid": 13,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625318": {
+      "Cuid": 55834625318,
+      "Groupid": 13,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "55834604858": {
+      "Cuid": 55834604858,
+      "Groupid": 13,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834605178": {
+      "Cuid": 55834605178,
+      "Groupid": 13,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834625338": {
+      "Cuid": 55834625338,
+      "Groupid": 13,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "55834635008": {
+      "Cuid": 55834635008,
+      "Groupid": 13,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 28
+    },
+    "55834604988": {
+      "Cuid": 55834604988,
+      "Groupid": 13,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "55834625358": {
+      "Cuid": 55834625358,
+      "Groupid": 13,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "55834634898": {
+      "Cuid": 55834634898,
+      "Groupid": 13,
+      "Boatid": 60050,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "60129552164": {
+      "Cuid": 60129552164,
+      "Groupid": 14,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "60129552174": {
+      "Cuid": 60129552174,
+      "Groupid": 14,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "60129552194": {
+      "Cuid": 60129552194,
+      "Groupid": 14,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129552224": {
+      "Cuid": 60129552224,
+      "Groupid": 14,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "60129552254": {
+      "Cuid": 60129552254,
+      "Groupid": 14,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129552264": {
+      "Cuid": 60129552264,
+      "Groupid": 14,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "60129552294": {
+      "Cuid": 60129552294,
+      "Groupid": 14,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129562164": {
+      "Cuid": 60129562164,
+      "Groupid": 14,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129562174": {
+      "Cuid": 60129562174,
+      "Groupid": 14,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "60129572184": {
+      "Cuid": 60129572184,
+      "Groupid": 14,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "60129572244": {
+      "Cuid": 60129572244,
+      "Groupid": 14,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "60129572304": {
+      "Cuid": 60129572304,
+      "Groupid": 14,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129582164": {
+      "Cuid": 60129582164,
+      "Groupid": 14,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129582174": {
+      "Cuid": 60129582174,
+      "Groupid": 14,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129582194": {
+      "Cuid": 60129582194,
+      "Groupid": 14,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129582204": {
+      "Cuid": 60129582204,
+      "Groupid": 14,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129582244": {
+      "Cuid": 60129582244,
+      "Groupid": 14,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "60129582274": {
+      "Cuid": 60129582274,
+      "Groupid": 14,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "60129582344": {
+      "Cuid": 60129582344,
+      "Groupid": 14,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129582354": {
+      "Cuid": 60129582354,
+      "Groupid": 14,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129592204": {
+      "Cuid": 60129592204,
+      "Groupid": 14,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "60129592244": {
+      "Cuid": 60129592244,
+      "Groupid": 14,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592334": {
+      "Cuid": 60129592334,
+      "Groupid": 14,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592404": {
+      "Cuid": 60129592404,
+      "Groupid": 14,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592434": {
+      "Cuid": 60129592434,
+      "Groupid": 14,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592454": {
+      "Cuid": 60129592454,
+      "Groupid": 14,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592464": {
+      "Cuid": 60129592464,
+      "Groupid": 14,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "60129602214": {
+      "Cuid": 60129602214,
+      "Groupid": 14,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "60129602224": {
+      "Cuid": 60129602224,
+      "Groupid": 14,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129602234": {
+      "Cuid": 60129602234,
+      "Groupid": 14,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129602314": {
+      "Cuid": 60129602314,
+      "Groupid": 14,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129582444": {
+      "Cuid": 60129582444,
+      "Groupid": 14,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129582294": {
+      "Cuid": 60129582294,
+      "Groupid": 14,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129582304": {
+      "Cuid": 60129582304,
+      "Groupid": 14,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592354": {
+      "Cuid": 60129592354,
+      "Groupid": 14,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592364": {
+      "Cuid": 60129592364,
+      "Groupid": 14,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592614": {
+      "Cuid": 60129592614,
+      "Groupid": 14,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "60129572154": {
+      "Cuid": 60129572154,
+      "Groupid": 14,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129572474": {
+      "Cuid": 60129572474,
+      "Groupid": 14,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129592634": {
+      "Cuid": 60129592634,
+      "Groupid": 14,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129602304": {
+      "Cuid": 60129602304,
+      "Groupid": 14,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "60129572284": {
+      "Cuid": 60129572284,
+      "Groupid": 14,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "60129592654": {
+      "Cuid": 60129592654,
+      "Groupid": 14,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "64424519460": {
+      "Cuid": 64424519460,
+      "Groupid": 15,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "64424519470": {
+      "Cuid": 64424519470,
+      "Groupid": 15,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "64424519490": {
+      "Cuid": 64424519490,
+      "Groupid": 15,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424519520": {
+      "Cuid": 64424519520,
+      "Groupid": 15,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "64424519550": {
+      "Cuid": 64424519550,
+      "Groupid": 15,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424519560": {
+      "Cuid": 64424519560,
+      "Groupid": 15,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "64424519590": {
+      "Cuid": 64424519590,
+      "Groupid": 15,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424529460": {
+      "Cuid": 64424529460,
+      "Groupid": 15,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424529470": {
+      "Cuid": 64424529470,
+      "Groupid": 15,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "64424539480": {
+      "Cuid": 64424539480,
+      "Groupid": 15,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "64424539540": {
+      "Cuid": 64424539540,
+      "Groupid": 15,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "64424539600": {
+      "Cuid": 64424539600,
+      "Groupid": 15,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424549460": {
+      "Cuid": 64424549460,
+      "Groupid": 15,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424549470": {
+      "Cuid": 64424549470,
+      "Groupid": 15,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424549490": {
+      "Cuid": 64424549490,
+      "Groupid": 15,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424549500": {
+      "Cuid": 64424549500,
+      "Groupid": 15,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424549540": {
+      "Cuid": 64424549540,
+      "Groupid": 15,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "64424549570": {
+      "Cuid": 64424549570,
+      "Groupid": 15,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "64424549640": {
+      "Cuid": 64424549640,
+      "Groupid": 15,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424549650": {
+      "Cuid": 64424549650,
+      "Groupid": 15,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424559500": {
+      "Cuid": 64424559500,
+      "Groupid": 15,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "64424559540": {
+      "Cuid": 64424559540,
+      "Groupid": 15,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559630": {
+      "Cuid": 64424559630,
+      "Groupid": 15,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559700": {
+      "Cuid": 64424559700,
+      "Groupid": 15,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559730": {
+      "Cuid": 64424559730,
+      "Groupid": 15,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559750": {
+      "Cuid": 64424559750,
+      "Groupid": 15,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559760": {
+      "Cuid": 64424559760,
+      "Groupid": 15,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "64424569510": {
+      "Cuid": 64424569510,
+      "Groupid": 15,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "64424569520": {
+      "Cuid": 64424569520,
+      "Groupid": 15,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424569530": {
+      "Cuid": 64424569530,
+      "Groupid": 15,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424569610": {
+      "Cuid": 64424569610,
+      "Groupid": 15,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424549740": {
+      "Cuid": 64424549740,
+      "Groupid": 15,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424549590": {
+      "Cuid": 64424549590,
+      "Groupid": 15,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424549600": {
+      "Cuid": 64424549600,
+      "Groupid": 15,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559650": {
+      "Cuid": 64424559650,
+      "Groupid": 15,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559660": {
+      "Cuid": 64424559660,
+      "Groupid": 15,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559910": {
+      "Cuid": 64424559910,
+      "Groupid": 15,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "64424539450": {
+      "Cuid": 64424539450,
+      "Groupid": 15,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424539770": {
+      "Cuid": 64424539770,
+      "Groupid": 15,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424559930": {
+      "Cuid": 64424559930,
+      "Groupid": 15,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424569600": {
+      "Cuid": 64424569600,
+      "Groupid": 15,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "64424539580": {
+      "Cuid": 64424539580,
+      "Groupid": 15,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "64424559950": {
+      "Cuid": 64424559950,
+      "Groupid": 15,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "68719486756": {
+      "Cuid": 68719486756,
+      "Groupid": 16,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "68719486766": {
+      "Cuid": 68719486766,
+      "Groupid": 16,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "68719486786": {
+      "Cuid": 68719486786,
+      "Groupid": 16,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719486816": {
+      "Cuid": 68719486816,
+      "Groupid": 16,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "68719486846": {
+      "Cuid": 68719486846,
+      "Groupid": 16,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719486856": {
+      "Cuid": 68719486856,
+      "Groupid": 16,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "68719486886": {
+      "Cuid": 68719486886,
+      "Groupid": 16,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719496756": {
+      "Cuid": 68719496756,
+      "Groupid": 16,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719496766": {
+      "Cuid": 68719496766,
+      "Groupid": 16,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "68719506776": {
+      "Cuid": 68719506776,
+      "Groupid": 16,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "68719506836": {
+      "Cuid": 68719506836,
+      "Groupid": 16,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "68719506896": {
+      "Cuid": 68719506896,
+      "Groupid": 16,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719516756": {
+      "Cuid": 68719516756,
+      "Groupid": 16,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719516766": {
+      "Cuid": 68719516766,
+      "Groupid": 16,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719516786": {
+      "Cuid": 68719516786,
+      "Groupid": 16,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719516796": {
+      "Cuid": 68719516796,
+      "Groupid": 16,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719516836": {
+      "Cuid": 68719516836,
+      "Groupid": 16,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "68719516866": {
+      "Cuid": 68719516866,
+      "Groupid": 16,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "68719516936": {
+      "Cuid": 68719516936,
+      "Groupid": 16,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719516946": {
+      "Cuid": 68719516946,
+      "Groupid": 16,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719526796": {
+      "Cuid": 68719526796,
+      "Groupid": 16,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "68719526836": {
+      "Cuid": 68719526836,
+      "Groupid": 16,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719526926": {
+      "Cuid": 68719526926,
+      "Groupid": 16,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719526996": {
+      "Cuid": 68719526996,
+      "Groupid": 16,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719527026": {
+      "Cuid": 68719527026,
+      "Groupid": 16,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719527046": {
+      "Cuid": 68719527046,
+      "Groupid": 16,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719527056": {
+      "Cuid": 68719527056,
+      "Groupid": 16,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "68719536806": {
+      "Cuid": 68719536806,
+      "Groupid": 16,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "68719536816": {
+      "Cuid": 68719536816,
+      "Groupid": 16,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719536826": {
+      "Cuid": 68719536826,
+      "Groupid": 16,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719536906": {
+      "Cuid": 68719536906,
+      "Groupid": 16,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719517036": {
+      "Cuid": 68719517036,
+      "Groupid": 16,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719516886": {
+      "Cuid": 68719516886,
+      "Groupid": 16,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719516896": {
+      "Cuid": 68719516896,
+      "Groupid": 16,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719526946": {
+      "Cuid": 68719526946,
+      "Groupid": 16,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719526956": {
+      "Cuid": 68719526956,
+      "Groupid": 16,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719527206": {
+      "Cuid": 68719527206,
+      "Groupid": 16,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "68719486896": {
+      "Cuid": 68719486896,
+      "Groupid": 16,
+      "Boatid": 10160,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "68719506746": {
+      "Cuid": 68719506746,
+      "Groupid": 16,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719507066": {
+      "Cuid": 68719507066,
+      "Groupid": 16,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719527226": {
+      "Cuid": 68719527226,
+      "Groupid": 16,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719536896": {
+      "Cuid": 68719536896,
+      "Groupid": 16,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "68719506876": {
+      "Cuid": 68719506876,
+      "Groupid": 16,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "68719527246": {
+      "Cuid": 68719527246,
+      "Groupid": 16,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "73014454052": {
+      "Cuid": 73014454052,
+      "Groupid": 17,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "73014454062": {
+      "Cuid": 73014454062,
+      "Groupid": 17,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "73014454082": {
+      "Cuid": 73014454082,
+      "Groupid": 17,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014454112": {
+      "Cuid": 73014454112,
+      "Groupid": 17,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "73014454142": {
+      "Cuid": 73014454142,
+      "Groupid": 17,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014454152": {
+      "Cuid": 73014454152,
+      "Groupid": 17,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "73014454182": {
+      "Cuid": 73014454182,
+      "Groupid": 17,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014464052": {
+      "Cuid": 73014464052,
+      "Groupid": 17,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014464062": {
+      "Cuid": 73014464062,
+      "Groupid": 17,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "73014474072": {
+      "Cuid": 73014474072,
+      "Groupid": 17,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "73014474132": {
+      "Cuid": 73014474132,
+      "Groupid": 17,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "73014474192": {
+      "Cuid": 73014474192,
+      "Groupid": 17,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014484052": {
+      "Cuid": 73014484052,
+      "Groupid": 17,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014484062": {
+      "Cuid": 73014484062,
+      "Groupid": 17,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014484082": {
+      "Cuid": 73014484082,
+      "Groupid": 17,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014484092": {
+      "Cuid": 73014484092,
+      "Groupid": 17,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014484132": {
+      "Cuid": 73014484132,
+      "Groupid": 17,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "73014484162": {
+      "Cuid": 73014484162,
+      "Groupid": 17,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "73014484232": {
+      "Cuid": 73014484232,
+      "Groupid": 17,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014484242": {
+      "Cuid": 73014484242,
+      "Groupid": 17,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014494092": {
+      "Cuid": 73014494092,
+      "Groupid": 17,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "73014494132": {
+      "Cuid": 73014494132,
+      "Groupid": 17,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494222": {
+      "Cuid": 73014494222,
+      "Groupid": 17,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494292": {
+      "Cuid": 73014494292,
+      "Groupid": 17,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494322": {
+      "Cuid": 73014494322,
+      "Groupid": 17,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494342": {
+      "Cuid": 73014494342,
+      "Groupid": 17,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494352": {
+      "Cuid": 73014494352,
+      "Groupid": 17,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "73014504102": {
+      "Cuid": 73014504102,
+      "Groupid": 17,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "73014504112": {
+      "Cuid": 73014504112,
+      "Groupid": 17,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014504122": {
+      "Cuid": 73014504122,
+      "Groupid": 17,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014504202": {
+      "Cuid": 73014504202,
+      "Groupid": 17,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014484332": {
+      "Cuid": 73014484332,
+      "Groupid": 17,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014484182": {
+      "Cuid": 73014484182,
+      "Groupid": 17,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014484192": {
+      "Cuid": 73014484192,
+      "Groupid": 17,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494242": {
+      "Cuid": 73014494242,
+      "Groupid": 17,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494252": {
+      "Cuid": 73014494252,
+      "Groupid": 17,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494502": {
+      "Cuid": 73014494502,
+      "Groupid": 17,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "73014504172": {
+      "Cuid": 73014504172,
+      "Groupid": 17,
+      "Boatid": 60140,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "73014474042": {
+      "Cuid": 73014474042,
+      "Groupid": 17,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014474362": {
+      "Cuid": 73014474362,
+      "Groupid": 17,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014494522": {
+      "Cuid": 73014494522,
+      "Groupid": 17,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014504192": {
+      "Cuid": 73014504192,
+      "Groupid": 17,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "73014474172": {
+      "Cuid": 73014474172,
+      "Groupid": 17,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "73014494542": {
+      "Cuid": 73014494542,
+      "Groupid": 17,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "77309421348": {
+      "Cuid": 77309421348,
+      "Groupid": 18,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "77309421358": {
+      "Cuid": 77309421358,
+      "Groupid": 18,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "77309421378": {
+      "Cuid": 77309421378,
+      "Groupid": 18,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309421408": {
+      "Cuid": 77309421408,
+      "Groupid": 18,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "77309421438": {
+      "Cuid": 77309421438,
+      "Groupid": 18,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309421448": {
+      "Cuid": 77309421448,
+      "Groupid": 18,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "77309421478": {
+      "Cuid": 77309421478,
+      "Groupid": 18,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309431348": {
+      "Cuid": 77309431348,
+      "Groupid": 18,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309431358": {
+      "Cuid": 77309431358,
+      "Groupid": 18,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "77309441368": {
+      "Cuid": 77309441368,
+      "Groupid": 18,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "77309441428": {
+      "Cuid": 77309441428,
+      "Groupid": 18,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "77309441488": {
+      "Cuid": 77309441488,
+      "Groupid": 18,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309451348": {
+      "Cuid": 77309451348,
+      "Groupid": 18,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309451358": {
+      "Cuid": 77309451358,
+      "Groupid": 18,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309451378": {
+      "Cuid": 77309451378,
+      "Groupid": 18,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309451388": {
+      "Cuid": 77309451388,
+      "Groupid": 18,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309451428": {
+      "Cuid": 77309451428,
+      "Groupid": 18,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "77309451458": {
+      "Cuid": 77309451458,
+      "Groupid": 18,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "77309451528": {
+      "Cuid": 77309451528,
+      "Groupid": 18,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309451538": {
+      "Cuid": 77309451538,
+      "Groupid": 18,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309461388": {
+      "Cuid": 77309461388,
+      "Groupid": 18,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "77309461428": {
+      "Cuid": 77309461428,
+      "Groupid": 18,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461518": {
+      "Cuid": 77309461518,
+      "Groupid": 18,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461588": {
+      "Cuid": 77309461588,
+      "Groupid": 18,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461618": {
+      "Cuid": 77309461618,
+      "Groupid": 18,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461638": {
+      "Cuid": 77309461638,
+      "Groupid": 18,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461648": {
+      "Cuid": 77309461648,
+      "Groupid": 18,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "77309471398": {
+      "Cuid": 77309471398,
+      "Groupid": 18,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "77309471408": {
+      "Cuid": 77309471408,
+      "Groupid": 18,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309471418": {
+      "Cuid": 77309471418,
+      "Groupid": 18,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309471498": {
+      "Cuid": 77309471498,
+      "Groupid": 18,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309451628": {
+      "Cuid": 77309451628,
+      "Groupid": 18,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309451478": {
+      "Cuid": 77309451478,
+      "Groupid": 18,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309451488": {
+      "Cuid": 77309451488,
+      "Groupid": 18,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461538": {
+      "Cuid": 77309461538,
+      "Groupid": 18,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461548": {
+      "Cuid": 77309461548,
+      "Groupid": 18,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461798": {
+      "Cuid": 77309461798,
+      "Groupid": 18,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "77309421338": {
+      "Cuid": 77309421338,
+      "Groupid": 18,
+      "Boatid": 10010,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "77309441338": {
+      "Cuid": 77309441338,
+      "Groupid": 18,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309441658": {
+      "Cuid": 77309441658,
+      "Groupid": 18,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309461818": {
+      "Cuid": 77309461818,
+      "Groupid": 18,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309471488": {
+      "Cuid": 77309471488,
+      "Groupid": 18,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "77309441468": {
+      "Cuid": 77309441468,
+      "Groupid": 18,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "77309461838": {
+      "Cuid": 77309461838,
+      "Groupid": 18,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "81604388644": {
+      "Cuid": 81604388644,
+      "Groupid": 19,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "81604388654": {
+      "Cuid": 81604388654,
+      "Groupid": 19,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "81604388674": {
+      "Cuid": 81604388674,
+      "Groupid": 19,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604388704": {
+      "Cuid": 81604388704,
+      "Groupid": 19,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "81604388734": {
+      "Cuid": 81604388734,
+      "Groupid": 19,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604388744": {
+      "Cuid": 81604388744,
+      "Groupid": 19,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "81604388774": {
+      "Cuid": 81604388774,
+      "Groupid": 19,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604398644": {
+      "Cuid": 81604398644,
+      "Groupid": 19,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604398654": {
+      "Cuid": 81604398654,
+      "Groupid": 19,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "81604408664": {
+      "Cuid": 81604408664,
+      "Groupid": 19,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "81604408724": {
+      "Cuid": 81604408724,
+      "Groupid": 19,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "81604408784": {
+      "Cuid": 81604408784,
+      "Groupid": 19,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604418644": {
+      "Cuid": 81604418644,
+      "Groupid": 19,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604418654": {
+      "Cuid": 81604418654,
+      "Groupid": 19,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604418674": {
+      "Cuid": 81604418674,
+      "Groupid": 19,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604418684": {
+      "Cuid": 81604418684,
+      "Groupid": 19,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604418724": {
+      "Cuid": 81604418724,
+      "Groupid": 19,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "81604418754": {
+      "Cuid": 81604418754,
+      "Groupid": 19,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "81604418824": {
+      "Cuid": 81604418824,
+      "Groupid": 19,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604418834": {
+      "Cuid": 81604418834,
+      "Groupid": 19,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604428684": {
+      "Cuid": 81604428684,
+      "Groupid": 19,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "81604428724": {
+      "Cuid": 81604428724,
+      "Groupid": 19,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604428814": {
+      "Cuid": 81604428814,
+      "Groupid": 19,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604428884": {
+      "Cuid": 81604428884,
+      "Groupid": 19,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604428914": {
+      "Cuid": 81604428914,
+      "Groupid": 19,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604428934": {
+      "Cuid": 81604428934,
+      "Groupid": 19,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604428944": {
+      "Cuid": 81604428944,
+      "Groupid": 19,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "81604438694": {
+      "Cuid": 81604438694,
+      "Groupid": 19,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "81604438704": {
+      "Cuid": 81604438704,
+      "Groupid": 19,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604438714": {
+      "Cuid": 81604438714,
+      "Groupid": 19,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604438794": {
+      "Cuid": 81604438794,
+      "Groupid": 19,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604418924": {
+      "Cuid": 81604418924,
+      "Groupid": 19,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604418774": {
+      "Cuid": 81604418774,
+      "Groupid": 19,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604418784": {
+      "Cuid": 81604418784,
+      "Groupid": 19,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604428834": {
+      "Cuid": 81604428834,
+      "Groupid": 19,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604428844": {
+      "Cuid": 81604428844,
+      "Groupid": 19,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604429094": {
+      "Cuid": 81604429094,
+      "Groupid": 19,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "81604438854": {
+      "Cuid": 81604438854,
+      "Groupid": 19,
+      "Boatid": 60230,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "81604408634": {
+      "Cuid": 81604408634,
+      "Groupid": 19,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604408954": {
+      "Cuid": 81604408954,
+      "Groupid": 19,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604429114": {
+      "Cuid": 81604429114,
+      "Groupid": 19,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604438784": {
+      "Cuid": 81604438784,
+      "Groupid": 19,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "81604408764": {
+      "Cuid": 81604408764,
+      "Groupid": 19,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "81604429134": {
+      "Cuid": 81604429134,
+      "Groupid": 19,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4299262273316": {
+      "Cuid": 4299262273316,
+      "Groupid": 1001,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4299262273326": {
+      "Cuid": 4299262273326,
+      "Groupid": 1001,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4299262273346": {
+      "Cuid": 4299262273346,
+      "Groupid": 1001,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262273376": {
+      "Cuid": 4299262273376,
+      "Groupid": 1001,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "4299262273406": {
+      "Cuid": 4299262273406,
+      "Groupid": 1001,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262273416": {
+      "Cuid": 4299262273416,
+      "Groupid": 1001,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4299262273446": {
+      "Cuid": 4299262273446,
+      "Groupid": 1001,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262283316": {
+      "Cuid": 4299262283316,
+      "Groupid": 1001,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262283326": {
+      "Cuid": 4299262283326,
+      "Groupid": 1001,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "4299262293336": {
+      "Cuid": 4299262293336,
+      "Groupid": 1001,
+      "Boatid": 30040,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4299262293396": {
+      "Cuid": 4299262293396,
+      "Groupid": 1001,
+      "Boatid": 30100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4299262293456": {
+      "Cuid": 4299262293456,
+      "Groupid": 1001,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262303316": {
+      "Cuid": 4299262303316,
+      "Groupid": 1001,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262303326": {
+      "Cuid": 4299262303326,
+      "Groupid": 1001,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262303346": {
+      "Cuid": 4299262303346,
+      "Groupid": 1001,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262303356": {
+      "Cuid": 4299262303356,
+      "Groupid": 1001,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262303396": {
+      "Cuid": 4299262303396,
+      "Groupid": 1001,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4299262303426": {
+      "Cuid": 4299262303426,
+      "Groupid": 1001,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "4299262303496": {
+      "Cuid": 4299262303496,
+      "Groupid": 1001,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262303506": {
+      "Cuid": 4299262303506,
+      "Groupid": 1001,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262313356": {
+      "Cuid": 4299262313356,
+      "Groupid": 1001,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "4299262313396": {
+      "Cuid": 4299262313396,
+      "Groupid": 1001,
+      "Boatid": 50100,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313486": {
+      "Cuid": 4299262313486,
+      "Groupid": 1001,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313556": {
+      "Cuid": 4299262313556,
+      "Groupid": 1001,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313586": {
+      "Cuid": 4299262313586,
+      "Groupid": 1001,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313606": {
+      "Cuid": 4299262313606,
+      "Groupid": 1001,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313616": {
+      "Cuid": 4299262313616,
+      "Groupid": 1001,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "4299262323366": {
+      "Cuid": 4299262323366,
+      "Groupid": 1001,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4299262323376": {
+      "Cuid": 4299262323376,
+      "Groupid": 1001,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262323386": {
+      "Cuid": 4299262323386,
+      "Groupid": 1001,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262323466": {
+      "Cuid": 4299262323466,
+      "Groupid": 1001,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262303596": {
+      "Cuid": 4299262303596,
+      "Groupid": 1001,
+      "Boatid": 40300,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262303446": {
+      "Cuid": 4299262303446,
+      "Groupid": 1001,
+      "Boatid": 40150,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262303456": {
+      "Cuid": 4299262303456,
+      "Groupid": 1001,
+      "Boatid": 40160,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313506": {
+      "Cuid": 4299262313506,
+      "Groupid": 1001,
+      "Boatid": 50210,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313516": {
+      "Cuid": 4299262313516,
+      "Groupid": 1001,
+      "Boatid": 50220,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313766": {
+      "Cuid": 4299262313766,
+      "Groupid": 1001,
+      "Boatid": 50470,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "4299262293306": {
+      "Cuid": 4299262293306,
+      "Groupid": 1001,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262293626": {
+      "Cuid": 4299262293626,
+      "Groupid": 1001,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262313786": {
+      "Cuid": 4299262313786,
+      "Groupid": 1001,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262323456": {
+      "Cuid": 4299262323456,
+      "Groupid": 1001,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "4299262293436": {
+      "Cuid": 4299262293436,
+      "Groupid": 1001,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "4299262313806": {
+      "Cuid": 4299262313806,
+      "Groupid": 1001,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "433791706916": {
+      "Cuid": 433791706916,
+      "Groupid": 101,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "433791706926": {
+      "Cuid": 433791706926,
+      "Groupid": 101,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "433791706946": {
+      "Cuid": 433791706946,
+      "Groupid": 101,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791706976": {
+      "Cuid": 433791706976,
+      "Groupid": 101,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "433791707006": {
+      "Cuid": 433791707006,
+      "Groupid": 101,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791707016": {
+      "Cuid": 433791707016,
+      "Groupid": 101,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "433791707046": {
+      "Cuid": 433791707046,
+      "Groupid": 101,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791716916": {
+      "Cuid": 433791716916,
+      "Groupid": 101,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791716926": {
+      "Cuid": 433791716926,
+      "Groupid": 101,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "433791727056": {
+      "Cuid": 433791727056,
+      "Groupid": 101,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791736916": {
+      "Cuid": 433791736916,
+      "Groupid": 101,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791736926": {
+      "Cuid": 433791736926,
+      "Groupid": 101,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791736946": {
+      "Cuid": 433791736946,
+      "Groupid": 101,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791736956": {
+      "Cuid": 433791736956,
+      "Groupid": 101,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791736996": {
+      "Cuid": 433791736996,
+      "Groupid": 101,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "433791737026": {
+      "Cuid": 433791737026,
+      "Groupid": 101,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "433791737096": {
+      "Cuid": 433791737096,
+      "Groupid": 101,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791737106": {
+      "Cuid": 433791737106,
+      "Groupid": 101,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791746956": {
+      "Cuid": 433791746956,
+      "Groupid": 101,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "433791747086": {
+      "Cuid": 433791747086,
+      "Groupid": 101,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791747156": {
+      "Cuid": 433791747156,
+      "Groupid": 101,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791747186": {
+      "Cuid": 433791747186,
+      "Groupid": 101,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791747206": {
+      "Cuid": 433791747206,
+      "Groupid": 101,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791747216": {
+      "Cuid": 433791747216,
+      "Groupid": 101,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "433791756966": {
+      "Cuid": 433791756966,
+      "Groupid": 101,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "433791756976": {
+      "Cuid": 433791756976,
+      "Groupid": 101,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791756986": {
+      "Cuid": 433791756986,
+      "Groupid": 101,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791757066": {
+      "Cuid": 433791757066,
+      "Groupid": 101,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791757106": {
+      "Cuid": 433791757106,
+      "Groupid": 101,
+      "Boatid": 60210,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "433791726906": {
+      "Cuid": 433791726906,
+      "Groupid": 101,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791727226": {
+      "Cuid": 433791727226,
+      "Groupid": 101,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791747386": {
+      "Cuid": 433791747386,
+      "Groupid": 101,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791757056": {
+      "Cuid": 433791757056,
+      "Groupid": 101,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "433791727036": {
+      "Cuid": 433791727036,
+      "Groupid": 101,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "433791747406": {
+      "Cuid": 433791747406,
+      "Groupid": 101,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "438086674212": {
+      "Cuid": 438086674212,
+      "Groupid": 102,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "438086674222": {
+      "Cuid": 438086674222,
+      "Groupid": 102,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "438086674242": {
+      "Cuid": 438086674242,
+      "Groupid": 102,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086674272": {
+      "Cuid": 438086674272,
+      "Groupid": 102,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "438086674302": {
+      "Cuid": 438086674302,
+      "Groupid": 102,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086674312": {
+      "Cuid": 438086674312,
+      "Groupid": 102,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "438086674342": {
+      "Cuid": 438086674342,
+      "Groupid": 102,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086684212": {
+      "Cuid": 438086684212,
+      "Groupid": 102,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086684222": {
+      "Cuid": 438086684222,
+      "Groupid": 102,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "438086694352": {
+      "Cuid": 438086694352,
+      "Groupid": 102,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086704212": {
+      "Cuid": 438086704212,
+      "Groupid": 102,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086704222": {
+      "Cuid": 438086704222,
+      "Groupid": 102,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086704242": {
+      "Cuid": 438086704242,
+      "Groupid": 102,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086704252": {
+      "Cuid": 438086704252,
+      "Groupid": 102,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086704292": {
+      "Cuid": 438086704292,
+      "Groupid": 102,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "438086704322": {
+      "Cuid": 438086704322,
+      "Groupid": 102,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "438086704392": {
+      "Cuid": 438086704392,
+      "Groupid": 102,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086704402": {
+      "Cuid": 438086704402,
+      "Groupid": 102,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086714252": {
+      "Cuid": 438086714252,
+      "Groupid": 102,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "438086714382": {
+      "Cuid": 438086714382,
+      "Groupid": 102,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086714452": {
+      "Cuid": 438086714452,
+      "Groupid": 102,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086714482": {
+      "Cuid": 438086714482,
+      "Groupid": 102,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086714502": {
+      "Cuid": 438086714502,
+      "Groupid": 102,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086714512": {
+      "Cuid": 438086714512,
+      "Groupid": 102,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "438086724262": {
+      "Cuid": 438086724262,
+      "Groupid": 102,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "438086724272": {
+      "Cuid": 438086724272,
+      "Groupid": 102,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086724282": {
+      "Cuid": 438086724282,
+      "Groupid": 102,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086724362": {
+      "Cuid": 438086724362,
+      "Groupid": 102,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086724402": {
+      "Cuid": 438086724402,
+      "Groupid": 102,
+      "Boatid": 60210,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "438086694202": {
+      "Cuid": 438086694202,
+      "Groupid": 102,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086694522": {
+      "Cuid": 438086694522,
+      "Groupid": 102,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086714682": {
+      "Cuid": 438086714682,
+      "Groupid": 102,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086724352": {
+      "Cuid": 438086724352,
+      "Groupid": 102,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "438086694332": {
+      "Cuid": 438086694332,
+      "Groupid": 102,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "438086714702": {
+      "Cuid": 438086714702,
+      "Groupid": 102,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "442381641508": {
+      "Cuid": 442381641508,
+      "Groupid": 103,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "442381641518": {
+      "Cuid": 442381641518,
+      "Groupid": 103,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "442381641538": {
+      "Cuid": 442381641538,
+      "Groupid": 103,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381641568": {
+      "Cuid": 442381641568,
+      "Groupid": 103,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "442381641598": {
+      "Cuid": 442381641598,
+      "Groupid": 103,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381641608": {
+      "Cuid": 442381641608,
+      "Groupid": 103,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "442381641638": {
+      "Cuid": 442381641638,
+      "Groupid": 103,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381651508": {
+      "Cuid": 442381651508,
+      "Groupid": 103,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381651518": {
+      "Cuid": 442381651518,
+      "Groupid": 103,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "442381661648": {
+      "Cuid": 442381661648,
+      "Groupid": 103,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381671508": {
+      "Cuid": 442381671508,
+      "Groupid": 103,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381671518": {
+      "Cuid": 442381671518,
+      "Groupid": 103,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381671538": {
+      "Cuid": 442381671538,
+      "Groupid": 103,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381671548": {
+      "Cuid": 442381671548,
+      "Groupid": 103,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381671588": {
+      "Cuid": 442381671588,
+      "Groupid": 103,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "442381671618": {
+      "Cuid": 442381671618,
+      "Groupid": 103,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "442381671688": {
+      "Cuid": 442381671688,
+      "Groupid": 103,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381671698": {
+      "Cuid": 442381671698,
+      "Groupid": 103,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381681548": {
+      "Cuid": 442381681548,
+      "Groupid": 103,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "442381681678": {
+      "Cuid": 442381681678,
+      "Groupid": 103,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381681748": {
+      "Cuid": 442381681748,
+      "Groupid": 103,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381681778": {
+      "Cuid": 442381681778,
+      "Groupid": 103,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381681798": {
+      "Cuid": 442381681798,
+      "Groupid": 103,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381681808": {
+      "Cuid": 442381681808,
+      "Groupid": 103,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "442381691558": {
+      "Cuid": 442381691558,
+      "Groupid": 103,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "442381691568": {
+      "Cuid": 442381691568,
+      "Groupid": 103,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381691578": {
+      "Cuid": 442381691578,
+      "Groupid": 103,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381691658": {
+      "Cuid": 442381691658,
+      "Groupid": 103,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381691698": {
+      "Cuid": 442381691698,
+      "Groupid": 103,
+      "Boatid": 60210,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "442381661498": {
+      "Cuid": 442381661498,
+      "Groupid": 103,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381661818": {
+      "Cuid": 442381661818,
+      "Groupid": 103,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381681978": {
+      "Cuid": 442381681978,
+      "Groupid": 103,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381691648": {
+      "Cuid": 442381691648,
+      "Groupid": 103,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "442381661628": {
+      "Cuid": 442381661628,
+      "Groupid": 103,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "442381681998": {
+      "Cuid": 442381681998,
+      "Groupid": 103,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "446676608804": {
+      "Cuid": 446676608804,
+      "Groupid": 104,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "446676608814": {
+      "Cuid": 446676608814,
+      "Groupid": 104,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "446676608834": {
+      "Cuid": 446676608834,
+      "Groupid": 104,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676608864": {
+      "Cuid": 446676608864,
+      "Groupid": 104,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "446676608894": {
+      "Cuid": 446676608894,
+      "Groupid": 104,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676608904": {
+      "Cuid": 446676608904,
+      "Groupid": 104,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "446676608934": {
+      "Cuid": 446676608934,
+      "Groupid": 104,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676618804": {
+      "Cuid": 446676618804,
+      "Groupid": 104,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676618814": {
+      "Cuid": 446676618814,
+      "Groupid": 104,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "446676628944": {
+      "Cuid": 446676628944,
+      "Groupid": 104,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676638804": {
+      "Cuid": 446676638804,
+      "Groupid": 104,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676638814": {
+      "Cuid": 446676638814,
+      "Groupid": 104,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676638834": {
+      "Cuid": 446676638834,
+      "Groupid": 104,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676638844": {
+      "Cuid": 446676638844,
+      "Groupid": 104,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676638884": {
+      "Cuid": 446676638884,
+      "Groupid": 104,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "446676638914": {
+      "Cuid": 446676638914,
+      "Groupid": 104,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "446676638984": {
+      "Cuid": 446676638984,
+      "Groupid": 104,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676638994": {
+      "Cuid": 446676638994,
+      "Groupid": 104,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676648844": {
+      "Cuid": 446676648844,
+      "Groupid": 104,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "446676648974": {
+      "Cuid": 446676648974,
+      "Groupid": 104,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676649044": {
+      "Cuid": 446676649044,
+      "Groupid": 104,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676649074": {
+      "Cuid": 446676649074,
+      "Groupid": 104,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676649094": {
+      "Cuid": 446676649094,
+      "Groupid": 104,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676649104": {
+      "Cuid": 446676649104,
+      "Groupid": 104,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "446676658854": {
+      "Cuid": 446676658854,
+      "Groupid": 104,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "446676658864": {
+      "Cuid": 446676658864,
+      "Groupid": 104,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676658874": {
+      "Cuid": 446676658874,
+      "Groupid": 104,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676658954": {
+      "Cuid": 446676658954,
+      "Groupid": 104,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676658994": {
+      "Cuid": 446676658994,
+      "Groupid": 104,
+      "Boatid": 60210,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "446676628794": {
+      "Cuid": 446676628794,
+      "Groupid": 104,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676629114": {
+      "Cuid": 446676629114,
+      "Groupid": 104,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676649274": {
+      "Cuid": 446676649274,
+      "Groupid": 104,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676658944": {
+      "Cuid": 446676658944,
+      "Groupid": 104,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "446676628924": {
+      "Cuid": 446676628924,
+      "Groupid": 104,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "446676649294": {
+      "Cuid": 446676649294,
+      "Groupid": 104,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "450971576100": {
+      "Cuid": 450971576100,
+      "Groupid": 105,
+      "Boatid": 10020,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "450971576110": {
+      "Cuid": 450971576110,
+      "Groupid": 105,
+      "Boatid": 10030,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "450971576130": {
+      "Cuid": 450971576130,
+      "Groupid": 105,
+      "Boatid": 10050,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971576160": {
+      "Cuid": 450971576160,
+      "Groupid": 105,
+      "Boatid": 10080,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "450971576190": {
+      "Cuid": 450971576190,
+      "Groupid": 105,
+      "Boatid": 10110,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971576200": {
+      "Cuid": 450971576200,
+      "Groupid": 105,
+      "Boatid": 10120,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "450971576230": {
+      "Cuid": 450971576230,
+      "Groupid": 105,
+      "Boatid": 10150,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971586100": {
+      "Cuid": 450971586100,
+      "Groupid": 105,
+      "Boatid": 20020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971586110": {
+      "Cuid": 450971586110,
+      "Groupid": 105,
+      "Boatid": 20030,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "450971596240": {
+      "Cuid": 450971596240,
+      "Groupid": 105,
+      "Boatid": 30160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971606100": {
+      "Cuid": 450971606100,
+      "Groupid": 105,
+      "Boatid": 40020,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971606110": {
+      "Cuid": 450971606110,
+      "Groupid": 105,
+      "Boatid": 40030,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971606130": {
+      "Cuid": 450971606130,
+      "Groupid": 105,
+      "Boatid": 40050,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971606140": {
+      "Cuid": 450971606140,
+      "Groupid": 105,
+      "Boatid": 40060,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971606180": {
+      "Cuid": 450971606180,
+      "Groupid": 105,
+      "Boatid": 40100,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "450971606210": {
+      "Cuid": 450971606210,
+      "Groupid": 105,
+      "Boatid": 40130,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "450971606280": {
+      "Cuid": 450971606280,
+      "Groupid": 105,
+      "Boatid": 40200,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971606290": {
+      "Cuid": 450971606290,
+      "Groupid": 105,
+      "Boatid": 40210,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971616140": {
+      "Cuid": 450971616140,
+      "Groupid": 105,
+      "Boatid": 50060,
+      "Quality": 2,
+      "Weight": 10
+    },
+    "450971616270": {
+      "Cuid": 450971616270,
+      "Groupid": 105,
+      "Boatid": 50190,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971616340": {
+      "Cuid": 450971616340,
+      "Groupid": 105,
+      "Boatid": 50260,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971616370": {
+      "Cuid": 450971616370,
+      "Groupid": 105,
+      "Boatid": 50290,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971616390": {
+      "Cuid": 450971616390,
+      "Groupid": 105,
+      "Boatid": 50310,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971616400": {
+      "Cuid": 450971616400,
+      "Groupid": 105,
+      "Boatid": 50320,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "450971626150": {
+      "Cuid": 450971626150,
+      "Groupid": 105,
+      "Boatid": 60070,
+      "Quality": 5,
+      "Weight": 28
+    },
+    "450971626160": {
+      "Cuid": 450971626160,
+      "Groupid": 105,
+      "Boatid": 60080,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971626170": {
+      "Cuid": 450971626170,
+      "Groupid": 105,
+      "Boatid": 60090,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971626250": {
+      "Cuid": 450971626250,
+      "Groupid": 105,
+      "Boatid": 60170,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971626290": {
+      "Cuid": 450971626290,
+      "Groupid": 105,
+      "Boatid": 60210,
+      "Quality": 5,
+      "Weight": 100
+    },
+    "450971596090": {
+      "Cuid": 450971596090,
+      "Groupid": 105,
+      "Boatid": 30010,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971596410": {
+      "Cuid": 450971596410,
+      "Groupid": 105,
+      "Boatid": 30330,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971616570": {
+      "Cuid": 450971616570,
+      "Groupid": 105,
+      "Boatid": 50490,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971626240": {
+      "Cuid": 450971626240,
+      "Groupid": 105,
+      "Boatid": 60160,
+      "Quality": 4,
+      "Weight": 10
+    },
+    "450971596220": {
+      "Cuid": 450971596220,
+      "Groupid": 105,
+      "Boatid": 30140,
+      "Quality": 3,
+      "Weight": 10
+    },
+    "450971616590": {
+      "Cuid": 450971616590,
+      "Groupid": 105,
+      "Boatid": 50510,
+      "Quality": 5,
+      "Weight": 28
+    }
+  }
+}

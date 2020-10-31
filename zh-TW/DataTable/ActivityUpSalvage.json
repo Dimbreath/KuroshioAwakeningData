@@ -1,0 +1,114 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": "1",
+      "Sequence": "1",
+      "Harbour": "7014,107014",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "2": {
+      "Cuid": "2",
+      "Sequence": "2",
+      "Harbour": "7015,107015",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "3": {
+      "Cuid": "3",
+      "Sequence": "3",
+      "Harbour": "7016,107016",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "4": {
+      "Cuid": "4",
+      "Sequence": "4",
+      "Harbour": "7017,107017",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "5": {
+      "Cuid": "5",
+      "Sequence": "5",
+      "Harbour": "7018,107018",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "6": {
+      "Cuid": "6",
+      "Sequence": "6",
+      "Harbour": "8001,108001",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "7": {
+      "Cuid": "7",
+      "Sequence": "7",
+      "Harbour": "8002,108002",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "8": {
+      "Cuid": "8",
+      "Sequence": "8",
+      "Harbour": "8003,108003",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "9": {
+      "Cuid": "9",
+      "Sequence": "9",
+      "Harbour": "8004,108004",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "10": {
+      "Cuid": "10",
+      "Sequence": "10",
+      "Harbour": "8005,108005",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    },
+    "11": {
+      "Cuid": "11",
+      "Sequence": "11",
+      "Harbour": "8006,108006",
+      "Activitydrop": "2,30180,1",
+      "Probability": 0.05,
+      "LangStringTable": {
+        "Activitydesc": "海倫娜[SSR]掉落機率UP☆"
+      }
+    }
+  }
+}

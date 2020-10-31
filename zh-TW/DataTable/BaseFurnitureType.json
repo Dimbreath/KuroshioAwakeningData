@@ -1,0 +1,103 @@
+{
+  "Rows": {
+    "101": {
+      "Cuid": 101,
+      "Id": 101,
+      "Filtratetype": 1,
+      "Icon": "house_furtype_head_101",
+      "LangStringTable": {
+        "Desc": "內牆"
+      }
+    },
+    "102": {
+      "Cuid": 102,
+      "Id": 102,
+      "Filtratetype": 1,
+      "Icon": "house_furtype_head_102",
+      "LangStringTable": {
+        "Desc": "地板"
+      }
+    },
+    "103": {
+      "Cuid": 103,
+      "Id": 103,
+      "Filtratetype": 1,
+      "Icon": "house_furtype_head_103",
+      "LangStringTable": {
+        "Desc": "壁紙"
+      }
+    },
+    "200": {
+      "Cuid": 200,
+      "Id": 200,
+      "Filtratetype": 2,
+      "Icon": "house_furtype_head_200",
+      "LangStringTable": {
+        "Desc": "普通擺放"
+      }
+    },
+    "201": {
+      "Cuid": 201,
+      "Id": 201,
+      "Filtratetype": 2,
+      "Icon": "house_furtype_head_201",
+      "LangStringTable": {
+        "Desc": "椅子"
+      }
+    },
+    "202": {
+      "Cuid": 202,
+      "Id": 202,
+      "Filtratetype": 2,
+      "Icon": "house_furtype_head_202",
+      "LangStringTable": {
+        "Desc": "桌子"
+      }
+    },
+    "203": {
+      "Cuid": 203,
+      "Id": 203,
+      "Filtratetype": 2,
+      "Icon": "house_furtype_head_203",
+      "LangStringTable": {
+        "Desc": "櫃子"
+      }
+    },
+    "204": {
+      "Cuid": 204,
+      "Id": 204,
+      "Filtratetype": 2,
+      "Icon": "house_furtype_head_204",
+      "LangStringTable": {
+        "Desc": "擺設裝飾"
+      }
+    },
+    "205": {
+      "Cuid": 205,
+      "Id": 205,
+      "Filtratetype": 2,
+      "Icon": "house_furtype_head_205",
+      "LangStringTable": {
+        "Desc": "地毯"
+      }
+    },
+    "206": {
+      "Cuid": 206,
+      "Id": 206,
+      "Filtratetype": 2,
+      "Icon": "house_furtype_head_206",
+      "LangStringTable": {
+        "Desc": "牆面裝飾"
+      }
+    },
+    "300": {
+      "Cuid": 300,
+      "Id": 300,
+      "Filtratetype": 3,
+      "Icon": null,
+      "LangStringTable": {
+        "Desc": "特殊家具"
+      }
+    }
+  }
+}

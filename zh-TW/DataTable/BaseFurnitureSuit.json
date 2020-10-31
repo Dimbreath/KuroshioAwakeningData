@@ -1,0 +1,49 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Quality": 2,
+      "Suitbuff": "3,40;6,40;8,40;14,80",
+      "LangStringTable": {
+        "Suitname": "初始套裝"
+      }
+    },
+    "1001": {
+      "Cuid": 1001,
+      "Id": 1001,
+      "Quality": 3,
+      "Suitbuff": "3,160;6,160;8,160;20,320",
+      "LangStringTable": {
+        "Suitname": "銀翼套裝"
+      }
+    },
+    "1002": {
+      "Cuid": 1002,
+      "Id": 1002,
+      "Quality": 3,
+      "Suitbuff": "3,90;6,90;8,90;18,180",
+      "LangStringTable": {
+        "Suitname": "神代套裝"
+      }
+    },
+    "1003": {
+      "Cuid": 1003,
+      "Id": 1003,
+      "Quality": 5,
+      "Suitbuff": "3,530;6,530;8,530;19,1060",
+      "LangStringTable": {
+        "Suitname": "黑鋒套裝"
+      }
+    },
+    "1004": {
+      "Cuid": 1004,
+      "Id": 1004,
+      "Quality": 4,
+      "Suitbuff": "3,250;6,250;8,250;16,500",
+      "LangStringTable": {
+        "Suitname": "薔薇套裝"
+      }
+    }
+  }
+}

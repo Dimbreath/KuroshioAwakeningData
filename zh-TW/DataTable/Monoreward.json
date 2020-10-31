@@ -1,0 +1,94 @@
+{
+  "Rows": {
+    "201": {
+      "Cuid": 201,
+      "Plotid": 201,
+      "Type": 2,
+      "Itemid": "1,260001,2",
+      "LangStringTable": {
+        "Plotdesc": "在海岸上發現了一處廢棄不久的倉庫，搜尋到了%s"
+      }
+    },
+    "202": {
+      "Cuid": 202,
+      "Plotid": 202,
+      "Type": 2,
+      "Itemid": "1,3,50",
+      "LangStringTable": {
+        "Plotdesc": "佔領了一座小型石油鑽井，獲得%s"
+      }
+    },
+    "203": {
+      "Cuid": 203,
+      "Plotid": 203,
+      "Type": 2,
+      "Itemid": "1,2,20000",
+      "LangStringTable": {
+        "Plotdesc": "在神代會社的集市上抽中了特等簽，獲得%s"
+      }
+    },
+    "204": {
+      "Cuid": 204,
+      "Plotid": 204,
+      "Type": 2,
+      "Itemid": "1,240209,1",
+      "LangStringTable": {
+        "Plotdesc": "今日花間院天氣晴朗，薩拉托加心情大好，送你%s"
+      }
+    },
+    "205": {
+      "Cuid": 205,
+      "Plotid": 205,
+      "Type": 2,
+      "Itemid": "1,260001,2",
+      "LangStringTable": {
+        "Plotdesc": "今天房間收拾得很整潔，梅絲忒很滿意，獎勵了%s"
+      }
+    },
+    "206": {
+      "Cuid": 206,
+      "Plotid": 206,
+      "Type": 2,
+      "Itemid": "1,260001,4",
+      "LangStringTable": {
+        "Plotdesc": "遇到了從利維坦深淵游來的怪魚，獲得%s"
+      }
+    },
+    "207": {
+      "Cuid": 207,
+      "Plotid": 207,
+      "Type": 2,
+      "Itemid": "1,240006,1",
+      "LangStringTable": {
+        "Plotdesc": "在神代會社遇到了熱情好客的老奶奶，獲得%s"
+      }
+    },
+    "208": {
+      "Cuid": 208,
+      "Plotid": 208,
+      "Type": 2,
+      "Itemid": "1,3,100",
+      "LangStringTable": {
+        "Plotdesc": "佔領了一座小型石油鑽井，獲得，獲得%s"
+      }
+    },
+    "209": {
+      "Cuid": 209,
+      "Plotid": 209,
+      "Type": 2,
+      "Itemid": "1,2,20000",
+      "LangStringTable": {
+        "Plotdesc": "遇到從靜謐之海來此旅行的神秘友人，獲得%s"
+      }
+    },
+    "210": {
+      "Cuid": 210,
+      "Plotid": 210,
+      "Type": 2,
+      "Itemid": "1,240209,1",
+      "LangStringTable": {
+        "Plotdesc": "遇到了狂熱的銀翼科學家，獲得%s"
+      }
+    }
+  }
+}

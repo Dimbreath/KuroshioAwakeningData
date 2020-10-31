@@ -1,0 +1,34 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Floorid": 1,
+      "Pointcount": 20,
+      "Wh": "6,6",
+      "Reward": "1,2,100000",
+      "Currency": 2,
+      "Spineasset": "common_3019100",
+      "Plot": "8102,8103"
+    },
+    "2": {
+      "Cuid": 2,
+      "Floorid": 2,
+      "Pointcount": 24,
+      "Wh": "6,6",
+      "Reward": "1,3,100",
+      "Currency": 2,
+      "Spineasset": "common_5003000",
+      "Plot": "8104,8105,8106"
+    },
+    "3": {
+      "Cuid": 3,
+      "Floorid": 3,
+      "Pointcount": 28,
+      "Wh": "7,7",
+      "Reward": "1,240206,1",
+      "Currency": 2,
+      "Spineasset": "common_5043000",
+      "Plot": "8107,8108,8109,8110"
+    }
+  }
+}

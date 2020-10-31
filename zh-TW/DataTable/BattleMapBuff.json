@@ -1,0 +1,134 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Bufftype": 9,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2002",
+      "Buffeffect": "9,2,150"
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Bufftype": 8,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2005",
+      "Buffeffect": "8,2,150"
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,100"
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,100"
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,100"
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Bufftype": 28,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2003",
+      "Buffeffect": "28,2,150"
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Bufftype": 8,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2005",
+      "Buffeffect": "8,2,150"
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,100"
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Bufftype": 8,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2005",
+      "Buffeffect": "8,2,100"
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,100"
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "Bufftype": 9,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2002",
+      "Buffeffect": "9,2,200"
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "Bufftype": 8,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2005",
+      "Buffeffect": "8,2,200"
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,150"
+    }
+  }
+}

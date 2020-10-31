@@ -1,0 +1,88 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Open": 1,
+      "Type": 1,
+      "Activitytype": 0,
+      "Parameter": null,
+      "Jumpmode": 0,
+      "Jumptype": 0,
+      "Priority": 0,
+      "LangStringTable": {
+        "Name": "功能開啟"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Open": 1,
+      "Type": 2,
+      "Activitytype": 0,
+      "Parameter": null,
+      "Jumpmode": 0,
+      "Jumptype": 0,
+      "Priority": 0,
+      "LangStringTable": {
+        "Name": "月簽到"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Open": 1,
+      "Type": 3,
+      "Activitytype": 1,
+      "Parameter": "40",
+      "Jumpmode": 1,
+      "Jumptype": 2,
+      "Priority": 1,
+      "LangStringTable": {
+        "Name": "追憶前夕"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Open": 1,
+      "Type": 3,
+      "Activitytype": 1,
+      "Parameter": "52",
+      "Jumpmode": 1,
+      "Jumptype": 2,
+      "Priority": 2,
+      "LangStringTable": {
+        "Name": "虛海之約"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Open": 1,
+      "Type": 3,
+      "Activitytype": 1,
+      "Parameter": "54",
+      "Jumpmode": 1,
+      "Jumptype": 2,
+      "Priority": 3,
+      "LangStringTable": {
+        "Name": "魚潮禮祭"
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Open": 1,
+      "Type": 3,
+      "Activitytype": 1,
+      "Parameter": "59",
+      "Jumpmode": 1,
+      "Jumptype": 2,
+      "Priority": 4,
+      "LangStringTable": {
+        "Name": "驍勇之騎"
+      }
+    }
+  }
+}

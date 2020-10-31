@@ -1,0 +1,724 @@
+{
+  "Rows": {
+    "701": {
+      "Cuid": 701,
+      "Id": 701,
+      "Reward": [
+        "3,27303,1"
+      ],
+      "Precondi": [
+        "10401,7001",
+        "10401,7002",
+        "10401,7003"
+      ],
+      "Icon": "map_1_areareward_icon1",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "702": {
+      "Cuid": 702,
+      "Id": 702,
+      "Reward": [
+        "3,27306,1"
+      ],
+      "Precondi": [
+        "10401,7004",
+        "10401,7005",
+        "10401,7006"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "703": {
+      "Cuid": 703,
+      "Id": 703,
+      "Reward": [
+        "3,27309,1"
+      ],
+      "Precondi": [
+        "10401,7007",
+        "10401,7008",
+        "10401,7009"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "704": {
+      "Cuid": 704,
+      "Id": 704,
+      "Reward": [
+        "3,27312,1"
+      ],
+      "Precondi": [
+        "10401,7010",
+        "10401,7011",
+        "10401,7012"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "705": {
+      "Cuid": 705,
+      "Id": 705,
+      "Reward": [
+        "3,27315,1"
+      ],
+      "Precondi": [
+        "10401,7013",
+        "10401,7014",
+        "10401,7015"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "706": {
+      "Cuid": 706,
+      "Id": 706,
+      "Reward": [
+        "3,27318,1"
+      ],
+      "Precondi": [
+        "10401,7016",
+        "10401,7017",
+        "10401,7018"
+      ],
+      "Icon": "map_1_areareward_icon4",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "801": {
+      "Cuid": 801,
+      "Id": 801,
+      "Reward": [
+        "3,28303,1"
+      ],
+      "Precondi": [
+        "10401,8001",
+        "10401,8002",
+        "10401,8003"
+      ],
+      "Icon": "map_1_areareward_icon1",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "802": {
+      "Cuid": 802,
+      "Id": 802,
+      "Reward": [
+        "3,28306,1"
+      ],
+      "Precondi": [
+        "10401,8004",
+        "10401,8005",
+        "10401,8006"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "803": {
+      "Cuid": 803,
+      "Id": 803,
+      "Reward": [
+        "3,28309,1"
+      ],
+      "Precondi": [
+        "10401,8007",
+        "10401,8008",
+        "10401,8009"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "804": {
+      "Cuid": 804,
+      "Id": 804,
+      "Reward": [
+        "3,28312,1"
+      ],
+      "Precondi": [
+        "10401,8010",
+        "10401,8011",
+        "10401,8012"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "805": {
+      "Cuid": 805,
+      "Id": 805,
+      "Reward": [
+        "3,28315,1"
+      ],
+      "Precondi": [
+        "10401,8013",
+        "10401,8014",
+        "10401,8015"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "806": {
+      "Cuid": 806,
+      "Id": 806,
+      "Reward": [
+        "3,28318,1"
+      ],
+      "Precondi": [
+        "10401,8016",
+        "10401,8017",
+        "10401,8018"
+      ],
+      "Icon": "map_1_areareward_icon4",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "901": {
+      "Cuid": 901,
+      "Id": 901,
+      "Reward": [
+        "3,29303,1"
+      ],
+      "Precondi": [
+        "10401,9001",
+        "10401,9002",
+        "10401,9003"
+      ],
+      "Icon": "map_1_areareward_icon1",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "902": {
+      "Cuid": 902,
+      "Id": 902,
+      "Reward": [
+        "3,29306,1"
+      ],
+      "Precondi": [
+        "10401,9004",
+        "10401,9005",
+        "10401,9006"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "903": {
+      "Cuid": 903,
+      "Id": 903,
+      "Reward": [
+        "3,29309,1"
+      ],
+      "Precondi": [
+        "10401,9007",
+        "10401,9008",
+        "10401,9009"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "904": {
+      "Cuid": 904,
+      "Id": 904,
+      "Reward": [
+        "3,29312,1"
+      ],
+      "Precondi": [
+        "10401,9010",
+        "10401,9011",
+        "10401,9012"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "905": {
+      "Cuid": 905,
+      "Id": 905,
+      "Reward": [
+        "3,29315,1"
+      ],
+      "Precondi": [
+        "10401,9013",
+        "10401,9014",
+        "10401,9015"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "906": {
+      "Cuid": 906,
+      "Id": 906,
+      "Reward": [
+        "3,29318,1"
+      ],
+      "Precondi": [
+        "10401,9016",
+        "10401,9017",
+        "10401,9018"
+      ],
+      "Icon": "map_1_areareward_icon4",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "601": {
+      "Cuid": 601,
+      "Id": 601,
+      "Reward": [
+        "3,26303,1"
+      ],
+      "Precondi": [
+        "10401,6001",
+        "10401,6002",
+        "10401,6003"
+      ],
+      "Icon": "map_1_areareward_icon1",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "602": {
+      "Cuid": 602,
+      "Id": 602,
+      "Reward": [
+        "3,26306,1"
+      ],
+      "Precondi": [
+        "10401,6004",
+        "10401,6005",
+        "10401,6006"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "603": {
+      "Cuid": 603,
+      "Id": 603,
+      "Reward": [
+        "3,26309,1"
+      ],
+      "Precondi": [
+        "10401,6007",
+        "10401,6008",
+        "10401,6009"
+      ],
+      "Icon": "map_1_areareward_icon2",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "604": {
+      "Cuid": 604,
+      "Id": 604,
+      "Reward": [
+        "3,26312,1"
+      ],
+      "Precondi": [
+        "10401,6010",
+        "10401,6011",
+        "10401,6012"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "605": {
+      "Cuid": 605,
+      "Id": 605,
+      "Reward": [
+        "3,26315,1"
+      ],
+      "Precondi": [
+        "10401,6013",
+        "10401,6014",
+        "10401,6015"
+      ],
+      "Icon": "map_1_areareward_icon3",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "606": {
+      "Cuid": 606,
+      "Id": 606,
+      "Reward": [
+        "3,26318,1"
+      ],
+      "Precondi": [
+        "10401,6016",
+        "10401,6017",
+        "10401,6018"
+      ],
+      "Icon": "map_1_areareward_icon4",
+      "Bgicon": "map_1_areareward_icon_bg1",
+      "Modeicon": "map_1_areareward_icon_light"
+    },
+    "10701": {
+      "Cuid": 10701,
+      "Id": 10701,
+      "Reward": [
+        "3,2107303,1"
+      ],
+      "Precondi": [
+        "10401,107001",
+        "10401,107002",
+        "10401,107003"
+      ],
+      "Icon": "map_1_areareward_icon2_1",
+      "Bgicon": "map_1_areareward_icon_bg2",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10702": {
+      "Cuid": 10702,
+      "Id": 10702,
+      "Reward": [
+        "3,2107306,1"
+      ],
+      "Precondi": [
+        "10401,107004",
+        "10401,107005",
+        "10401,107006"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10703": {
+      "Cuid": 10703,
+      "Id": 10703,
+      "Reward": [
+        "3,2107309,1"
+      ],
+      "Precondi": [
+        "10401,107007",
+        "10401,107008",
+        "10401,107009"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10704": {
+      "Cuid": 10704,
+      "Id": 10704,
+      "Reward": [
+        "3,2107312,1"
+      ],
+      "Precondi": [
+        "10401,107010",
+        "10401,107011",
+        "10401,107012"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10705": {
+      "Cuid": 10705,
+      "Id": 10705,
+      "Reward": [
+        "3,2107315,1"
+      ],
+      "Precondi": [
+        "10401,107013",
+        "10401,107014",
+        "10401,107015"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10706": {
+      "Cuid": 10706,
+      "Id": 10706,
+      "Reward": [
+        "3,2107318,1"
+      ],
+      "Precondi": [
+        "10401,107016",
+        "10401,107017",
+        "10401,107018"
+      ],
+      "Icon": "map_1_areareward_icon2_4",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10801": {
+      "Cuid": 10801,
+      "Id": 10801,
+      "Reward": [
+        "3,2108303,1"
+      ],
+      "Precondi": [
+        "10401,108001",
+        "10401,108002",
+        "10401,108003"
+      ],
+      "Icon": "map_1_areareward_icon2_1",
+      "Bgicon": "map_1_areareward_icon_bg2",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10802": {
+      "Cuid": 10802,
+      "Id": 10802,
+      "Reward": [
+        "3,2108306,1"
+      ],
+      "Precondi": [
+        "10401,108004",
+        "10401,108005",
+        "10401,108006"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10803": {
+      "Cuid": 10803,
+      "Id": 10803,
+      "Reward": [
+        "3,2108309,1"
+      ],
+      "Precondi": [
+        "10401,108007",
+        "10401,108008",
+        "10401,108009"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10804": {
+      "Cuid": 10804,
+      "Id": 10804,
+      "Reward": [
+        "3,2108312,1"
+      ],
+      "Precondi": [
+        "10401,108010",
+        "10401,108011",
+        "10401,108012"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10805": {
+      "Cuid": 10805,
+      "Id": 10805,
+      "Reward": [
+        "3,2108315,1"
+      ],
+      "Precondi": [
+        "10401,108013",
+        "10401,108014",
+        "10401,108015"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10806": {
+      "Cuid": 10806,
+      "Id": 10806,
+      "Reward": [
+        "3,2108318,1"
+      ],
+      "Precondi": [
+        "10401,108016",
+        "10401,108017",
+        "10401,108018"
+      ],
+      "Icon": "map_1_areareward_icon2_4",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10901": {
+      "Cuid": 10901,
+      "Id": 10901,
+      "Reward": [
+        "3,2109303,1"
+      ],
+      "Precondi": [
+        "10401,109001",
+        "10401,109002",
+        "10401,109003"
+      ],
+      "Icon": "map_1_areareward_icon2_1",
+      "Bgicon": "map_1_areareward_icon_bg2",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10902": {
+      "Cuid": 10902,
+      "Id": 10902,
+      "Reward": [
+        "3,2109306,1"
+      ],
+      "Precondi": [
+        "10401,109004",
+        "10401,109005",
+        "10401,109006"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10903": {
+      "Cuid": 10903,
+      "Id": 10903,
+      "Reward": [
+        "3,2109309,1"
+      ],
+      "Precondi": [
+        "10401,109007",
+        "10401,109008",
+        "10401,109009"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10904": {
+      "Cuid": 10904,
+      "Id": 10904,
+      "Reward": [
+        "3,2109312,1"
+      ],
+      "Precondi": [
+        "10401,109010",
+        "10401,109011",
+        "10401,109012"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10905": {
+      "Cuid": 10905,
+      "Id": 10905,
+      "Reward": [
+        "3,2109315,1"
+      ],
+      "Precondi": [
+        "10401,109013",
+        "10401,109014",
+        "10401,109015"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10906": {
+      "Cuid": 10906,
+      "Id": 10906,
+      "Reward": [
+        "3,2109318,1"
+      ],
+      "Precondi": [
+        "10401,109016",
+        "10401,109017",
+        "10401,109018"
+      ],
+      "Icon": "map_1_areareward_icon2_4",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10601": {
+      "Cuid": 10601,
+      "Id": 10601,
+      "Reward": [
+        "3,2106303,1"
+      ],
+      "Precondi": [
+        "10401,106001",
+        "10401,106002",
+        "10401,106003"
+      ],
+      "Icon": "map_1_areareward_icon2_1",
+      "Bgicon": "map_1_areareward_icon_bg2",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10602": {
+      "Cuid": 10602,
+      "Id": 10602,
+      "Reward": [
+        "3,2106306,1"
+      ],
+      "Precondi": [
+        "10401,106004",
+        "10401,106005",
+        "10401,106006"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10603": {
+      "Cuid": 10603,
+      "Id": 10603,
+      "Reward": [
+        "3,2106309,1"
+      ],
+      "Precondi": [
+        "10401,106007",
+        "10401,106008",
+        "10401,106009"
+      ],
+      "Icon": "map_1_areareward_icon2_2",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10604": {
+      "Cuid": 10604,
+      "Id": 10604,
+      "Reward": [
+        "3,2106312,1"
+      ],
+      "Precondi": [
+        "10401,106010",
+        "10401,106011",
+        "10401,106012"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10605": {
+      "Cuid": 10605,
+      "Id": 10605,
+      "Reward": [
+        "3,2106315,1"
+      ],
+      "Precondi": [
+        "10401,106013",
+        "10401,106014",
+        "10401,106015"
+      ],
+      "Icon": "map_1_areareward_icon2_3",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    },
+    "10606": {
+      "Cuid": 10606,
+      "Id": 10606,
+      "Reward": [
+        "3,2106318,1"
+      ],
+      "Precondi": [
+        "10401,106016",
+        "10401,106017",
+        "10401,106018"
+      ],
+      "Icon": "map_1_areareward_icon2_4",
+      "Bgicon": "map_1_areareward_icon_bg3",
+      "Modeicon": "map_1_areareward_icon_light2"
+    }
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "Rows": {
+    "Click": {
+      "Cuid": "Click",
+      "Key": "Click",
+      "Value": "001_click"
+    },
+    "Close": {
+      "Cuid": "Close",
+      "Key": "Close",
+      "Value": "002_close"
+    },
+    "Switch": {
+      "Cuid": "Switch",
+      "Key": "Switch",
+      "Value": "003_switch"
+    },
+    "Add": {
+      "Cuid": "Add",
+      "Key": "Add",
+      "Value": "004_add"
+    },
+    "Lock": {
+      "Cuid": "Lock",
+      "Key": "Lock",
+      "Value": "005_lock"
+    },
+    "TipHard": {
+      "Cuid": "TipHard",
+      "Key": "TipHard",
+      "Value": "006_tips"
+    },
+    "Congratulate": {
+      "Cuid": "Congratulate",
+      "Key": "Congratulate",
+      "Value": "007_congratulate"
+    },
+    "Notice": {
+      "Cuid": "Notice",
+      "Key": "Notice",
+      "Value": "008_notice"
+    },
+    "Message": {
+      "Cuid": "Message",
+      "Key": "Message",
+      "Value": "009_message"
+    },
+    "Open": {
+      "Cuid": "Open",
+      "Key": "Open",
+      "Value": "010_open"
+    },
+    "Gacha": {
+      "Cuid": "Gacha",
+      "Key": "Gacha",
+      "Value": "011_gacha"
+    },
+    "Up": {
+      "Cuid": "Up",
+      "Key": "Up",
+      "Value": "012_up"
+    },
+    "Rotate": {
+      "Cuid": "Rotate",
+      "Key": "Rotate",
+      "Value": "013_rotate"
+    },
+    "Equip": {
+      "Cuid": "Equip",
+      "Key": "Equip",
+      "Value": "014_equip"
+    },
+    "Mapzoom": {
+      "Cuid": "Mapzoom",
+      "Key": "Mapzoom",
+      "Value": "015_mapzoom"
+    },
+    "Shop": {
+      "Cuid": "Shop",
+      "Key": "Shop",
+      "Value": "015_shop"
+    },
+    "Fight": {
+      "Cuid": "Fight",
+      "Key": "Fight",
+      "Value": "016_fight"
+    },
+    "Setoff": {
+      "Cuid": "Setoff",
+      "Key": "Setoff",
+      "Value": "016_setoff"
+    },
+    "Map": {
+      "Cuid": "Map",
+      "Key": "Map",
+      "Value": "017_map"
+    },
+    "SlgAreaUnlock": {
+      "Cuid": "SlgAreaUnlock",
+      "Key": "SlgAreaUnlock",
+      "Value": "017_slgareaunlock"
+    },
+    "SlgRadar": {
+      "Cuid": "SlgRadar",
+      "Key": "SlgRadar",
+      "Value": "018_slgradar"
+    },
+    "SlgBattle": {
+      "Cuid": "SlgBattle",
+      "Key": "SlgBattle",
+      "Value": "019_slgbattle"
+    },
+    "SlgWarn": {
+      "Cuid": "SlgWarn",
+      "Key": "SlgWarn",
+      "Value": "020_slgwarn"
+    },
+    "Round": {
+      "Cuid": "Round",
+      "Key": "Round",
+      "Value": "021_round"
+    },
+    "Win": {
+      "Cuid": "Win",
+      "Key": "Win",
+      "Value": "022_win"
+    },
+    "Lose": {
+      "Cuid": "Lose",
+      "Key": "Lose",
+      "Value": "023_lose"
+    },
+    "Marry": {
+      "Cuid": "Marry",
+      "Key": "Marry",
+      "Value": "024_marry"
+    },
+    "SLGAttack": {
+      "Cuid": "SLGAttack",
+      "Key": "SLGAttack",
+      "Value": "025_slgattack"
+    },
+    "SLGAppear": {
+      "Cuid": "SLGAppear",
+      "Key": "SLGAppear",
+      "Value": "026_slgappear"
+    },
+    "SLGAreaUnlock": {
+      "Cuid": "SLGAreaUnlock",
+      "Key": "SLGAreaUnlock",
+      "Value": "027_slgareaunlock"
+    },
+    "Breakthrough": {
+      "Cuid": "Breakthrough",
+      "Key": "Breakthrough",
+      "Value": "028_breakthrough"
+    },
+    "Darken": {
+      "Cuid": "Darken",
+      "Key": "Darken",
+      "Value": "029_darken"
+    },
+    "BattleWin": {
+      "Cuid": "BattleWin",
+      "Key": "BattleWin",
+      "Value": "030_battlewin"
+    },
+    "LvUse": {
+      "Cuid": "LvUse",
+      "Key": "LvUse",
+      "Value": "031_lv_use"
+    },
+    "slgwarntip": {
+      "Cuid": "slgwarntip",
+      "Key": "slgwarntip",
+      "Value": "031_slgwarntip"
+    },
+    "Tips": {
+      "Cuid": "Tips",
+      "Key": "Tips",
+      "Value": "032_tips"
+    },
+    "Depth": {
+      "Cuid": "Depth",
+      "Key": "Depth",
+      "Value": "033_depth"
+    },
+    "Depth1": {
+      "Cuid": "Depth1",
+      "Key": "Depth1",
+      "Value": "033_depth_1"
+    },
+    "LevHabour": {
+      "Cuid": "LevHabour",
+      "Key": "LevHabour",
+      "Value": "034_levhabour"
+    },
+    "Load": {
+      "Cuid": "Load",
+      "Key": "Load",
+      "Value": "035_load"
+    },
+    "UnLoad": {
+      "Cuid": "UnLoad",
+      "Key": "UnLoad",
+      "Value": "036_unload"
+    },
+    "Player1": {
+      "Cuid": "Player1",
+      "Key": "Player1",
+      "Value": "037_player1"
+    },
+    "Player2": {
+      "Cuid": "Player2",
+      "Key": "Player2",
+      "Value": "038_player2"
+    },
+    "Boss": {
+      "Cuid": "Boss",
+      "Key": "Boss",
+      "Value": "039_boss"
+    },
+    "StoryMap": {
+      "Cuid": "StoryMap",
+      "Key": "StoryMap",
+      "Value": "040_storymap"
+    },
+    "BattleEnd": {
+      "Cuid": "BattleEnd",
+      "Key": "BattleEnd",
+      "Value": "041_battleend"
+    },
+    "LevelUp": {
+      "Cuid": "LevelUp",
+      "Key": "LevelUp",
+      "Value": "042_levelup"
+    },
+    "SLG1": {
+      "Cuid": "SLG1",
+      "Key": "SLG1",
+      "Value": "043_slg1"
+    },
+    "SLG3": {
+      "Cuid": "SLG3",
+      "Key": "SLG3",
+      "Value": "045_slg3"
+    },
+    "SLG4": {
+      "Cuid": "SLG4",
+      "Key": "SLG4",
+      "Value": "046_slg4"
+    },
+    "SLG5": {
+      "Cuid": "SLG5",
+      "Key": "SLG5",
+      "Value": "047_slg5"
+    },
+    "SLG6": {
+      "Cuid": "SLG6",
+      "Key": "SLG6",
+      "Value": "048_slg6"
+    },
+    "SLG8": {
+      "Cuid": "SLG8",
+      "Key": "SLG8",
+      "Value": "050_slg8"
+    },
+    "SLG9": {
+      "Cuid": "SLG9",
+      "Key": "SLG9",
+      "Value": "051_slg9"
+    },
+    "SLG10": {
+      "Cuid": "SLG10",
+      "Key": "SLG10",
+      "Value": "052_slg10"
+    },
+    "IDCard1": {
+      "Cuid": "IDCard1",
+      "Key": "IDCard1",
+      "Value": "053_idcard1"
+    },
+    "IDCard2": {
+      "Cuid": "IDCard2",
+      "Key": "IDCard2",
+      "Value": "054_idcard2"
+    },
+    "SSRget": {
+      "Cuid": "SSRget",
+      "Key": "SSRget",
+      "Value": "055_ssrget"
+    },
+    "OccupyTip": {
+      "Cuid": "OccupyTip",
+      "Key": "OccupyTip",
+      "Value": "057_occupy_tip"
+    },
+    "ACF": {
+      "Cuid": "ACF",
+      "Key": "ACF",
+      "Value": "Darkboom_adx2"
+    },
+    "LobbyBgm": {
+      "Cuid": "LobbyBgm",
+      "Key": "LobbyBgm",
+      "Value": "lobby_main"
+    },
+    "LoginBgm": {
+      "Cuid": "LoginBgm",
+      "Key": "LoginBgm",
+      "Value": "login_main"
+    },
+    "SLGBgm": {
+      "Cuid": "SLGBgm",
+      "Key": "SLGBgm",
+      "Value": "slg_main"
+    },
+    "WorldMapBgm": {
+      "Cuid": "WorldMapBgm",
+      "Key": "WorldMapBgm",
+      "Value": "worldmap_main"
+    },
+    "StoryMapBgm": {
+      "Cuid": "StoryMapBgm",
+      "Key": "StoryMapBgm",
+      "Value": "strorymap_main"
+    },
+    "UISECuesheet": {
+      "Cuid": "UISECuesheet",
+      "Key": "UISECuesheet",
+      "Value": "UISE"
+    },
+    "StorySECuesheet": {
+      "Cuid": "StorySECuesheet",
+      "Key": "StorySECuesheet",
+      "Value": "StorySE"
+    },
+    "BattleSECuesheet": {
+      "Cuid": "BattleSECuesheet",
+      "Key": "BattleSECuesheet",
+      "Value": "BattleSE"
+    },
+    "Battlevictory": {
+      "Cuid": "Battlevictory",
+      "Key": "Battlevictory",
+      "Value": "victory"
+    },
+    "Battledefeat": {
+      "Cuid": "Battledefeat",
+      "Key": "Battledefeat",
+      "Value": "defeat"
+    }
+  }
+}

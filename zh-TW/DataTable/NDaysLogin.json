@@ -1,0 +1,46 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Rewards": "1,160001,2;1,260002,12",
+      "Specialawards": 0
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Rewards": "1,240021,2;1,1,100",
+      "Specialawards": 0
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Rewards": "2,90010,1;1,240006,20",
+      "Specialawards": 1
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Rewards": "1,3,300;1,260002,12",
+      "Specialawards": 0
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Rewards": "1,240021,2;1,1,200",
+      "Specialawards": 0
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Rewards": "1,3,500;1,160001,2",
+      "Specialawards": 0
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Rewards": "2,90011,1;1,260002,12",
+      "Specialawards": 1
+    }
+  }
+}

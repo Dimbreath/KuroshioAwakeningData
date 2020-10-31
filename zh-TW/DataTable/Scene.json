@@ -1,0 +1,34 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Assetname": "Login",
+      "Backgroundmusicid": "1"
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Assetname": "Lobby",
+      "Backgroundmusicid": "2"
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Assetname": "SLG",
+      "Backgroundmusicid": "3"
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Assetname": "Battle",
+      "Backgroundmusicid": "4"
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Assetname": "BattleAutoTest",
+      "Backgroundmusicid": "4"
+    }
+  }
+}

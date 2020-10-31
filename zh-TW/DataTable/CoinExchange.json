@@ -1,0 +1,3754 @@
+{
+  "Rows": {
+    "41": {
+      "Cuid": 41,
+      "Id": 41,
+      "Shoptype": 15,
+      "Itemid": "1,160001,1",
+      "Sequence": 1,
+      "Inventory": 10,
+      "Price": "1,250010,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "徵招合約"
+      }
+    },
+    "42": {
+      "Cuid": 42,
+      "Id": 42,
+      "Shoptype": 15,
+      "Itemid": "1,120001,1",
+      "Sequence": 2,
+      "Inventory": 10,
+      "Price": "1,250010,15",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "特批調令"
+      }
+    },
+    "49": {
+      "Cuid": 49,
+      "Id": 49,
+      "Shoptype": 15,
+      "Itemid": "1,240007,1",
+      "Sequence": 9,
+      "Inventory": 5,
+      "Price": "1,250010,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級裝備箱"
+      }
+    },
+    "60201": {
+      "Cuid": 60201,
+      "Id": 60201,
+      "Shoptype": 101,
+      "Itemid": "1,135000,500",
+      "Sequence": 4,
+      "Inventory": 4,
+      "Price": "1,29,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件*500"
+      }
+    },
+    "60202": {
+      "Cuid": 60202,
+      "Id": 60202,
+      "Shoptype": 101,
+      "Itemid": "2,90011,1",
+      "Sequence": 12,
+      "Inventory": 1,
+      "Price": "1,29,200",
+      "Condition": null,
+      "Hot": 2,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "60203": {
+      "Cuid": 60203,
+      "Id": 60203,
+      "Shoptype": 101,
+      "Itemid": "2,90010,1",
+      "Sequence": 11,
+      "Inventory": 5,
+      "Price": "1,29,40",
+      "Condition": null,
+      "Hot": 2,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "60204": {
+      "Cuid": 60204,
+      "Id": 60204,
+      "Shoptype": 101,
+      "Itemid": "1,240016,1",
+      "Sequence": 8,
+      "Inventory": 15,
+      "Price": "1,29,6",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "初級裝備寶箱"
+      }
+    },
+    "60205": {
+      "Cuid": 60205,
+      "Id": 60205,
+      "Shoptype": 101,
+      "Itemid": "1,240007,1",
+      "Sequence": 9,
+      "Inventory": 10,
+      "Price": "1,29,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級裝備寶箱"
+      }
+    },
+    "60206": {
+      "Cuid": 60206,
+      "Id": 60206,
+      "Shoptype": 101,
+      "Itemid": "1,240203,1",
+      "Sequence": 10,
+      "Inventory": 5,
+      "Price": "1,29,40",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級裝備寶箱"
+      }
+    },
+    "60207": {
+      "Cuid": 60207,
+      "Id": 60207,
+      "Shoptype": 101,
+      "Itemid": "1,240040,1",
+      "Sequence": 5,
+      "Inventory": 20,
+      "Price": "1,29,2",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "初級深海化寶箱"
+      }
+    },
+    "60208": {
+      "Cuid": 60208,
+      "Id": 60208,
+      "Shoptype": 101,
+      "Itemid": "1,240041,1",
+      "Sequence": 6,
+      "Inventory": 10,
+      "Price": "1,29,8",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級深海化寶箱"
+      }
+    },
+    "60209": {
+      "Cuid": 60209,
+      "Id": 60209,
+      "Shoptype": 101,
+      "Itemid": "1,240042,1",
+      "Sequence": 7,
+      "Inventory": 5,
+      "Price": "1,29,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化寶箱"
+      }
+    },
+    "60210": {
+      "Cuid": 60210,
+      "Id": 60210,
+      "Shoptype": 101,
+      "Itemid": "1,240006,1",
+      "Sequence": 3,
+      "Inventory": 200,
+      "Price": "1,29,2",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "元氣櫻花餅"
+      }
+    },
+    "60211": {
+      "Cuid": 60211,
+      "Id": 60211,
+      "Shoptype": 101,
+      "Itemid": "1,260002,1",
+      "Sequence": 2,
+      "Inventory": 200,
+      "Price": "1,29,2",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "60212": {
+      "Cuid": 60212,
+      "Id": 60212,
+      "Shoptype": 101,
+      "Itemid": "1,260001,1",
+      "Sequence": 1,
+      "Inventory": 200,
+      "Price": "1,29,2",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "60213": {
+      "Cuid": 60213,
+      "Id": 60213,
+      "Shoptype": 101,
+      "Itemid": "1,880001,1",
+      "Sequence": 15,
+      "Inventory": 999,
+      "Price": "1,1,75",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "步數指定"
+      }
+    },
+    "60214": {
+      "Cuid": 60214,
+      "Id": 60214,
+      "Shoptype": 101,
+      "Itemid": "1,880002,1",
+      "Sequence": 14,
+      "Inventory": 999,
+      "Price": "1,1,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "雙骰子道具"
+      }
+    },
+    "60215": {
+      "Cuid": 60215,
+      "Id": 60215,
+      "Shoptype": 101,
+      "Itemid": "1,880003,1",
+      "Sequence": 13,
+      "Inventory": 999,
+      "Price": "1,1,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "慾念之骰"
+      }
+    },
+    "20001": {
+      "Cuid": 20001,
+      "Id": 20001,
+      "Shoptype": 8,
+      "Itemid": "2,50490,1",
+      "Sequence": 25,
+      "Inventory": 1,
+      "Price": "1,12,400",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "Z1"
+      }
+    },
+    "20002": {
+      "Cuid": 20002,
+      "Id": 20002,
+      "Shoptype": 8,
+      "Itemid": "6,603018001,1",
+      "Sequence": 23,
+      "Inventory": 1,
+      "Price": "1,12,5000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "SG雷達"
+      }
+    },
+    "20003": {
+      "Cuid": 20003,
+      "Id": 20003,
+      "Shoptype": 8,
+      "Itemid": "2,90010,1",
+      "Sequence": 22,
+      "Inventory": 6,
+      "Price": "1,12,400",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "20004": {
+      "Cuid": 20004,
+      "Id": 20004,
+      "Shoptype": 8,
+      "Itemid": "1,240021,1",
+      "Sequence": 21,
+      "Inventory": 10,
+      "Price": "1,12,45",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "20005": {
+      "Cuid": 20005,
+      "Id": 20005,
+      "Shoptype": 8,
+      "Itemid": "1,160001,1",
+      "Sequence": 1,
+      "Inventory": 10,
+      "Price": "1,12,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "徵招合約"
+      }
+    },
+    "20013": {
+      "Cuid": 20013,
+      "Id": 20013,
+      "Shoptype": 8,
+      "Itemid": "1,3,60",
+      "Sequence": 1,
+      "Inventory": 9999,
+      "Price": "1,12,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "能源*60"
+      }
+    },
+    "20014": {
+      "Cuid": 20014,
+      "Id": 20014,
+      "Shoptype": 8,
+      "Itemid": "1,142008,4",
+      "Sequence": 1,
+      "Inventory": 139,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．神代*4"
+      }
+    },
+    "20015": {
+      "Cuid": 20015,
+      "Id": 20015,
+      "Shoptype": 8,
+      "Itemid": "1,143008,2",
+      "Sequence": 5,
+      "Inventory": 102,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．神代*2"
+      }
+    },
+    "20016": {
+      "Cuid": 20016,
+      "Id": 20016,
+      "Shoptype": 8,
+      "Itemid": "1,144008,1",
+      "Sequence": 9,
+      "Inventory": 10,
+      "Price": "1,12,96",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．神代"
+      }
+    },
+    "20017": {
+      "Cuid": 20017,
+      "Id": 20017,
+      "Shoptype": 8,
+      "Itemid": "1,142009,4",
+      "Sequence": 2,
+      "Inventory": 139,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．銀翼*4"
+      }
+    },
+    "20018": {
+      "Cuid": 20018,
+      "Id": 20018,
+      "Shoptype": 8,
+      "Itemid": "1,143009,2",
+      "Sequence": 6,
+      "Inventory": 102,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．銀翼*2"
+      }
+    },
+    "20019": {
+      "Cuid": 20019,
+      "Id": 20019,
+      "Shoptype": 8,
+      "Itemid": "1,144009,1",
+      "Sequence": 10,
+      "Inventory": 10,
+      "Price": "1,12,96",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．銀翼"
+      }
+    },
+    "20020": {
+      "Cuid": 20020,
+      "Id": 20020,
+      "Shoptype": 8,
+      "Itemid": "1,142010,4",
+      "Sequence": 3,
+      "Inventory": 139,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．薔薇*4"
+      }
+    },
+    "20021": {
+      "Cuid": 20021,
+      "Id": 20021,
+      "Shoptype": 8,
+      "Itemid": "1,143010,2",
+      "Sequence": 7,
+      "Inventory": 102,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．薔薇*2"
+      }
+    },
+    "20022": {
+      "Cuid": 20022,
+      "Id": 20022,
+      "Shoptype": 8,
+      "Itemid": "1,144010,1",
+      "Sequence": 11,
+      "Inventory": 10,
+      "Price": "1,12,96",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．薔薇"
+      }
+    },
+    "20023": {
+      "Cuid": 20023,
+      "Id": 20023,
+      "Shoptype": 8,
+      "Itemid": "1,142011,4",
+      "Sequence": 4,
+      "Inventory": 139,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．黑鋒*4"
+      }
+    },
+    "20024": {
+      "Cuid": 20024,
+      "Id": 20024,
+      "Shoptype": 8,
+      "Itemid": "1,143011,2",
+      "Sequence": 8,
+      "Inventory": 102,
+      "Price": "1,12,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．黑鋒*2"
+      }
+    },
+    "20025": {
+      "Cuid": 20025,
+      "Id": 20025,
+      "Shoptype": 8,
+      "Itemid": "1,144011,1",
+      "Sequence": 12,
+      "Inventory": 10,
+      "Price": "1,12,96",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．黑鋒"
+      }
+    },
+    "20026": {
+      "Cuid": 20026,
+      "Id": 20026,
+      "Shoptype": 8,
+      "Itemid": "1,145101,20",
+      "Sequence": 13,
+      "Inventory": 43,
+      "Price": "1,12,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．航母*20"
+      }
+    },
+    "20027": {
+      "Cuid": 20027,
+      "Id": 20027,
+      "Shoptype": 8,
+      "Itemid": "1,145301,20",
+      "Sequence": 14,
+      "Inventory": 43,
+      "Price": "1,12,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．輕巡*20"
+      }
+    },
+    "20028": {
+      "Cuid": 20028,
+      "Id": 20028,
+      "Shoptype": 8,
+      "Itemid": "1,145401,20",
+      "Sequence": 15,
+      "Inventory": 43,
+      "Price": "1,12,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．重巡*20"
+      }
+    },
+    "20029": {
+      "Cuid": 20029,
+      "Id": 20029,
+      "Shoptype": 8,
+      "Itemid": "1,145501,20",
+      "Sequence": 16,
+      "Inventory": 43,
+      "Price": "1,12,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．驅逐*20"
+      }
+    },
+    "20030": {
+      "Cuid": 20030,
+      "Id": 20030,
+      "Shoptype": 8,
+      "Itemid": "1,145601,20",
+      "Sequence": 17,
+      "Inventory": 43,
+      "Price": "1,12,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．戰艦*20"
+      }
+    },
+    "20031": {
+      "Cuid": 20031,
+      "Id": 20031,
+      "Shoptype": 8,
+      "Itemid": "2,60050,1",
+      "Sequence": 26,
+      "Inventory": 1,
+      "Price": "1,12,400",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "胡德"
+      }
+    },
+    "20032": {
+      "Cuid": 20032,
+      "Id": 20032,
+      "Shoptype": 8,
+      "Itemid": "6,106025001,1",
+      "Sequence": 24,
+      "Inventory": 1,
+      "Price": "1,12,320",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "35.6cm連裝砲"
+      }
+    },
+    "20033": {
+      "Cuid": 20033,
+      "Id": 20033,
+      "Shoptype": 8,
+      "Itemid": "1,260001,1",
+      "Sequence": 8,
+      "Inventory": 999,
+      "Price": "1,12,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "20034": {
+      "Cuid": 20034,
+      "Id": 20034,
+      "Shoptype": 8,
+      "Itemid": "1,260002,1",
+      "Sequence": 7,
+      "Inventory": 999,
+      "Price": "1,12,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "20035": {
+      "Cuid": 20035,
+      "Id": 20035,
+      "Shoptype": 8,
+      "Itemid": "1,135000,500",
+      "Sequence": 6,
+      "Inventory": 40,
+      "Price": "1,12,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件*500"
+      }
+    },
+    "20036": {
+      "Cuid": 20036,
+      "Id": 20036,
+      "Shoptype": 8,
+      "Itemid": "1,240206,1",
+      "Sequence": 20,
+      "Inventory": 10,
+      "Price": "1,12,300",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "20037": {
+      "Cuid": 20037,
+      "Id": 20037,
+      "Shoptype": 8,
+      "Itemid": "1,240205,1",
+      "Sequence": 19,
+      "Inventory": 20,
+      "Price": "1,12,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級深海化箱"
+      }
+    },
+    "20038": {
+      "Cuid": 20038,
+      "Id": 20038,
+      "Shoptype": 8,
+      "Itemid": "1,240207,20",
+      "Sequence": 18,
+      "Inventory": 40,
+      "Price": "1,12,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海化材料艦種箱*20"
+      }
+    },
+    "20039": {
+      "Cuid": 20039,
+      "Id": 20039,
+      "Shoptype": 8,
+      "Itemid": "1,240201,1",
+      "Sequence": 16,
+      "Inventory": 20,
+      "Price": "1,12,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "初級裝備箱"
+      }
+    },
+    "20040": {
+      "Cuid": 20040,
+      "Id": 20040,
+      "Shoptype": 8,
+      "Itemid": "1,240202,1",
+      "Sequence": 17,
+      "Inventory": 20,
+      "Price": "1,12,200",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級裝備箱"
+      }
+    },
+    "20041": {
+      "Cuid": 20041,
+      "Id": 20041,
+      "Shoptype": 8,
+      "Itemid": "2,20090,1",
+      "Sequence": 21,
+      "Inventory": 1,
+      "Price": "1,12,1200",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "千代田"
+      }
+    },
+    "30001": {
+      "Cuid": 30001,
+      "Id": 30001,
+      "Shoptype": 9,
+      "Itemid": "6,106007001,1",
+      "Sequence": 23,
+      "Inventory": 1,
+      "Price": "1,13,5000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "SKC34 283mm三聯裝砲"
+      }
+    },
+    "30002": {
+      "Cuid": 30002,
+      "Id": 30002,
+      "Shoptype": 9,
+      "Itemid": "2,90011,1",
+      "Sequence": 25,
+      "Inventory": 1,
+      "Price": "1,13,4000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "30003": {
+      "Cuid": 30003,
+      "Id": 30003,
+      "Shoptype": 9,
+      "Itemid": "1,3,100",
+      "Sequence": 14,
+      "Inventory": 9999,
+      "Price": "1,13,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "能源*100"
+      }
+    },
+    "30004": {
+      "Cuid": 30004,
+      "Id": 30004,
+      "Shoptype": 9,
+      "Itemid": "2,30170,1",
+      "Sequence": 27,
+      "Inventory": 1,
+      "Price": "1,13,9000",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "夕張"
+      }
+    },
+    "30005": {
+      "Cuid": 30005,
+      "Id": 30005,
+      "Shoptype": 9,
+      "Itemid": "1,2,5000",
+      "Sequence": 15,
+      "Inventory": 9999,
+      "Price": "1,13,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "BP*5000"
+      }
+    },
+    "30006": {
+      "Cuid": 30006,
+      "Id": 30006,
+      "Shoptype": 9,
+      "Itemid": "2,10120,1",
+      "Sequence": 26,
+      "Inventory": 1,
+      "Price": "1,13,500",
+      "Condition": null,
+      "Hot": 2,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "獨角獸"
+      }
+    },
+    "30007": {
+      "Cuid": 30007,
+      "Id": 30007,
+      "Shoptype": 9,
+      "Itemid": "6,601012001,1",
+      "Sequence": 24,
+      "Inventory": 1,
+      "Price": "1,13,400",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "280B型對空雷達"
+      }
+    },
+    "30008": {
+      "Cuid": 30008,
+      "Id": 30008,
+      "Shoptype": 9,
+      "Itemid": "1,240203,1",
+      "Sequence": 21,
+      "Inventory": 20,
+      "Price": "1,13,400",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "30009": {
+      "Cuid": 30009,
+      "Id": 30009,
+      "Shoptype": 9,
+      "Itemid": "1,260001,1",
+      "Sequence": 18,
+      "Inventory": 999,
+      "Price": "1,13,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "30010": {
+      "Cuid": 30010,
+      "Id": 30010,
+      "Shoptype": 9,
+      "Itemid": "1,260002,1",
+      "Sequence": 17,
+      "Inventory": 999,
+      "Price": "1,13,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "30011": {
+      "Cuid": 30011,
+      "Id": 30011,
+      "Shoptype": 9,
+      "Itemid": "1,144008,5",
+      "Sequence": 9,
+      "Inventory": 20,
+      "Price": "1,13,480",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．神代*5"
+      }
+    },
+    "30012": {
+      "Cuid": 30012,
+      "Id": 30012,
+      "Shoptype": 9,
+      "Itemid": "1,240206,1",
+      "Sequence": 22,
+      "Inventory": 20,
+      "Price": "1,13,300",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "30013": {
+      "Cuid": 30013,
+      "Id": 30013,
+      "Shoptype": 9,
+      "Itemid": "6,603018001,1",
+      "Sequence": 24,
+      "Inventory": 1,
+      "Price": "1,13,5000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "SG雷達"
+      }
+    },
+    "30014": {
+      "Cuid": 30014,
+      "Id": 30014,
+      "Shoptype": 9,
+      "Itemid": "1,145002,100",
+      "Sequence": 19,
+      "Inventory": 25,
+      "Price": "1,13,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "皮米材料*100"
+      }
+    },
+    "30015": {
+      "Cuid": 30015,
+      "Id": 30015,
+      "Shoptype": 9,
+      "Itemid": "1,145001,50",
+      "Sequence": 20,
+      "Inventory": 10,
+      "Price": "1,13,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海尖晶*50"
+      }
+    },
+    "30016": {
+      "Cuid": 30016,
+      "Id": 30016,
+      "Shoptype": 9,
+      "Itemid": "6,302009001,1",
+      "Sequence": 23,
+      "Inventory": 1,
+      "Price": "1,13,4000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "九七式艦攻"
+      }
+    },
+    "9001": {
+      "Cuid": 9001,
+      "Id": 9001,
+      "Shoptype": 9000,
+      "Itemid": "2,30130,1",
+      "Sequence": 12,
+      "Inventory": 1,
+      "Price": "1,14,1500",
+      "Condition": "1,4",
+      "Hot": 4,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "海王星"
+      }
+    },
+    "9002": {
+      "Cuid": 9002,
+      "Id": 9002,
+      "Shoptype": 9000,
+      "Itemid": "2,90011,1",
+      "Sequence": 11,
+      "Inventory": 1,
+      "Price": "1,14,1200",
+      "Condition": "1,4",
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "9003": {
+      "Cuid": 9003,
+      "Id": 9003,
+      "Shoptype": 9000,
+      "Itemid": "2,90010,1",
+      "Sequence": 10,
+      "Inventory": 4,
+      "Price": "1,14,300",
+      "Condition": "1,3",
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "9004": {
+      "Cuid": 9004,
+      "Id": 9004,
+      "Shoptype": 9000,
+      "Itemid": "1,240050,1",
+      "Sequence": 9,
+      "Inventory": 1,
+      "Price": "1,14,250",
+      "Condition": "1,3",
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級武器箱"
+      }
+    },
+    "9005": {
+      "Cuid": 9005,
+      "Id": 9005,
+      "Shoptype": 9000,
+      "Itemid": "1,240051,1",
+      "Sequence": 8,
+      "Inventory": 2,
+      "Price": "1,14,200",
+      "Condition": "1,3",
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級裝置箱"
+      }
+    },
+    "9006": {
+      "Cuid": 9006,
+      "Id": 9006,
+      "Shoptype": 9000,
+      "Itemid": "2,40020,1",
+      "Sequence": 7,
+      "Inventory": 1,
+      "Price": "1,14,200",
+      "Condition": "1,2",
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "妙高"
+      }
+    },
+    "9007": {
+      "Cuid": 9007,
+      "Id": 9007,
+      "Shoptype": 9000,
+      "Itemid": "1,135000,1000",
+      "Sequence": 6,
+      "Inventory": 20,
+      "Price": "1,14,150",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件*1000"
+      }
+    },
+    "9008": {
+      "Cuid": 9008,
+      "Id": 9008,
+      "Shoptype": 9000,
+      "Itemid": "1,240042,1",
+      "Sequence": 5,
+      "Inventory": 2,
+      "Price": "1,14,150",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化寶箱"
+      }
+    },
+    "1041": {
+      "Cuid": 1041,
+      "Id": 1041,
+      "Shoptype": 107,
+      "Itemid": "1,160001,1",
+      "Sequence": 1,
+      "Inventory": 10,
+      "Price": "1,250010,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "徵招合約"
+      }
+    },
+    "1042": {
+      "Cuid": 1042,
+      "Id": 1042,
+      "Shoptype": 107,
+      "Itemid": "1,120001,1",
+      "Sequence": 2,
+      "Inventory": 10,
+      "Price": "1,250010,15",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "特批調令"
+      }
+    },
+    "1049": {
+      "Cuid": 1049,
+      "Id": 1049,
+      "Shoptype": 107,
+      "Itemid": "1,240007,1",
+      "Sequence": 9,
+      "Inventory": 5,
+      "Price": "1,250010,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級裝備箱"
+      }
+    },
+    "40001": {
+      "Cuid": 40001,
+      "Id": 40001,
+      "Shoptype": 14,
+      "Itemid": "2,90011,1",
+      "Sequence": 12,
+      "Inventory": 1,
+      "Price": "1,16,4000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "40002": {
+      "Cuid": 40002,
+      "Id": 40002,
+      "Shoptype": 14,
+      "Itemid": "2,90010,1",
+      "Sequence": 11,
+      "Inventory": 5,
+      "Price": "1,16,800",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "40003": {
+      "Cuid": 40003,
+      "Id": 40003,
+      "Shoptype": 14,
+      "Itemid": "1,240021,1",
+      "Sequence": 6,
+      "Inventory": 6,
+      "Price": "1,16,500",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "40010": {
+      "Cuid": 40010,
+      "Id": 40010,
+      "Shoptype": 14,
+      "Itemid": "1,145002,10",
+      "Sequence": 5,
+      "Inventory": 0,
+      "Price": "1,16,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "皮米材料"
+      }
+    },
+    "40011": {
+      "Cuid": 40011,
+      "Id": 40011,
+      "Shoptype": 14,
+      "Itemid": "1,145001,1",
+      "Sequence": 7,
+      "Inventory": 0,
+      "Price": "1,16,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海尖晶"
+      }
+    },
+    "40012": {
+      "Cuid": 40012,
+      "Id": 40012,
+      "Shoptype": 14,
+      "Itemid": "1,24,1",
+      "Sequence": 4,
+      "Inventory": 50,
+      "Price": "1,16,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "賦絡溶液"
+      }
+    },
+    "40013": {
+      "Cuid": 40013,
+      "Id": 40013,
+      "Shoptype": 14,
+      "Itemid": "1,135000,200",
+      "Sequence": 8,
+      "Inventory": 50,
+      "Price": "1,16,64",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件"
+      }
+    },
+    "40014": {
+      "Cuid": 40014,
+      "Id": 40014,
+      "Shoptype": 14,
+      "Itemid": "1,240043,10",
+      "Sequence": 7,
+      "Inventory": 50,
+      "Price": "1,16,96",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海化材料艦種箱"
+      }
+    },
+    "40015": {
+      "Cuid": 40015,
+      "Id": 40015,
+      "Shoptype": 14,
+      "Itemid": "1,240040,1",
+      "Sequence": 5,
+      "Inventory": 20,
+      "Price": "1,16,32",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "初級深海化箱"
+      }
+    },
+    "40016": {
+      "Cuid": 40016,
+      "Id": 40016,
+      "Shoptype": 14,
+      "Itemid": "1,240041,1",
+      "Sequence": 3,
+      "Inventory": 10,
+      "Price": "1,16,128",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級深海化箱"
+      }
+    },
+    "40017": {
+      "Cuid": 40017,
+      "Id": 40017,
+      "Shoptype": 14,
+      "Itemid": "1,240042,1",
+      "Sequence": 1,
+      "Inventory": 5,
+      "Price": "1,16,320",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "40018": {
+      "Cuid": 40018,
+      "Id": 40018,
+      "Shoptype": 14,
+      "Itemid": "1,240016,1",
+      "Sequence": 6,
+      "Inventory": 20,
+      "Price": "1,16,96",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "初級裝備箱"
+      }
+    },
+    "40019": {
+      "Cuid": 40019,
+      "Id": 40019,
+      "Shoptype": 14,
+      "Itemid": "1,240007,1",
+      "Sequence": 4,
+      "Inventory": 10,
+      "Price": "1,16,320",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級裝備箱"
+      }
+    },
+    "40020": {
+      "Cuid": 40020,
+      "Id": 40020,
+      "Shoptype": 14,
+      "Itemid": "1,240203,1",
+      "Sequence": 2,
+      "Inventory": 5,
+      "Price": "1,16,640",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "40021": {
+      "Cuid": 40021,
+      "Id": 40021,
+      "Shoptype": 14,
+      "Itemid": "1,260001,1",
+      "Sequence": 9,
+      "Inventory": 50,
+      "Price": "1,16,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "40022": {
+      "Cuid": 40022,
+      "Id": 40022,
+      "Shoptype": 14,
+      "Itemid": "1,260002,1",
+      "Sequence": 10,
+      "Inventory": 50,
+      "Price": "1,16,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "40023": {
+      "Cuid": 40023,
+      "Id": 40023,
+      "Shoptype": 21,
+      "Itemid": "2,90011,1",
+      "Sequence": 1,
+      "Inventory": 3,
+      "Price": "1,27,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "40024": {
+      "Cuid": 40024,
+      "Id": 40024,
+      "Shoptype": 21,
+      "Itemid": "2,90010,1",
+      "Sequence": 2,
+      "Inventory": 10,
+      "Price": "1,27,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "40025": {
+      "Cuid": 40025,
+      "Id": 40025,
+      "Shoptype": 21,
+      "Itemid": "1,250017,1",
+      "Sequence": 3,
+      "Inventory": 1,
+      "Price": "1,27,40",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "T5裝備箱"
+      }
+    },
+    "40026": {
+      "Cuid": 40026,
+      "Id": 40026,
+      "Shoptype": 21,
+      "Itemid": "1,240052,1",
+      "Sequence": 5,
+      "Inventory": 5,
+      "Price": "1,27,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中型原石堆"
+      }
+    },
+    "40027": {
+      "Cuid": 40027,
+      "Id": 40027,
+      "Shoptype": 21,
+      "Itemid": "1,240060,1",
+      "Sequence": 4,
+      "Inventory": 2,
+      "Price": "1,27,48",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "小型結晶堆"
+      }
+    },
+    "40028": {
+      "Cuid": 40028,
+      "Id": 40028,
+      "Shoptype": 21,
+      "Itemid": "1,240054,1",
+      "Sequence": 6,
+      "Inventory": 5,
+      "Price": "1,27,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中型艦種結晶堆"
+      }
+    },
+    "40029": {
+      "Cuid": 40029,
+      "Id": 40029,
+      "Shoptype": 21,
+      "Itemid": "1,145001,1",
+      "Sequence": 7,
+      "Inventory": 10,
+      "Price": "1,27,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海尖晶"
+      }
+    },
+    "40030": {
+      "Cuid": 40030,
+      "Id": 40030,
+      "Shoptype": 21,
+      "Itemid": "1,145002,1",
+      "Sequence": 8,
+      "Inventory": 10,
+      "Price": "1,27,15",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "皮米材料"
+      }
+    },
+    "40101": {
+      "Cuid": 40101,
+      "Id": 40101,
+      "Shoptype": 17,
+      "Itemid": "2,50430,1",
+      "Sequence": 50,
+      "Inventory": 1,
+      "Price": "1,20,600",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "親潮"
+      }
+    },
+    "40102": {
+      "Cuid": 40102,
+      "Id": 40102,
+      "Shoptype": 17,
+      "Itemid": "2,90010,1",
+      "Sequence": 49,
+      "Inventory": 3,
+      "Price": "1,20,600",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "40103": {
+      "Cuid": 40103,
+      "Id": 40103,
+      "Shoptype": 17,
+      "Itemid": "1,145101,20",
+      "Sequence": 48,
+      "Inventory": 43,
+      "Price": "1,20,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．航母*20"
+      }
+    },
+    "40104": {
+      "Cuid": 40104,
+      "Id": 40104,
+      "Shoptype": 17,
+      "Itemid": "1,145301,20",
+      "Sequence": 47,
+      "Inventory": 43,
+      "Price": "1,20,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．輕巡*20"
+      }
+    },
+    "40105": {
+      "Cuid": 40105,
+      "Id": 40105,
+      "Shoptype": 17,
+      "Itemid": "1,145401,20",
+      "Sequence": 46,
+      "Inventory": 43,
+      "Price": "1,20,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．重巡*20"
+      }
+    },
+    "40106": {
+      "Cuid": 40106,
+      "Id": 40106,
+      "Shoptype": 17,
+      "Itemid": "1,145501,20",
+      "Sequence": 45,
+      "Inventory": 43,
+      "Price": "1,20,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．驅逐*20"
+      }
+    },
+    "40107": {
+      "Cuid": 40107,
+      "Id": 40107,
+      "Shoptype": 17,
+      "Itemid": "1,145601,20",
+      "Sequence": 44,
+      "Inventory": 43,
+      "Price": "1,20,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．戰艦*20"
+      }
+    },
+    "40108": {
+      "Cuid": 40108,
+      "Id": 40108,
+      "Shoptype": 17,
+      "Itemid": "1,144008,1",
+      "Sequence": 43,
+      "Inventory": 10,
+      "Price": "1,20,48",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．神代"
+      }
+    },
+    "40109": {
+      "Cuid": 40109,
+      "Id": 40109,
+      "Shoptype": 17,
+      "Itemid": "1,144009,1",
+      "Sequence": 42,
+      "Inventory": 10,
+      "Price": "1,20,48",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．銀翼"
+      }
+    },
+    "40110": {
+      "Cuid": 40110,
+      "Id": 40110,
+      "Shoptype": 17,
+      "Itemid": "1,144010,1",
+      "Sequence": 41,
+      "Inventory": 10,
+      "Price": "1,20,48",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．薔薇"
+      }
+    },
+    "40111": {
+      "Cuid": 40111,
+      "Id": 40111,
+      "Shoptype": 17,
+      "Itemid": "1,144011,1",
+      "Sequence": 40,
+      "Inventory": 10,
+      "Price": "1,20,48",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．黑鋒"
+      }
+    },
+    "40112": {
+      "Cuid": 40112,
+      "Id": 40112,
+      "Shoptype": 17,
+      "Itemid": "1,143008,2",
+      "Sequence": 39,
+      "Inventory": 102,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．神代*2"
+      }
+    },
+    "40113": {
+      "Cuid": 40113,
+      "Id": 40113,
+      "Shoptype": 17,
+      "Itemid": "1,143009,2",
+      "Sequence": 38,
+      "Inventory": 102,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．銀翼*2"
+      }
+    },
+    "40114": {
+      "Cuid": 40114,
+      "Id": 40114,
+      "Shoptype": 17,
+      "Itemid": "1,143010,2",
+      "Sequence": 37,
+      "Inventory": 102,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．薔薇*2"
+      }
+    },
+    "40115": {
+      "Cuid": 40115,
+      "Id": 40115,
+      "Shoptype": 17,
+      "Itemid": "1,143011,2",
+      "Sequence": 36,
+      "Inventory": 102,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．黑鋒*2"
+      }
+    },
+    "40116": {
+      "Cuid": 40116,
+      "Id": 40116,
+      "Shoptype": 17,
+      "Itemid": "1,142008,4",
+      "Sequence": 35,
+      "Inventory": 139,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．神代*4"
+      }
+    },
+    "40117": {
+      "Cuid": 40117,
+      "Id": 40117,
+      "Shoptype": 17,
+      "Itemid": "1,142009,4",
+      "Sequence": 34,
+      "Inventory": 139,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．銀翼*4"
+      }
+    },
+    "40118": {
+      "Cuid": 40118,
+      "Id": 40118,
+      "Shoptype": 17,
+      "Itemid": "1,142010,4",
+      "Sequence": 33,
+      "Inventory": 139,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．薔薇*4"
+      }
+    },
+    "40119": {
+      "Cuid": 40119,
+      "Id": 40119,
+      "Shoptype": 17,
+      "Itemid": "1,142011,4",
+      "Sequence": 32,
+      "Inventory": 139,
+      "Price": "1,20,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．黑鋒*4"
+      }
+    },
+    "40120": {
+      "Cuid": 40120,
+      "Id": 40120,
+      "Shoptype": 17,
+      "Itemid": "1,135000,500",
+      "Sequence": 31,
+      "Inventory": 40,
+      "Price": "1,20,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件*500"
+      }
+    },
+    "40121": {
+      "Cuid": 40121,
+      "Id": 40121,
+      "Shoptype": 17,
+      "Itemid": "1,260001,1",
+      "Sequence": 30,
+      "Inventory": 500,
+      "Price": "1,20,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "40122": {
+      "Cuid": 40122,
+      "Id": 40122,
+      "Shoptype": 17,
+      "Itemid": "1,260002,1",
+      "Sequence": 29,
+      "Inventory": 500,
+      "Price": "1,20,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "40123": {
+      "Cuid": 40123,
+      "Id": 40123,
+      "Shoptype": 17,
+      "Itemid": "1,240206,1",
+      "Sequence": 48,
+      "Inventory": 10,
+      "Price": "1,20,150",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "40124": {
+      "Cuid": 40124,
+      "Id": 40124,
+      "Shoptype": 17,
+      "Itemid": "1,240205,1",
+      "Sequence": 47,
+      "Inventory": 20,
+      "Price": "1,20,40",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級深海化箱"
+      }
+    },
+    "40125": {
+      "Cuid": 40125,
+      "Id": 40125,
+      "Shoptype": 17,
+      "Itemid": "1,240207,20",
+      "Sequence": 46,
+      "Inventory": 40,
+      "Price": "1,20,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海化材料艦種箱*20"
+      }
+    },
+    "40126": {
+      "Cuid": 40126,
+      "Id": 40126,
+      "Shoptype": 17,
+      "Itemid": "1,240201,1",
+      "Sequence": 44,
+      "Inventory": 20,
+      "Price": "1,20,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "初級裝備箱"
+      }
+    },
+    "40127": {
+      "Cuid": 40127,
+      "Id": 40127,
+      "Shoptype": 17,
+      "Itemid": "1,240202,1",
+      "Sequence": 45,
+      "Inventory": 20,
+      "Price": "1,20,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級裝備箱"
+      }
+    },
+    "40201": {
+      "Cuid": 40201,
+      "Id": 40201,
+      "Shoptype": 16,
+      "Itemid": "2,10160,1",
+      "Sequence": 50,
+      "Inventory": 1,
+      "Price": "1,21,4500",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "約克鎮"
+      }
+    },
+    "40202": {
+      "Cuid": 40202,
+      "Id": 40202,
+      "Shoptype": 16,
+      "Itemid": "6,301010001,1",
+      "Sequence": 49,
+      "Inventory": 1,
+      "Price": "1,21,3200",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "SBD（貝斯特隊）"
+      }
+    },
+    "40203": {
+      "Cuid": 40203,
+      "Id": 40203,
+      "Shoptype": 16,
+      "Itemid": "6,301016001,1",
+      "Sequence": 48,
+      "Inventory": 1,
+      "Price": "1,21,3200",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "F4F戰鬥機"
+      }
+    },
+    "40204": {
+      "Cuid": 40204,
+      "Id": 40204,
+      "Shoptype": 16,
+      "Itemid": "2,90011,1",
+      "Sequence": 47,
+      "Inventory": 1,
+      "Price": "1,21,3000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "40205": {
+      "Cuid": 40205,
+      "Id": 40205,
+      "Shoptype": 16,
+      "Itemid": "2,90010,1",
+      "Sequence": 46,
+      "Inventory": 3,
+      "Price": "1,21,600",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "40206": {
+      "Cuid": 40206,
+      "Id": 40206,
+      "Shoptype": 16,
+      "Itemid": "1,145101,20",
+      "Sequence": 45,
+      "Inventory": 43,
+      "Price": "1,21,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．航母*20"
+      }
+    },
+    "40207": {
+      "Cuid": 40207,
+      "Id": 40207,
+      "Shoptype": 16,
+      "Itemid": "1,145301,20",
+      "Sequence": 44,
+      "Inventory": 43,
+      "Price": "1,21,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．輕巡*20"
+      }
+    },
+    "40208": {
+      "Cuid": 40208,
+      "Id": 40208,
+      "Shoptype": 16,
+      "Itemid": "1,145401,20",
+      "Sequence": 43,
+      "Inventory": 43,
+      "Price": "1,21,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．重巡*20"
+      }
+    },
+    "40209": {
+      "Cuid": 40209,
+      "Id": 40209,
+      "Shoptype": 16,
+      "Itemid": "1,145501,20",
+      "Sequence": 42,
+      "Inventory": 43,
+      "Price": "1,21,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．驅逐*20"
+      }
+    },
+    "40210": {
+      "Cuid": 40210,
+      "Id": 40210,
+      "Shoptype": 16,
+      "Itemid": "1,145601,20",
+      "Sequence": 41,
+      "Inventory": 43,
+      "Price": "1,21,60",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．戰艦*20"
+      }
+    },
+    "40211": {
+      "Cuid": 40211,
+      "Id": 40211,
+      "Shoptype": 16,
+      "Itemid": "1,144008,1",
+      "Sequence": 40,
+      "Inventory": 75,
+      "Price": "1,21,36",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．神代"
+      }
+    },
+    "40212": {
+      "Cuid": 40212,
+      "Id": 40212,
+      "Shoptype": 16,
+      "Itemid": "1,144009,5",
+      "Sequence": 39,
+      "Inventory": 20,
+      "Price": "1,21,240",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．銀翼*5"
+      }
+    },
+    "40213": {
+      "Cuid": 40213,
+      "Id": 40213,
+      "Shoptype": 16,
+      "Itemid": "1,144010,1",
+      "Sequence": 38,
+      "Inventory": 75,
+      "Price": "1,21,36",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．薔薇"
+      }
+    },
+    "40214": {
+      "Cuid": 40214,
+      "Id": 40214,
+      "Shoptype": 16,
+      "Itemid": "1,144011,1",
+      "Sequence": 37,
+      "Inventory": 75,
+      "Price": "1,21,36",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．黑鋒"
+      }
+    },
+    "40215": {
+      "Cuid": 40215,
+      "Id": 40215,
+      "Shoptype": 16,
+      "Itemid": "1,143008,2",
+      "Sequence": 36,
+      "Inventory": 171,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．神代*2"
+      }
+    },
+    "40216": {
+      "Cuid": 40216,
+      "Id": 40216,
+      "Shoptype": 16,
+      "Itemid": "1,143009,2",
+      "Sequence": 35,
+      "Inventory": 171,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．銀翼*2"
+      }
+    },
+    "40217": {
+      "Cuid": 40217,
+      "Id": 40217,
+      "Shoptype": 16,
+      "Itemid": "1,143010,2",
+      "Sequence": 34,
+      "Inventory": 171,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．薔薇*2"
+      }
+    },
+    "40218": {
+      "Cuid": 40218,
+      "Id": 40218,
+      "Shoptype": 16,
+      "Itemid": "1,143011,2",
+      "Sequence": 33,
+      "Inventory": 171,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．黑鋒*2"
+      }
+    },
+    "40219": {
+      "Cuid": 40219,
+      "Id": 40219,
+      "Shoptype": 16,
+      "Itemid": "1,142008,4",
+      "Sequence": 32,
+      "Inventory": 139,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．神代*4"
+      }
+    },
+    "40220": {
+      "Cuid": 40220,
+      "Id": 40220,
+      "Shoptype": 16,
+      "Itemid": "1,142009,4",
+      "Sequence": 31,
+      "Inventory": 139,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．銀翼*4"
+      }
+    },
+    "40221": {
+      "Cuid": 40221,
+      "Id": 40221,
+      "Shoptype": 16,
+      "Itemid": "1,142010,4",
+      "Sequence": 30,
+      "Inventory": 139,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．薔薇*4"
+      }
+    },
+    "40222": {
+      "Cuid": 40222,
+      "Id": 40222,
+      "Shoptype": 16,
+      "Itemid": "1,142011,4",
+      "Sequence": 29,
+      "Inventory": 139,
+      "Price": "1,21,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．黑鋒*4"
+      }
+    },
+    "40223": {
+      "Cuid": 40223,
+      "Id": 40223,
+      "Shoptype": 16,
+      "Itemid": "1,135000,200",
+      "Sequence": 28,
+      "Inventory": 69,
+      "Price": "1,21,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "奈米神經元件*200"
+      }
+    },
+    "40224": {
+      "Cuid": 40224,
+      "Id": 40224,
+      "Shoptype": 16,
+      "Itemid": "1,260001,1",
+      "Sequence": 27,
+      "Inventory": 500,
+      "Price": "1,21,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "40225": {
+      "Cuid": 40225,
+      "Id": 40225,
+      "Shoptype": 16,
+      "Itemid": "1,260002,1",
+      "Sequence": 26,
+      "Inventory": 500,
+      "Price": "1,21,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "40226": {
+      "Cuid": 40226,
+      "Id": 40226,
+      "Shoptype": 16,
+      "Itemid": "1,240206,1",
+      "Sequence": 45,
+      "Inventory": 30,
+      "Price": "1,20,150",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "40227": {
+      "Cuid": 40227,
+      "Id": 40227,
+      "Shoptype": 16,
+      "Itemid": "1,145002,100",
+      "Sequence": 38,
+      "Inventory": 25,
+      "Price": "1,20,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "皮米材料*100"
+      }
+    },
+    "40228": {
+      "Cuid": 40228,
+      "Id": 40228,
+      "Shoptype": 16,
+      "Itemid": "1,145001,50",
+      "Sequence": 37,
+      "Inventory": 10,
+      "Price": "1,20,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海尖晶*50"
+      }
+    },
+    "40229": {
+      "Cuid": 40229,
+      "Id": 40229,
+      "Shoptype": 16,
+      "Itemid": "1,240203,1",
+      "Sequence": 44,
+      "Inventory": 5,
+      "Price": "1,20,400",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "50001": {
+      "Cuid": 50001,
+      "Id": 50001,
+      "Shoptype": 18,
+      "Itemid": "2,50400,1",
+      "Sequence": 49,
+      "Inventory": 5,
+      "Price": "1,23,800",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "唐斯"
+      }
+    },
+    "50002": {
+      "Cuid": 50002,
+      "Id": 50002,
+      "Shoptype": 18,
+      "Itemid": "2,90010,1",
+      "Sequence": 48,
+      "Inventory": 3,
+      "Price": "1,22,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "50003": {
+      "Cuid": 50003,
+      "Id": 50003,
+      "Shoptype": 18,
+      "Itemid": "1,145101,8",
+      "Sequence": 46,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．航母*8"
+      }
+    },
+    "50004": {
+      "Cuid": 50004,
+      "Id": 50004,
+      "Shoptype": 18,
+      "Itemid": "1,145301,8",
+      "Sequence": 45,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．輕巡*8"
+      }
+    },
+    "50005": {
+      "Cuid": 50005,
+      "Id": 50005,
+      "Shoptype": 18,
+      "Itemid": "1,145401,8",
+      "Sequence": 44,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．重巡*8"
+      }
+    },
+    "50006": {
+      "Cuid": 50006,
+      "Id": 50006,
+      "Shoptype": 18,
+      "Itemid": "1,145501,8",
+      "Sequence": 43,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．驅逐*8"
+      }
+    },
+    "50007": {
+      "Cuid": 50007,
+      "Id": 50007,
+      "Shoptype": 18,
+      "Itemid": "1,145601,8",
+      "Sequence": 42,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．戰艦*8"
+      }
+    },
+    "50008": {
+      "Cuid": 50008,
+      "Id": 50008,
+      "Shoptype": 18,
+      "Itemid": "1,144008,1",
+      "Sequence": 41,
+      "Inventory": 10,
+      "Price": "1,22,24",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．神代"
+      }
+    },
+    "50009": {
+      "Cuid": 50009,
+      "Id": 50009,
+      "Shoptype": 18,
+      "Itemid": "1,144009,1",
+      "Sequence": 40,
+      "Inventory": 10,
+      "Price": "1,22,24",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．銀翼"
+      }
+    },
+    "50010": {
+      "Cuid": 50010,
+      "Id": 50010,
+      "Shoptype": 18,
+      "Itemid": "1,144010,1",
+      "Sequence": 39,
+      "Inventory": 10,
+      "Price": "1,22,24",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．薔薇"
+      }
+    },
+    "50011": {
+      "Cuid": 50011,
+      "Id": 50011,
+      "Shoptype": 18,
+      "Itemid": "1,144011,1",
+      "Sequence": 38,
+      "Inventory": 10,
+      "Price": "1,22,24",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．黑鋒"
+      }
+    },
+    "50012": {
+      "Cuid": 50012,
+      "Id": 50012,
+      "Shoptype": 18,
+      "Itemid": "1,143008,10",
+      "Sequence": 37,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．神代*10"
+      }
+    },
+    "50013": {
+      "Cuid": 50013,
+      "Id": 50013,
+      "Shoptype": 18,
+      "Itemid": "1,143009,10",
+      "Sequence": 36,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．銀翼*10"
+      }
+    },
+    "50014": {
+      "Cuid": 50014,
+      "Id": 50014,
+      "Shoptype": 18,
+      "Itemid": "1,143010,10",
+      "Sequence": 35,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．薔薇*10"
+      }
+    },
+    "50015": {
+      "Cuid": 50015,
+      "Id": 50015,
+      "Shoptype": 18,
+      "Itemid": "1,143011,10",
+      "Sequence": 34,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．黑鋒*10"
+      }
+    },
+    "50016": {
+      "Cuid": 50016,
+      "Id": 50016,
+      "Shoptype": 18,
+      "Itemid": "1,142008,8",
+      "Sequence": 33,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．神代*8"
+      }
+    },
+    "50017": {
+      "Cuid": 50017,
+      "Id": 50017,
+      "Shoptype": 18,
+      "Itemid": "1,142009,8",
+      "Sequence": 32,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．銀翼*8"
+      }
+    },
+    "50018": {
+      "Cuid": 50018,
+      "Id": 50018,
+      "Shoptype": 18,
+      "Itemid": "1,142010,8",
+      "Sequence": 31,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．薔薇*8"
+      }
+    },
+    "50019": {
+      "Cuid": 50019,
+      "Id": 50019,
+      "Shoptype": 18,
+      "Itemid": "1,142011,8",
+      "Sequence": 30,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．黑鋒*8"
+      }
+    },
+    "50020": {
+      "Cuid": 50020,
+      "Id": 50020,
+      "Shoptype": 18,
+      "Itemid": "1,260001,1",
+      "Sequence": 26,
+      "Inventory": 999,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "50021": {
+      "Cuid": 50021,
+      "Id": 50021,
+      "Shoptype": 18,
+      "Itemid": "1,260002,1",
+      "Sequence": 25,
+      "Inventory": 999,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "50022": {
+      "Cuid": 50022,
+      "Id": 50022,
+      "Shoptype": 18,
+      "Itemid": "1,260001,1",
+      "Sequence": 28,
+      "Inventory": 0,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "50023": {
+      "Cuid": 50023,
+      "Id": 50023,
+      "Shoptype": 18,
+      "Itemid": "1,260002,1",
+      "Sequence": 27,
+      "Inventory": 0,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "50024": {
+      "Cuid": 50024,
+      "Id": 50024,
+      "Shoptype": 18,
+      "Itemid": "2,60380,1",
+      "Sequence": 52,
+      "Inventory": 1,
+      "Price": "1,22,1500",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "科羅拉多"
+      }
+    },
+    "50025": {
+      "Cuid": 50025,
+      "Id": 50025,
+      "Shoptype": 18,
+      "Itemid": "1,680108,1",
+      "Sequence": 51,
+      "Inventory": 1,
+      "Price": "1,23,500",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "銀翼財團主題基地背景"
+      }
+    },
+    "50026": {
+      "Cuid": 50026,
+      "Id": 50026,
+      "Shoptype": 18,
+      "Itemid": "6,603018001,1",
+      "Sequence": 50,
+      "Inventory": 1,
+      "Price": "1,23,600",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "SG雷達"
+      }
+    },
+    "50027": {
+      "Cuid": 50027,
+      "Id": 50027,
+      "Shoptype": 18,
+      "Itemid": "2,90011,1",
+      "Sequence": 49,
+      "Inventory": 1,
+      "Price": "1,22,500",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "50028": {
+      "Cuid": 50028,
+      "Id": 50028,
+      "Shoptype": 18,
+      "Itemid": "1,135000,500",
+      "Sequence": 29,
+      "Inventory": 40,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件*500"
+      }
+    },
+    "50029": {
+      "Cuid": 50029,
+      "Id": 50029,
+      "Shoptype": 18,
+      "Itemid": "1,240021,1",
+      "Sequence": 47,
+      "Inventory": 10,
+      "Price": "1,22,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "50030": {
+      "Cuid": 50030,
+      "Id": 50030,
+      "Shoptype": 18,
+      "Itemid": "1,2,1000",
+      "Sequence": 23,
+      "Inventory": 9999,
+      "Price": "1,22,1",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "BP*1000"
+      }
+    },
+    "50031": {
+      "Cuid": 50031,
+      "Id": 50031,
+      "Shoptype": 18,
+      "Itemid": "1,145002,120",
+      "Sequence": 27,
+      "Inventory": 10,
+      "Price": "1,23,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "皮米材料*120"
+      }
+    },
+    "50032": {
+      "Cuid": 50032,
+      "Id": 50032,
+      "Shoptype": 18,
+      "Itemid": "1,145001,40",
+      "Sequence": 28,
+      "Inventory": 5,
+      "Price": "1,23,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海尖晶*40"
+      }
+    },
+    "50033": {
+      "Cuid": 50033,
+      "Id": 50033,
+      "Shoptype": 18,
+      "Itemid": "1,2,2000",
+      "Sequence": 24,
+      "Inventory": 9999,
+      "Price": "1,23,1",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "BP*2000"
+      }
+    },
+    "50034": {
+      "Cuid": 50034,
+      "Id": 50034,
+      "Shoptype": 18,
+      "Itemid": "1,240206,1",
+      "Sequence": 46,
+      "Inventory": 10,
+      "Price": "1,22,75",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "50035": {
+      "Cuid": 50035,
+      "Id": 50035,
+      "Shoptype": 18,
+      "Itemid": "1,240205,1",
+      "Sequence": 45,
+      "Inventory": 20,
+      "Price": "1,22,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級深海化箱"
+      }
+    },
+    "50036": {
+      "Cuid": 50036,
+      "Id": 50036,
+      "Shoptype": 18,
+      "Itemid": "1,240207,20",
+      "Sequence": 44,
+      "Inventory": 40,
+      "Price": "1,22,30",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海化材料艦種箱*20"
+      }
+    },
+    "50037": {
+      "Cuid": 50037,
+      "Id": 50037,
+      "Shoptype": 18,
+      "Itemid": "1,240201,1",
+      "Sequence": 42,
+      "Inventory": 20,
+      "Price": "1,22,15",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "初級裝備箱"
+      }
+    },
+    "50038": {
+      "Cuid": 50038,
+      "Id": 50038,
+      "Shoptype": 18,
+      "Itemid": "1,240202,1",
+      "Sequence": 43,
+      "Inventory": 20,
+      "Price": "1,22,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中級裝備箱"
+      }
+    },
+    "50039": {
+      "Cuid": 50039,
+      "Id": 50039,
+      "Shoptype": 18,
+      "Itemid": "6,601012001,1",
+      "Sequence": 47,
+      "Inventory": 1,
+      "Price": "1,22,600",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "280B型對空雷達"
+      }
+    },
+    "50101": {
+      "Cuid": 50101,
+      "Id": 50101,
+      "Shoptype": 19,
+      "Itemid": "2,60380,1",
+      "Sequence": 50,
+      "Inventory": 4,
+      "Price": "1,23,1000",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "科羅拉多"
+      }
+    },
+    "50102": {
+      "Cuid": 50102,
+      "Id": 50102,
+      "Shoptype": 19,
+      "Itemid": "2,90010,1",
+      "Sequence": 48,
+      "Inventory": 3,
+      "Price": "1,23,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "50103": {
+      "Cuid": 50103,
+      "Id": 50103,
+      "Shoptype": 19,
+      "Itemid": "1,240021,1",
+      "Sequence": 48,
+      "Inventory": 5,
+      "Price": "1,22,500",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "50104": {
+      "Cuid": 50104,
+      "Id": 50104,
+      "Shoptype": 19,
+      "Itemid": "1,145101,8",
+      "Sequence": 46,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．航母*8"
+      }
+    },
+    "50105": {
+      "Cuid": 50105,
+      "Id": 50105,
+      "Shoptype": 19,
+      "Itemid": "1,145301,8",
+      "Sequence": 45,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．輕巡*8"
+      }
+    },
+    "50106": {
+      "Cuid": 50106,
+      "Id": 50106,
+      "Shoptype": 19,
+      "Itemid": "1,145401,8",
+      "Sequence": 44,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．重巡*8"
+      }
+    },
+    "50107": {
+      "Cuid": 50107,
+      "Id": 50107,
+      "Shoptype": 19,
+      "Itemid": "1,145501,8",
+      "Sequence": 43,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．驅逐*8"
+      }
+    },
+    "50108": {
+      "Cuid": 50108,
+      "Id": 50108,
+      "Shoptype": 19,
+      "Itemid": "1,145601,8",
+      "Sequence": 42,
+      "Inventory": 108,
+      "Price": "1,22,12",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．戰艦*8"
+      }
+    },
+    "50109": {
+      "Cuid": 50109,
+      "Id": 50109,
+      "Shoptype": 19,
+      "Itemid": "1,144008,10",
+      "Sequence": 41,
+      "Inventory": 7,
+      "Price": "1,22,180",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．神代*10"
+      }
+    },
+    "50110": {
+      "Cuid": 50110,
+      "Id": 50110,
+      "Shoptype": 19,
+      "Itemid": "1,144009,5",
+      "Sequence": 40,
+      "Inventory": 20,
+      "Price": "1,23,120",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶．銀翼*5"
+      }
+    },
+    "50111": {
+      "Cuid": 50111,
+      "Id": 50111,
+      "Shoptype": 19,
+      "Itemid": "1,144010,10",
+      "Sequence": 39,
+      "Inventory": 7,
+      "Price": "1,22,180",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．薔薇*10"
+      }
+    },
+    "50112": {
+      "Cuid": 50112,
+      "Id": 50112,
+      "Shoptype": 19,
+      "Itemid": "1,144011,10",
+      "Sequence": 38,
+      "Inventory": 7,
+      "Price": "1,22,180",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海結晶．黑鋒*10"
+      }
+    },
+    "50113": {
+      "Cuid": 50113,
+      "Id": 50113,
+      "Shoptype": 19,
+      "Itemid": "1,143008,10",
+      "Sequence": 37,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．神代*10"
+      }
+    },
+    "50114": {
+      "Cuid": 50114,
+      "Id": 50114,
+      "Shoptype": 19,
+      "Itemid": "1,143009,10",
+      "Sequence": 36,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．銀翼*10"
+      }
+    },
+    "50115": {
+      "Cuid": 50115,
+      "Id": 50115,
+      "Shoptype": 19,
+      "Itemid": "1,143010,10",
+      "Sequence": 35,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．薔薇*10"
+      }
+    },
+    "50116": {
+      "Cuid": 50116,
+      "Id": 50116,
+      "Shoptype": 19,
+      "Itemid": "1,143011,10",
+      "Sequence": 34,
+      "Inventory": 20,
+      "Price": "1,22,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海原石．黑鋒*10"
+      }
+    },
+    "50117": {
+      "Cuid": 50117,
+      "Id": 50117,
+      "Shoptype": 19,
+      "Itemid": "1,142008,8",
+      "Sequence": 33,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．神代*8"
+      }
+    },
+    "50118": {
+      "Cuid": 50118,
+      "Id": 50118,
+      "Shoptype": 19,
+      "Itemid": "1,142009,8",
+      "Sequence": 32,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．銀翼*8"
+      }
+    },
+    "50119": {
+      "Cuid": 50119,
+      "Id": 50119,
+      "Shoptype": 19,
+      "Itemid": "1,142010,8",
+      "Sequence": 31,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．薔薇*8"
+      }
+    },
+    "50120": {
+      "Cuid": 50120,
+      "Id": 50120,
+      "Shoptype": 19,
+      "Itemid": "1,142011,8",
+      "Sequence": 30,
+      "Inventory": 69,
+      "Price": "1,22,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "深海污泥．黑鋒*8"
+      }
+    },
+    "50121": {
+      "Cuid": 50121,
+      "Id": 50121,
+      "Shoptype": 19,
+      "Itemid": "1,260001,1",
+      "Sequence": 30,
+      "Inventory": 999,
+      "Price": "1,23,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "50122": {
+      "Cuid": 50122,
+      "Id": 50122,
+      "Shoptype": 19,
+      "Itemid": "1,260002,1",
+      "Sequence": 29,
+      "Inventory": 999,
+      "Price": "1,23,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "50123": {
+      "Cuid": 50123,
+      "Id": 50123,
+      "Shoptype": 19,
+      "Itemid": "2,50090,1",
+      "Sequence": 51,
+      "Inventory": 1,
+      "Price": "1,23,2250",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "馬漢"
+      }
+    },
+    "50124": {
+      "Cuid": 50124,
+      "Id": 50124,
+      "Shoptype": 19,
+      "Itemid": "2,90011,1",
+      "Sequence": 49,
+      "Inventory": 1,
+      "Price": "1,23,500",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "50125": {
+      "Cuid": 50125,
+      "Id": 50125,
+      "Shoptype": 19,
+      "Itemid": "1,135000,1000",
+      "Sequence": 29,
+      "Inventory": 13,
+      "Price": "1,22,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "奈米神經元件*1000"
+      }
+    },
+    "50126": {
+      "Cuid": 50126,
+      "Id": 50126,
+      "Shoptype": 19,
+      "Itemid": "6,205009001,1",
+      "Sequence": 50,
+      "Inventory": 1,
+      "Price": "1,22,1600",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "四聯裝533mm魚雷MK15"
+      }
+    },
+    "50127": {
+      "Cuid": 50127,
+      "Id": 50127,
+      "Shoptype": 19,
+      "Itemid": "1,460103,1",
+      "Sequence": 47,
+      "Inventory": 10,
+      "Price": "1,23,750",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "銀翼家具箱"
+      }
+    },
+    "50128": {
+      "Cuid": 50128,
+      "Id": 50128,
+      "Shoptype": 19,
+      "Itemid": "1,240203,1",
+      "Sequence": 47,
+      "Inventory": 20,
+      "Price": "1,23,200",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "50129": {
+      "Cuid": 50129,
+      "Id": 50129,
+      "Shoptype": 19,
+      "Itemid": "1,240206,1",
+      "Sequence": 46,
+      "Inventory": 10,
+      "Price": "1,23,75",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "50201": {
+      "Cuid": 50201,
+      "Id": 50201,
+      "Shoptype": 20,
+      "Itemid": "2,50090,1",
+      "Sequence": 51,
+      "Inventory": 1,
+      "Price": "1,23,6000",
+      "Condition": null,
+      "Hot": 4,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "馬漢"
+      }
+    },
+    "50202": {
+      "Cuid": 50202,
+      "Id": 50202,
+      "Shoptype": 20,
+      "Itemid": "2,90011,1",
+      "Sequence": 48,
+      "Inventory": 2,
+      "Price": "1,23,5000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "50203": {
+      "Cuid": 50203,
+      "Id": 50203,
+      "Shoptype": 20,
+      "Itemid": "6,205009001,1",
+      "Sequence": 45,
+      "Inventory": 1,
+      "Price": "1,23,5000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "四聯裝533mm魚雷MK15"
+      }
+    },
+    "50204": {
+      "Cuid": 50204,
+      "Id": 50204,
+      "Shoptype": 20,
+      "Itemid": "6,301001001,1",
+      "Sequence": 44,
+      "Inventory": 1,
+      "Price": "1,23,5000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "CVW-5聯隊"
+      }
+    },
+    "50212": {
+      "Cuid": 50212,
+      "Id": 50212,
+      "Shoptype": 20,
+      "Itemid": "1,2,50000",
+      "Sequence": 3,
+      "Inventory": 200,
+      "Price": "1,23,500",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": false,
+      "LangStringTable": {
+        "Name": "BP*50000"
+      }
+    },
+    "50213": {
+      "Cuid": 50213,
+      "Id": 50213,
+      "Shoptype": 20,
+      "Itemid": "1,260001,1",
+      "Sequence": 30,
+      "Inventory": 100,
+      "Price": "1,22,8",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "50214": {
+      "Cuid": 50214,
+      "Id": 50214,
+      "Shoptype": 20,
+      "Itemid": "1,260002,1",
+      "Sequence": 29,
+      "Inventory": 100,
+      "Price": "1,22,8",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "999801": {
+      "Cuid": 999801,
+      "Id": 999801,
+      "Shoptype": 9998,
+      "Itemid": "1,990001,1",
+      "Sequence": 1,
+      "Inventory": 0,
+      "Price": "1,17,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "定點爆破器"
+      }
+    },
+    "999802": {
+      "Cuid": 999802,
+      "Id": 999802,
+      "Shoptype": 9998,
+      "Itemid": "1,990002,1",
+      "Sequence": 2,
+      "Inventory": 0,
+      "Price": "1,17,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "地震精密測量儀"
+      }
+    },
+    "999803": {
+      "Cuid": 999803,
+      "Id": 999803,
+      "Shoptype": 9998,
+      "Itemid": "1,990003,1",
+      "Sequence": 3,
+      "Inventory": 0,
+      "Price": "1,17,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "重力測量儀"
+      }
+    },
+    "999804": {
+      "Cuid": 999804,
+      "Id": 999804,
+      "Shoptype": 9998,
+      "Itemid": "1,990004,1",
+      "Sequence": 6,
+      "Inventory": 0,
+      "Price": "1,1,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "磁力儀"
+      }
+    },
+    "999805": {
+      "Cuid": 999805,
+      "Id": 999805,
+      "Shoptype": 9998,
+      "Itemid": "1,990005,1",
+      "Sequence": 5,
+      "Inventory": 0,
+      "Price": "1,1,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "不穩定炸藥"
+      }
+    },
+    "999806": {
+      "Cuid": 999806,
+      "Id": 999806,
+      "Shoptype": 9998,
+      "Itemid": "1,990006,1",
+      "Sequence": 4,
+      "Inventory": 0,
+      "Price": "1,17,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高精度磁力儀"
+      }
+    },
+    "999807": {
+      "Cuid": 999807,
+      "Id": 999807,
+      "Shoptype": 9998,
+      "Itemid": "1,990007,1",
+      "Sequence": 7,
+      "Inventory": 0,
+      "Price": "1,1,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "電流勘探儀"
+      }
+    },
+    "999808": {
+      "Cuid": 999808,
+      "Id": 999808,
+      "Shoptype": 9998,
+      "Itemid": "1,990008,1",
+      "Sequence": 8,
+      "Inventory": 0,
+      "Price": "1,1,100",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "全覆蓋偵測儀"
+      }
+    },
+    "999901": {
+      "Cuid": 999901,
+      "Id": 999901,
+      "Shoptype": 9999,
+      "Itemid": "2,90011,1",
+      "Sequence": 12,
+      "Inventory": 1,
+      "Price": "1,18,300",
+      "Condition": null,
+      "Hot": 2,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "S型人偶"
+      }
+    },
+    "999902": {
+      "Cuid": 999902,
+      "Id": 999902,
+      "Shoptype": 9999,
+      "Itemid": "2,90010,1",
+      "Sequence": 11,
+      "Inventory": 5,
+      "Price": "1,18,40",
+      "Condition": null,
+      "Hot": 2,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "A型人偶"
+      }
+    },
+    "999904": {
+      "Cuid": 999904,
+      "Id": 999904,
+      "Shoptype": 9999,
+      "Itemid": "1,260001,1",
+      "Sequence": 7,
+      "Inventory": 200,
+      "Price": "1,18,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐"
+      }
+    },
+    "999905": {
+      "Cuid": 999905,
+      "Id": 999905,
+      "Shoptype": 9999,
+      "Itemid": "1,240206,1",
+      "Sequence": 10,
+      "Inventory": 5,
+      "Price": "1,18,20",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級深海化箱"
+      }
+    },
+    "999906": {
+      "Cuid": 999906,
+      "Id": 999906,
+      "Shoptype": 9999,
+      "Itemid": "1,260002,1",
+      "Sequence": 6,
+      "Inventory": 200,
+      "Price": "1,18,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡．60min"
+      }
+    },
+    "999907": {
+      "Cuid": 999907,
+      "Id": 999907,
+      "Shoptype": 9999,
+      "Itemid": "1,240203,1",
+      "Sequence": 11,
+      "Inventory": 5,
+      "Price": "1,18,40",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "高級裝備箱"
+      }
+    },
+    "999909": {
+      "Cuid": 999909,
+      "Id": 999909,
+      "Shoptype": 9999,
+      "Itemid": "1,135000,200",
+      "Sequence": 8,
+      "Inventory": 5,
+      "Price": "1,18,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件*200"
+      }
+    },
+    "999910": {
+      "Cuid": 999910,
+      "Id": 999910,
+      "Shoptype": 9999,
+      "Itemid": "1,160001,1",
+      "Sequence": 9,
+      "Inventory": 5,
+      "Price": "1,18,40",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "徵招合約"
+      }
+    }
+  }
+}

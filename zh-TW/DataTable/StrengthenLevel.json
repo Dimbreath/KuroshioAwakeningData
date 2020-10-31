@@ -1,0 +1,490 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Levelid": 1,
+      "Icardexptonextlevel": 50,
+      "Ncardexptonextlevel": 50,
+      "Rcardexptonextlevel": 50,
+      "Srcardexptonextlevel": 50,
+      "Ssrcardexptonextlevel": 50
+    },
+    "2": {
+      "Cuid": 2,
+      "Levelid": 2,
+      "Icardexptonextlevel": 80,
+      "Ncardexptonextlevel": 80,
+      "Rcardexptonextlevel": 80,
+      "Srcardexptonextlevel": 100,
+      "Ssrcardexptonextlevel": 110
+    },
+    "3": {
+      "Cuid": 3,
+      "Levelid": 3,
+      "Icardexptonextlevel": 82,
+      "Ncardexptonextlevel": 82,
+      "Rcardexptonextlevel": 82,
+      "Srcardexptonextlevel": 103,
+      "Ssrcardexptonextlevel": 113
+    },
+    "4": {
+      "Cuid": 4,
+      "Levelid": 4,
+      "Icardexptonextlevel": 86,
+      "Ncardexptonextlevel": 86,
+      "Rcardexptonextlevel": 86,
+      "Srcardexptonextlevel": 108,
+      "Ssrcardexptonextlevel": 118
+    },
+    "5": {
+      "Cuid": 5,
+      "Levelid": 5,
+      "Icardexptonextlevel": 92,
+      "Ncardexptonextlevel": 92,
+      "Rcardexptonextlevel": 92,
+      "Srcardexptonextlevel": 115,
+      "Ssrcardexptonextlevel": 126
+    },
+    "6": {
+      "Cuid": 6,
+      "Levelid": 6,
+      "Icardexptonextlevel": 99,
+      "Ncardexptonextlevel": 99,
+      "Rcardexptonextlevel": 99,
+      "Srcardexptonextlevel": 124,
+      "Ssrcardexptonextlevel": 136
+    },
+    "7": {
+      "Cuid": 7,
+      "Levelid": 7,
+      "Icardexptonextlevel": 108,
+      "Ncardexptonextlevel": 108,
+      "Rcardexptonextlevel": 108,
+      "Srcardexptonextlevel": 135,
+      "Ssrcardexptonextlevel": 148
+    },
+    "8": {
+      "Cuid": 8,
+      "Levelid": 8,
+      "Icardexptonextlevel": 118,
+      "Ncardexptonextlevel": 118,
+      "Rcardexptonextlevel": 118,
+      "Srcardexptonextlevel": 148,
+      "Ssrcardexptonextlevel": 162
+    },
+    "9": {
+      "Cuid": 9,
+      "Levelid": 9,
+      "Icardexptonextlevel": 130,
+      "Ncardexptonextlevel": 130,
+      "Rcardexptonextlevel": 130,
+      "Srcardexptonextlevel": 163,
+      "Ssrcardexptonextlevel": 179
+    },
+    "10": {
+      "Cuid": 10,
+      "Levelid": 10,
+      "Icardexptonextlevel": 144,
+      "Ncardexptonextlevel": 144,
+      "Rcardexptonextlevel": 144,
+      "Srcardexptonextlevel": 180,
+      "Ssrcardexptonextlevel": 198
+    },
+    "11": {
+      "Cuid": 11,
+      "Levelid": 11,
+      "Icardexptonextlevel": 159,
+      "Ncardexptonextlevel": 159,
+      "Rcardexptonextlevel": 159,
+      "Srcardexptonextlevel": 199,
+      "Ssrcardexptonextlevel": 218
+    },
+    "12": {
+      "Cuid": 12,
+      "Levelid": 12,
+      "Icardexptonextlevel": 176,
+      "Ncardexptonextlevel": 176,
+      "Rcardexptonextlevel": 176,
+      "Srcardexptonextlevel": 220,
+      "Ssrcardexptonextlevel": 242
+    },
+    "13": {
+      "Cuid": 13,
+      "Levelid": 13,
+      "Icardexptonextlevel": 194,
+      "Ncardexptonextlevel": 194,
+      "Rcardexptonextlevel": 194,
+      "Srcardexptonextlevel": 243,
+      "Ssrcardexptonextlevel": 267
+    },
+    "14": {
+      "Cuid": 14,
+      "Levelid": 14,
+      "Icardexptonextlevel": 214,
+      "Ncardexptonextlevel": 214,
+      "Rcardexptonextlevel": 214,
+      "Srcardexptonextlevel": 268,
+      "Ssrcardexptonextlevel": 294
+    },
+    "15": {
+      "Cuid": 15,
+      "Levelid": 15,
+      "Icardexptonextlevel": 236,
+      "Ncardexptonextlevel": 236,
+      "Rcardexptonextlevel": 236,
+      "Srcardexptonextlevel": 295,
+      "Ssrcardexptonextlevel": 324
+    },
+    "16": {
+      "Cuid": 16,
+      "Levelid": 16,
+      "Icardexptonextlevel": 259,
+      "Ncardexptonextlevel": 259,
+      "Rcardexptonextlevel": 259,
+      "Srcardexptonextlevel": 324,
+      "Ssrcardexptonextlevel": 356
+    },
+    "17": {
+      "Cuid": 17,
+      "Levelid": 17,
+      "Icardexptonextlevel": 284,
+      "Ncardexptonextlevel": 284,
+      "Rcardexptonextlevel": 284,
+      "Srcardexptonextlevel": 355,
+      "Ssrcardexptonextlevel": 390
+    },
+    "18": {
+      "Cuid": 18,
+      "Levelid": 18,
+      "Icardexptonextlevel": 310,
+      "Ncardexptonextlevel": 310,
+      "Rcardexptonextlevel": 310,
+      "Srcardexptonextlevel": 388,
+      "Ssrcardexptonextlevel": 426
+    },
+    "19": {
+      "Cuid": 19,
+      "Levelid": 19,
+      "Icardexptonextlevel": 338,
+      "Ncardexptonextlevel": 338,
+      "Rcardexptonextlevel": 338,
+      "Srcardexptonextlevel": 423,
+      "Ssrcardexptonextlevel": 465
+    },
+    "20": {
+      "Cuid": 20,
+      "Levelid": 20,
+      "Icardexptonextlevel": 368,
+      "Ncardexptonextlevel": 368,
+      "Rcardexptonextlevel": 368,
+      "Srcardexptonextlevel": 460,
+      "Ssrcardexptonextlevel": 506
+    },
+    "21": {
+      "Cuid": 21,
+      "Levelid": 21,
+      "Icardexptonextlevel": 399,
+      "Ncardexptonextlevel": 399,
+      "Rcardexptonextlevel": 399,
+      "Srcardexptonextlevel": 499,
+      "Ssrcardexptonextlevel": 548
+    },
+    "22": {
+      "Cuid": 22,
+      "Levelid": 22,
+      "Icardexptonextlevel": 432,
+      "Ncardexptonextlevel": 432,
+      "Rcardexptonextlevel": 432,
+      "Srcardexptonextlevel": 540,
+      "Ssrcardexptonextlevel": 594
+    },
+    "23": {
+      "Cuid": 23,
+      "Levelid": 23,
+      "Icardexptonextlevel": 466,
+      "Ncardexptonextlevel": 466,
+      "Rcardexptonextlevel": 466,
+      "Srcardexptonextlevel": 583,
+      "Ssrcardexptonextlevel": 641
+    },
+    "24": {
+      "Cuid": 24,
+      "Levelid": 24,
+      "Icardexptonextlevel": 502,
+      "Ncardexptonextlevel": 502,
+      "Rcardexptonextlevel": 502,
+      "Srcardexptonextlevel": 628,
+      "Ssrcardexptonextlevel": 690
+    },
+    "25": {
+      "Cuid": 25,
+      "Levelid": 25,
+      "Icardexptonextlevel": 540,
+      "Ncardexptonextlevel": 540,
+      "Rcardexptonextlevel": 540,
+      "Srcardexptonextlevel": 675,
+      "Ssrcardexptonextlevel": 742
+    },
+    "26": {
+      "Cuid": 26,
+      "Levelid": 26,
+      "Icardexptonextlevel": 579,
+      "Ncardexptonextlevel": 579,
+      "Rcardexptonextlevel": 579,
+      "Srcardexptonextlevel": 724,
+      "Ssrcardexptonextlevel": 796
+    },
+    "27": {
+      "Cuid": 27,
+      "Levelid": 27,
+      "Icardexptonextlevel": 620,
+      "Ncardexptonextlevel": 620,
+      "Rcardexptonextlevel": 620,
+      "Srcardexptonextlevel": 775,
+      "Ssrcardexptonextlevel": 852
+    },
+    "28": {
+      "Cuid": 28,
+      "Levelid": 28,
+      "Icardexptonextlevel": 662,
+      "Ncardexptonextlevel": 662,
+      "Rcardexptonextlevel": 662,
+      "Srcardexptonextlevel": 828,
+      "Ssrcardexptonextlevel": 910
+    },
+    "29": {
+      "Cuid": 29,
+      "Levelid": 29,
+      "Icardexptonextlevel": 706,
+      "Ncardexptonextlevel": 706,
+      "Rcardexptonextlevel": 706,
+      "Srcardexptonextlevel": 883,
+      "Ssrcardexptonextlevel": 971
+    },
+    "30": {
+      "Cuid": 30,
+      "Levelid": 30,
+      "Icardexptonextlevel": 752,
+      "Ncardexptonextlevel": 752,
+      "Rcardexptonextlevel": 752,
+      "Srcardexptonextlevel": 940,
+      "Ssrcardexptonextlevel": 1034
+    },
+    "31": {
+      "Cuid": 31,
+      "Levelid": 31,
+      "Icardexptonextlevel": 799,
+      "Ncardexptonextlevel": 799,
+      "Rcardexptonextlevel": 799,
+      "Srcardexptonextlevel": 999,
+      "Ssrcardexptonextlevel": 1098
+    },
+    "32": {
+      "Cuid": 32,
+      "Levelid": 32,
+      "Icardexptonextlevel": 848,
+      "Ncardexptonextlevel": 848,
+      "Rcardexptonextlevel": 848,
+      "Srcardexptonextlevel": 1060,
+      "Ssrcardexptonextlevel": 1166
+    },
+    "33": {
+      "Cuid": 33,
+      "Levelid": 33,
+      "Icardexptonextlevel": 898,
+      "Ncardexptonextlevel": 898,
+      "Rcardexptonextlevel": 898,
+      "Srcardexptonextlevel": 1123,
+      "Ssrcardexptonextlevel": 1235
+    },
+    "34": {
+      "Cuid": 34,
+      "Levelid": 34,
+      "Icardexptonextlevel": 950,
+      "Ncardexptonextlevel": 950,
+      "Rcardexptonextlevel": 950,
+      "Srcardexptonextlevel": 1188,
+      "Ssrcardexptonextlevel": 1306
+    },
+    "35": {
+      "Cuid": 35,
+      "Levelid": 35,
+      "Icardexptonextlevel": 1004,
+      "Ncardexptonextlevel": 1004,
+      "Rcardexptonextlevel": 1004,
+      "Srcardexptonextlevel": 1255,
+      "Ssrcardexptonextlevel": 1380
+    },
+    "36": {
+      "Cuid": 36,
+      "Levelid": 36,
+      "Icardexptonextlevel": 1059,
+      "Ncardexptonextlevel": 1059,
+      "Rcardexptonextlevel": 1059,
+      "Srcardexptonextlevel": 1324,
+      "Ssrcardexptonextlevel": 1456
+    },
+    "37": {
+      "Cuid": 37,
+      "Levelid": 37,
+      "Icardexptonextlevel": 1116,
+      "Ncardexptonextlevel": 1116,
+      "Rcardexptonextlevel": 1116,
+      "Srcardexptonextlevel": 1395,
+      "Ssrcardexptonextlevel": 1534
+    },
+    "38": {
+      "Cuid": 38,
+      "Levelid": 38,
+      "Icardexptonextlevel": 1174,
+      "Ncardexptonextlevel": 1174,
+      "Rcardexptonextlevel": 1174,
+      "Srcardexptonextlevel": 1468,
+      "Ssrcardexptonextlevel": 1614
+    },
+    "39": {
+      "Cuid": 39,
+      "Levelid": 39,
+      "Icardexptonextlevel": 1234,
+      "Ncardexptonextlevel": 1234,
+      "Rcardexptonextlevel": 1234,
+      "Srcardexptonextlevel": 1543,
+      "Ssrcardexptonextlevel": 1697
+    },
+    "40": {
+      "Cuid": 40,
+      "Levelid": 40,
+      "Icardexptonextlevel": 1296,
+      "Ncardexptonextlevel": 1296,
+      "Rcardexptonextlevel": 1296,
+      "Srcardexptonextlevel": 1620,
+      "Ssrcardexptonextlevel": 1782
+    },
+    "41": {
+      "Cuid": 41,
+      "Levelid": 41,
+      "Icardexptonextlevel": 1359,
+      "Ncardexptonextlevel": 1359,
+      "Rcardexptonextlevel": 1359,
+      "Srcardexptonextlevel": 1699,
+      "Ssrcardexptonextlevel": 1868
+    },
+    "42": {
+      "Cuid": 42,
+      "Levelid": 42,
+      "Icardexptonextlevel": 1424,
+      "Ncardexptonextlevel": 1424,
+      "Rcardexptonextlevel": 1424,
+      "Srcardexptonextlevel": 1780,
+      "Ssrcardexptonextlevel": 1958
+    },
+    "43": {
+      "Cuid": 43,
+      "Levelid": 43,
+      "Icardexptonextlevel": 1490,
+      "Ncardexptonextlevel": 1490,
+      "Rcardexptonextlevel": 1490,
+      "Srcardexptonextlevel": 1863,
+      "Ssrcardexptonextlevel": 2049
+    },
+    "44": {
+      "Cuid": 44,
+      "Levelid": 44,
+      "Icardexptonextlevel": 1558,
+      "Ncardexptonextlevel": 1558,
+      "Rcardexptonextlevel": 1558,
+      "Srcardexptonextlevel": 1948,
+      "Ssrcardexptonextlevel": 2142
+    },
+    "45": {
+      "Cuid": 45,
+      "Levelid": 45,
+      "Icardexptonextlevel": 1628,
+      "Ncardexptonextlevel": 1628,
+      "Rcardexptonextlevel": 1628,
+      "Srcardexptonextlevel": 2035,
+      "Ssrcardexptonextlevel": 2238
+    },
+    "46": {
+      "Cuid": 46,
+      "Levelid": 46,
+      "Icardexptonextlevel": 1699,
+      "Ncardexptonextlevel": 1699,
+      "Rcardexptonextlevel": 1699,
+      "Srcardexptonextlevel": 2124,
+      "Ssrcardexptonextlevel": 2336
+    },
+    "47": {
+      "Cuid": 47,
+      "Levelid": 47,
+      "Icardexptonextlevel": 1772,
+      "Ncardexptonextlevel": 1772,
+      "Rcardexptonextlevel": 1772,
+      "Srcardexptonextlevel": 2215,
+      "Ssrcardexptonextlevel": 2436
+    },
+    "48": {
+      "Cuid": 48,
+      "Levelid": 48,
+      "Icardexptonextlevel": 1846,
+      "Ncardexptonextlevel": 1846,
+      "Rcardexptonextlevel": 1846,
+      "Srcardexptonextlevel": 2308,
+      "Ssrcardexptonextlevel": 2538
+    },
+    "49": {
+      "Cuid": 49,
+      "Levelid": 49,
+      "Icardexptonextlevel": 1922,
+      "Ncardexptonextlevel": 1922,
+      "Rcardexptonextlevel": 1922,
+      "Srcardexptonextlevel": 2403,
+      "Ssrcardexptonextlevel": 2643
+    },
+    "50": {
+      "Cuid": 50,
+      "Levelid": 50,
+      "Icardexptonextlevel": 2120,
+      "Ncardexptonextlevel": 2120,
+      "Rcardexptonextlevel": 2120,
+      "Srcardexptonextlevel": 2650,
+      "Ssrcardexptonextlevel": 2915
+    },
+    "51": {
+      "Cuid": 51,
+      "Levelid": 51,
+      "Icardexptonextlevel": 2201,
+      "Ncardexptonextlevel": 2201,
+      "Rcardexptonextlevel": 2201,
+      "Srcardexptonextlevel": 2752,
+      "Ssrcardexptonextlevel": 3027
+    },
+    "52": {
+      "Cuid": 52,
+      "Levelid": 52,
+      "Icardexptonextlevel": 2284,
+      "Ncardexptonextlevel": 2284,
+      "Rcardexptonextlevel": 2284,
+      "Srcardexptonextlevel": 2856,
+      "Ssrcardexptonextlevel": 3141
+    },
+    "53": {
+      "Cuid": 53,
+      "Levelid": 53,
+      "Icardexptonextlevel": 2369,
+      "Ncardexptonextlevel": 2369,
+      "Rcardexptonextlevel": 2369,
+      "Srcardexptonextlevel": 2962,
+      "Ssrcardexptonextlevel": 3258
+    },
+    "54": {
+      "Cuid": 54,
+      "Levelid": 54,
+      "Icardexptonextlevel": 2456,
+      "Ncardexptonextlevel": 2456,
+      "Rcardexptonextlevel": 2456,
+      "Srcardexptonextlevel": 3070,
+      "Ssrcardexptonextlevel": 3377
+    }
+  }
+}

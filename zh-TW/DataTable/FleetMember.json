@@ -1,0 +1,44 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Membermax": 1,
+      "Admininfo": 1,
+      "Adminmember": 1,
+      "LangStringTable": {
+        "Title": "司令"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Membermax": 2,
+      "Admininfo": 0,
+      "Adminmember": 1,
+      "LangStringTable": {
+        "Title": "副司令"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Membermax": 5,
+      "Admininfo": 0,
+      "Adminmember": 0,
+      "LangStringTable": {
+        "Title": "精英"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Membermax": 29,
+      "Admininfo": 0,
+      "Adminmember": 0,
+      "LangStringTable": {
+        "Title": "普通成員"
+      }
+    }
+  }
+}

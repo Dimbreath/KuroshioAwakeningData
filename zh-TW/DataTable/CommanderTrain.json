@@ -1,0 +1,964 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Eventtype": 1,
+      "Taskcompleteconditionnum": "10",
+      "Progress": 10,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "1000",
+      "Taskreward": "1,260002,2",
+      "LangStringTable": {
+        "Taskname": "階段1任務1",
+        "Tasksec": "指揮官等級達到10級"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Eventtype": 8,
+      "Taskcompleteconditionnum": "5",
+      "Progress": 5,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "1000",
+      "Taskreward": "1,3,100",
+      "LangStringTable": {
+        "Taskname": "階段1任務2",
+        "Tasksec": "累計壓制任意港口5次"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Eventtype": 2003,
+      "Taskcompleteconditionnum": "1",
+      "Progress": 1,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "1000",
+      "Taskreward": "1,240048,1",
+      "LangStringTable": {
+        "Taskname": "階段1任務3",
+        "Tasksec": "任意編隊包含全部艦種的情況下壓制任意一個港口"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Eventtype": 12,
+      "Taskcompleteconditionnum": "50000",
+      "Progress": 50000,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "107",
+      "Taskreward": "1,135000,300",
+      "LangStringTable": {
+        "Taskname": "階段1任務4",
+        "Tasksec": "累計消耗50000BP"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Eventtype": 6,
+      "Taskcompleteconditionnum": "5",
+      "Progress": 5,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "3",
+      "Taskreward": "1,160001,1",
+      "LangStringTable": {
+        "Taskname": "階段1任務5",
+        "Tasksec": "累計完成5次招募"
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Eventtype": 80,
+      "Taskcompleteconditionnum": "3",
+      "Progress": 3,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "1000",
+      "Taskreward": "1,240007,2",
+      "LangStringTable": {
+        "Taskname": "階段1任務5",
+        "Tasksec": "累計抵禦反攻3次"
+      }
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Eventtype": 16,
+      "Taskcompleteconditionnum": "30",
+      "Progress": 30,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "102",
+      "Taskreward": "1,260001,2",
+      "LangStringTable": {
+        "Taskname": "階段1任務7",
+        "Tasksec": "將任意一名人偶提升至30級"
+      }
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Eventtype": 14,
+      "Taskcompleteconditionnum": "3",
+      "Progress": 3,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "106",
+      "Taskreward": "2,90010,1",
+      "LangStringTable": {
+        "Taskname": "階段1任務8",
+        "Tasksec": "人偶突破累計3次"
+      }
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Eventtype": 10,
+      "Taskcompleteconditionnum": "3",
+      "Progress": 3,
+      "Tasktype": 1001,
+      "Phase": 1,
+      "Fathertask": 10,
+      "Type": "1000",
+      "Taskreward": "1,1,50",
+      "LangStringTable": {
+        "Taskname": "階段1任務9",
+        "Tasksec": "完成3次地圖派遣"
+      }
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "Eventtype": 2,
+      "Taskcompleteconditionnum": "1,2,3,4,5,61,7,8,9",
+      "Progress": 9,
+      "Tasktype": 1002,
+      "Phase": 1,
+      "Fathertask": 0,
+      "Type": "0",
+      "Taskreward": "1,160001,2",
+      "LangStringTable": {
+        "Taskname": "階段1任務10",
+        "Tasksec": "完成所有階段1任務"
+      }
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "Eventtype": 1,
+      "Taskcompleteconditionnum": "20",
+      "Progress": 20,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "1000",
+      "Taskreward": "1,260002,3",
+      "LangStringTable": {
+        "Taskname": "階段2任務1",
+        "Tasksec": "指揮官等級達到20級"
+      }
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "Eventtype": 8,
+      "Taskcompleteconditionnum": "20",
+      "Progress": 20,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "1000",
+      "Taskreward": "1,3,150",
+      "LangStringTable": {
+        "Taskname": "階段2任務2",
+        "Tasksec": "累計壓制任意港口20次"
+      }
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "Eventtype": 28,
+      "Taskcompleteconditionnum": "5",
+      "Progress": 5,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "1000",
+      "Taskreward": "1,240048,1",
+      "LangStringTable": {
+        "Taskname": "階段2任務3",
+        "Tasksec": "累計攻略5次利維坦深淵"
+      }
+    },
+    "14": {
+      "Cuid": 14,
+      "Id": 14,
+      "Eventtype": 12,
+      "Taskcompleteconditionnum": "200000",
+      "Progress": 200000,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "107",
+      "Taskreward": "1,135000,500",
+      "LangStringTable": {
+        "Taskname": "階段2任務4",
+        "Tasksec": "累計消耗200000BP"
+      }
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "Eventtype": 6,
+      "Taskcompleteconditionnum": "15",
+      "Progress": 15,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "3",
+      "Taskreward": "1,160001,1",
+      "LangStringTable": {
+        "Taskname": "階段2任務5",
+        "Tasksec": "累計完成15次招募"
+      }
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "Eventtype": 80,
+      "Taskcompleteconditionnum": "10",
+      "Progress": 10,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "1000",
+      "Taskreward": "1,240007,3",
+      "LangStringTable": {
+        "Taskname": "階段2任務6",
+        "Tasksec": "累計抵禦反攻10次"
+      }
+    },
+    "17": {
+      "Cuid": 17,
+      "Id": 17,
+      "Eventtype": 16,
+      "Taskcompleteconditionnum": "40",
+      "Progress": 40,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "102",
+      "Taskreward": "1,260001,3",
+      "LangStringTable": {
+        "Taskname": "階段2任務7",
+        "Tasksec": "將任意一名人偶提升至40級"
+      }
+    },
+    "18": {
+      "Cuid": 18,
+      "Id": 18,
+      "Eventtype": 14,
+      "Taskcompleteconditionnum": "5",
+      "Progress": 5,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "106",
+      "Taskreward": "2,90010,1",
+      "LangStringTable": {
+        "Taskname": "階段2任務8",
+        "Tasksec": "人偶突破累計5次"
+      }
+    },
+    "19": {
+      "Cuid": 19,
+      "Id": 19,
+      "Eventtype": 10,
+      "Taskcompleteconditionnum": "10",
+      "Progress": 10,
+      "Tasktype": 1001,
+      "Phase": 2,
+      "Fathertask": 20,
+      "Type": "1000",
+      "Taskreward": "1,1,50",
+      "LangStringTable": {
+        "Taskname": "階段2任務9",
+        "Tasksec": "完成10次地圖派遣"
+      }
+    },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "Eventtype": 2,
+      "Taskcompleteconditionnum": "11,12,13,14,15,16,17,18,19",
+      "Progress": 9,
+      "Tasktype": 1002,
+      "Phase": 2,
+      "Fathertask": 0,
+      "Type": "0",
+      "Taskreward": "1,160001,2",
+      "LangStringTable": {
+        "Taskname": "階段2任務10",
+        "Tasksec": "完成所有階段2任務"
+      }
+    },
+    "21": {
+      "Cuid": 21,
+      "Id": 21,
+      "Eventtype": 1,
+      "Taskcompleteconditionnum": "30",
+      "Progress": 30,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "1000",
+      "Taskreward": "1,260002,5",
+      "LangStringTable": {
+        "Taskname": "階段2任務1",
+        "Tasksec": "指揮官等級達到30級"
+      }
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "Eventtype": 8,
+      "Taskcompleteconditionnum": "40",
+      "Progress": 40,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "1000",
+      "Taskreward": "1,3,200",
+      "LangStringTable": {
+        "Taskname": "階段2任務2",
+        "Tasksec": "累計壓制任意港口40次"
+      }
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "Eventtype": 28,
+      "Taskcompleteconditionnum": "10",
+      "Progress": 10,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "1000",
+      "Taskreward": "1,240048,2",
+      "LangStringTable": {
+        "Taskname": "階段2任務3",
+        "Tasksec": "累計攻略10次利維坦深淵"
+      }
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "Eventtype": 12,
+      "Taskcompleteconditionnum": "350000",
+      "Progress": 350000,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "107",
+      "Taskreward": "1,135000,800",
+      "LangStringTable": {
+        "Taskname": "階段2任務4",
+        "Tasksec": "累計消耗350000BP"
+      }
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "Eventtype": 6,
+      "Taskcompleteconditionnum": "25",
+      "Progress": 25,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "3",
+      "Taskreward": "1,160001,2",
+      "LangStringTable": {
+        "Taskname": "階段2任務4",
+        "Tasksec": "累計完成25次招募"
+      }
+    },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "Eventtype": 80,
+      "Taskcompleteconditionnum": "20",
+      "Progress": 20,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "1000",
+      "Taskreward": "1,240007,3",
+      "LangStringTable": {
+        "Taskname": "階段2任務6",
+        "Tasksec": "累計抵禦反攻20次"
+      }
+    },
+    "27": {
+      "Cuid": 27,
+      "Id": 27,
+      "Eventtype": 16,
+      "Taskcompleteconditionnum": "50",
+      "Progress": 50,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "102",
+      "Taskreward": "1,260001,5",
+      "LangStringTable": {
+        "Taskname": "階段2任務7",
+        "Tasksec": "將任意一名人偶提升至50級"
+      }
+    },
+    "28": {
+      "Cuid": 28,
+      "Id": 28,
+      "Eventtype": 14,
+      "Taskcompleteconditionnum": "8",
+      "Progress": 8,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "106",
+      "Taskreward": "2,90010,1",
+      "LangStringTable": {
+        "Taskname": "階段2任務8",
+        "Tasksec": "人偶突破累計8次"
+      }
+    },
+    "29": {
+      "Cuid": 29,
+      "Id": 29,
+      "Eventtype": 10,
+      "Taskcompleteconditionnum": "15",
+      "Progress": 15,
+      "Tasktype": 1001,
+      "Phase": 3,
+      "Fathertask": 30,
+      "Type": "1000",
+      "Taskreward": "1,1,50",
+      "LangStringTable": {
+        "Taskname": "階段2任務9",
+        "Tasksec": "完成15次地圖派遣"
+      }
+    },
+    "30": {
+      "Cuid": 30,
+      "Id": 30,
+      "Eventtype": 2,
+      "Taskcompleteconditionnum": "21,22,23,24,63,26,27,28,29",
+      "Progress": 9,
+      "Tasktype": 1002,
+      "Phase": 3,
+      "Fathertask": 0,
+      "Type": "0",
+      "Taskreward": "1,1,200",
+      "LangStringTable": {
+        "Taskname": "階段2任務10",
+        "Tasksec": "完成所有階段3任務"
+      }
+    },
+    "31": {
+      "Cuid": 31,
+      "Id": 31,
+      "Eventtype": 1,
+      "Taskcompleteconditionnum": "40",
+      "Progress": 40,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "1000",
+      "Taskreward": "1,260002,5",
+      "LangStringTable": {
+        "Taskname": "階段1任務1",
+        "Tasksec": "指揮官等級達到40級"
+      }
+    },
+    "32": {
+      "Cuid": 32,
+      "Id": 32,
+      "Eventtype": 8,
+      "Taskcompleteconditionnum": "60",
+      "Progress": 60,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "1000",
+      "Taskreward": "1,3,200",
+      "LangStringTable": {
+        "Taskname": "階段1任務2",
+        "Tasksec": "累計壓制任意港口60次"
+      }
+    },
+    "33": {
+      "Cuid": 33,
+      "Id": 33,
+      "Eventtype": 28,
+      "Taskcompleteconditionnum": "15",
+      "Progress": 15,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 30,
+      "Type": "1000",
+      "Taskreward": "1,240048,2",
+      "LangStringTable": {
+        "Taskname": "階段1任務3",
+        "Tasksec": "累計攻略15次利維坦深淵"
+      }
+    },
+    "34": {
+      "Cuid": 34,
+      "Id": 34,
+      "Eventtype": 12,
+      "Taskcompleteconditionnum": "500000",
+      "Progress": 500000,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "107",
+      "Taskreward": "1,135000,1500",
+      "LangStringTable": {
+        "Taskname": "階段1任務4",
+        "Tasksec": "累計消耗500000BP"
+      }
+    },
+    "35": {
+      "Cuid": 35,
+      "Id": 35,
+      "Eventtype": 6,
+      "Taskcompleteconditionnum": "30",
+      "Progress": 30,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "3",
+      "Taskreward": "1,160001,2",
+      "LangStringTable": {
+        "Taskname": "階段1任務5",
+        "Tasksec": "累計完成30次招募"
+      }
+    },
+    "36": {
+      "Cuid": 36,
+      "Id": 36,
+      "Eventtype": 80,
+      "Taskcompleteconditionnum": "30",
+      "Progress": 30,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "1000",
+      "Taskreward": "1,240007,3",
+      "LangStringTable": {
+        "Taskname": "階段1任務5",
+        "Tasksec": "累計抵禦反攻30次"
+      }
+    },
+    "37": {
+      "Cuid": 37,
+      "Id": 37,
+      "Eventtype": 18,
+      "Taskcompleteconditionnum": "3",
+      "Progress": 3,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "103",
+      "Taskreward": "1,240049,1",
+      "LangStringTable": {
+        "Taskname": "階段1任務7",
+        "Tasksec": "累計深海化人偶5次"
+      }
+    },
+    "38": {
+      "Cuid": 38,
+      "Id": 38,
+      "Eventtype": 14,
+      "Taskcompleteconditionnum": "10",
+      "Progress": 10,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "106",
+      "Taskreward": "2,90010,1",
+      "LangStringTable": {
+        "Taskname": "階段1任務8",
+        "Tasksec": "人偶突破累計10次"
+      }
+    },
+    "39": {
+      "Cuid": 39,
+      "Id": 39,
+      "Eventtype": 10,
+      "Taskcompleteconditionnum": "25",
+      "Progress": 25,
+      "Tasktype": 1001,
+      "Phase": 4,
+      "Fathertask": 40,
+      "Type": "1000",
+      "Taskreward": "1,1,50",
+      "LangStringTable": {
+        "Taskname": "階段1任務9",
+        "Tasksec": "完成25次地圖派遣"
+      }
+    },
+    "40": {
+      "Cuid": 40,
+      "Id": 40,
+      "Eventtype": 2,
+      "Taskcompleteconditionnum": "31,32,33,34,35,64,37,38,39",
+      "Progress": 9,
+      "Tasktype": 1002,
+      "Phase": 4,
+      "Fathertask": 0,
+      "Type": "0",
+      "Taskreward": "1,160001,3",
+      "LangStringTable": {
+        "Taskname": "階段1任務10",
+        "Tasksec": "完成所有階段4任務"
+      }
+    },
+    "41": {
+      "Cuid": 41,
+      "Id": 41,
+      "Eventtype": 1,
+      "Taskcompleteconditionnum": "45",
+      "Progress": 45,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "1000",
+      "Taskreward": "1,260002,8",
+      "LangStringTable": {
+        "Taskname": "階段2任務1",
+        "Tasksec": "指揮官等級達到40級"
+      }
+    },
+    "42": {
+      "Cuid": 42,
+      "Id": 42,
+      "Eventtype": 8,
+      "Taskcompleteconditionnum": "150",
+      "Progress": 150,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "1000",
+      "Taskreward": "1,3,300",
+      "LangStringTable": {
+        "Taskname": "階段2任務2",
+        "Tasksec": "累計壓制任意港口150次"
+      }
+    },
+    "43": {
+      "Cuid": 43,
+      "Id": 43,
+      "Eventtype": 28,
+      "Taskcompleteconditionnum": "30",
+      "Progress": 30,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "1000",
+      "Taskreward": "1,240049,2",
+      "LangStringTable": {
+        "Taskname": "階段2任務3",
+        "Tasksec": "累計攻略30次利維坦深淵"
+      }
+    },
+    "44": {
+      "Cuid": 44,
+      "Id": 44,
+      "Eventtype": 12,
+      "Taskcompleteconditionnum": "1000000",
+      "Progress": 1000000,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "107",
+      "Taskreward": "1,135000,3000",
+      "LangStringTable": {
+        "Taskname": "階段2任務4",
+        "Tasksec": "累計消耗1000000BP"
+      }
+    },
+    "45": {
+      "Cuid": 45,
+      "Id": 45,
+      "Eventtype": 6,
+      "Taskcompleteconditionnum": "50",
+      "Progress": 50,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "3",
+      "Taskreward": "1,160001,3",
+      "LangStringTable": {
+        "Taskname": "階段2任務5",
+        "Tasksec": "累計完成50次招募"
+      }
+    },
+    "46": {
+      "Cuid": 46,
+      "Id": 46,
+      "Eventtype": 80,
+      "Taskcompleteconditionnum": "50",
+      "Progress": 50,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "1000",
+      "Taskreward": "1,240021,2",
+      "LangStringTable": {
+        "Taskname": "階段2任務6",
+        "Tasksec": "累計抵禦反攻50次"
+      }
+    },
+    "47": {
+      "Cuid": 47,
+      "Id": 47,
+      "Eventtype": 18,
+      "Taskcompleteconditionnum": "5",
+      "Progress": 5,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "103",
+      "Taskreward": "1,240049,2",
+      "LangStringTable": {
+        "Taskname": "階段2任務7",
+        "Tasksec": "累計深海化人偶5次"
+      }
+    },
+    "48": {
+      "Cuid": 48,
+      "Id": 48,
+      "Eventtype": 14,
+      "Taskcompleteconditionnum": "20",
+      "Progress": 20,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "106",
+      "Taskreward": "2,90010,1",
+      "LangStringTable": {
+        "Taskname": "階段2任務8",
+        "Tasksec": "人偶突破累計20次"
+      }
+    },
+    "49": {
+      "Cuid": 49,
+      "Id": 49,
+      "Eventtype": 10,
+      "Taskcompleteconditionnum": "50",
+      "Progress": 50,
+      "Tasktype": 1001,
+      "Phase": 5,
+      "Fathertask": 50,
+      "Type": "1000",
+      "Taskreward": "1,1,50",
+      "LangStringTable": {
+        "Taskname": "階段2任務9",
+        "Tasksec": "完成50次地圖派遣"
+      }
+    },
+    "50": {
+      "Cuid": 50,
+      "Id": 50,
+      "Eventtype": 2,
+      "Taskcompleteconditionnum": "41,42,43,44,45,47,48,49,65",
+      "Progress": 9,
+      "Tasktype": 1002,
+      "Phase": 5,
+      "Fathertask": 0,
+      "Type": "0",
+      "Taskreward": "1,1,300",
+      "LangStringTable": {
+        "Taskname": "階段2任務10",
+        "Tasksec": "完成所有階段5任務"
+      }
+    },
+    "51": {
+      "Cuid": 51,
+      "Id": 51,
+      "Eventtype": 1,
+      "Taskcompleteconditionnum": "50",
+      "Progress": 50,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "1000",
+      "Taskreward": "1,260002,10",
+      "LangStringTable": {
+        "Taskname": "階段2任務1",
+        "Tasksec": "指揮官等級達50級"
+      }
+    },
+    "52": {
+      "Cuid": 52,
+      "Id": 52,
+      "Eventtype": 8,
+      "Taskcompleteconditionnum": "300",
+      "Progress": 300,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "1000",
+      "Taskreward": "1,3,500",
+      "LangStringTable": {
+        "Taskname": "階段2任務2",
+        "Tasksec": "累計壓制任意港口300次"
+      }
+    },
+    "53": {
+      "Cuid": 53,
+      "Id": 53,
+      "Eventtype": 28,
+      "Taskcompleteconditionnum": "50",
+      "Progress": 50,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "1000",
+      "Taskreward": "1,240049,4",
+      "LangStringTable": {
+        "Taskname": "階段2任務3",
+        "Tasksec": "累計攻略50次利維坦深淵"
+      }
+    },
+    "54": {
+      "Cuid": 54,
+      "Id": 54,
+      "Eventtype": 12,
+      "Taskcompleteconditionnum": "5000000",
+      "Progress": 5000000,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "107",
+      "Taskreward": "1,135000,5000",
+      "LangStringTable": {
+        "Taskname": "階段2任務4",
+        "Tasksec": "累計消耗5000000BP"
+      }
+    },
+    "55": {
+      "Cuid": 55,
+      "Id": 55,
+      "Eventtype": 6,
+      "Taskcompleteconditionnum": "100",
+      "Progress": 100,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "3",
+      "Taskreward": "1,160001,3",
+      "LangStringTable": {
+        "Taskname": "階段2任務4",
+        "Tasksec": "累計完成100次招募"
+      }
+    },
+    "56": {
+      "Cuid": 56,
+      "Id": 56,
+      "Eventtype": 80,
+      "Taskcompleteconditionnum": "100",
+      "Progress": 100,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "1000",
+      "Taskreward": "1,240021,5",
+      "LangStringTable": {
+        "Taskname": "階段2任務6",
+        "Tasksec": "累計抵禦反攻100次"
+      }
+    },
+    "57": {
+      "Cuid": 57,
+      "Id": 57,
+      "Eventtype": 18,
+      "Taskcompleteconditionnum": "10",
+      "Progress": 10,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "103",
+      "Taskreward": "1,240049,5",
+      "LangStringTable": {
+        "Taskname": "階段2任務7",
+        "Tasksec": "累計深海化人偶10次"
+      }
+    },
+    "58": {
+      "Cuid": 58,
+      "Id": 58,
+      "Eventtype": 14,
+      "Taskcompleteconditionnum": "30",
+      "Progress": 30,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "106",
+      "Taskreward": "2,90011,1",
+      "LangStringTable": {
+        "Taskname": "階段2任務8",
+        "Tasksec": "人偶突破累計30次"
+      }
+    },
+    "59": {
+      "Cuid": 59,
+      "Id": 59,
+      "Eventtype": 10,
+      "Taskcompleteconditionnum": "80",
+      "Progress": 80,
+      "Tasktype": 1001,
+      "Phase": 6,
+      "Fathertask": 60,
+      "Type": "1000",
+      "Taskreward": "1,1,50",
+      "LangStringTable": {
+        "Taskname": "階段2任務9",
+        "Tasksec": "完成80次地圖派遣"
+      }
+    },
+    "60": {
+      "Cuid": 60,
+      "Id": 60,
+      "Eventtype": 2,
+      "Taskcompleteconditionnum": "51,52,53,54,55,57,58,59,66",
+      "Progress": 9,
+      "Tasktype": 1002,
+      "Phase": 6,
+      "Fathertask": 0,
+      "Type": "0",
+      "Taskreward": "1,1,500",
+      "LangStringTable": {
+        "Taskname": "階段2任務10",
+        "Tasksec": "完成爐火純青階段所有任務"
+      }
+    }
+  }
+}

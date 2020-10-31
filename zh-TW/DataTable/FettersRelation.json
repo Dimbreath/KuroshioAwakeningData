@@ -1,0 +1,277 @@
+{
+  "Rows": {
+    "101": {
+      "Cuid": 101,
+      "Id": 101,
+      "Id1": 1,
+      "Id2": 4,
+      "Fetters": 1,
+      "Relationattr": "1,1001,150|1,1002,250",
+      "LangStringTable": {
+        "Describe1": ",對薔薇帝國羈絆成員造成{0}%額外傷害",
+        "Describe2": ",對薔薇帝國羈絆成員造成{0}%額外傷害",
+        "Describe3": null
+      }
+    },
+    "102": {
+      "Cuid": 102,
+      "Id": 102,
+      "Id1": 2,
+      "Id2": 1,
+      "Fetters": 1,
+      "Relationattr": "1,1001,150|1,1002,250",
+      "LangStringTable": {
+        "Describe1": ",對神代會社羈絆成員造成{0}%額外傷害",
+        "Describe2": ",對神代會社羈絆成員造成{0}%額外傷害",
+        "Describe3": null
+      }
+    },
+    "103": {
+      "Cuid": 103,
+      "Id": 103,
+      "Id1": 1,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": null
+      }
+    },
+    "104": {
+      "Cuid": 104,
+      "Id": 104,
+      "Id1": 3,
+      "Id2": 2,
+      "Fetters": 1,
+      "Relationattr": "1,1001,150|1,1002,250",
+      "LangStringTable": {
+        "Describe1": ",對銀翼財團羈絆成員造成{0}%額外傷害",
+        "Describe2": ",對銀翼財團羈絆成員造成{0}%額外傷害",
+        "Describe3": null
+      }
+    },
+    "105": {
+      "Cuid": 105,
+      "Id": 105,
+      "Id1": 4,
+      "Id2": 3,
+      "Fetters": 1,
+      "Relationattr": "1,1001,150|1,1002,250",
+      "LangStringTable": {
+        "Describe1": ",對黑鋒重工羈絆成員造成{0}%額外傷害",
+        "Describe2": ",對黑鋒重工羈絆成員造成{0}%額外傷害",
+        "Describe3": null
+      }
+    },
+    "106": {
+      "Cuid": 106,
+      "Id": 106,
+      "Id1": 2,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": null
+      }
+    },
+    "107": {
+      "Cuid": 107,
+      "Id": 107,
+      "Id1": 3,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": null
+      }
+    },
+    "108": {
+      "Cuid": 108,
+      "Id": 108,
+      "Id1": 4,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": null
+      }
+    },
+    "109": {
+      "Cuid": 109,
+      "Id": 109,
+      "Id1": 5,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "110": {
+      "Cuid": 110,
+      "Id": 110,
+      "Id1": 6,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "111": {
+      "Cuid": 111,
+      "Id": 111,
+      "Id1": 7,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "112": {
+      "Cuid": 112,
+      "Id": 112,
+      "Id1": 8,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "113": {
+      "Cuid": 113,
+      "Id": 113,
+      "Id1": 9,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "115": {
+      "Cuid": 115,
+      "Id": 115,
+      "Id1": 10,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": null
+      }
+    },
+    "116": {
+      "Cuid": 116,
+      "Id": 116,
+      "Id1": 11,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "117": {
+      "Cuid": 117,
+      "Id": 117,
+      "Id1": 12,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": null,
+        "Describe3": null
+      }
+    },
+    "118": {
+      "Cuid": 118,
+      "Id": 118,
+      "Id1": 13,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": null,
+        "Describe3": null
+      }
+    },
+    "119": {
+      "Cuid": 119,
+      "Id": 119,
+      "Id1": 14,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": null
+      }
+    },
+    "120": {
+      "Cuid": 120,
+      "Id": 120,
+      "Id1": 15,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "121": {
+      "Cuid": 121,
+      "Id": 121,
+      "Id1": 16,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    },
+    "122": {
+      "Cuid": 122,
+      "Id": 122,
+      "Id1": 17,
+      "Id2": 999,
+      "Fetters": 2,
+      "Relationattr": "28,2,30;3,2,30|28,2,60;3,2,30|28,2,60;3,2,30",
+      "LangStringTable": {
+        "Describe1": "深海：全員防護力增加3%",
+        "Describe2": "深海：全員防護力增加3%",
+        "Describe3": "深海：全員防護力增加3%"
+      }
+    }
+  }
+}

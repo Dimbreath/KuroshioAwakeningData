@@ -1,0 +1,59 @@
+{
+  "Rows": {
+    "doll_max": {
+      "Cuid": "doll_max",
+      "Key": "doll_max",
+      "Type": 2,
+      "Id": 0,
+      "Value": 0,
+      "Buffer": 0,
+      "Defaultkey": "limit_tips_doll",
+      "Sourceid": 40,
+      "Errcode": 63100
+    },
+    "equip_max": {
+      "Cuid": "equip_max",
+      "Key": "equip_max",
+      "Type": 6,
+      "Id": 0,
+      "Value": 2000,
+      "Buffer": 3000,
+      "Defaultkey": "limit_tips_equip",
+      "Sourceid": 66,
+      "Errcode": 10028
+    },
+    "oil_max": {
+      "Cuid": "oil_max",
+      "Key": "oil_max",
+      "Type": 1,
+      "Id": 3,
+      "Value": 2000000,
+      "Buffer": 3000000,
+      "Defaultkey": "limit_tips_oil",
+      "Sourceid": 1000,
+      "Errcode": 10040
+    },
+    "coin_max": {
+      "Cuid": "coin_max",
+      "Key": "coin_max",
+      "Type": 1,
+      "Id": 2,
+      "Value": 999999999,
+      "Buffer": 1999999999,
+      "Defaultkey": "limit_tips_bp",
+      "Sourceid": 101,
+      "Errcode": 10038
+    },
+    "diamond_max": {
+      "Cuid": "diamond_max",
+      "Key": "diamond_max",
+      "Type": 1,
+      "Id": 1,
+      "Value": 50000000,
+      "Buffer": 60000000,
+      "Defaultkey": "limit_tips_diamond",
+      "Sourceid": 203,
+      "Errcode": 10039
+    }
+  }
+}

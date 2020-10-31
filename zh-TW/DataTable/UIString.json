@@ -1,0 +1,8474 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "LangStringTable": {
+        "Text": "登入帳號"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "LangStringTable": {
+        "Text": "帳號"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "LangStringTable": {
+        "Text": "帳號最長16個數字或字母"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "LangStringTable": {
+        "Text": "密碼"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "LangStringTable": {
+        "Text": "請輸入6-16位數字或字母"
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "LangStringTable": {
+        "Text": "登入"
+      }
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "LangStringTable": {
+        "Text": "註冊帳號"
+      }
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "LangStringTable": {
+        "Text": "註冊帳號"
+      }
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "LangStringTable": {
+        "Text": "帳號"
+      }
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "LangStringTable": {
+        "Text": "密碼"
+      }
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "LangStringTable": {
+        "Text": "密碼確認"
+      }
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "LangStringTable": {
+        "Text": "帳號最長16個數字或字母"
+      }
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "LangStringTable": {
+        "Text": "請輸入6-16位數字或字母"
+      }
+    },
+    "14": {
+      "Cuid": 14,
+      "Id": 14,
+      "LangStringTable": {
+        "Text": "再次輸入密碼"
+      }
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "LangStringTable": {
+        "Text": "註冊帳號"
+      }
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "LangStringTable": {
+        "Text": "使用已有帳號登入"
+      }
+    },
+    "17": {
+      "Cuid": 17,
+      "Id": 17,
+      "LangStringTable": {
+        "Text": "金剛四傻金剛"
+      }
+    },
+    "18": {
+      "Cuid": 18,
+      "Id": 18,
+      "LangStringTable": {
+        "Text": "總收集率"
+      }
+    },
+    "19": {
+      "Cuid": 19,
+      "Id": 19,
+      "LangStringTable": {
+        "Text": "收集"
+      }
+    },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "LangStringTable": {
+        "Text": "掉落機率"
+      }
+    },
+    "21": {
+      "Cuid": 21,
+      "Id": 21,
+      "LangStringTable": {
+        "Text": "標題文字"
+      }
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "LangStringTable": {
+        "Text": "文字形容18個的字元。遠端達到大師級別"
+      }
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "LangStringTable": {
+        "Text": "-已獲得-"
+      }
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "LangStringTable": {
+        "Text": "未完成"
+      }
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "LangStringTable": {
+        "Text": "第1日"
+      }
+    },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "LangStringTable": {
+        "Text": "第2日"
+      }
+    },
+    "27": {
+      "Cuid": 27,
+      "Id": 27,
+      "LangStringTable": {
+        "Text": "第3日"
+      }
+    },
+    "28": {
+      "Cuid": 28,
+      "Id": 28,
+      "LangStringTable": {
+        "Text": "第4日"
+      }
+    },
+    "29": {
+      "Cuid": 29,
+      "Id": 29,
+      "LangStringTable": {
+        "Text": "第5日"
+      }
+    },
+    "30": {
+      "Cuid": 30,
+      "Id": 30,
+      "LangStringTable": {
+        "Text": "第6日"
+      }
+    },
+    "31": {
+      "Cuid": 31,
+      "Id": 31,
+      "LangStringTable": {
+        "Text": "第7日"
+      }
+    },
+    "32": {
+      "Cuid": 32,
+      "Id": 32,
+      "LangStringTable": {
+        "Text": "任務"
+      }
+    },
+    "33": {
+      "Cuid": 33,
+      "Id": 33,
+      "LangStringTable": {
+        "Text": "報 酬"
+      }
+    },
+    "34": {
+      "Cuid": 34,
+      "Id": 34,
+      "LangStringTable": {
+        "Text": "完成x個子任務可領取（1/5）"
+      }
+    },
+    "35": {
+      "Cuid": 35,
+      "Id": 35,
+      "LangStringTable": {
+        "Text": "-已獲得-"
+      }
+    },
+    "36": {
+      "Cuid": 36,
+      "Id": 36,
+      "LangStringTable": {
+        "Text": "未完成"
+      }
+    },
+    "37": {
+      "Cuid": 37,
+      "Id": 37,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "38": {
+      "Cuid": 38,
+      "Id": 38,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "39": {
+      "Cuid": 39,
+      "Id": 39,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "40": {
+      "Cuid": 40,
+      "Id": 40,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "41": {
+      "Cuid": 41,
+      "Id": 41,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "42": {
+      "Cuid": 42,
+      "Id": 42,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "43": {
+      "Cuid": 43,
+      "Id": 43,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "44": {
+      "Cuid": 44,
+      "Id": 44,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "45": {
+      "Cuid": 45,
+      "Id": 45,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "46": {
+      "Cuid": 46,
+      "Id": 46,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "47": {
+      "Cuid": 47,
+      "Id": 47,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "48": {
+      "Cuid": 48,
+      "Id": 48,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "49": {
+      "Cuid": 49,
+      "Id": 49,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "50": {
+      "Cuid": 50,
+      "Id": 50,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "51": {
+      "Cuid": 51,
+      "Id": 51,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "52": {
+      "Cuid": 52,
+      "Id": 52,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "53": {
+      "Cuid": 53,
+      "Id": 53,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "54": {
+      "Cuid": 54,
+      "Id": 54,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "55": {
+      "Cuid": 55,
+      "Id": 55,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "56": {
+      "Cuid": 56,
+      "Id": 56,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "57": {
+      "Cuid": 57,
+      "Id": 57,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "58": {
+      "Cuid": 58,
+      "Id": 58,
+      "LangStringTable": {
+        "Text": "時段三"
+      }
+    },
+    "59": {
+      "Cuid": 59,
+      "Id": 59,
+      "LangStringTable": {
+        "Text": "每日12點-14點"
+      }
+    },
+    "60": {
+      "Cuid": 60,
+      "Id": 60,
+      "LangStringTable": {
+        "Text": "-已獲得-"
+      }
+    },
+    "61": {
+      "Cuid": 61,
+      "Id": 61,
+      "LangStringTable": {
+        "Text": "未完成"
+      }
+    },
+    "62": {
+      "Cuid": 62,
+      "Id": 62,
+      "LangStringTable": {
+        "Text": "時段三"
+      }
+    },
+    "63": {
+      "Cuid": 63,
+      "Id": 63,
+      "LangStringTable": {
+        "Text": "每日12點-14點"
+      }
+    },
+    "64": {
+      "Cuid": 64,
+      "Id": 64,
+      "LangStringTable": {
+        "Text": "未完成"
+      }
+    },
+    "65": {
+      "Cuid": 65,
+      "Id": 65,
+      "LangStringTable": {
+        "Text": "-已獲得-"
+      }
+    },
+    "66": {
+      "Cuid": 66,
+      "Id": 66,
+      "LangStringTable": {
+        "Text": "時段三"
+      }
+    },
+    "67": {
+      "Cuid": 67,
+      "Id": 67,
+      "LangStringTable": {
+        "Text": "每日12點-14點"
+      }
+    },
+    "68": {
+      "Cuid": 68,
+      "Id": 68,
+      "LangStringTable": {
+        "Text": "未完成"
+      }
+    },
+    "69": {
+      "Cuid": 69,
+      "Id": 69,
+      "LangStringTable": {
+        "Text": "-已獲得-"
+      }
+    },
+    "70": {
+      "Cuid": 70,
+      "Id": 70,
+      "LangStringTable": {
+        "Text": "因地殼變動"
+      }
+    },
+    "71": {
+      "Cuid": 71,
+      "Id": 71,
+      "LangStringTable": {
+        "Text": "5月1日-5月8日"
+      }
+    },
+    "72": {
+      "Cuid": 72,
+      "Id": 72,
+      "LangStringTable": {
+        "Text": "期間以下打撈機率期間以下打撈機率將大大的體高千萬不要錯過哦"
+      }
+    },
+    "73": {
+      "Cuid": 73,
+      "Id": 73,
+      "LangStringTable": {
+        "Text": "第"
+      }
+    },
+    "74": {
+      "Cuid": 74,
+      "Id": 74,
+      "LangStringTable": {
+        "Text": "日"
+      }
+    },
+    "75": {
+      "Cuid": 75,
+      "Id": 75,
+      "LangStringTable": {
+        "Text": "技能素材UP  聖路易斯阿波利斯"
+      }
+    },
+    "76": {
+      "Cuid": 76,
+      "Id": 76,
+      "LangStringTable": {
+        "Text": "今日UP"
+      }
+    },
+    "77": {
+      "Cuid": 77,
+      "Id": 77,
+      "LangStringTable": {
+        "Text": "題目描述有多長，這個長度應該都滿足，"
+      }
+    },
+    "78": {
+      "Cuid": 78,
+      "Id": 78,
+      "LangStringTable": {
+        "Text": "描述薩科達拉斯空間打開SD卡。"
+      }
+    },
+    "79": {
+      "Cuid": 79,
+      "Id": 79,
+      "LangStringTable": {
+        "Text": "下一題"
+      }
+    },
+    "80": {
+      "Cuid": 80,
+      "Id": 80,
+      "LangStringTable": {
+        "Text": "開始答題"
+      }
+    },
+    "81": {
+      "Cuid": 81,
+      "Id": 81,
+      "LangStringTable": {
+        "Text": "可領取"
+      }
+    },
+    "82": {
+      "Cuid": 82,
+      "Id": 82,
+      "LangStringTable": {
+        "Text": "已完成"
+      }
+    },
+    "83": {
+      "Cuid": 83,
+      "Id": 83,
+      "LangStringTable": {
+        "Text": "領取獎勵"
+      }
+    },
+    "84": {
+      "Cuid": 84,
+      "Id": 84,
+      "LangStringTable": {
+        "Text": "暫未開啟"
+      }
+    },
+    "85": {
+      "Cuid": 85,
+      "Id": 85,
+      "LangStringTable": {
+        "Text": "布呂歇爾"
+      }
+    },
+    "86": {
+      "Cuid": 86,
+      "Id": 86,
+      "LangStringTable": {
+        "Text": "索引"
+      }
+    },
+    "87": {
+      "Cuid": 87,
+      "Id": 87,
+      "LangStringTable": {
+        "Text": "深海陸奧"
+      }
+    },
+    "88": {
+      "Cuid": 88,
+      "Id": 88,
+      "LangStringTable": {
+        "Text": "未知"
+      }
+    },
+    "89": {
+      "Cuid": 89,
+      "Id": 89,
+      "LangStringTable": {
+        "Text": "前 往 >"
+      }
+    },
+    "90": {
+      "Cuid": 90,
+      "Id": 90,
+      "LangStringTable": {
+        "Text": "招募有機率獲得"
+      }
+    },
+    "91": {
+      "Cuid": 91,
+      "Id": 91,
+      "LangStringTable": {
+        "Text": "招募"
+      }
+    },
+    "92": {
+      "Cuid": 92,
+      "Id": 92,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "93": {
+      "Cuid": 93,
+      "Id": 93,
+      "LangStringTable": {
+        "Text": "戰巡"
+      }
+    },
+    "94": {
+      "Cuid": 94,
+      "Id": 94,
+      "LangStringTable": {
+        "Text": "西 行 寺 喵 喵 子"
+      }
+    },
+    "95": {
+      "Cuid": 95,
+      "Id": 95,
+      "LangStringTable": {
+        "Text": "你老婆真棒！！"
+      }
+    },
+    "96": {
+      "Cuid": 96,
+      "Id": 96,
+      "LangStringTable": {
+        "Text": "你老婆真棒！！"
+      }
+    },
+    "97": {
+      "Cuid": 97,
+      "Id": 97,
+      "LangStringTable": {
+        "Text": "真棒真棒棒真棒"
+      }
+    },
+    "98": {
+      "Cuid": 98,
+      "Id": 98,
+      "LangStringTable": {
+        "Text": "真棒！！真棒！！"
+      }
+    },
+    "99": {
+      "Cuid": 99,
+      "Id": 99,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "100": {
+      "Cuid": 100,
+      "Id": 100,
+      "LangStringTable": {
+        "Text": "戰巡"
+      }
+    },
+    "101": {
+      "Cuid": 101,
+      "Id": 101,
+      "LangStringTable": {
+        "Text": "你老婆真棒！！"
+      }
+    },
+    "102": {
+      "Cuid": 102,
+      "Id": 102,
+      "LangStringTable": {
+        "Text": "預設"
+      }
+    },
+    "103": {
+      "Cuid": 103,
+      "Id": 103,
+      "LangStringTable": {
+        "Text": "一些外觀的描述,來源或者臺詞。"
+      }
+    },
+    "104": {
+      "Cuid": 104,
+      "Id": 104,
+      "LangStringTable": {
+        "Text": "西行寺西行寺行"
+      }
+    },
+    "105": {
+      "Cuid": 105,
+      "Id": 105,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "106": {
+      "Cuid": 106,
+      "Id": 106,
+      "LangStringTable": {
+        "Text": "戰巡"
+      }
+    },
+    "107": {
+      "Cuid": 107,
+      "Id": 107,
+      "LangStringTable": {
+        "Text": "臺詞的名稱之類的"
+      }
+    },
+    "108": {
+      "Cuid": 108,
+      "Id": 108,
+      "LangStringTable": {
+        "Text": "技能名稱"
+      }
+    },
+    "109": {
+      "Cuid": 109,
+      "Id": 109,
+      "LangStringTable": {
+        "Text": "技能名稱"
+      }
+    },
+    "110": {
+      "Cuid": 110,
+      "Id": 110,
+      "LangStringTable": {
+        "Text": "技能名稱"
+      }
+    },
+    "111": {
+      "Cuid": 111,
+      "Id": 111,
+      "LangStringTable": {
+        "Text": "技能名稱"
+      }
+    },
+    "112": {
+      "Cuid": 112,
+      "Id": 112,
+      "LangStringTable": {
+        "Text": "技能名稱"
+      }
+    },
+    "113": {
+      "Cuid": 113,
+      "Id": 113,
+      "LangStringTable": {
+        "Text": "技能名稱"
+      }
+    },
+    "114": {
+      "Cuid": 114,
+      "Id": 114,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "115": {
+      "Cuid": 115,
+      "Id": 115,
+      "LangStringTable": {
+        "Text": "戰巡"
+      }
+    },
+    "116": {
+      "Cuid": 116,
+      "Id": 116,
+      "LangStringTable": {
+        "Text": "輸入TAG："
+      }
+    },
+    "117": {
+      "Cuid": 117,
+      "Id": 117,
+      "LangStringTable": {
+        "Text": "確定"
+      }
+    },
+    "118": {
+      "Cuid": 118,
+      "Id": 118,
+      "LangStringTable": {
+        "Text": "確定"
+      }
+    },
+    "119": {
+      "Cuid": 119,
+      "Id": 119,
+      "LangStringTable": {
+        "Text": "木色茶几"
+      }
+    },
+    "120": {
+      "Cuid": 120,
+      "Id": 120,
+      "LangStringTable": {
+        "Text": "旋轉"
+      }
+    },
+    "121": {
+      "Cuid": 121,
+      "Id": 121,
+      "LangStringTable": {
+        "Text": "回收"
+      }
+    },
+    "122": {
+      "Cuid": 122,
+      "Id": 122,
+      "LangStringTable": {
+        "Text": "確定"
+      }
+    },
+    "123": {
+      "Cuid": 123,
+      "Id": 123,
+      "LangStringTable": {
+        "Text": "回收"
+      }
+    },
+    "124": {
+      "Cuid": 124,
+      "Id": 124,
+      "LangStringTable": {
+        "Text": "確定"
+      }
+    },
+    "125": {
+      "Cuid": 125,
+      "Id": 125,
+      "LangStringTable": {
+        "Text": "退出佈置"
+      }
+    },
+    "126": {
+      "Cuid": 126,
+      "Id": 126,
+      "LangStringTable": {
+        "Text": "裝修"
+      }
+    },
+    "127": {
+      "Cuid": 127,
+      "Id": 127,
+      "LangStringTable": {
+        "Text": "家具"
+      }
+    },
+    "128": {
+      "Cuid": 128,
+      "Id": 128,
+      "LangStringTable": {
+        "Text": "保存佈置"
+      }
+    },
+    "129": {
+      "Cuid": 129,
+      "Id": 129,
+      "LangStringTable": {
+        "Text": "採購"
+      }
+    },
+    "130": {
+      "Cuid": 130,
+      "Id": 130,
+      "LangStringTable": {
+        "Text": "裝備製造"
+      }
+    },
+    "131": {
+      "Cuid": 131,
+      "Id": 131,
+      "LangStringTable": {
+        "Text": "管理房間"
+      }
+    },
+    "132": {
+      "Cuid": 132,
+      "Id": 132,
+      "LangStringTable": {
+        "Text": "佈置房間"
+      }
+    },
+    "133": {
+      "Cuid": 133,
+      "Id": 133,
+      "LangStringTable": {
+        "Text": "家具倉庫"
+      }
+    },
+    "134": {
+      "Cuid": 134,
+      "Id": 134,
+      "LangStringTable": {
+        "Text": "邀請聊天"
+      }
+    },
+    "135": {
+      "Cuid": 135,
+      "Id": 135,
+      "LangStringTable": {
+        "Text": "第三新東京市京市"
+      }
+    },
+    "136": {
+      "Cuid": 136,
+      "Id": 136,
+      "LangStringTable": {
+        "Text": "操作中"
+      }
+    },
+    "137": {
+      "Cuid": 137,
+      "Id": 137,
+      "LangStringTable": {
+        "Text": "酷酷的劍魂人形名字"
+      }
+    },
+    "138": {
+      "Cuid": 138,
+      "Id": 138,
+      "LangStringTable": {
+        "Text": "作戰開始"
+      }
+    },
+    "139": {
+      "Cuid": 139,
+      "Id": 139,
+      "LangStringTable": {
+        "Text": "雙聯主砲齊射"
+      }
+    },
+    "140": {
+      "Cuid": 140,
+      "Id": 140,
+      "LangStringTable": {
+        "Text": "第三新東京市京市"
+      }
+    },
+    "141": {
+      "Cuid": 141,
+      "Id": 141,
+      "LangStringTable": {
+        "Text": "操作中"
+      }
+    },
+    "142": {
+      "Cuid": 142,
+      "Id": 142,
+      "LangStringTable": {
+        "Text": "酷酷的劍魂人形名字"
+      }
+    },
+    "143": {
+      "Cuid": 143,
+      "Id": 143,
+      "LangStringTable": {
+        "Text": "作戰開始"
+      }
+    },
+    "144": {
+      "Cuid": 144,
+      "Id": 144,
+      "LangStringTable": {
+        "Text": "雙聯主砲齊射"
+      }
+    },
+    "145": {
+      "Cuid": 145,
+      "Id": 145,
+      "LangStringTable": {
+        "Text": "音樂"
+      }
+    },
+    "146": {
+      "Cuid": 146,
+      "Id": 146,
+      "LangStringTable": {
+        "Text": "音效"
+      }
+    },
+    "147": {
+      "Cuid": 147,
+      "Id": 147,
+      "LangStringTable": {
+        "Text": "語音"
+      }
+    },
+    "148": {
+      "Cuid": 148,
+      "Id": 148,
+      "LangStringTable": {
+        "Text": "返回戰鬥"
+      }
+    },
+    "149": {
+      "Cuid": 149,
+      "Id": 149,
+      "LangStringTable": {
+        "Text": "作戰終止"
+      }
+    },
+    "150": {
+      "Cuid": 150,
+      "Id": 150,
+      "LangStringTable": {
+        "Text": "排  序"
+      }
+    },
+    "151": {
+      "Cuid": 151,
+      "Id": 151,
+      "LangStringTable": {
+        "Text": "等級"
+      }
+    },
+    "152": {
+      "Cuid": 152,
+      "Id": 152,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "153": {
+      "Cuid": 153,
+      "Id": 153,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "154": {
+      "Cuid": 154,
+      "Id": 154,
+      "LangStringTable": {
+        "Text": "星級"
+      }
+    },
+    "155": {
+      "Cuid": 155,
+      "Id": 155,
+      "LangStringTable": {
+        "Text": "入手時間"
+      }
+    },
+    "156": {
+      "Cuid": 156,
+      "Id": 156,
+      "LangStringTable": {
+        "Text": "艦  種"
+      }
+    },
+    "157": {
+      "Cuid": 157,
+      "Id": 157,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "158": {
+      "Cuid": 158,
+      "Id": 158,
+      "LangStringTable": {
+        "Text": "驅逐"
+      }
+    },
+    "159": {
+      "Cuid": 159,
+      "Id": 159,
+      "LangStringTable": {
+        "Text": "輕巡"
+      }
+    },
+    "160": {
+      "Cuid": 160,
+      "Id": 160,
+      "LangStringTable": {
+        "Text": "重巡"
+      }
+    },
+    "161": {
+      "Cuid": 161,
+      "Id": 161,
+      "LangStringTable": {
+        "Text": "戰艦"
+      }
+    },
+    "162": {
+      "Cuid": 162,
+      "Id": 162,
+      "LangStringTable": {
+        "Text": "航母"
+      }
+    },
+    "163": {
+      "Cuid": 163,
+      "Id": 163,
+      "LangStringTable": {
+        "Text": "其他"
+      }
+    },
+    "164": {
+      "Cuid": 164,
+      "Id": 164,
+      "LangStringTable": {
+        "Text": "勢  力"
+      }
+    },
+    "165": {
+      "Cuid": 165,
+      "Id": 165,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "166": {
+      "Cuid": 166,
+      "Id": 166,
+      "LangStringTable": {
+        "Text": "黑鋒重工"
+      }
+    },
+    "167": {
+      "Cuid": 167,
+      "Id": 167,
+      "LangStringTable": {
+        "Text": "薔薇帝國"
+      }
+    },
+    "168": {
+      "Cuid": 168,
+      "Id": 168,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "169": {
+      "Cuid": 169,
+      "Id": 169,
+      "LangStringTable": {
+        "Text": "銀翼財團"
+      }
+    },
+    "170": {
+      "Cuid": 170,
+      "Id": 170,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "171": {
+      "Cuid": 171,
+      "Id": 171,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "172": {
+      "Cuid": 172,
+      "Id": 172,
+      "LangStringTable": {
+        "Text": "重置"
+      }
+    },
+    "173": {
+      "Cuid": 173,
+      "Id": 173,
+      "LangStringTable": {
+        "Text": "共消耗"
+      }
+    },
+    "174": {
+      "Cuid": 174,
+      "Id": 174,
+      "LangStringTable": {
+        "Text": "老闆，想買到多少級，儘管說"
+      }
+    },
+    "175": {
+      "Cuid": 175,
+      "Id": 175,
+      "LangStringTable": {
+        "Text": "當前等級 5  ( 初探門徑 )"
+      }
+    },
+    "176": {
+      "Cuid": 176,
+      "Id": 176,
+      "LangStringTable": {
+        "Text": "確  認"
+      }
+    },
+    "177": {
+      "Cuid": 177,
+      "Id": 177,
+      "LangStringTable": {
+        "Text": "限購"
+      }
+    },
+    "178": {
+      "Cuid": 178,
+      "Id": 178,
+      "LangStringTable": {
+        "Text": "本日限購次數："
+      }
+    },
+    "179": {
+      "Cuid": 179,
+      "Id": 179,
+      "LangStringTable": {
+        "Text": "限時"
+      }
+    },
+    "180": {
+      "Cuid": 180,
+      "Id": 180,
+      "LangStringTable": {
+        "Text": "剩餘時間："
+      }
+    },
+    "181": {
+      "Cuid": 181,
+      "Id": 181,
+      "LangStringTable": {
+        "Text": "重型魚雷"
+      }
+    },
+    "182": {
+      "Cuid": 182,
+      "Id": 182,
+      "LangStringTable": {
+        "Text": "內容包括"
+      }
+    },
+    "183": {
+      "Cuid": 183,
+      "Id": 183,
+      "LangStringTable": {
+        "Text": "消耗"
+      }
+    },
+    "184": {
+      "Cuid": 184,
+      "Id": 184,
+      "LangStringTable": {
+        "Text": "確 認"
+      }
+    },
+    "185": {
+      "Cuid": 185,
+      "Id": 185,
+      "LangStringTable": {
+        "Text": "數量"
+      }
+    },
+    "186": {
+      "Cuid": 186,
+      "Id": 186,
+      "LangStringTable": {
+        "Text": "能源購買"
+      }
+    },
+    "187": {
+      "Cuid": 187,
+      "Id": 187,
+      "LangStringTable": {
+        "Text": "共需消耗"
+      }
+    },
+    "188": {
+      "Cuid": 188,
+      "Id": 188,
+      "LangStringTable": {
+        "Text": "購買次數"
+      }
+    },
+    "189": {
+      "Cuid": 189,
+      "Id": 189,
+      "LangStringTable": {
+        "Text": "確  定"
+      }
+    },
+    "190": {
+      "Cuid": 190,
+      "Id": 190,
+      "LangStringTable": {
+        "Text": "點擊輸入1-8字的名字"
+      }
+    },
+    "191": {
+      "Cuid": 191,
+      "Id": 191,
+      "LangStringTable": {
+        "Text": "請輸入不超過18個的文字或者不超過36個的英文字元"
+      }
+    },
+    "192": {
+      "Cuid": 192,
+      "Id": 192,
+      "LangStringTable": {
+        "Text": "點擊輸入你的世界宣言，最多輸入18字"
+      }
+    },
+    "193": {
+      "Cuid": 193,
+      "Id": 193,
+      "LangStringTable": {
+        "Text": "排  序"
+      }
+    },
+    "194": {
+      "Cuid": 194,
+      "Id": 194,
+      "LangStringTable": {
+        "Text": "等級"
+      }
+    },
+    "195": {
+      "Cuid": 195,
+      "Id": 195,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "196": {
+      "Cuid": 196,
+      "Id": 196,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "197": {
+      "Cuid": 197,
+      "Id": 197,
+      "LangStringTable": {
+        "Text": "星級"
+      }
+    },
+    "198": {
+      "Cuid": 198,
+      "Id": 198,
+      "LangStringTable": {
+        "Text": "入手時間"
+      }
+    },
+    "199": {
+      "Cuid": 199,
+      "Id": 199,
+      "LangStringTable": {
+        "Text": "艦  種"
+      }
+    },
+    "200": {
+      "Cuid": 200,
+      "Id": 200,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "201": {
+      "Cuid": 201,
+      "Id": 201,
+      "LangStringTable": {
+        "Text": "驅逐"
+      }
+    },
+    "202": {
+      "Cuid": 202,
+      "Id": 202,
+      "LangStringTable": {
+        "Text": "輕巡"
+      }
+    },
+    "203": {
+      "Cuid": 203,
+      "Id": 203,
+      "LangStringTable": {
+        "Text": "重巡"
+      }
+    },
+    "204": {
+      "Cuid": 204,
+      "Id": 204,
+      "LangStringTable": {
+        "Text": "戰艦"
+      }
+    },
+    "205": {
+      "Cuid": 205,
+      "Id": 205,
+      "LangStringTable": {
+        "Text": "航母"
+      }
+    },
+    "206": {
+      "Cuid": 206,
+      "Id": 206,
+      "LangStringTable": {
+        "Text": "其他"
+      }
+    },
+    "207": {
+      "Cuid": 207,
+      "Id": 207,
+      "LangStringTable": {
+        "Text": "勢  力"
+      }
+    },
+    "208": {
+      "Cuid": 208,
+      "Id": 208,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "209": {
+      "Cuid": 209,
+      "Id": 209,
+      "LangStringTable": {
+        "Text": "黑鋒重工"
+      }
+    },
+    "210": {
+      "Cuid": 210,
+      "Id": 210,
+      "LangStringTable": {
+        "Text": "薔薇帝國"
+      }
+    },
+    "211": {
+      "Cuid": 211,
+      "Id": 211,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "212": {
+      "Cuid": 212,
+      "Id": 212,
+      "LangStringTable": {
+        "Text": "銀翼財團"
+      }
+    },
+    "213": {
+      "Cuid": 213,
+      "Id": 213,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "214": {
+      "Cuid": 214,
+      "Id": 214,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "215": {
+      "Cuid": 215,
+      "Id": 215,
+      "LangStringTable": {
+        "Text": "重置"
+      }
+    },
+    "216": {
+      "Cuid": 216,
+      "Id": 216,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "217": {
+      "Cuid": 217,
+      "Id": 217,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "218": {
+      "Cuid": 218,
+      "Id": 218,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "219": {
+      "Cuid": 219,
+      "Id": 219,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "220": {
+      "Cuid": 220,
+      "Id": 220,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "221": {
+      "Cuid": 221,
+      "Id": 221,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "222": {
+      "Cuid": 222,
+      "Id": 222,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "223": {
+      "Cuid": 223,
+      "Id": 223,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "224": {
+      "Cuid": 224,
+      "Id": 224,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "225": {
+      "Cuid": 225,
+      "Id": 225,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "226": {
+      "Cuid": 226,
+      "Id": 226,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "227": {
+      "Cuid": 227,
+      "Id": 227,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "228": {
+      "Cuid": 228,
+      "Id": 228,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "229": {
+      "Cuid": 229,
+      "Id": 229,
+      "LangStringTable": {
+        "Text": "世界"
+      }
+    },
+    "230": {
+      "Cuid": 230,
+      "Id": 230,
+      "LangStringTable": {
+        "Text": "聯盟"
+      }
+    },
+    "231": {
+      "Cuid": 231,
+      "Id": 231,
+      "LangStringTable": {
+        "Text": "波頻切換"
+      }
+    },
+    "232": {
+      "Cuid": 232,
+      "Id": 232,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "233": {
+      "Cuid": 233,
+      "Id": 233,
+      "LangStringTable": {
+        "Text": "降序"
+      }
+    },
+    "234": {
+      "Cuid": 234,
+      "Id": 234,
+      "LangStringTable": {
+        "Text": "艙位"
+      }
+    },
+    "235": {
+      "Cuid": 235,
+      "Id": 235,
+      "LangStringTable": {
+        "Text": "確定"
+      }
+    },
+    "236": {
+      "Cuid": 236,
+      "Id": 236,
+      "LangStringTable": {
+        "Text": "已選擇突破素材 1/2"
+      }
+    },
+    "237": {
+      "Cuid": 237,
+      "Id": 237,
+      "LangStringTable": {
+        "Text": "糟糕，素材不足"
+      }
+    },
+    "238": {
+      "Cuid": 238,
+      "Id": 238,
+      "LangStringTable": {
+        "Text": "大頭貼框"
+      }
+    },
+    "239": {
+      "Cuid": 239,
+      "Id": 239,
+      "LangStringTable": {
+        "Text": "大頭貼"
+      }
+    },
+    "240": {
+      "Cuid": 240,
+      "Id": 240,
+      "LangStringTable": {
+        "Text": "征服征服芙芙芙芙港獲得。"
+      }
+    },
+    "241": {
+      "Cuid": 241,
+      "Id": 241,
+      "LangStringTable": {
+        "Text": "征服征服芙芙芙芙港獲得。"
+      }
+    },
+    "242": {
+      "Cuid": 242,
+      "Id": 242,
+      "LangStringTable": {
+        "Text": "普通評論"
+      }
+    },
+    "243": {
+      "Cuid": 243,
+      "Id": 243,
+      "LangStringTable": {
+        "Text": "輸入評論:"
+      }
+    },
+    "244": {
+      "Cuid": 244,
+      "Id": 244,
+      "LangStringTable": {
+        "Text": "招募確認"
+      }
+    },
+    "245": {
+      "Cuid": 245,
+      "Id": 245,
+      "LangStringTable": {
+        "Text": "徵招合約不足，無法進行招募。是否需要前往商會進行購買？"
+      }
+    },
+    "246": {
+      "Cuid": 246,
+      "Id": 246,
+      "LangStringTable": {
+        "Text": "消耗以上資源，以立即完成10份訂單"
+      }
+    },
+    "247": {
+      "Cuid": 247,
+      "Id": 247,
+      "LangStringTable": {
+        "Text": "確  認"
+      }
+    },
+    "248": {
+      "Cuid": 248,
+      "Id": 248,
+      "LangStringTable": {
+        "Text": "取 消"
+      }
+    },
+    "249": {
+      "Cuid": 249,
+      "Id": 249,
+      "LangStringTable": {
+        "Text": "確 認"
+      }
+    },
+    "250": {
+      "Cuid": 250,
+      "Id": 250,
+      "LangStringTable": {
+        "Text": "確  認"
+      }
+    },
+    "251": {
+      "Cuid": 251,
+      "Id": 251,
+      "LangStringTable": {
+        "Text": "取  消"
+      }
+    },
+    "252": {
+      "Cuid": 252,
+      "Id": 252,
+      "LangStringTable": {
+        "Text": "其  他"
+      }
+    },
+    "253": {
+      "Cuid": 253,
+      "Id": 253,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "254": {
+      "Cuid": 254,
+      "Id": 254,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "255": {
+      "Cuid": 255,
+      "Id": 255,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "256": {
+      "Cuid": 256,
+      "Id": 256,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "257": {
+      "Cuid": 257,
+      "Id": 257,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "258": {
+      "Cuid": 258,
+      "Id": 258,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "259": {
+      "Cuid": 259,
+      "Id": 259,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "260": {
+      "Cuid": 260,
+      "Id": 260,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "261": {
+      "Cuid": 261,
+      "Id": 261,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "262": {
+      "Cuid": 262,
+      "Id": 262,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "263": {
+      "Cuid": 263,
+      "Id": 263,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "264": {
+      "Cuid": 264,
+      "Id": 264,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "265": {
+      "Cuid": 265,
+      "Id": 265,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "266": {
+      "Cuid": 266,
+      "Id": 266,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "267": {
+      "Cuid": 267,
+      "Id": 267,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "268": {
+      "Cuid": 268,
+      "Id": 268,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "269": {
+      "Cuid": 269,
+      "Id": 269,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "270": {
+      "Cuid": 270,
+      "Id": 270,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "271": {
+      "Cuid": 271,
+      "Id": 271,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "272": {
+      "Cuid": 272,
+      "Id": 272,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "273": {
+      "Cuid": 273,
+      "Id": 273,
+      "LangStringTable": {
+        "Text": "等級"
+      }
+    },
+    "274": {
+      "Cuid": 274,
+      "Id": 274,
+      "LangStringTable": {
+        "Text": "升序"
+      }
+    },
+    "275": {
+      "Cuid": 275,
+      "Id": 275,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "276": {
+      "Cuid": 276,
+      "Id": 276,
+      "LangStringTable": {
+        "Text": "加成屬性預覽"
+      }
+    },
+    "277": {
+      "Cuid": 277,
+      "Id": 277,
+      "LangStringTable": {
+        "Text": "傷害傷害"
+      }
+    },
+    "278": {
+      "Cuid": 278,
+      "Id": 278,
+      "LangStringTable": {
+        "Text": "更換裝備"
+      }
+    },
+    "279": {
+      "Cuid": 279,
+      "Id": 279,
+      "LangStringTable": {
+        "Text": "TEXT650mm重型魚雷"
+      }
+    },
+    "280": {
+      "Cuid": 280,
+      "Id": 280,
+      "LangStringTable": {
+        "Text": "普通魚雷"
+      }
+    },
+    "281": {
+      "Cuid": 281,
+      "Id": 281,
+      "LangStringTable": {
+        "Text": "火箭助飛魚雷就是魚雷裝有火箭加速器，其在空中飛行的航速可達音速."
+      }
+    },
+    "282": {
+      "Cuid": 282,
+      "Id": 282,
+      "LangStringTable": {
+        "Text": "傷害：100"
+      }
+    },
+    "283": {
+      "Cuid": 283,
+      "Id": 283,
+      "LangStringTable": {
+        "Text": "射速：200"
+      }
+    },
+    "284": {
+      "Cuid": 284,
+      "Id": 284,
+      "LangStringTable": {
+        "Text": "TEXT650mm重型魚雷"
+      }
+    },
+    "285": {
+      "Cuid": 285,
+      "Id": 285,
+      "LangStringTable": {
+        "Text": "普通魚雷"
+      }
+    },
+    "286": {
+      "Cuid": 286,
+      "Id": 286,
+      "LangStringTable": {
+        "Text": "火箭助飛魚雷就是魚雷裝有火箭加速器，其在空中飛行的航速可達音速."
+      }
+    },
+    "287": {
+      "Cuid": 287,
+      "Id": 287,
+      "LangStringTable": {
+        "Text": "傷害：100"
+      }
+    },
+    "288": {
+      "Cuid": 288,
+      "Id": 288,
+      "LangStringTable": {
+        "Text": "射速：200"
+      }
+    },
+    "289": {
+      "Cuid": 289,
+      "Id": 289,
+      "LangStringTable": {
+        "Text": "TEXT650mm重型魚雷"
+      }
+    },
+    "290": {
+      "Cuid": 290,
+      "Id": 290,
+      "LangStringTable": {
+        "Text": "普通魚雷"
+      }
+    },
+    "291": {
+      "Cuid": 291,
+      "Id": 291,
+      "LangStringTable": {
+        "Text": "火箭助飛魚雷就是魚雷裝有火箭加速器，\\r\\n其在空中飛行的航速可達音速."
+      }
+    },
+    "292": {
+      "Cuid": 292,
+      "Id": 292,
+      "LangStringTable": {
+        "Text": "射速：200"
+      }
+    },
+    "293": {
+      "Cuid": 293,
+      "Id": 293,
+      "LangStringTable": {
+        "Text": "傷害：100"
+      }
+    },
+    "294": {
+      "Cuid": 294,
+      "Id": 294,
+      "LangStringTable": {
+        "Text": "取消"
+      }
+    },
+    "295": {
+      "Cuid": 295,
+      "Id": 295,
+      "LangStringTable": {
+        "Text": "更換"
+      }
+    },
+    "296": {
+      "Cuid": 296,
+      "Id": 296,
+      "LangStringTable": {
+        "Text": "強化"
+      }
+    },
+    "297": {
+      "Cuid": 297,
+      "Id": 297,
+      "LangStringTable": {
+        "Text": "卸載"
+      }
+    },
+    "298": {
+      "Cuid": 298,
+      "Id": 298,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "299": {
+      "Cuid": 299,
+      "Id": 299,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "300": {
+      "Cuid": 300,
+      "Id": 300,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "301": {
+      "Cuid": 301,
+      "Id": 301,
+      "LangStringTable": {
+        "Text": "最大頂點"
+      }
+    },
+    "302": {
+      "Cuid": 302,
+      "Id": 302,
+      "LangStringTable": {
+        "Text": "傷害  200"
+      }
+    },
+    "303": {
+      "Cuid": 303,
+      "Id": 303,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "304": {
+      "Cuid": 304,
+      "Id": 304,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "305": {
+      "Cuid": 305,
+      "Id": 305,
+      "LangStringTable": {
+        "Text": "強化"
+      }
+    },
+    "306": {
+      "Cuid": 306,
+      "Id": 306,
+      "LangStringTable": {
+        "Text": "更替"
+      }
+    },
+    "307": {
+      "Cuid": 307,
+      "Id": 307,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "308": {
+      "Cuid": 308,
+      "Id": 308,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "309": {
+      "Cuid": 309,
+      "Id": 309,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "310": {
+      "Cuid": 310,
+      "Id": 310,
+      "LangStringTable": {
+        "Text": "最大頂點"
+      }
+    },
+    "311": {
+      "Cuid": 311,
+      "Id": 311,
+      "LangStringTable": {
+        "Text": "傷害  200"
+      }
+    },
+    "312": {
+      "Cuid": 312,
+      "Id": 312,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "313": {
+      "Cuid": 313,
+      "Id": 313,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "314": {
+      "Cuid": 314,
+      "Id": 314,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "315": {
+      "Cuid": 315,
+      "Id": 315,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "316": {
+      "Cuid": 316,
+      "Id": 316,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "317": {
+      "Cuid": 317,
+      "Id": 317,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "318": {
+      "Cuid": 318,
+      "Id": 318,
+      "LangStringTable": {
+        "Text": "耐久   12400"
+      }
+    },
+    "319": {
+      "Cuid": 319,
+      "Id": 319,
+      "LangStringTable": {
+        "Text": "耐久   12400"
+      }
+    },
+    "320": {
+      "Cuid": 320,
+      "Id": 320,
+      "LangStringTable": {
+        "Text": "耐久   12400"
+      }
+    },
+    "321": {
+      "Cuid": 321,
+      "Id": 321,
+      "LangStringTable": {
+        "Text": "耐久   12400"
+      }
+    },
+    "322": {
+      "Cuid": 322,
+      "Id": 322,
+      "LangStringTable": {
+        "Text": "開 始 強 化"
+      }
+    },
+    "323": {
+      "Cuid": 323,
+      "Id": 323,
+      "LangStringTable": {
+        "Text": "開 始 強 化"
+      }
+    },
+    "324": {
+      "Cuid": 324,
+      "Id": 324,
+      "LangStringTable": {
+        "Text": "篩選"
+      }
+    },
+    "325": {
+      "Cuid": 325,
+      "Id": 325,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "326": {
+      "Cuid": 326,
+      "Id": 326,
+      "LangStringTable": {
+        "Text": "強化"
+      }
+    },
+    "327": {
+      "Cuid": 327,
+      "Id": 327,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "328": {
+      "Cuid": 328,
+      "Id": 328,
+      "LangStringTable": {
+        "Text": "重置"
+      }
+    },
+    "329": {
+      "Cuid": 329,
+      "Id": 329,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "330": {
+      "Cuid": 330,
+      "Id": 330,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "331": {
+      "Cuid": 331,
+      "Id": 331,
+      "LangStringTable": {
+        "Text": "星   級"
+      }
+    },
+    "332": {
+      "Cuid": 332,
+      "Id": 332,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "333": {
+      "Cuid": 333,
+      "Id": 333,
+      "LangStringTable": {
+        "Text": "艦   種"
+      }
+    },
+    "334": {
+      "Cuid": 334,
+      "Id": 334,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "335": {
+      "Cuid": 335,
+      "Id": 335,
+      "LangStringTable": {
+        "Text": "驅逐"
+      }
+    },
+    "336": {
+      "Cuid": 336,
+      "Id": 336,
+      "LangStringTable": {
+        "Text": "輕巡"
+      }
+    },
+    "337": {
+      "Cuid": 337,
+      "Id": 337,
+      "LangStringTable": {
+        "Text": "重巡"
+      }
+    },
+    "338": {
+      "Cuid": 338,
+      "Id": 338,
+      "LangStringTable": {
+        "Text": "戰艦"
+      }
+    },
+    "339": {
+      "Cuid": 339,
+      "Id": 339,
+      "LangStringTable": {
+        "Text": "航母"
+      }
+    },
+    "340": {
+      "Cuid": 340,
+      "Id": 340,
+      "LangStringTable": {
+        "Text": "其他"
+      }
+    },
+    "341": {
+      "Cuid": 341,
+      "Id": 341,
+      "LangStringTable": {
+        "Text": "勢  力"
+      }
+    },
+    "342": {
+      "Cuid": 342,
+      "Id": 342,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "343": {
+      "Cuid": 343,
+      "Id": 343,
+      "LangStringTable": {
+        "Text": "黑鋒"
+      }
+    },
+    "344": {
+      "Cuid": 344,
+      "Id": 344,
+      "LangStringTable": {
+        "Text": "薔薇"
+      }
+    },
+    "345": {
+      "Cuid": 345,
+      "Id": 345,
+      "LangStringTable": {
+        "Text": "神代"
+      }
+    },
+    "346": {
+      "Cuid": 346,
+      "Id": 346,
+      "LangStringTable": {
+        "Text": "銀翼"
+      }
+    },
+    "347": {
+      "Cuid": 347,
+      "Id": 347,
+      "LangStringTable": {
+        "Text": "關閉"
+      }
+    },
+    "348": {
+      "Cuid": 348,
+      "Id": 348,
+      "LangStringTable": {
+        "Text": "裝備資訊"
+      }
+    },
+    "349": {
+      "Cuid": 349,
+      "Id": 349,
+      "LangStringTable": {
+        "Text": "TEXT650mm重型魚雷"
+      }
+    },
+    "350": {
+      "Cuid": 350,
+      "Id": 350,
+      "LangStringTable": {
+        "Text": "普通魚雷"
+      }
+    },
+    "351": {
+      "Cuid": 351,
+      "Id": 351,
+      "LangStringTable": {
+        "Text": "火箭助飛魚雷就是魚雷裝有火箭加速器，其在空飛行的航速可達音速."
+      }
+    },
+    "352": {
+      "Cuid": 352,
+      "Id": 352,
+      "LangStringTable": {
+        "Text": "射速：200"
+      }
+    },
+    "353": {
+      "Cuid": 353,
+      "Id": 353,
+      "LangStringTable": {
+        "Text": "傷害：100"
+      }
+    },
+    "354": {
+      "Cuid": 354,
+      "Id": 354,
+      "LangStringTable": {
+        "Text": "遠征成功"
+      }
+    },
+    "355": {
+      "Cuid": 355,
+      "Id": 355,
+      "LangStringTable": {
+        "Text": "扶  桑"
+      }
+    },
+    "356": {
+      "Cuid": 356,
+      "Id": 356,
+      "LangStringTable": {
+        "Text": "少年，你還真是……怠慢呢！說什麼拯救，無非只是背叛的藉口！"
+      }
+    },
+    "357": {
+      "Cuid": 357,
+      "Id": 357,
+      "LangStringTable": {
+        "Text": "少年，你還真是……怠慢呢！說什麼拯救，無非只是背叛的藉口！"
+      }
+    },
+    "358": {
+      "Cuid": 358,
+      "Id": 358,
+      "LangStringTable": {
+        "Text": "贈送禮物"
+      }
+    },
+    "359": {
+      "Cuid": 359,
+      "Id": 359,
+      "LangStringTable": {
+        "Text": "印刻誓約"
+      }
+    },
+    "360": {
+      "Cuid": 360,
+      "Id": 360,
+      "LangStringTable": {
+        "Text": "聯盟宣言"
+      }
+    },
+    "361": {
+      "Cuid": 361,
+      "Id": 361,
+      "LangStringTable": {
+        "Text": "聯盟風格"
+      }
+    },
+    "362": {
+      "Cuid": 362,
+      "Id": 362,
+      "LangStringTable": {
+        "Text": "聯盟名稱"
+      }
+    },
+    "363": {
+      "Cuid": 363,
+      "Id": 363,
+      "LangStringTable": {
+        "Text": "請輸入聯盟名稱"
+      }
+    },
+    "364": {
+      "Cuid": 364,
+      "Id": 364,
+      "LangStringTable": {
+        "Text": "請輸入聯盟宣言"
+      }
+    },
+    "365": {
+      "Cuid": 365,
+      "Id": 365,
+      "LangStringTable": {
+        "Text": "取  消"
+      }
+    },
+    "366": {
+      "Cuid": 366,
+      "Id": 366,
+      "LangStringTable": {
+        "Text": "創  建"
+      }
+    },
+    "367": {
+      "Cuid": 367,
+      "Id": 367,
+      "LangStringTable": {
+        "Text": "司令的名字"
+      }
+    },
+    "368": {
+      "Cuid": 368,
+      "Id": 368,
+      "LangStringTable": {
+        "Text": "人數"
+      }
+    },
+    "369": {
+      "Cuid": 369,
+      "Id": 369,
+      "LangStringTable": {
+        "Text": "已申請"
+      }
+    },
+    "370": {
+      "Cuid": 370,
+      "Id": 370,
+      "LangStringTable": {
+        "Text": "沒有找到符合條件的聯盟"
+      }
+    },
+    "371": {
+      "Cuid": 371,
+      "Id": 371,
+      "LangStringTable": {
+        "Text": "輸入聯盟ID進行搜索"
+      }
+    },
+    "372": {
+      "Cuid": 372,
+      "Id": 372,
+      "LangStringTable": {
+        "Text": "聯盟風格"
+      }
+    },
+    "373": {
+      "Cuid": 373,
+      "Id": 373,
+      "LangStringTable": {
+        "Text": "創建聯盟"
+      }
+    },
+    "374": {
+      "Cuid": 374,
+      "Id": 374,
+      "LangStringTable": {
+        "Text": "重 置"
+      }
+    },
+    "375": {
+      "Cuid": 375,
+      "Id": 375,
+      "LangStringTable": {
+        "Text": "確 定"
+      }
+    },
+    "376": {
+      "Cuid": 376,
+      "Id": 376,
+      "LangStringTable": {
+        "Text": "聯盟誓言"
+      }
+    },
+    "377": {
+      "Cuid": 377,
+      "Id": 377,
+      "LangStringTable": {
+        "Text": "修 改"
+      }
+    },
+    "378": {
+      "Cuid": 378,
+      "Id": 378,
+      "LangStringTable": {
+        "Text": "退出聯盟"
+      }
+    },
+    "379": {
+      "Cuid": 379,
+      "Id": 379,
+      "LangStringTable": {
+        "Text": "聯盟宣言"
+      }
+    },
+    "380": {
+      "Cuid": 380,
+      "Id": 380,
+      "LangStringTable": {
+        "Text": "聯盟風格"
+      }
+    },
+    "381": {
+      "Cuid": 381,
+      "Id": 381,
+      "LangStringTable": {
+        "Text": "聯盟名稱"
+      }
+    },
+    "382": {
+      "Cuid": 382,
+      "Id": 382,
+      "LangStringTable": {
+        "Text": "請輸入聯盟名稱"
+      }
+    },
+    "383": {
+      "Cuid": 383,
+      "Id": 383,
+      "LangStringTable": {
+        "Text": "請輸入聯盟宣言"
+      }
+    },
+    "384": {
+      "Cuid": 384,
+      "Id": 384,
+      "LangStringTable": {
+        "Text": "確認修改"
+      }
+    },
+    "385": {
+      "Cuid": 385,
+      "Id": 385,
+      "LangStringTable": {
+        "Text": "聯盟信息"
+      }
+    },
+    "386": {
+      "Cuid": 386,
+      "Id": 386,
+      "LangStringTable": {
+        "Text": "成員管理"
+      }
+    },
+    "387": {
+      "Cuid": 387,
+      "Id": 387,
+      "LangStringTable": {
+        "Text": "聯盟商店"
+      }
+    },
+    "388": {
+      "Cuid": 388,
+      "Id": 388,
+      "LangStringTable": {
+        "Text": "成員名稱有八個字"
+      }
+    },
+    "389": {
+      "Cuid": 389,
+      "Id": 389,
+      "LangStringTable": {
+        "Text": "普通成員"
+      }
+    },
+    "390": {
+      "Cuid": 390,
+      "Id": 390,
+      "LangStringTable": {
+        "Text": "活躍度"
+      }
+    },
+    "391": {
+      "Cuid": 391,
+      "Id": 391,
+      "LangStringTable": {
+        "Text": "活動點"
+      }
+    },
+    "392": {
+      "Cuid": 392,
+      "Id": 392,
+      "LangStringTable": {
+        "Text": "收集率         %"
+      }
+    },
+    "393": {
+      "Cuid": 393,
+      "Id": 393,
+      "LangStringTable": {
+        "Text": "戒備值"
+      }
+    },
+    "394": {
+      "Cuid": 394,
+      "Id": 394,
+      "LangStringTable": {
+        "Text": "申請好友"
+      }
+    },
+    "395": {
+      "Cuid": 395,
+      "Id": 395,
+      "LangStringTable": {
+        "Text": "已添加"
+      }
+    },
+    "396": {
+      "Cuid": 396,
+      "Id": 396,
+      "LangStringTable": {
+        "Text": "已申請"
+      }
+    },
+    "397": {
+      "Cuid": 397,
+      "Id": 397,
+      "LangStringTable": {
+        "Text": "查看資料"
+      }
+    },
+    "398": {
+      "Cuid": 398,
+      "Id": 398,
+      "LangStringTable": {
+        "Text": "管理"
+      }
+    },
+    "399": {
+      "Cuid": 399,
+      "Id": 399,
+      "LangStringTable": {
+        "Text": "成員名稱有八個字"
+      }
+    },
+    "400": {
+      "Cuid": 400,
+      "Id": 400,
+      "LangStringTable": {
+        "Text": "收集率        %"
+      }
+    },
+    "401": {
+      "Cuid": 401,
+      "Id": 401,
+      "LangStringTable": {
+        "Text": "戒備值"
+      }
+    },
+    "402": {
+      "Cuid": 402,
+      "Id": 402,
+      "LangStringTable": {
+        "Text": "通過"
+      }
+    },
+    "403": {
+      "Cuid": 403,
+      "Id": 403,
+      "LangStringTable": {
+        "Text": "成員列表"
+      }
+    },
+    "404": {
+      "Cuid": 404,
+      "Id": 404,
+      "LangStringTable": {
+        "Text": "申請列表"
+      }
+    },
+    "405": {
+      "Cuid": 405,
+      "Id": 405,
+      "LangStringTable": {
+        "Text": "活躍度"
+      }
+    },
+    "406": {
+      "Cuid": 406,
+      "Id": 406,
+      "LangStringTable": {
+        "Text": "戒備值"
+      }
+    },
+    "407": {
+      "Cuid": 407,
+      "Id": 407,
+      "LangStringTable": {
+        "Text": "管理成員"
+      }
+    },
+    "408": {
+      "Cuid": 408,
+      "Id": 408,
+      "LangStringTable": {
+        "Text": "職位"
+      }
+    },
+    "409": {
+      "Cuid": 409,
+      "Id": 409,
+      "LangStringTable": {
+        "Text": "普通成員"
+      }
+    },
+    "410": {
+      "Cuid": 410,
+      "Id": 410,
+      "LangStringTable": {
+        "Text": "精英"
+      }
+    },
+    "411": {
+      "Cuid": 411,
+      "Id": 411,
+      "LangStringTable": {
+        "Text": "副司令"
+      }
+    },
+    "412": {
+      "Cuid": 412,
+      "Id": 412,
+      "LangStringTable": {
+        "Text": "司令"
+      }
+    },
+    "413": {
+      "Cuid": 413,
+      "Id": 413,
+      "LangStringTable": {
+        "Text": "成員名稱有八個字"
+      }
+    },
+    "414": {
+      "Cuid": 414,
+      "Id": 414,
+      "LangStringTable": {
+        "Text": "確 定"
+      }
+    },
+    "415": {
+      "Cuid": 415,
+      "Id": 415,
+      "LangStringTable": {
+        "Text": "請離成員"
+      }
+    },
+    "416": {
+      "Cuid": 416,
+      "Id": 416,
+      "LangStringTable": {
+        "Text": "編隊詳情"
+      }
+    },
+    "417": {
+      "Cuid": 417,
+      "Id": 417,
+      "LangStringTable": {
+        "Text": "快速編隊"
+      }
+    },
+    "418": {
+      "Cuid": 418,
+      "Id": 418,
+      "LangStringTable": {
+        "Text": "解散"
+      }
+    },
+    "419": {
+      "Cuid": 419,
+      "Id": 419,
+      "LangStringTable": {
+        "Text": "艦隊\\r\\n總評"
+      }
+    },
+    "420": {
+      "Cuid": 420,
+      "Id": 420,
+      "LangStringTable": {
+        "Text": "暫不開放"
+      }
+    },
+    "421": {
+      "Cuid": 421,
+      "Id": 421,
+      "LangStringTable": {
+        "Text": "科羅拉多級"
+      }
+    },
+    "422": {
+      "Cuid": 422,
+      "Id": 422,
+      "LangStringTable": {
+        "Text": "科羅拉多級"
+      }
+    },
+    "423": {
+      "Cuid": 423,
+      "Id": 423,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "424": {
+      "Cuid": 424,
+      "Id": 424,
+      "LangStringTable": {
+        "Text": "等級"
+      }
+    },
+    "425": {
+      "Cuid": 425,
+      "Id": 425,
+      "LangStringTable": {
+        "Text": "遠程哥哥"
+      }
+    },
+    "426": {
+      "Cuid": 426,
+      "Id": 426,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "427": {
+      "Cuid": 427,
+      "Id": 427,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "428": {
+      "Cuid": 428,
+      "Id": 428,
+      "LangStringTable": {
+        "Text": "砲擊"
+      }
+    },
+    "429": {
+      "Cuid": 429,
+      "Id": 429,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "430": {
+      "Cuid": 430,
+      "Id": 430,
+      "LangStringTable": {
+        "Text": "航空"
+      }
+    },
+    "431": {
+      "Cuid": 431,
+      "Id": 431,
+      "LangStringTable": {
+        "Text": "前排"
+      }
+    },
+    "432": {
+      "Cuid": 432,
+      "Id": 432,
+      "LangStringTable": {
+        "Text": "自訂編隊名字"
+      }
+    },
+    "433": {
+      "Cuid": 433,
+      "Id": 433,
+      "LangStringTable": {
+        "Text": "屬性"
+      }
+    },
+    "434": {
+      "Cuid": 434,
+      "Id": 434,
+      "LangStringTable": {
+        "Text": "第一梯隊"
+      }
+    },
+    "435": {
+      "Cuid": 435,
+      "Id": 435,
+      "LangStringTable": {
+        "Text": "第一梯隊"
+      }
+    },
+    "436": {
+      "Cuid": 436,
+      "Id": 436,
+      "LangStringTable": {
+        "Text": "魚雷妖精"
+      }
+    },
+    "437": {
+      "Cuid": 437,
+      "Id": 437,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "438": {
+      "Cuid": 438,
+      "Id": 438,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "439": {
+      "Cuid": 439,
+      "Id": 439,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "440": {
+      "Cuid": 440,
+      "Id": 440,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "441": {
+      "Cuid": 441,
+      "Id": 441,
+      "LangStringTable": {
+        "Text": "護甲"
+      }
+    },
+    "442": {
+      "Cuid": 442,
+      "Id": 442,
+      "LangStringTable": {
+        "Text": "妖精\\r\\n總評"
+      }
+    },
+    "443": {
+      "Cuid": 443,
+      "Id": 443,
+      "LangStringTable": {
+        "Text": "[緊急]遠征任務有八個字"
+      }
+    },
+    "444": {
+      "Cuid": 444,
+      "Id": 444,
+      "LangStringTable": {
+        "Text": "行動完成"
+      }
+    },
+    "445": {
+      "Cuid": 445,
+      "Id": 445,
+      "LangStringTable": {
+        "Text": "[緊急]遠征任務有八個字"
+      }
+    },
+    "446": {
+      "Cuid": 446,
+      "Id": 446,
+      "LangStringTable": {
+        "Text": "活動"
+      }
+    },
+    "447": {
+      "Cuid": 447,
+      "Id": 447,
+      "LangStringTable": {
+        "Text": "人形機動訓練"
+      }
+    },
+    "448": {
+      "Cuid": 448,
+      "Id": 448,
+      "LangStringTable": {
+        "Text": "遠征任務有八個字"
+      }
+    },
+    "449": {
+      "Cuid": 449,
+      "Id": 449,
+      "LangStringTable": {
+        "Text": "緊急"
+      }
+    },
+    "450": {
+      "Cuid": 450,
+      "Id": 450,
+      "LangStringTable": {
+        "Text": "取消行動"
+      }
+    },
+    "451": {
+      "Cuid": 451,
+      "Id": 451,
+      "LangStringTable": {
+        "Text": "完成獎勵"
+      }
+    },
+    "452": {
+      "Cuid": 452,
+      "Id": 452,
+      "LangStringTable": {
+        "Text": "出征人形數量限制: 3人"
+      }
+    },
+    "453": {
+      "Cuid": 453,
+      "Id": 453,
+      "LangStringTable": {
+        "Text": "出征人形等級限制:   級"
+      }
+    },
+    "454": {
+      "Cuid": 454,
+      "Id": 454,
+      "LangStringTable": {
+        "Text": "您還沒有好友，快去添加吧~"
+      }
+    },
+    "455": {
+      "Cuid": 455,
+      "Id": 455,
+      "LangStringTable": {
+        "Text": "安寧潮湧"
+      }
+    },
+    "456": {
+      "Cuid": 456,
+      "Id": 456,
+      "LangStringTable": {
+        "Text": "3分鐘前離線"
+      }
+    },
+    "457": {
+      "Cuid": 457,
+      "Id": 457,
+      "LangStringTable": {
+        "Text": "最近登入"
+      }
+    },
+    "458": {
+      "Cuid": 458,
+      "Id": 458,
+      "LangStringTable": {
+        "Text": "好友"
+      }
+    },
+    "459": {
+      "Cuid": 459,
+      "Id": 459,
+      "LangStringTable": {
+        "Text": "請輸入好友ID"
+      }
+    },
+    "460": {
+      "Cuid": 460,
+      "Id": 460,
+      "LangStringTable": {
+        "Text": "輸入好友ID進行搜索"
+      }
+    },
+    "461": {
+      "Cuid": 461,
+      "Id": 461,
+      "LangStringTable": {
+        "Text": "點擊輸入你的世界宣言"
+      }
+    },
+    "462": {
+      "Cuid": 462,
+      "Id": 462,
+      "LangStringTable": {
+        "Text": "不染灰燼"
+      }
+    },
+    "463": {
+      "Cuid": 463,
+      "Id": 463,
+      "LangStringTable": {
+        "Text": "<color=#FFFFFF80>未加入聯盟</color>"
+      }
+    },
+    "464": {
+      "Cuid": 464,
+      "Id": 464,
+      "LangStringTable": {
+        "Text": "點擊輸入你的世界宣言，最多輸入18字"
+      }
+    },
+    "465": {
+      "Cuid": 465,
+      "Id": 465,
+      "LangStringTable": {
+        "Text": "點擊輸入你的世界宣言"
+      }
+    },
+    "466": {
+      "Cuid": 466,
+      "Id": 466,
+      "LangStringTable": {
+        "Text": "名片"
+      }
+    },
+    "467": {
+      "Cuid": 467,
+      "Id": 467,
+      "LangStringTable": {
+        "Text": "全部移除"
+      }
+    },
+    "468": {
+      "Cuid": 468,
+      "Id": 468,
+      "LangStringTable": {
+        "Text": "這個人很懶什麼也沒留下。"
+      }
+    },
+    "469": {
+      "Cuid": 469,
+      "Id": 469,
+      "LangStringTable": {
+        "Text": "不眠的雲川御座"
+      }
+    },
+    "470": {
+      "Cuid": 470,
+      "Id": 470,
+      "LangStringTable": {
+        "Text": "<color=#FFFFFF80>未加入聯盟</color>"
+      }
+    },
+    "471": {
+      "Cuid": 471,
+      "Id": 471,
+      "LangStringTable": {
+        "Text": "3小時前離線"
+      }
+    },
+    "472": {
+      "Cuid": 472,
+      "Id": 472,
+      "LangStringTable": {
+        "Text": "同意"
+      }
+    },
+    "473": {
+      "Cuid": 473,
+      "Id": 473,
+      "LangStringTable": {
+        "Text": "拒絕"
+      }
+    },
+    "474": {
+      "Cuid": 474,
+      "Id": 474,
+      "LangStringTable": {
+        "Text": "申請好友"
+      }
+    },
+    "475": {
+      "Cuid": 475,
+      "Id": 475,
+      "LangStringTable": {
+        "Text": "已申請"
+      }
+    },
+    "476": {
+      "Cuid": 476,
+      "Id": 476,
+      "LangStringTable": {
+        "Text": "參觀後宅"
+      }
+    },
+    "477": {
+      "Cuid": 477,
+      "Id": 477,
+      "LangStringTable": {
+        "Text": "邀請聯盟"
+      }
+    },
+    "478": {
+      "Cuid": 478,
+      "Id": 478,
+      "LangStringTable": {
+        "Text": "刪除好友"
+      }
+    },
+    "479": {
+      "Cuid": 479,
+      "Id": 479,
+      "LangStringTable": {
+        "Text": "加黑名單"
+      }
+    },
+    "480": {
+      "Cuid": 480,
+      "Id": 480,
+      "LangStringTable": {
+        "Text": "移出"
+      }
+    },
+    "481": {
+      "Cuid": 481,
+      "Id": 481,
+      "LangStringTable": {
+        "Text": "西格瑪溶液西格格"
+      }
+    },
+    "482": {
+      "Cuid": 482,
+      "Id": 482,
+      "LangStringTable": {
+        "Text": "目前主流的Android機型基本都支持ETC1格式壓縮。但ETC1只能支援非Alpha通道的圖片壓縮。"
+      }
+    },
+    "483": {
+      "Cuid": 483,
+      "Id": 483,
+      "LangStringTable": {
+        "Text": "——帶鋸背景描述"
+      }
+    },
+    "484": {
+      "Cuid": 484,
+      "Id": 484,
+      "LangStringTable": {
+        "Text": "帶鋸背景描述帶鋸背景描"
+      }
+    },
+    "485": {
+      "Cuid": 485,
+      "Id": 485,
+      "LangStringTable": {
+        "Text": "西格瑪的溶液數量+500西西格瑪的溶液數量+500西西格瑪的溶液數量+500西西格瑪的溶液數量+500西西格瑪的溶液數量+500西西格瑪的溶液數量+500西"
+      }
+    },
+    "486": {
+      "Cuid": 486,
+      "Id": 486,
+      "LangStringTable": {
+        "Text": "裝修"
+      }
+    },
+    "487": {
+      "Cuid": 487,
+      "Id": 487,
+      "LangStringTable": {
+        "Text": "家具"
+      }
+    },
+    "488": {
+      "Cuid": 488,
+      "Id": 488,
+      "LangStringTable": {
+        "Text": "冰點行動"
+      }
+    },
+    "489": {
+      "Cuid": 489,
+      "Id": 489,
+      "LangStringTable": {
+        "Text": "螢光污染"
+      }
+    },
+    "490": {
+      "Cuid": 490,
+      "Id": 490,
+      "LangStringTable": {
+        "Text": "驅逐契約"
+      }
+    },
+    "491": {
+      "Cuid": 491,
+      "Id": 491,
+      "LangStringTable": {
+        "Text": "重巡契約"
+      }
+    },
+    "492": {
+      "Cuid": 492,
+      "Id": 492,
+      "LangStringTable": {
+        "Text": "戰列契約"
+      }
+    },
+    "493": {
+      "Cuid": 493,
+      "Id": 493,
+      "LangStringTable": {
+        "Text": "單次招募消耗"
+      }
+    },
+    "494": {
+      "Cuid": 494,
+      "Id": 494,
+      "LangStringTable": {
+        "Text": "訂單隊列"
+      }
+    },
+    "495": {
+      "Cuid": 495,
+      "Id": 495,
+      "LangStringTable": {
+        "Text": "提督大人，二號目標艦已招募成功，請確認招募結果。"
+      }
+    },
+    "496": {
+      "Cuid": 496,
+      "Id": 496,
+      "LangStringTable": {
+        "Text": "人偶訂單"
+      }
+    },
+    "497": {
+      "Cuid": 497,
+      "Id": 497,
+      "LangStringTable": {
+        "Text": "訂單隊列"
+      }
+    },
+    "498": {
+      "Cuid": 498,
+      "Id": 498,
+      "LangStringTable": {
+        "Text": "戰巡"
+      }
+    },
+    "499": {
+      "Cuid": 499,
+      "Id": 499,
+      "LangStringTable": {
+        "Text": "電"
+      }
+    },
+    "500": {
+      "Cuid": 500,
+      "Id": 500,
+      "LangStringTable": {
+        "Text": "朝比奈 實久留子"
+      }
+    },
+    "501": {
+      "Cuid": 501,
+      "Id": 501,
+      "LangStringTable": {
+        "Text": "哎！提督大人看上去很好吃的樣子\\r\\n                         可以給時雨咬一口嗎？"
+      }
+    },
+    "502": {
+      "Cuid": 502,
+      "Id": 502,
+      "LangStringTable": {
+        "Text": "跳過所有動畫"
+      }
+    },
+    "503": {
+      "Cuid": 503,
+      "Id": 503,
+      "LangStringTable": {
+        "Text": "訂單於 2019/05/06 15:30 配送完成"
+      }
+    },
+    "504": {
+      "Cuid": 504,
+      "Id": 504,
+      "LangStringTable": {
+        "Text": "希佩爾希佩爾"
+      }
+    },
+    "505": {
+      "Cuid": 505,
+      "Id": 505,
+      "LangStringTable": {
+        "Text": "隊"
+      }
+    },
+    "506": {
+      "Cuid": 506,
+      "Id": 506,
+      "LangStringTable": {
+        "Text": "布呂歇爾"
+      }
+    },
+    "507": {
+      "Cuid": 507,
+      "Id": 507,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "508": {
+      "Cuid": 508,
+      "Id": 508,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "509": {
+      "Cuid": 509,
+      "Id": 509,
+      "LangStringTable": {
+        "Text": "砲擊"
+      }
+    },
+    "510": {
+      "Cuid": 510,
+      "Id": 510,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "511": {
+      "Cuid": 511,
+      "Id": 511,
+      "LangStringTable": {
+        "Text": "航空"
+      }
+    },
+    "512": {
+      "Cuid": 512,
+      "Id": 512,
+      "LangStringTable": {
+        "Text": "出征角色至少     人"
+      }
+    },
+    "513": {
+      "Cuid": 513,
+      "Id": 513,
+      "LangStringTable": {
+        "Text": "全隊幸運大於"
+      }
+    },
+    "514": {
+      "Cuid": 514,
+      "Id": 514,
+      "LangStringTable": {
+        "Text": "戰列艦數量至少     艘"
+      }
+    },
+    "515": {
+      "Cuid": 515,
+      "Id": 515,
+      "LangStringTable": {
+        "Text": "屬性"
+      }
+    },
+    "516": {
+      "Cuid": 516,
+      "Id": 516,
+      "LangStringTable": {
+        "Text": "這是我們的戰術地圖"
+      }
+    },
+    "517": {
+      "Cuid": 517,
+      "Id": 517,
+      "LangStringTable": {
+        "Text": "出征"
+      }
+    },
+    "518": {
+      "Cuid": 518,
+      "Id": 518,
+      "LangStringTable": {
+        "Text": "這是我們的戰術地圖"
+      }
+    },
+    "519": {
+      "Cuid": 519,
+      "Id": 519,
+      "LangStringTable": {
+        "Text": "出征"
+      }
+    },
+    "520": {
+      "Cuid": 520,
+      "Id": 520,
+      "LangStringTable": {
+        "Text": "這是我們的戰術地圖"
+      }
+    },
+    "521": {
+      "Cuid": 521,
+      "Id": 521,
+      "LangStringTable": {
+        "Text": "出征"
+      }
+    },
+    "522": {
+      "Cuid": 522,
+      "Id": 522,
+      "LangStringTable": {
+        "Text": "這是我們的戰術地圖"
+      }
+    },
+    "523": {
+      "Cuid": 523,
+      "Id": 523,
+      "LangStringTable": {
+        "Text": "出征"
+      }
+    },
+    "524": {
+      "Cuid": 524,
+      "Id": 524,
+      "LangStringTable": {
+        "Text": "修改簽名"
+      }
+    },
+    "525": {
+      "Cuid": 525,
+      "Id": 525,
+      "LangStringTable": {
+        "Text": "知道啦"
+      }
+    },
+    "526": {
+      "Cuid": 526,
+      "Id": 526,
+      "LangStringTable": {
+        "Text": "抱歉，時間還沒到哦！請耐心等待..."
+      }
+    },
+    "527": {
+      "Cuid": 527,
+      "Id": 527,
+      "LangStringTable": {
+        "Text": "領取"
+      }
+    },
+    "528": {
+      "Cuid": 528,
+      "Id": 528,
+      "LangStringTable": {
+        "Text": "已領取"
+      }
+    },
+    "529": {
+      "Cuid": 529,
+      "Id": 529,
+      "LangStringTable": {
+        "Text": "共需消耗"
+      }
+    },
+    "530": {
+      "Cuid": 530,
+      "Id": 530,
+      "LangStringTable": {
+        "Text": "購買數量"
+      }
+    },
+    "531": {
+      "Cuid": 531,
+      "Id": 531,
+      "LangStringTable": {
+        "Text": "信息"
+      }
+    },
+    "532": {
+      "Cuid": 532,
+      "Id": 532,
+      "LangStringTable": {
+        "Text": "信息"
+      }
+    },
+    "533": {
+      "Cuid": 533,
+      "Id": 533,
+      "LangStringTable": {
+        "Text": "確定"
+      }
+    },
+    "534": {
+      "Cuid": 534,
+      "Id": 534,
+      "LangStringTable": {
+        "Text": "狗狗狗狗衝鋒！咬他！咬他！哈哈哈哈，知道怕了吧。狗狗衝鋒！咬他！咬他！哈哈哈哈，知道怕了吧。"
+      }
+    },
+    "535": {
+      "Cuid": 535,
+      "Id": 535,
+      "LangStringTable": {
+        "Text": "玩家名字最長八字"
+      }
+    },
+    "536": {
+      "Cuid": 536,
+      "Id": 536,
+      "LangStringTable": {
+        "Text": "任務"
+      }
+    },
+    "537": {
+      "Cuid": 537,
+      "Id": 537,
+      "LangStringTable": {
+        "Text": "妖精"
+      }
+    },
+    "538": {
+      "Cuid": 538,
+      "Id": 538,
+      "LangStringTable": {
+        "Text": "整備"
+      }
+    },
+    "539": {
+      "Cuid": 539,
+      "Id": 539,
+      "LangStringTable": {
+        "Text": "聯盟"
+      }
+    },
+    "540": {
+      "Cuid": 540,
+      "Id": 540,
+      "LangStringTable": {
+        "Text": "船塢"
+      }
+    },
+    "541": {
+      "Cuid": 541,
+      "Id": 541,
+      "LangStringTable": {
+        "Text": "倉庫"
+      }
+    },
+    "542": {
+      "Cuid": 542,
+      "Id": 542,
+      "LangStringTable": {
+        "Text": "社交"
+      }
+    },
+    "543": {
+      "Cuid": 543,
+      "Id": 543,
+      "LangStringTable": {
+        "Text": "後宅"
+      }
+    },
+    "544": {
+      "Cuid": 544,
+      "Id": 544,
+      "LangStringTable": {
+        "Text": "成就"
+      }
+    },
+    "545": {
+      "Cuid": 545,
+      "Id": 545,
+      "LangStringTable": {
+        "Text": "圖鑑"
+      }
+    },
+    "546": {
+      "Cuid": 546,
+      "Id": 546,
+      "LangStringTable": {
+        "Text": "設定"
+      }
+    },
+    "547": {
+      "Cuid": 547,
+      "Id": 547,
+      "LangStringTable": {
+        "Text": "出"
+      }
+    },
+    "548": {
+      "Cuid": 548,
+      "Id": 548,
+      "LangStringTable": {
+        "Text": "征"
+      }
+    },
+    "549": {
+      "Cuid": 549,
+      "Id": 549,
+      "LangStringTable": {
+        "Text": "編"
+      }
+    },
+    "550": {
+      "Cuid": 550,
+      "Id": 550,
+      "LangStringTable": {
+        "Text": "隊"
+      }
+    },
+    "551": {
+      "Cuid": 551,
+      "Id": 551,
+      "LangStringTable": {
+        "Text": "整"
+      }
+    },
+    "552": {
+      "Cuid": 552,
+      "Id": 552,
+      "LangStringTable": {
+        "Text": "備"
+      }
+    },
+    "553": {
+      "Cuid": 553,
+      "Id": 553,
+      "LangStringTable": {
+        "Text": "招"
+      }
+    },
+    "554": {
+      "Cuid": 554,
+      "Id": 554,
+      "LangStringTable": {
+        "Text": "募"
+      }
+    },
+    "555": {
+      "Cuid": 555,
+      "Id": 555,
+      "LangStringTable": {
+        "Text": "行動完成"
+      }
+    },
+    "556": {
+      "Cuid": 556,
+      "Id": 556,
+      "LangStringTable": {
+        "Text": "領取獎勵"
+      }
+    },
+    "557": {
+      "Cuid": 557,
+      "Id": 557,
+      "LangStringTable": {
+        "Text": "行動完成"
+      }
+    },
+    "558": {
+      "Cuid": 558,
+      "Id": 558,
+      "LangStringTable": {
+        "Text": "領取獎勵"
+      }
+    },
+    "559": {
+      "Cuid": 559,
+      "Id": 559,
+      "LangStringTable": {
+        "Text": "行動完成"
+      }
+    },
+    "560": {
+      "Cuid": 560,
+      "Id": 560,
+      "LangStringTable": {
+        "Text": "領取獎勵"
+      }
+    },
+    "561": {
+      "Cuid": 561,
+      "Id": 561,
+      "LangStringTable": {
+        "Text": "行動完成"
+      }
+    },
+    "562": {
+      "Cuid": 562,
+      "Id": 562,
+      "LangStringTable": {
+        "Text": "領取獎勵"
+      }
+    },
+    "563": {
+      "Cuid": 563,
+      "Id": 563,
+      "LangStringTable": {
+        "Text": "抵制不良遊戲，拒絕盜版遊戲。 注意自我保護，謹防受騙上當。\\r\\n適度遊戲益腦，沉迷遊戲傷身。 合理安排時間，享受健康生活。"
+      }
+    },
+    "564": {
+      "Cuid": 564,
+      "Id": 564,
+      "LangStringTable": {
+        "Text": "當前版本:99.99.99"
+      }
+    },
+    "565": {
+      "Cuid": 565,
+      "Id": 565,
+      "LangStringTable": {
+        "Text": "登入排隊"
+      }
+    },
+    "566": {
+      "Cuid": 566,
+      "Id": 566,
+      "LangStringTable": {
+        "Text": "領取附件"
+      }
+    },
+    "567": {
+      "Cuid": 567,
+      "Id": 567,
+      "LangStringTable": {
+        "Text": "郵件內容"
+      }
+    },
+    "568": {
+      "Cuid": 568,
+      "Id": 568,
+      "LangStringTable": {
+        "Text": "附  件"
+      }
+    },
+    "569": {
+      "Cuid": 569,
+      "Id": 569,
+      "LangStringTable": {
+        "Text": "有效期:"
+      }
+    },
+    "570": {
+      "Cuid": 570,
+      "Id": 570,
+      "LangStringTable": {
+        "Text": "7天21小時"
+      }
+    },
+    "571": {
+      "Cuid": 571,
+      "Id": 571,
+      "LangStringTable": {
+        "Text": "指揮官作戰救援"
+      }
+    },
+    "572": {
+      "Cuid": 572,
+      "Id": 572,
+      "LangStringTable": {
+        "Text": "From 心色小姐姐心色小姐姐"
+      }
+    },
+    "573": {
+      "Cuid": 573,
+      "Id": 573,
+      "LangStringTable": {
+        "Text": "指揮官作戰救援"
+      }
+    },
+    "574": {
+      "Cuid": 574,
+      "Id": 574,
+      "LangStringTable": {
+        "Text": "剩餘11小時"
+      }
+    },
+    "575": {
+      "Cuid": 575,
+      "Id": 575,
+      "LangStringTable": {
+        "Text": "附  件"
+      }
+    },
+    "576": {
+      "Cuid": 576,
+      "Id": 576,
+      "LangStringTable": {
+        "Text": "已  讀"
+      }
+    },
+    "577": {
+      "Cuid": 577,
+      "Id": 577,
+      "LangStringTable": {
+        "Text": "已領取"
+      }
+    },
+    "578": {
+      "Cuid": 578,
+      "Id": 578,
+      "LangStringTable": {
+        "Text": "刪除已讀"
+      }
+    },
+    "579": {
+      "Cuid": 579,
+      "Id": 579,
+      "LangStringTable": {
+        "Text": "全部領取"
+      }
+    },
+    "580": {
+      "Cuid": 580,
+      "Id": 580,
+      "LangStringTable": {
+        "Text": "刪除已讀"
+      }
+    },
+    "581": {
+      "Cuid": 581,
+      "Id": 581,
+      "LangStringTable": {
+        "Text": "一鍵領取"
+      }
+    },
+    "582": {
+      "Cuid": 582,
+      "Id": 582,
+      "LangStringTable": {
+        "Text": "暫無郵件"
+      }
+    },
+    "583": {
+      "Cuid": 583,
+      "Id": 583,
+      "LangStringTable": {
+        "Text": "退出裝備"
+      }
+    },
+    "584": {
+      "Cuid": 584,
+      "Id": 584,
+      "LangStringTable": {
+        "Text": "一鍵領取"
+      }
+    },
+    "585": {
+      "Cuid": 585,
+      "Id": 585,
+      "LangStringTable": {
+        "Text": "一鍵下單"
+      }
+    },
+    "586": {
+      "Cuid": 586,
+      "Id": 586,
+      "LangStringTable": {
+        "Text": "訂單製作中"
+      }
+    },
+    "587": {
+      "Cuid": 587,
+      "Id": 587,
+      "LangStringTable": {
+        "Text": "下達訂單"
+      }
+    },
+    "588": {
+      "Cuid": 588,
+      "Id": 588,
+      "LangStringTable": {
+        "Text": "訂單完成"
+      }
+    },
+    "589": {
+      "Cuid": 589,
+      "Id": 589,
+      "LangStringTable": {
+        "Text": "退出裝備"
+      }
+    },
+    "590": {
+      "Cuid": 590,
+      "Id": 590,
+      "LangStringTable": {
+        "Text": "裝備製作"
+      }
+    },
+    "591": {
+      "Cuid": 591,
+      "Id": 591,
+      "LangStringTable": {
+        "Text": "裝備種類"
+      }
+    },
+    "592": {
+      "Cuid": 592,
+      "Id": 592,
+      "LangStringTable": {
+        "Text": "（可去除數：2/3）"
+      }
+    },
+    "593": {
+      "Cuid": 593,
+      "Id": 593,
+      "LangStringTable": {
+        "Text": "需求素材"
+      }
+    },
+    "594": {
+      "Cuid": 594,
+      "Id": 594,
+      "LangStringTable": {
+        "Text": "X件裝備"
+      }
+    },
+    "595": {
+      "Cuid": 595,
+      "Id": 595,
+      "LangStringTable": {
+        "Text": "一鍵下單"
+      }
+    },
+    "596": {
+      "Cuid": 596,
+      "Id": 596,
+      "LangStringTable": {
+        "Text": "種類1"
+      }
+    },
+    "597": {
+      "Cuid": 597,
+      "Id": 597,
+      "LangStringTable": {
+        "Text": "扶  桑"
+      }
+    },
+    "598": {
+      "Cuid": 598,
+      "Id": 598,
+      "LangStringTable": {
+        "Text": "少年，你還真是……怠慢呢！說什麼拯救，無非只是背叛的藉口！"
+      }
+    },
+    "599": {
+      "Cuid": 599,
+      "Id": 599,
+      "LangStringTable": {
+        "Text": "艦載機零件T2"
+      }
+    },
+    "600": {
+      "Cuid": 600,
+      "Id": 600,
+      "LangStringTable": {
+        "Text": "庫存"
+      }
+    },
+    "601": {
+      "Cuid": 601,
+      "Id": 601,
+      "LangStringTable": {
+        "Text": "郵件已被清空"
+      }
+    },
+    "602": {
+      "Cuid": 602,
+      "Id": 602,
+      "LangStringTable": {
+        "Text": "我不記得自己的代號了"
+      }
+    },
+    "603": {
+      "Cuid": 603,
+      "Id": 603,
+      "LangStringTable": {
+        "Text": "我不記得自己的代號了"
+      }
+    },
+    "604": {
+      "Cuid": 604,
+      "Id": 604,
+      "LangStringTable": {
+        "Text": "請輸入您的代號，以接入基地系統程式"
+      }
+    },
+    "605": {
+      "Cuid": 605,
+      "Id": 605,
+      "LangStringTable": {
+        "Text": "請輸入您的代號，以接入基地系統程式"
+      }
+    },
+    "606": {
+      "Cuid": 606,
+      "Id": 606,
+      "LangStringTable": {
+        "Text": "確 定"
+      }
+    },
+    "607": {
+      "Cuid": 607,
+      "Id": 607,
+      "LangStringTable": {
+        "Text": "請輸入代號，最長為8個中文字"
+      }
+    },
+    "608": {
+      "Cuid": 608,
+      "Id": 608,
+      "LangStringTable": {
+        "Text": "隨 機"
+      }
+    },
+    "609": {
+      "Cuid": 609,
+      "Id": 609,
+      "LangStringTable": {
+        "Text": "*可使用"
+      }
+    },
+    "610": {
+      "Cuid": 610,
+      "Id": 610,
+      "LangStringTable": {
+        "Text": "*該代號已被使用"
+      }
+    },
+    "611": {
+      "Cuid": 611,
+      "Id": 611,
+      "LangStringTable": {
+        "Text": "遊戲公告"
+      }
+    },
+    "612": {
+      "Cuid": 612,
+      "Id": 612,
+      "LangStringTable": {
+        "Text": "2019年8月19日版本101.3.4ver《深海的救贖》更新內容"
+      }
+    },
+    "613": {
+      "Cuid": 613,
+      "Id": 613,
+      "LangStringTable": {
+        "Text": "臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的"
+      }
+    },
+    "614": {
+      "Cuid": 614,
+      "Id": 614,
+      "LangStringTable": {
+        "Text": "評分  4666"
+      }
+    },
+    "615": {
+      "Cuid": 615,
+      "Id": 615,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "616": {
+      "Cuid": 616,
+      "Id": 616,
+      "LangStringTable": {
+        "Text": "20小時"
+      }
+    },
+    "617": {
+      "Cuid": 617,
+      "Id": 617,
+      "LangStringTable": {
+        "Text": "分享"
+      }
+    },
+    "618": {
+      "Cuid": 618,
+      "Id": 618,
+      "LangStringTable": {
+        "Text": "戰艦"
+      }
+    },
+    "619": {
+      "Cuid": 619,
+      "Id": 619,
+      "LangStringTable": {
+        "Text": "總"
+      }
+    },
+    "620": {
+      "Cuid": 620,
+      "Id": 620,
+      "LangStringTable": {
+        "Text": "西行寺喵喵子"
+      }
+    },
+    "621": {
+      "Cuid": 621,
+      "Id": 621,
+      "LangStringTable": {
+        "Text": "早喵喵喵喵喵喵喵"
+      }
+    },
+    "622": {
+      "Cuid": 622,
+      "Id": 622,
+      "LangStringTable": {
+        "Text": "<color=#FFFFFF80>未加入大艦隊</color>"
+      }
+    },
+    "623": {
+      "Cuid": 623,
+      "Id": 623,
+      "LangStringTable": {
+        "Text": "點擊輸入簽名!"
+      }
+    },
+    "624": {
+      "Cuid": 624,
+      "Id": 624,
+      "LangStringTable": {
+        "Text": "上尉"
+      }
+    },
+    "625": {
+      "Cuid": 625,
+      "Id": 625,
+      "LangStringTable": {
+        "Text": "次"
+      }
+    },
+    "626": {
+      "Cuid": 626,
+      "Id": 626,
+      "LangStringTable": {
+        "Text": "芙芙芙芙港"
+      }
+    },
+    "627": {
+      "Cuid": 627,
+      "Id": 627,
+      "LangStringTable": {
+        "Text": "簽到"
+      }
+    },
+    "628": {
+      "Cuid": 628,
+      "Id": 628,
+      "LangStringTable": {
+        "Text": "儲值測試"
+      }
+    },
+    "629": {
+      "Cuid": 629,
+      "Id": 629,
+      "LangStringTable": {
+        "Text": "您還沒有任務"
+      }
+    },
+    "630": {
+      "Cuid": 630,
+      "Id": 630,
+      "LangStringTable": {
+        "Text": "任務名留好八字"
+      }
+    },
+    "631": {
+      "Cuid": 631,
+      "Id": 631,
+      "LangStringTable": {
+        "Text": "已獲得"
+      }
+    },
+    "632": {
+      "Cuid": 632,
+      "Id": 632,
+      "LangStringTable": {
+        "Text": "進行中"
+      }
+    },
+    "633": {
+      "Cuid": 633,
+      "Id": 633,
+      "LangStringTable": {
+        "Text": "限時"
+      }
+    },
+    "634": {
+      "Cuid": 634,
+      "Id": 634,
+      "LangStringTable": {
+        "Text": "捕獲神代會社驅逐艦人形24人"
+      }
+    },
+    "635": {
+      "Cuid": 635,
+      "Id": 635,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "636": {
+      "Cuid": 636,
+      "Id": 636,
+      "LangStringTable": {
+        "Text": "每日"
+      }
+    },
+    "637": {
+      "Cuid": 637,
+      "Id": 637,
+      "LangStringTable": {
+        "Text": "每日"
+      }
+    },
+    "638": {
+      "Cuid": 638,
+      "Id": 638,
+      "LangStringTable": {
+        "Text": "每日"
+      }
+    },
+    "639": {
+      "Cuid": 639,
+      "Id": 639,
+      "LangStringTable": {
+        "Text": "每日"
+      }
+    },
+    "640": {
+      "Cuid": 640,
+      "Id": 640,
+      "LangStringTable": {
+        "Text": "高級獎勵"
+      }
+    },
+    "641": {
+      "Cuid": 641,
+      "Id": 641,
+      "LangStringTable": {
+        "Text": "普通獎勵"
+      }
+    },
+    "642": {
+      "Cuid": 642,
+      "Id": 642,
+      "LangStringTable": {
+        "Text": "未 開 啟"
+      }
+    },
+    "643": {
+      "Cuid": 643,
+      "Id": 643,
+      "LangStringTable": {
+        "Text": "全部領取"
+      }
+    },
+    "644": {
+      "Cuid": 644,
+      "Id": 644,
+      "LangStringTable": {
+        "Text": "概覽"
+      }
+    },
+    "645": {
+      "Cuid": 645,
+      "Id": 645,
+      "LangStringTable": {
+        "Text": "任務"
+      }
+    },
+    "646": {
+      "Cuid": 646,
+      "Id": 646,
+      "LangStringTable": {
+        "Text": "選美大賽"
+      }
+    },
+    "647": {
+      "Cuid": 647,
+      "Id": 647,
+      "LangStringTable": {
+        "Text": "薛定喵之箱"
+      }
+    },
+    "648": {
+      "Cuid": 648,
+      "Id": 648,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "649": {
+      "Cuid": 649,
+      "Id": 649,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "650": {
+      "Cuid": 650,
+      "Id": 650,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "651": {
+      "Cuid": 651,
+      "Id": 651,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "652": {
+      "Cuid": 652,
+      "Id": 652,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "653": {
+      "Cuid": 653,
+      "Id": 653,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "654": {
+      "Cuid": 654,
+      "Id": 654,
+      "LangStringTable": {
+        "Text": "艦娘的名字"
+      }
+    },
+    "655": {
+      "Cuid": 655,
+      "Id": 655,
+      "LangStringTable": {
+        "Text": "確 定"
+      }
+    },
+    "656": {
+      "Cuid": 656,
+      "Id": 656,
+      "LangStringTable": {
+        "Text": "可上陣3名一樣的妖精"
+      }
+    },
+    "657": {
+      "Cuid": 657,
+      "Id": 657,
+      "LangStringTable": {
+        "Text": "總評分"
+      }
+    },
+    "658": {
+      "Cuid": 658,
+      "Id": 658,
+      "LangStringTable": {
+        "Text": "通用"
+      }
+    },
+    "659": {
+      "Cuid": 659,
+      "Id": 659,
+      "LangStringTable": {
+        "Text": "推送"
+      }
+    },
+    "660": {
+      "Cuid": 660,
+      "Id": 660,
+      "LangStringTable": {
+        "Text": "兌換碼"
+      }
+    },
+    "661": {
+      "Cuid": 661,
+      "Id": 661,
+      "LangStringTable": {
+        "Text": "音樂"
+      }
+    },
+    "662": {
+      "Cuid": 662,
+      "Id": 662,
+      "LangStringTable": {
+        "Text": "音效"
+      }
+    },
+    "663": {
+      "Cuid": 663,
+      "Id": 663,
+      "LangStringTable": {
+        "Text": "語音"
+      }
+    },
+    "664": {
+      "Cuid": 664,
+      "Id": 664,
+      "LangStringTable": {
+        "Text": "畫質設定"
+      }
+    },
+    "665": {
+      "Cuid": 665,
+      "Id": 665,
+      "LangStringTable": {
+        "Text": "戰鬥動畫"
+      }
+    },
+    "666": {
+      "Cuid": 666,
+      "Id": 666,
+      "LangStringTable": {
+        "Text": "返回登入介面"
+      }
+    },
+    "667": {
+      "Cuid": 667,
+      "Id": 667,
+      "LangStringTable": {
+        "Text": "語言選擇"
+      }
+    },
+    "668": {
+      "Cuid": 668,
+      "Id": 668,
+      "LangStringTable": {
+        "Text": "簡體中文"
+      }
+    },
+    "669": {
+      "Cuid": 669,
+      "Id": 669,
+      "LangStringTable": {
+        "Text": "推送開關"
+      }
+    },
+    "670": {
+      "Cuid": 670,
+      "Id": 670,
+      "LangStringTable": {
+        "Text": "開啟"
+      }
+    },
+    "671": {
+      "Cuid": 671,
+      "Id": 671,
+      "LangStringTable": {
+        "Text": "關閉"
+      }
+    },
+    "672": {
+      "Cuid": 672,
+      "Id": 672,
+      "LangStringTable": {
+        "Text": "遠征歸來"
+      }
+    },
+    "673": {
+      "Cuid": 673,
+      "Id": 673,
+      "LangStringTable": {
+        "Text": "開啟"
+      }
+    },
+    "674": {
+      "Cuid": 674,
+      "Id": 674,
+      "LangStringTable": {
+        "Text": "關閉"
+      }
+    },
+    "675": {
+      "Cuid": 675,
+      "Id": 675,
+      "LangStringTable": {
+        "Text": "自律完畢"
+      }
+    },
+    "676": {
+      "Cuid": 676,
+      "Id": 676,
+      "LangStringTable": {
+        "Text": "開啟"
+      }
+    },
+    "677": {
+      "Cuid": 677,
+      "Id": 677,
+      "LangStringTable": {
+        "Text": "關閉"
+      }
+    },
+    "678": {
+      "Cuid": 678,
+      "Id": 678,
+      "LangStringTable": {
+        "Text": "研發完成"
+      }
+    },
+    "679": {
+      "Cuid": 679,
+      "Id": 679,
+      "LangStringTable": {
+        "Text": "開啟"
+      }
+    },
+    "680": {
+      "Cuid": 680,
+      "Id": 680,
+      "LangStringTable": {
+        "Text": "關閉"
+      }
+    },
+    "681": {
+      "Cuid": 681,
+      "Id": 681,
+      "LangStringTable": {
+        "Text": "招募完成"
+      }
+    },
+    "682": {
+      "Cuid": 682,
+      "Id": 682,
+      "LangStringTable": {
+        "Text": "開啟"
+      }
+    },
+    "683": {
+      "Cuid": 683,
+      "Id": 683,
+      "LangStringTable": {
+        "Text": "關閉"
+      }
+    },
+    "684": {
+      "Cuid": 684,
+      "Id": 684,
+      "LangStringTable": {
+        "Text": "輸入兌換碼："
+      }
+    },
+    "685": {
+      "Cuid": 685,
+      "Id": 685,
+      "LangStringTable": {
+        "Text": "戰鬥結算"
+      }
+    },
+    "686": {
+      "Cuid": 686,
+      "Id": 686,
+      "LangStringTable": {
+        "Text": "道具掉落"
+      }
+    },
+    "687": {
+      "Cuid": 687,
+      "Id": 687,
+      "LangStringTable": {
+        "Text": "不知火不知火"
+      }
+    },
+    "688": {
+      "Cuid": 688,
+      "Id": 688,
+      "LangStringTable": {
+        "Text": "- 點擊空白區域繼續 -"
+      }
+    },
+    "689": {
+      "Cuid": 689,
+      "Id": 689,
+      "LangStringTable": {
+        "Text": "誓 約 簽 訂"
+      }
+    },
+    "690": {
+      "Cuid": 690,
+      "Id": 690,
+      "LangStringTable": {
+        "Text": "排  序"
+      }
+    },
+    "691": {
+      "Cuid": 691,
+      "Id": 691,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "692": {
+      "Cuid": 692,
+      "Id": 692,
+      "LangStringTable": {
+        "Text": "等級"
+      }
+    },
+    "693": {
+      "Cuid": 693,
+      "Id": 693,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "694": {
+      "Cuid": 694,
+      "Id": 694,
+      "LangStringTable": {
+        "Text": "入手時間"
+      }
+    },
+    "695": {
+      "Cuid": 695,
+      "Id": 695,
+      "LangStringTable": {
+        "Text": "好感度"
+      }
+    },
+    "696": {
+      "Cuid": 696,
+      "Id": 696,
+      "LangStringTable": {
+        "Text": "砲擊"
+      }
+    },
+    "697": {
+      "Cuid": 697,
+      "Id": 697,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "698": {
+      "Cuid": 698,
+      "Id": 698,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "699": {
+      "Cuid": 699,
+      "Id": 699,
+      "LangStringTable": {
+        "Text": "航空"
+      }
+    },
+    "700": {
+      "Cuid": 700,
+      "Id": 700,
+      "LangStringTable": {
+        "Text": "防空"
+      }
+    },
+    "701": {
+      "Cuid": 701,
+      "Id": 701,
+      "LangStringTable": {
+        "Text": "艦  種"
+      }
+    },
+    "702": {
+      "Cuid": 702,
+      "Id": 702,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "703": {
+      "Cuid": 703,
+      "Id": 703,
+      "LangStringTable": {
+        "Text": "常規"
+      }
+    },
+    "704": {
+      "Cuid": 704,
+      "Id": 704,
+      "LangStringTable": {
+        "Text": "深海"
+      }
+    },
+    "705": {
+      "Cuid": 705,
+      "Id": 705,
+      "LangStringTable": {
+        "Text": "先鋒"
+      }
+    },
+    "706": {
+      "Cuid": 706,
+      "Id": 706,
+      "LangStringTable": {
+        "Text": "主力"
+      }
+    },
+    "707": {
+      "Cuid": 707,
+      "Id": 707,
+      "LangStringTable": {
+        "Text": "驅逐"
+      }
+    },
+    "708": {
+      "Cuid": 708,
+      "Id": 708,
+      "LangStringTable": {
+        "Text": "巡洋"
+      }
+    },
+    "709": {
+      "Cuid": 709,
+      "Id": 709,
+      "LangStringTable": {
+        "Text": "戰艦"
+      }
+    },
+    "710": {
+      "Cuid": 710,
+      "Id": 710,
+      "LangStringTable": {
+        "Text": "航母"
+      }
+    },
+    "711": {
+      "Cuid": 711,
+      "Id": 711,
+      "LangStringTable": {
+        "Text": "其他"
+      }
+    },
+    "712": {
+      "Cuid": 712,
+      "Id": 712,
+      "LangStringTable": {
+        "Text": "勢  力"
+      }
+    },
+    "713": {
+      "Cuid": 713,
+      "Id": 713,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "714": {
+      "Cuid": 714,
+      "Id": 714,
+      "LangStringTable": {
+        "Text": "黑鋒重工"
+      }
+    },
+    "715": {
+      "Cuid": 715,
+      "Id": 715,
+      "LangStringTable": {
+        "Text": "薔薇帝國"
+      }
+    },
+    "716": {
+      "Cuid": 716,
+      "Id": 716,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "717": {
+      "Cuid": 717,
+      "Id": 717,
+      "LangStringTable": {
+        "Text": "銀翼財團"
+      }
+    },
+    "718": {
+      "Cuid": 718,
+      "Id": 718,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "719": {
+      "Cuid": 719,
+      "Id": 719,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "720": {
+      "Cuid": 720,
+      "Id": 720,
+      "LangStringTable": {
+        "Text": "確定"
+      }
+    },
+    "721": {
+      "Cuid": 721,
+      "Id": 721,
+      "LangStringTable": {
+        "Text": "重置"
+      }
+    },
+    "722": {
+      "Cuid": 722,
+      "Id": 722,
+      "LangStringTable": {
+        "Text": "供給箱"
+      }
+    },
+    "723": {
+      "Cuid": 723,
+      "Id": 723,
+      "LangStringTable": {
+        "Text": "暫不開放"
+      }
+    },
+    "724": {
+      "Cuid": 724,
+      "Id": 724,
+      "LangStringTable": {
+        "Text": "黑市"
+      }
+    },
+    "725": {
+      "Cuid": 725,
+      "Id": 725,
+      "LangStringTable": {
+        "Text": "暫不開放"
+      }
+    },
+    "726": {
+      "Cuid": 726,
+      "Id": 726,
+      "LangStringTable": {
+        "Text": "資源補給"
+      }
+    },
+    "727": {
+      "Cuid": 727,
+      "Id": 727,
+      "LangStringTable": {
+        "Text": "暫不開放"
+      }
+    },
+    "728": {
+      "Cuid": 728,
+      "Id": 728,
+      "LangStringTable": {
+        "Text": "道具"
+      }
+    },
+    "729": {
+      "Cuid": 729,
+      "Id": 729,
+      "LangStringTable": {
+        "Text": "暫不開放"
+      }
+    },
+    "730": {
+      "Cuid": 730,
+      "Id": 730,
+      "LangStringTable": {
+        "Text": "原\\r\\n石\\r\\n切\\r\\n割"
+      }
+    },
+    "731": {
+      "Cuid": 731,
+      "Id": 731,
+      "LangStringTable": {
+        "Text": "暫不開放"
+      }
+    },
+    "732": {
+      "Cuid": 732,
+      "Id": 732,
+      "LangStringTable": {
+        "Text": "黑市"
+      }
+    },
+    "733": {
+      "Cuid": 733,
+      "Id": 733,
+      "LangStringTable": {
+        "Text": "328光學校準程式"
+      }
+    },
+    "734": {
+      "Cuid": 734,
+      "Id": 734,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "735": {
+      "Cuid": 735,
+      "Id": 735,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "736": {
+      "Cuid": 736,
+      "Id": 736,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "737": {
+      "Cuid": 737,
+      "Id": 737,
+      "LangStringTable": {
+        "Text": "斯諾普禮包"
+      }
+    },
+    "738": {
+      "Cuid": 738,
+      "Id": 738,
+      "LangStringTable": {
+        "Text": "本日限購次數：5"
+      }
+    },
+    "739": {
+      "Cuid": 739,
+      "Id": 739,
+      "LangStringTable": {
+        "Text": "剩餘時間：07:00:00"
+      }
+    },
+    "740": {
+      "Cuid": 740,
+      "Id": 740,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "741": {
+      "Cuid": 741,
+      "Id": 741,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "742": {
+      "Cuid": 742,
+      "Id": 742,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "743": {
+      "Cuid": 743,
+      "Id": 743,
+      "LangStringTable": {
+        "Text": "重型魚雷"
+      }
+    },
+    "744": {
+      "Cuid": 744,
+      "Id": 744,
+      "LangStringTable": {
+        "Text": "本日限購次數：5"
+      }
+    },
+    "745": {
+      "Cuid": 745,
+      "Id": 745,
+      "LangStringTable": {
+        "Text": "剩餘時間：07:00:00"
+      }
+    },
+    "746": {
+      "Cuid": 746,
+      "Id": 746,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "747": {
+      "Cuid": 747,
+      "Id": 747,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "748": {
+      "Cuid": 748,
+      "Id": 748,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "749": {
+      "Cuid": 749,
+      "Id": 749,
+      "LangStringTable": {
+        "Text": "重置"
+      }
+    },
+    "750": {
+      "Cuid": 750,
+      "Id": 750,
+      "LangStringTable": {
+        "Text": "首次購買額外贈送30原石"
+      }
+    },
+    "751": {
+      "Cuid": 751,
+      "Id": 751,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "752": {
+      "Cuid": 752,
+      "Id": 752,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "753": {
+      "Cuid": 753,
+      "Id": 753,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "754": {
+      "Cuid": 754,
+      "Id": 754,
+      "LangStringTable": {
+        "Text": "重型魚雷"
+      }
+    },
+    "755": {
+      "Cuid": 755,
+      "Id": 755,
+      "LangStringTable": {
+        "Text": "本日限購次數：5"
+      }
+    },
+    "756": {
+      "Cuid": 756,
+      "Id": 756,
+      "LangStringTable": {
+        "Text": "剩餘時間：07:00:00"
+      }
+    },
+    "757": {
+      "Cuid": 757,
+      "Id": 757,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "758": {
+      "Cuid": 758,
+      "Id": 758,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "759": {
+      "Cuid": 759,
+      "Id": 759,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "760": {
+      "Cuid": 760,
+      "Id": 760,
+      "LangStringTable": {
+        "Text": "328光學校準程式湊個字"
+      }
+    },
+    "761": {
+      "Cuid": 761,
+      "Id": 761,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "762": {
+      "Cuid": 762,
+      "Id": 762,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "763": {
+      "Cuid": 763,
+      "Id": 763,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "764": {
+      "Cuid": 764,
+      "Id": 764,
+      "LangStringTable": {
+        "Text": "新人供給箱"
+      }
+    },
+    "765": {
+      "Cuid": 765,
+      "Id": 765,
+      "LangStringTable": {
+        "Text": "．BP X10000\\r\\n．初級戰術晶片 x2"
+      }
+    },
+    "766": {
+      "Cuid": 766,
+      "Id": 766,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "767": {
+      "Cuid": 767,
+      "Id": 767,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "768": {
+      "Cuid": 768,
+      "Id": 768,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "769": {
+      "Cuid": 769,
+      "Id": 769,
+      "LangStringTable": {
+        "Text": "平和的一天"
+      }
+    },
+    "770": {
+      "Cuid": 770,
+      "Id": 770,
+      "LangStringTable": {
+        "Text": "立夕"
+      }
+    },
+    "771": {
+      "Cuid": 771,
+      "Id": 771,
+      "LangStringTable": {
+        "Text": "熱賣"
+      }
+    },
+    "772": {
+      "Cuid": 772,
+      "Id": 772,
+      "LangStringTable": {
+        "Text": "推薦"
+      }
+    },
+    "773": {
+      "Cuid": 773,
+      "Id": 773,
+      "LangStringTable": {
+        "Text": "折扣"
+      }
+    },
+    "774": {
+      "Cuid": 774,
+      "Id": 774,
+      "LangStringTable": {
+        "Text": "本 期 獎 勵"
+      }
+    },
+    "775": {
+      "Cuid": 775,
+      "Id": 775,
+      "LangStringTable": {
+        "Text": "本 期 獎 勵"
+      }
+    },
+    "776": {
+      "Cuid": 776,
+      "Id": 776,
+      "LangStringTable": {
+        "Text": "海倫娜海倫娜海"
+      }
+    },
+    "777": {
+      "Cuid": 777,
+      "Id": 777,
+      "LangStringTable": {
+        "Text": "戰巡"
+      }
+    },
+    "778": {
+      "Cuid": 778,
+      "Id": 778,
+      "LangStringTable": {
+        "Text": "內田 真禮"
+      }
+    },
+    "779": {
+      "Cuid": 779,
+      "Id": 779,
+      "LangStringTable": {
+        "Text": "已累計簽到ss"
+      }
+    },
+    "780": {
+      "Cuid": 780,
+      "Id": 780,
+      "LangStringTable": {
+        "Text": "天"
+      }
+    },
+    "781": {
+      "Cuid": 781,
+      "Id": 781,
+      "LangStringTable": {
+        "Text": "每日簽到"
+      }
+    },
+    "782": {
+      "Cuid": 782,
+      "Id": 782,
+      "LangStringTable": {
+        "Text": "-已獲得-"
+      }
+    },
+    "783": {
+      "Cuid": 783,
+      "Id": 783,
+      "LangStringTable": {
+        "Text": "外觀名字"
+      }
+    },
+    "784": {
+      "Cuid": 784,
+      "Id": 784,
+      "LangStringTable": {
+        "Text": "重巡"
+      }
+    },
+    "785": {
+      "Cuid": 785,
+      "Id": 785,
+      "LangStringTable": {
+        "Text": "愛智"
+      }
+    },
+    "786": {
+      "Cuid": 786,
+      "Id": 786,
+      "LangStringTable": {
+        "Text": "穿戴中"
+      }
+    },
+    "787": {
+      "Cuid": 787,
+      "Id": 787,
+      "LangStringTable": {
+        "Text": "外觀名字"
+      }
+    },
+    "788": {
+      "Cuid": 788,
+      "Id": 788,
+      "LangStringTable": {
+        "Text": "重巡"
+      }
+    },
+    "789": {
+      "Cuid": 789,
+      "Id": 789,
+      "LangStringTable": {
+        "Text": "愛智"
+      }
+    },
+    "790": {
+      "Cuid": 790,
+      "Id": 790,
+      "LangStringTable": {
+        "Text": "穿戴中"
+      }
+    },
+    "791": {
+      "Cuid": 791,
+      "Id": 791,
+      "LangStringTable": {
+        "Text": "行動值"
+      }
+    },
+    "792": {
+      "Cuid": 792,
+      "Id": 792,
+      "LangStringTable": {
+        "Text": "結束回合"
+      }
+    },
+    "793": {
+      "Cuid": 793,
+      "Id": 793,
+      "LangStringTable": {
+        "Text": "調查第三新東京港敵情"
+      }
+    },
+    "794": {
+      "Cuid": 794,
+      "Id": 794,
+      "LangStringTable": {
+        "Text": "發現第三新東京港秘密"
+      }
+    },
+    "795": {
+      "Cuid": 795,
+      "Id": 795,
+      "LangStringTable": {
+        "Text": "防守"
+      }
+    },
+    "796": {
+      "Cuid": 796,
+      "Id": 796,
+      "LangStringTable": {
+        "Text": "撤防"
+      }
+    },
+    "797": {
+      "Cuid": 797,
+      "Id": 797,
+      "LangStringTable": {
+        "Text": "真羅格 第四海域"
+      }
+    },
+    "798": {
+      "Cuid": 798,
+      "Id": 798,
+      "LangStringTable": {
+        "Text": "逆刃小隊\\r\\n在海域\\r\\n原因"
+      }
+    },
+    "799": {
+      "Cuid": 799,
+      "Id": 799,
+      "LangStringTable": {
+        "Text": "返回"
+      }
+    },
+    "800": {
+      "Cuid": 800,
+      "Id": 800,
+      "LangStringTable": {
+        "Text": "晴"
+      }
+    },
+    "801": {
+      "Cuid": 801,
+      "Id": 801,
+      "LangStringTable": {
+        "Text": "天氣:晴"
+      }
+    },
+    "802": {
+      "Cuid": 802,
+      "Id": 802,
+      "LangStringTable": {
+        "Text": "航速<color=#00FFFF>+1</color>  索敵率<color=#00FFFF>+5%</color>"
+      }
+    },
+    "803": {
+      "Cuid": 803,
+      "Id": 803,
+      "LangStringTable": {
+        "Text": "選擇艦隊"
+      }
+    },
+    "804": {
+      "Cuid": 804,
+      "Id": 804,
+      "LangStringTable": {
+        "Text": "曉雨級戰列艦"
+      }
+    },
+    "805": {
+      "Cuid": 805,
+      "Id": 805,
+      "LangStringTable": {
+        "Text": "曉雨級戰列艦"
+      }
+    },
+    "806": {
+      "Cuid": 806,
+      "Id": 806,
+      "LangStringTable": {
+        "Text": "曉雨級戰列艦"
+      }
+    },
+    "807": {
+      "Cuid": 807,
+      "Id": 807,
+      "LangStringTable": {
+        "Text": "己方回合"
+      }
+    },
+    "808": {
+      "Cuid": 808,
+      "Id": 808,
+      "LangStringTable": {
+        "Text": "成功防守住所有港口，還要再"
+      }
+    },
+    "809": {
+      "Cuid": 809,
+      "Id": 809,
+      "LangStringTable": {
+        "Text": "成功防守住所有港口，還要再"
+      }
+    },
+    "810": {
+      "Cuid": 810,
+      "Id": 810,
+      "LangStringTable": {
+        "Text": "艦隊\\r\\n總評"
+      }
+    },
+    "811": {
+      "Cuid": 811,
+      "Id": 811,
+      "LangStringTable": {
+        "Text": "科羅拉多級"
+      }
+    },
+    "812": {
+      "Cuid": 812,
+      "Id": 812,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "813": {
+      "Cuid": 813,
+      "Id": 813,
+      "LangStringTable": {
+        "Text": "等級"
+      }
+    },
+    "814": {
+      "Cuid": 814,
+      "Id": 814,
+      "LangStringTable": {
+        "Text": "遠程哥哥"
+      }
+    },
+    "815": {
+      "Cuid": 815,
+      "Id": 815,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "816": {
+      "Cuid": 816,
+      "Id": 816,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "817": {
+      "Cuid": 817,
+      "Id": 817,
+      "LangStringTable": {
+        "Text": "砲擊"
+      }
+    },
+    "818": {
+      "Cuid": 818,
+      "Id": 818,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "819": {
+      "Cuid": 819,
+      "Id": 819,
+      "LangStringTable": {
+        "Text": "航空"
+      }
+    },
+    "820": {
+      "Cuid": 820,
+      "Id": 820,
+      "LangStringTable": {
+        "Text": "自訂編隊名字"
+      }
+    },
+    "821": {
+      "Cuid": 821,
+      "Id": 821,
+      "LangStringTable": {
+        "Text": "屬性"
+      }
+    },
+    "822": {
+      "Cuid": 822,
+      "Id": 822,
+      "LangStringTable": {
+        "Text": "第一梯隊"
+      }
+    },
+    "823": {
+      "Cuid": 823,
+      "Id": 823,
+      "LangStringTable": {
+        "Text": "第一梯隊"
+      }
+    },
+    "824": {
+      "Cuid": 824,
+      "Id": 824,
+      "LangStringTable": {
+        "Text": "魚雷妖精"
+      }
+    },
+    "825": {
+      "Cuid": 825,
+      "Id": 825,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "826": {
+      "Cuid": 826,
+      "Id": 826,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "827": {
+      "Cuid": 827,
+      "Id": 827,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "828": {
+      "Cuid": 828,
+      "Id": 828,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "829": {
+      "Cuid": 829,
+      "Id": 829,
+      "LangStringTable": {
+        "Text": "護甲"
+      }
+    },
+    "830": {
+      "Cuid": 830,
+      "Id": 830,
+      "LangStringTable": {
+        "Text": "妖精\\r\\n總評"
+      }
+    },
+    "831": {
+      "Cuid": 831,
+      "Id": 831,
+      "LangStringTable": {
+        "Text": "臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的臺詞的名稱之類的"
+      }
+    },
+    "832": {
+      "Cuid": 832,
+      "Id": 832,
+      "LangStringTable": {
+        "Text": "評分  4666"
+      }
+    },
+    "833": {
+      "Cuid": 833,
+      "Id": 833,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "834": {
+      "Cuid": 834,
+      "Id": 834,
+      "LangStringTable": {
+        "Text": "西行寺喵喵子"
+      }
+    },
+    "835": {
+      "Cuid": 835,
+      "Id": 835,
+      "LangStringTable": {
+        "Text": "西行寺喵喵子"
+      }
+    },
+    "836": {
+      "Cuid": 836,
+      "Id": 836,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "837": {
+      "Cuid": 837,
+      "Id": 837,
+      "LangStringTable": {
+        "Text": "戰巡"
+      }
+    },
+    "838": {
+      "Cuid": 838,
+      "Id": 838,
+      "LangStringTable": {
+        "Text": "你老婆真棒！！"
+      }
+    },
+    "839": {
+      "Cuid": 839,
+      "Id": 839,
+      "LangStringTable": {
+        "Text": "你老婆真棒！！"
+      }
+    },
+    "840": {
+      "Cuid": 840,
+      "Id": 840,
+      "LangStringTable": {
+        "Text": "真棒真棒棒真棒"
+      }
+    },
+    "841": {
+      "Cuid": 841,
+      "Id": 841,
+      "LangStringTable": {
+        "Text": "真棒！！真棒！！"
+      }
+    },
+    "842": {
+      "Cuid": 842,
+      "Id": 842,
+      "LangStringTable": {
+        "Text": "你老婆真棒！！"
+      }
+    },
+    "843": {
+      "Cuid": 843,
+      "Id": 843,
+      "LangStringTable": {
+        "Text": "輸入TAG："
+      }
+    },
+    "844": {
+      "Cuid": 844,
+      "Id": 844,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "845": {
+      "Cuid": 845,
+      "Id": 845,
+      "LangStringTable": {
+        "Text": "武器能量強化"
+      }
+    },
+    "846": {
+      "Cuid": 846,
+      "Id": 846,
+      "LangStringTable": {
+        "Text": "特徵等級"
+      }
+    },
+    "847": {
+      "Cuid": 847,
+      "Id": 847,
+      "LangStringTable": {
+        "Text": "特徵等級"
+      }
+    },
+    "848": {
+      "Cuid": 848,
+      "Id": 848,
+      "LangStringTable": {
+        "Text": "特徵等級"
+      }
+    },
+    "849": {
+      "Cuid": 849,
+      "Id": 849,
+      "LangStringTable": {
+        "Text": "特徵等級"
+      }
+    },
+    "850": {
+      "Cuid": 850,
+      "Id": 850,
+      "LangStringTable": {
+        "Text": "特徵等級"
+      }
+    },
+    "851": {
+      "Cuid": 851,
+      "Id": 851,
+      "LangStringTable": {
+        "Text": "特徵等級"
+      }
+    },
+    "852": {
+      "Cuid": 852,
+      "Id": 852,
+      "LangStringTable": {
+        "Text": "特徵異能"
+      }
+    },
+    "853": {
+      "Cuid": 853,
+      "Id": 853,
+      "LangStringTable": {
+        "Text": "對驅逐艦和戰列艦的上海增加10%"
+      }
+    },
+    "854": {
+      "Cuid": 854,
+      "Id": 854,
+      "LangStringTable": {
+        "Text": "提 升"
+      }
+    },
+    "855": {
+      "Cuid": 855,
+      "Id": 855,
+      "LangStringTable": {
+        "Text": "無異能"
+      }
+    },
+    "856": {
+      "Cuid": 856,
+      "Id": 856,
+      "LangStringTable": {
+        "Text": "特徵已滿級"
+      }
+    },
+    "857": {
+      "Cuid": 857,
+      "Id": 857,
+      "LangStringTable": {
+        "Text": "未解鎖"
+      }
+    },
+    "858": {
+      "Cuid": 858,
+      "Id": 858,
+      "LangStringTable": {
+        "Text": "能量異化3點或「精準打擊」5點後解鎖"
+      }
+    },
+    "859": {
+      "Cuid": 859,
+      "Id": 859,
+      "LangStringTable": {
+        "Text": "特徵屬性"
+      }
+    },
+    "860": {
+      "Cuid": 860,
+      "Id": 860,
+      "LangStringTable": {
+        "Text": "傷寒"
+      }
+    },
+    "861": {
+      "Cuid": 861,
+      "Id": 861,
+      "LangStringTable": {
+        "Text": "傷寒"
+      }
+    },
+    "862": {
+      "Cuid": 862,
+      "Id": 862,
+      "LangStringTable": {
+        "Text": "傷寒"
+      }
+    },
+    "863": {
+      "Cuid": 863,
+      "Id": 863,
+      "LangStringTable": {
+        "Text": "傷寒"
+      }
+    },
+    "864": {
+      "Cuid": 864,
+      "Id": 864,
+      "LangStringTable": {
+        "Text": "特徵異能"
+      }
+    },
+    "865": {
+      "Cuid": 865,
+      "Id": 865,
+      "LangStringTable": {
+        "Text": "對驅逐艦和戰列艦的上海增加10%"
+      }
+    },
+    "866": {
+      "Cuid": 866,
+      "Id": 866,
+      "LangStringTable": {
+        "Text": "對驅逐艦和戰列艦的上海增加10%"
+      }
+    },
+    "867": {
+      "Cuid": 867,
+      "Id": 867,
+      "LangStringTable": {
+        "Text": "對驅逐艦和戰列艦的上海增加10%"
+      }
+    },
+    "868": {
+      "Cuid": 868,
+      "Id": 868,
+      "LangStringTable": {
+        "Text": "無異能"
+      }
+    },
+    "869": {
+      "Cuid": 869,
+      "Id": 869,
+      "LangStringTable": {
+        "Text": "儲備數量"
+      }
+    },
+    "870": {
+      "Cuid": 870,
+      "Id": 870,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "871": {
+      "Cuid": 871,
+      "Id": 871,
+      "LangStringTable": {
+        "Text": "艦娘的名字"
+      }
+    },
+    "872": {
+      "Cuid": 872,
+      "Id": 872,
+      "LangStringTable": {
+        "Text": "妖精特徵介面"
+      }
+    },
+    "873": {
+      "Cuid": 873,
+      "Id": 873,
+      "LangStringTable": {
+        "Text": "測伺服器消息1"
+      }
+    },
+    "874": {
+      "Cuid": 874,
+      "Id": 874,
+      "LangStringTable": {
+        "Text": "測伺服器消息2"
+      }
+    },
+    "875": {
+      "Cuid": 875,
+      "Id": 875,
+      "LangStringTable": {
+        "Text": "你會哭著笑，笑著哭，是因為你的心，早已超"
+      }
+    },
+    "876": {
+      "Cuid": 876,
+      "Id": 876,
+      "LangStringTable": {
+        "Text": "你會哭著笑，笑著哭，是因為你的心，早已超"
+      }
+    },
+    "877": {
+      "Cuid": 877,
+      "Id": 877,
+      "LangStringTable": {
+        "Text": "你會哭著笑，笑著哭，是因為你的心，早已超"
+      }
+    },
+    "878": {
+      "Cuid": 878,
+      "Id": 878,
+      "LangStringTable": {
+        "Text": "俾斯麥"
+      }
+    },
+    "879": {
+      "Cuid": 879,
+      "Id": 879,
+      "LangStringTable": {
+        "Text": "少年，你還真是……怠慢呢！說什麼拯救，無非只是背叛的藉口！"
+      }
+    },
+    "880": {
+      "Cuid": 880,
+      "Id": 880,
+      "LangStringTable": {
+        "Text": "這次的遠端通訊很可能被破解竊聽，所以我長話短說，如果α計畫失敗直接跳過β階段\\r\\n進入到第四區塊海域，到那邊自然會有神代的人來接應。"
+      }
+    },
+    "881": {
+      "Cuid": 881,
+      "Id": 881,
+      "LangStringTable": {
+        "Text": "第一張 衛生制動"
+      }
+    },
+    "882": {
+      "Cuid": 882,
+      "Id": 882,
+      "LangStringTable": {
+        "Text": "突  破"
+      }
+    },
+    "883": {
+      "Cuid": 883,
+      "Id": 883,
+      "LangStringTable": {
+        "Text": "不限"
+      }
+    },
+    "884": {
+      "Cuid": 884,
+      "Id": 884,
+      "LangStringTable": {
+        "Text": "未突破"
+      }
+    },
+    "885": {
+      "Cuid": 885,
+      "Id": 885,
+      "LangStringTable": {
+        "Text": "艦  種"
+      }
+    },
+    "886": {
+      "Cuid": 886,
+      "Id": 886,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "887": {
+      "Cuid": 887,
+      "Id": 887,
+      "LangStringTable": {
+        "Text": "航母"
+      }
+    },
+    "888": {
+      "Cuid": 888,
+      "Id": 888,
+      "LangStringTable": {
+        "Text": "輕巡"
+      }
+    },
+    "889": {
+      "Cuid": 889,
+      "Id": 889,
+      "LangStringTable": {
+        "Text": "重巡"
+      }
+    },
+    "890": {
+      "Cuid": 890,
+      "Id": 890,
+      "LangStringTable": {
+        "Text": "驅逐"
+      }
+    },
+    "891": {
+      "Cuid": 891,
+      "Id": 891,
+      "LangStringTable": {
+        "Text": "戰艦"
+      }
+    },
+    "892": {
+      "Cuid": 892,
+      "Id": 892,
+      "LangStringTable": {
+        "Text": "其他"
+      }
+    },
+    "893": {
+      "Cuid": 893,
+      "Id": 893,
+      "LangStringTable": {
+        "Text": "等  級"
+      }
+    },
+    "894": {
+      "Cuid": 894,
+      "Id": 894,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "895": {
+      "Cuid": 895,
+      "Id": 895,
+      "LangStringTable": {
+        "Text": "稀有度"
+      }
+    },
+    "896": {
+      "Cuid": 896,
+      "Id": 896,
+      "LangStringTable": {
+        "Text": "全部"
+      }
+    },
+    "897": {
+      "Cuid": 897,
+      "Id": 897,
+      "LangStringTable": {
+        "Text": "SSR以下"
+      }
+    },
+    "898": {
+      "Cuid": 898,
+      "Id": 898,
+      "LangStringTable": {
+        "Text": "SR以下"
+      }
+    },
+    "899": {
+      "Cuid": 899,
+      "Id": 899,
+      "LangStringTable": {
+        "Text": "確 認"
+      }
+    },
+    "900": {
+      "Cuid": 900,
+      "Id": 900,
+      "LangStringTable": {
+        "Text": "能源購買"
+      }
+    },
+    "901": {
+      "Cuid": 901,
+      "Id": 901,
+      "LangStringTable": {
+        "Text": "共需消耗"
+      }
+    },
+    "902": {
+      "Cuid": 902,
+      "Id": 902,
+      "LangStringTable": {
+        "Text": "購買次數"
+      }
+    },
+    "903": {
+      "Cuid": 903,
+      "Id": 903,
+      "LangStringTable": {
+        "Text": "確 定"
+      }
+    },
+    "904": {
+      "Cuid": 904,
+      "Id": 904,
+      "LangStringTable": {
+        "Text": "使用數量"
+      }
+    },
+    "905": {
+      "Cuid": 905,
+      "Id": 905,
+      "LangStringTable": {
+        "Text": "充能方靜數量不足"
+      }
+    },
+    "906": {
+      "Cuid": 906,
+      "Id": 906,
+      "LangStringTable": {
+        "Text": "是否前往商會購買"
+      }
+    },
+    "907": {
+      "Cuid": 907,
+      "Id": 907,
+      "LangStringTable": {
+        "Text": "確 定"
+      }
+    },
+    "908": {
+      "Cuid": 908,
+      "Id": 908,
+      "LangStringTable": {
+        "Text": "取 消"
+      }
+    },
+    "909": {
+      "Cuid": 909,
+      "Id": 909,
+      "LangStringTable": {
+        "Text": "道具名稱"
+      }
+    },
+    "910": {
+      "Cuid": 910,
+      "Id": 910,
+      "LangStringTable": {
+        "Text": "六級大風李會計管理機構拉框的身份聯盟"
+      }
+    },
+    "911": {
+      "Cuid": 911,
+      "Id": 911,
+      "LangStringTable": {
+        "Text": "未擁有此類道具"
+      }
+    },
+    "912": {
+      "Cuid": 912,
+      "Id": 912,
+      "LangStringTable": {
+        "Text": "西格瑪溶液西格格"
+      }
+    },
+    "913": {
+      "Cuid": 913,
+      "Id": 913,
+      "LangStringTable": {
+        "Text": "帶鋸背景描述帶鋸背景描"
+      }
+    },
+    "914": {
+      "Cuid": 914,
+      "Id": 914,
+      "LangStringTable": {
+        "Text": "確  認"
+      }
+    },
+    "915": {
+      "Cuid": 915,
+      "Id": 915,
+      "LangStringTable": {
+        "Text": "取  消"
+      }
+    },
+    "916": {
+      "Cuid": 916,
+      "Id": 916,
+      "LangStringTable": {
+        "Text": "所需要合成的數量"
+      }
+    },
+    "917": {
+      "Cuid": 917,
+      "Id": 917,
+      "LangStringTable": {
+        "Text": "需要消耗30個西格瑪溶液．小"
+      }
+    },
+    "918": {
+      "Cuid": 918,
+      "Id": 918,
+      "LangStringTable": {
+        "Text": "確  認"
+      }
+    },
+    "919": {
+      "Cuid": 919,
+      "Id": 919,
+      "LangStringTable": {
+        "Text": "取  消"
+      }
+    },
+    "920": {
+      "Cuid": 920,
+      "Id": 920,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "921": {
+      "Cuid": 921,
+      "Id": 921,
+      "LangStringTable": {
+        "Text": "標準射速"
+      }
+    },
+    "922": {
+      "Cuid": 922,
+      "Id": 922,
+      "LangStringTable": {
+        "Text": "8.99s/輪"
+      }
+    },
+    "923": {
+      "Cuid": 923,
+      "Id": 923,
+      "LangStringTable": {
+        "Text": "8.87s/輪  0.21^"
+      }
+    },
+    "924": {
+      "Cuid": 924,
+      "Id": 924,
+      "LangStringTable": {
+        "Text": "要求素材"
+      }
+    },
+    "925": {
+      "Cuid": 925,
+      "Id": 925,
+      "LangStringTable": {
+        "Text": "瀏覽模式"
+      }
+    },
+    "926": {
+      "Cuid": 926,
+      "Id": 926,
+      "LangStringTable": {
+        "Text": "光  輝   之  海"
+      }
+    },
+    "927": {
+      "Cuid": 927,
+      "Id": 927,
+      "LangStringTable": {
+        "Text": "紛  亂   之  海"
+      }
+    },
+    "928": {
+      "Cuid": 928,
+      "Id": 928,
+      "LangStringTable": {
+        "Text": "靜   謐  之   海"
+      }
+    },
+    "929": {
+      "Cuid": 929,
+      "Id": 929,
+      "LangStringTable": {
+        "Text": "冰   冷   之   海"
+      }
+    },
+    "930": {
+      "Cuid": 930,
+      "Id": 930,
+      "LangStringTable": {
+        "Text": "終   南  荒   原"
+      }
+    },
+    "931": {
+      "Cuid": 931,
+      "Id": 931,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "932": {
+      "Cuid": 932,
+      "Id": 932,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "933": {
+      "Cuid": 933,
+      "Id": 933,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "934": {
+      "Cuid": 934,
+      "Id": 934,
+      "LangStringTable": {
+        "Text": "中<size=30> </size>央<size=30> </size>海<size=30> </size>域<size=30> </size>"
+      }
+    },
+    "935": {
+      "Cuid": 935,
+      "Id": 935,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "936": {
+      "Cuid": 936,
+      "Id": 936,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "937": {
+      "Cuid": 937,
+      "Id": 937,
+      "LangStringTable": {
+        "Text": "銀翼財團"
+      }
+    },
+    "938": {
+      "Cuid": 938,
+      "Id": 938,
+      "LangStringTable": {
+        "Text": "銀<size=30> </size>翼<size=30> </size>財<size=30> </size>團<size=30> </size>"
+      }
+    },
+    "939": {
+      "Cuid": 939,
+      "Id": 939,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "940": {
+      "Cuid": 940,
+      "Id": 940,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "941": {
+      "Cuid": 941,
+      "Id": 941,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "942": {
+      "Cuid": 942,
+      "Id": 942,
+      "LangStringTable": {
+        "Text": "神<size=30> </size>代<size=30> </size>會<size=30> </size>社<size=30> </size>"
+      }
+    },
+    "943": {
+      "Cuid": 943,
+      "Id": 943,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "944": {
+      "Cuid": 944,
+      "Id": 944,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "945": {
+      "Cuid": 945,
+      "Id": 945,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "946": {
+      "Cuid": 946,
+      "Id": 946,
+      "LangStringTable": {
+        "Text": "黑鋒黑鋒"
+      }
+    },
+    "947": {
+      "Cuid": 947,
+      "Id": 947,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "948": {
+      "Cuid": 948,
+      "Id": 948,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "949": {
+      "Cuid": 949,
+      "Id": 949,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "950": {
+      "Cuid": 950,
+      "Id": 950,
+      "LangStringTable": {
+        "Text": "黑鋒黑鋒"
+      }
+    },
+    "951": {
+      "Cuid": 951,
+      "Id": 951,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "952": {
+      "Cuid": 952,
+      "Id": 952,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "953": {
+      "Cuid": 953,
+      "Id": 953,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "954": {
+      "Cuid": 954,
+      "Id": 954,
+      "LangStringTable": {
+        "Text": "黑鋒黑鋒"
+      }
+    },
+    "955": {
+      "Cuid": 955,
+      "Id": 955,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "956": {
+      "Cuid": 956,
+      "Id": 956,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "957": {
+      "Cuid": 957,
+      "Id": 957,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "958": {
+      "Cuid": 958,
+      "Id": 958,
+      "LangStringTable": {
+        "Text": "神<size=30> </size>代<size=30> </size>會<size=30> </size>社<size=30> </size>"
+      }
+    },
+    "959": {
+      "Cuid": 959,
+      "Id": 959,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "960": {
+      "Cuid": 960,
+      "Id": 960,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "961": {
+      "Cuid": 961,
+      "Id": 961,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "962": {
+      "Cuid": 962,
+      "Id": 962,
+      "LangStringTable": {
+        "Text": "神<size=30> </size>代<size=30> </size>會<size=30> </size>社<size=30> </size>"
+      }
+    },
+    "963": {
+      "Cuid": 963,
+      "Id": 963,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "964": {
+      "Cuid": 964,
+      "Id": 964,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "965": {
+      "Cuid": 965,
+      "Id": 965,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "966": {
+      "Cuid": 966,
+      "Id": 966,
+      "LangStringTable": {
+        "Text": "神<size=30> </size>代<size=30> </size>會<size=30> </size>社<size=30> </size>"
+      }
+    },
+    "967": {
+      "Cuid": 967,
+      "Id": 967,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "968": {
+      "Cuid": 968,
+      "Id": 968,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "969": {
+      "Cuid": 969,
+      "Id": 969,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "970": {
+      "Cuid": 970,
+      "Id": 970,
+      "LangStringTable": {
+        "Text": "神<size=30> </size>代<size=30> </size>會<size=30> </size>社<size=30> </size>"
+      }
+    },
+    "971": {
+      "Cuid": 971,
+      "Id": 971,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "972": {
+      "Cuid": 972,
+      "Id": 972,
+      "LangStringTable": {
+        "Text": "中"
+      }
+    },
+    "973": {
+      "Cuid": 973,
+      "Id": 973,
+      "LangStringTable": {
+        "Text": "神代會社"
+      }
+    },
+    "974": {
+      "Cuid": 974,
+      "Id": 974,
+      "LangStringTable": {
+        "Text": "神<size=30> </size>代<size=30> </size>會<size=30> </size>社<size=30> </size>"
+      }
+    },
+    "975": {
+      "Cuid": 975,
+      "Id": 975,
+      "LangStringTable": {
+        "Text": "劇情港口"
+      }
+    },
+    "976": {
+      "Cuid": 976,
+      "Id": 976,
+      "LangStringTable": {
+        "Text": "偽神之神-12"
+      }
+    },
+    "977": {
+      "Cuid": 977,
+      "Id": 977,
+      "LangStringTable": {
+        "Text": "作戰開始"
+      }
+    },
+    "978": {
+      "Cuid": 978,
+      "Id": 978,
+      "LangStringTable": {
+        "Text": "開始打撈"
+      }
+    },
+    "979": {
+      "Cuid": 979,
+      "Id": 979,
+      "LangStringTable": {
+        "Text": "重置"
+      }
+    },
+    "980": {
+      "Cuid": 980,
+      "Id": 980,
+      "LangStringTable": {
+        "Text": "情報收集"
+      }
+    },
+    "981": {
+      "Cuid": 981,
+      "Id": 981,
+      "LangStringTable": {
+        "Text": "道具掉落"
+      }
+    },
+    "982": {
+      "Cuid": 982,
+      "Id": 982,
+      "LangStringTable": {
+        "Text": "地殼變動 打撈人形素體機率 值"
+      }
+    },
+    "983": {
+      "Cuid": 983,
+      "Id": 983,
+      "LangStringTable": {
+        "Text": "港口描述，港口描述港口描述港口\\r\\n述港口描述。"
+      }
+    },
+    "984": {
+      "Cuid": 984,
+      "Id": 984,
+      "LangStringTable": {
+        "Text": "作戰任務"
+      }
+    },
+    "985": {
+      "Cuid": 985,
+      "Id": 985,
+      "LangStringTable": {
+        "Text": "港口名稱"
+      }
+    },
+    "986": {
+      "Cuid": 986,
+      "Id": 986,
+      "LangStringTable": {
+        "Text": "休士頓港"
+      }
+    },
+    "987": {
+      "Cuid": 987,
+      "Id": 987,
+      "LangStringTable": {
+        "Text": "港口描述，港口描述，港口描述，港口描述，港口描述，港口描述，港口描述，港口描述，"
+      }
+    },
+    "988": {
+      "Cuid": 988,
+      "Id": 988,
+      "LangStringTable": {
+        "Text": "作戰開始"
+      }
+    },
+    "989": {
+      "Cuid": 989,
+      "Id": 989,
+      "LangStringTable": {
+        "Text": "作戰任務"
+      }
+    },
+    "990": {
+      "Cuid": 990,
+      "Id": 990,
+      "LangStringTable": {
+        "Text": "道具掉落"
+      }
+    },
+    "991": {
+      "Cuid": 991,
+      "Id": 991,
+      "LangStringTable": {
+        "Text": "地殼變動 打撈人形素體機率 值"
+      }
+    },
+    "992": {
+      "Cuid": 992,
+      "Id": 992,
+      "LangStringTable": {
+        "Text": "成功防守住所有港口，還要再"
+      }
+    },
+    "993": {
+      "Cuid": 993,
+      "Id": 993,
+      "LangStringTable": {
+        "Text": "作戰任務"
+      }
+    },
+    "994": {
+      "Cuid": 994,
+      "Id": 994,
+      "LangStringTable": {
+        "Text": "港口名稱"
+      }
+    },
+    "995": {
+      "Cuid": 995,
+      "Id": 995,
+      "LangStringTable": {
+        "Text": "作戰開始"
+      }
+    },
+    "996": {
+      "Cuid": 996,
+      "Id": 996,
+      "LangStringTable": {
+        "Text": "開始打撈"
+      }
+    },
+    "997": {
+      "Cuid": 997,
+      "Id": 997,
+      "LangStringTable": {
+        "Text": "道具掉落"
+      }
+    },
+    "998": {
+      "Cuid": 998,
+      "Id": 998,
+      "LangStringTable": {
+        "Text": "劇情任務"
+      }
+    },
+    "999": {
+      "Cuid": 999,
+      "Id": 999,
+      "LangStringTable": {
+        "Text": "港口名稱"
+      }
+    },
+    "1000": {
+      "Cuid": 1000,
+      "Id": 1000,
+      "LangStringTable": {
+        "Text": "縮放地圖"
+      }
+    },
+    "1001": {
+      "Cuid": 1001,
+      "Id": 1001,
+      "LangStringTable": {
+        "Text": "作戰任務"
+      }
+    },
+    "1002": {
+      "Cuid": 1002,
+      "Id": 1002,
+      "LangStringTable": {
+        "Text": "完成所有作戰任務可獲得S評級。完成2個可獲得A評級。\\r\\n任意完成一個可獲B評級。"
+      }
+    },
+    "1003": {
+      "Cuid": 1003,
+      "Id": 1003,
+      "LangStringTable": {
+        "Text": "成功防守住所有港口，還要再"
+      }
+    },
+    "1004": {
+      "Cuid": 1004,
+      "Id": 1004,
+      "LangStringTable": {
+        "Text": "獲得指定人形或使用人形完成指定任務\\r\\n時即可達成人形成就"
+      }
+    },
+    "1005": {
+      "Cuid": 1005,
+      "Id": 1005,
+      "LangStringTable": {
+        "Text": "這裡可以查看人形成就和世界成就的完成\\r\\n情況。達成成就可以獲得目標獎勵。"
+      }
+    },
+    "1006": {
+      "Cuid": 1006,
+      "Id": 1006,
+      "LangStringTable": {
+        "Text": "完成指定區域佔領可達成世界成就"
+      }
+    },
+    "1007": {
+      "Cuid": 1007,
+      "Id": 1007,
+      "LangStringTable": {
+        "Text": "成就規則"
+      }
+    },
+    "1008": {
+      "Cuid": 1008,
+      "Id": 1008,
+      "LangStringTable": {
+        "Text": "招募規則"
+      }
+    },
+    "1009": {
+      "Cuid": 1009,
+      "Id": 1009,
+      "LangStringTable": {
+        "Text": "最終招募到的人形有一定機率\\r\\n是目標人形，否則將是目標人形的\\r\\n同艦種或同勢力的其他人形哦！"
+      }
+    },
+    "1010": {
+      "Cuid": 1010,
+      "Id": 1010,
+      "LangStringTable": {
+        "Text": "選擇好目標人形後點擊招募開始\\r\\n 【招募】消耗5000嗶哩\\r\\n 【十次招募】消耗50000嗶哩"
+      }
+    },
+    "1011": {
+      "Cuid": 1011,
+      "Id": 1011,
+      "LangStringTable": {
+        "Text": "招募前需要先選擇想要獲得的目標人形"
+      }
+    },
+    "1012": {
+      "Cuid": 1012,
+      "Id": 1012,
+      "LangStringTable": {
+        "Text": "敵方回合"
+      }
+    },
+    "1013": {
+      "Cuid": 1013,
+      "Id": 1013,
+      "LangStringTable": {
+        "Text": "【防守】進入戰鬥\\r\\n【防守】進入戰鬥"
+      }
+    },
+    "1014": {
+      "Cuid": 1014,
+      "Id": 1014,
+      "LangStringTable": {
+        "Text": "我方回合"
+      }
+    },
+    "1015": {
+      "Cuid": 1015,
+      "Id": 1015,
+      "LangStringTable": {
+        "Text": "兩種行動均消耗一點行動值和一支艦隊;\\r\\n每回合內，每支艦隊僅能行動一次。"
+      }
+    },
+    "1016": {
+      "Cuid": 1016,
+      "Id": 1016,
+      "LangStringTable": {
+        "Text": "【進攻】進入戰鬥\\r\\n【進攻】進入戰鬥"
+      }
+    },
+    "1017": {
+      "Cuid": 1017,
+      "Id": 1017,
+      "LangStringTable": {
+        "Text": "佔領行為會提升壓制等級（防守不會）"
+      }
+    },
+    "1018": {
+      "Cuid": 1018,
+      "Id": 1018,
+      "LangStringTable": {
+        "Text": "每次行動消耗1點行動值，行動值為0時不可行動，需要結束回合。"
+      }
+    },
+    "1019": {
+      "Cuid": 1019,
+      "Id": 1019,
+      "LangStringTable": {
+        "Text": "敵方據點：\\r\\n佔領BOSS據點後【戰鬥勝利】"
+      }
+    },
+    "1020": {
+      "Cuid": 1020,
+      "Id": 1020,
+      "LangStringTable": {
+        "Text": "我方據點：\\r\\n場上沒有我方據點或可用艦隊時【戰鬥失敗】"
+      }
+    },
+    "1021": {
+      "Cuid": 1021,
+      "Id": 1021,
+      "LangStringTable": {
+        "Text": "已經前往整備的人形，不可參與其他整\\r\\n備、出征任務"
+      }
+    },
+    "1022": {
+      "Cuid": 1022,
+      "Id": 1022,
+      "LangStringTable": {
+        "Text": "整備規則"
+      }
+    },
+    "1023": {
+      "Cuid": 1023,
+      "Id": 1023,
+      "LangStringTable": {
+        "Text": "選擇的人形需符合<color=#00ffff>整備要求</color>"
+      }
+    },
+    "1024": {
+      "Cuid": 1024,
+      "Id": 1024,
+      "LangStringTable": {
+        "Text": "遠征任務有八個字"
+      }
+    },
+    "1025": {
+      "Cuid": 1025,
+      "Id": 1025,
+      "LangStringTable": {
+        "Text": "緊急"
+      }
+    },
+    "1026": {
+      "Cuid": 1026,
+      "Id": 1026,
+      "LangStringTable": {
+        "Text": "選擇艦船"
+      }
+    },
+    "1027": {
+      "Cuid": 1027,
+      "Id": 1027,
+      "LangStringTable": {
+        "Text": "完成獎勵"
+      }
+    },
+    "1028": {
+      "Cuid": 1028,
+      "Id": 1028,
+      "LangStringTable": {
+        "Text": "角色要求"
+      }
+    },
+    "1029": {
+      "Cuid": 1029,
+      "Id": 1029,
+      "LangStringTable": {
+        "Text": "出征角色數量限制: 3人"
+      }
+    },
+    "1030": {
+      "Cuid": 1030,
+      "Id": 1030,
+      "LangStringTable": {
+        "Text": "[緊急]遠征任務有八個字"
+      }
+    },
+    "1031": {
+      "Cuid": 1031,
+      "Id": 1031,
+      "LangStringTable": {
+        "Text": "行動完成"
+      }
+    },
+    "1032": {
+      "Cuid": 1032,
+      "Id": 1032,
+      "LangStringTable": {
+        "Text": "點擊選擇整備任務"
+      }
+    },
+    "1033": {
+      "Cuid": 1033,
+      "Id": 1033,
+      "LangStringTable": {
+        "Text": "整備任務"
+      }
+    },
+    "1034": {
+      "Cuid": 1034,
+      "Id": 1034,
+      "LangStringTable": {
+        "Text": "【創建聯盟】戒備值達到22時開啟"
+      }
+    },
+    "1035": {
+      "Cuid": 1035,
+      "Id": 1035,
+      "LangStringTable": {
+        "Text": "聯盟是與其他指揮官<color=#00ffff>交流合作</color>的組織"
+      }
+    },
+    "1036": {
+      "Cuid": 1036,
+      "Id": 1036,
+      "LangStringTable": {
+        "Text": "【加入聯盟】申請加入其他指揮官創建的聯盟"
+      }
+    },
+    "1037": {
+      "Cuid": 1037,
+      "Id": 1037,
+      "LangStringTable": {
+        "Text": "【許可權轉移】如果司令連續15天\\r\\n未上線， 司令許可權會被轉移給其他\\r\\n指揮官。"
+      }
+    },
+    "1038": {
+      "Cuid": 1038,
+      "Id": 1038,
+      "LangStringTable": {
+        "Text": "【聯盟商店】出售聯盟專屬道具。消耗【活\\r\\n 躍點】後開啟道具購買許可權。\\r\\n【活躍點】透過成員完成任務獲取。"
+      }
+    },
+    "1039": {
+      "Cuid": 1039,
+      "Id": 1039,
+      "LangStringTable": {
+        "Text": "聯盟規則"
+      }
+    },
+    "1040": {
+      "Cuid": 1040,
+      "Id": 1040,
+      "LangStringTable": {
+        "Text": "每日24點結算前一日的完成情況，並重置\\r\\n所有任務完成狀況"
+      }
+    },
+    "1041": {
+      "Cuid": 1041,
+      "Id": 1041,
+      "LangStringTable": {
+        "Text": "每週一0點結算前一週的完成情況，並重置\\r\\n所有任務完成狀況"
+      }
+    },
+    "1042": {
+      "Cuid": 1042,
+      "Id": 1042,
+      "LangStringTable": {
+        "Text": "活動任務需在指定日期內完成。"
+      }
+    },
+    "1043": {
+      "Cuid": 1043,
+      "Id": 1043,
+      "LangStringTable": {
+        "Text": "任務規則"
+      }
+    },
+    "1044": {
+      "Cuid": 1044,
+      "Id": 1044,
+      "LangStringTable": {
+        "Text": "因為丘比特"
+      }
+    },
+    "1045": {
+      "Cuid": 1045,
+      "Id": 1045,
+      "LangStringTable": {
+        "Text": "確認出征"
+      }
+    },
+    "1046": {
+      "Cuid": 1046,
+      "Id": 1046,
+      "LangStringTable": {
+        "Text": "已選擇"
+      }
+    },
+    "1047": {
+      "Cuid": 1047,
+      "Id": 1047,
+      "LangStringTable": {
+        "Text": "支艦隊出戰"
+      }
+    },
+    "1048": {
+      "Cuid": 1048,
+      "Id": 1048,
+      "LangStringTable": {
+        "Text": "禁用艦種"
+      }
+    },
+    "1049": {
+      "Cuid": 1049,
+      "Id": 1049,
+      "LangStringTable": {
+        "Text": "請選擇出戰的艦隊"
+      }
+    },
+    "1050": {
+      "Cuid": 1050,
+      "Id": 1050,
+      "LangStringTable": {
+        "Text": "隊"
+      }
+    },
+    "1051": {
+      "Cuid": 1051,
+      "Id": 1051,
+      "LangStringTable": {
+        "Text": "布呂歇爾"
+      }
+    },
+    "1052": {
+      "Cuid": 1052,
+      "Id": 1052,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "1053": {
+      "Cuid": 1053,
+      "Id": 1053,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "1054": {
+      "Cuid": 1054,
+      "Id": 1054,
+      "LangStringTable": {
+        "Text": "砲擊"
+      }
+    },
+    "1055": {
+      "Cuid": 1055,
+      "Id": 1055,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1056": {
+      "Cuid": 1056,
+      "Id": 1056,
+      "LangStringTable": {
+        "Text": "航空"
+      }
+    },
+    "1057": {
+      "Cuid": 1057,
+      "Id": 1057,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1058": {
+      "Cuid": 1058,
+      "Id": 1058,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1059": {
+      "Cuid": 1059,
+      "Id": 1059,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1060": {
+      "Cuid": 1060,
+      "Id": 1060,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1061": {
+      "Cuid": 1061,
+      "Id": 1061,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1062": {
+      "Cuid": 1062,
+      "Id": 1062,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1063": {
+      "Cuid": 1063,
+      "Id": 1063,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1064": {
+      "Cuid": 1064,
+      "Id": 1064,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1065": {
+      "Cuid": 1065,
+      "Id": 1065,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1066": {
+      "Cuid": 1066,
+      "Id": 1066,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1067": {
+      "Cuid": 1067,
+      "Id": 1067,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1068": {
+      "Cuid": 1068,
+      "Id": 1068,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1069": {
+      "Cuid": 1069,
+      "Id": 1069,
+      "LangStringTable": {
+        "Text": "主"
+      }
+    },
+    "1070": {
+      "Cuid": 1070,
+      "Id": 1070,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1071": {
+      "Cuid": 1071,
+      "Id": 1071,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1072": {
+      "Cuid": 1072,
+      "Id": 1072,
+      "LangStringTable": {
+        "Text": "主"
+      }
+    },
+    "1073": {
+      "Cuid": 1073,
+      "Id": 1073,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1074": {
+      "Cuid": 1074,
+      "Id": 1074,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1075": {
+      "Cuid": 1075,
+      "Id": 1075,
+      "LangStringTable": {
+        "Text": "主"
+      }
+    },
+    "1076": {
+      "Cuid": 1076,
+      "Id": 1076,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1077": {
+      "Cuid": 1077,
+      "Id": 1077,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1078": {
+      "Cuid": 1078,
+      "Id": 1078,
+      "LangStringTable": {
+        "Text": "主"
+      }
+    },
+    "1079": {
+      "Cuid": 1079,
+      "Id": 1079,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1080": {
+      "Cuid": 1080,
+      "Id": 1080,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1081": {
+      "Cuid": 1081,
+      "Id": 1081,
+      "LangStringTable": {
+        "Text": "主"
+      }
+    },
+    "1082": {
+      "Cuid": 1082,
+      "Id": 1082,
+      "LangStringTable": {
+        "Text": "荷載更替"
+      }
+    },
+    "1083": {
+      "Cuid": 1083,
+      "Id": 1083,
+      "LangStringTable": {
+        "Text": "列星頓"
+      }
+    },
+    "1084": {
+      "Cuid": 1084,
+      "Id": 1084,
+      "LangStringTable": {
+        "Text": "強化"
+      }
+    },
+    "1085": {
+      "Cuid": 1085,
+      "Id": 1085,
+      "LangStringTable": {
+        "Text": "卸載"
+      }
+    },
+    "1086": {
+      "Cuid": 1086,
+      "Id": 1086,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1087": {
+      "Cuid": 1087,
+      "Id": 1087,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1088": {
+      "Cuid": 1088,
+      "Id": 1088,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1089": {
+      "Cuid": 1089,
+      "Id": 1089,
+      "LangStringTable": {
+        "Text": "最大頂點"
+      }
+    },
+    "1090": {
+      "Cuid": 1090,
+      "Id": 1090,
+      "LangStringTable": {
+        "Text": "傷害  200"
+      }
+    },
+    "1091": {
+      "Cuid": 1091,
+      "Id": 1091,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1092": {
+      "Cuid": 1092,
+      "Id": 1092,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1093": {
+      "Cuid": 1093,
+      "Id": 1093,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1094": {
+      "Cuid": 1094,
+      "Id": 1094,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1095": {
+      "Cuid": 1095,
+      "Id": 1095,
+      "LangStringTable": {
+        "Text": "強化"
+      }
+    },
+    "1096": {
+      "Cuid": 1096,
+      "Id": 1096,
+      "LangStringTable": {
+        "Text": "卸載"
+      }
+    },
+    "1097": {
+      "Cuid": 1097,
+      "Id": 1097,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1098": {
+      "Cuid": 1098,
+      "Id": 1098,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1099": {
+      "Cuid": 1099,
+      "Id": 1099,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1100": {
+      "Cuid": 1100,
+      "Id": 1100,
+      "LangStringTable": {
+        "Text": "最大頂點"
+      }
+    },
+    "1101": {
+      "Cuid": 1101,
+      "Id": 1101,
+      "LangStringTable": {
+        "Text": "傷害  200"
+      }
+    },
+    "1102": {
+      "Cuid": 1102,
+      "Id": 1102,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1103": {
+      "Cuid": 1103,
+      "Id": 1103,
+      "LangStringTable": {
+        "Text": "傷害  100"
+      }
+    },
+    "1104": {
+      "Cuid": 1104,
+      "Id": 1104,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1105": {
+      "Cuid": 1105,
+      "Id": 1105,
+      "LangStringTable": {
+        "Text": "30級解鎖"
+      }
+    },
+    "1106": {
+      "Cuid": 1106,
+      "Id": 1106,
+      "LangStringTable": {
+        "Text": "深海化後開啟最終的突破許可權"
+      }
+    },
+    "1107": {
+      "Cuid": 1107,
+      "Id": 1107,
+      "LangStringTable": {
+        "Text": "高速充能"
+      }
+    },
+    "1108": {
+      "Cuid": 1108,
+      "Id": 1108,
+      "LangStringTable": {
+        "Text": "技能說明這麼長或者那麼長吧"
+      }
+    },
+    "1109": {
+      "Cuid": 1109,
+      "Id": 1109,
+      "LangStringTable": {
+        "Text": "-已獲得-"
+      }
+    },
+    "1110": {
+      "Cuid": 1110,
+      "Id": 1110,
+      "LangStringTable": {
+        "Text": "需求素材"
+      }
+    },
+    "1111": {
+      "Cuid": 1111,
+      "Id": 1111,
+      "LangStringTable": {
+        "Text": "進行改造"
+      }
+    },
+    "1112": {
+      "Cuid": 1112,
+      "Id": 1112,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1113": {
+      "Cuid": 1113,
+      "Id": 1113,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1114": {
+      "Cuid": 1114,
+      "Id": 1114,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1115": {
+      "Cuid": 1115,
+      "Id": 1115,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1116": {
+      "Cuid": 1116,
+      "Id": 1116,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1117": {
+      "Cuid": 1117,
+      "Id": 1117,
+      "LangStringTable": {
+        "Text": "解鎖技能："
+      }
+    },
+    "1118": {
+      "Cuid": 1118,
+      "Id": 1118,
+      "LangStringTable": {
+        "Text": "需求素材"
+      }
+    },
+    "1119": {
+      "Cuid": 1119,
+      "Id": 1119,
+      "LangStringTable": {
+        "Text": "進行改造"
+      }
+    },
+    "1120": {
+      "Cuid": 1120,
+      "Id": 1120,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1121": {
+      "Cuid": 1121,
+      "Id": 1121,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1122": {
+      "Cuid": 1122,
+      "Id": 1122,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1123": {
+      "Cuid": 1123,
+      "Id": 1123,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1124": {
+      "Cuid": 1124,
+      "Id": 1124,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1125": {
+      "Cuid": 1125,
+      "Id": 1125,
+      "LangStringTable": {
+        "Text": "解鎖技能："
+      }
+    },
+    "1126": {
+      "Cuid": 1126,
+      "Id": 1126,
+      "LangStringTable": {
+        "Text": "需求素材"
+      }
+    },
+    "1127": {
+      "Cuid": 1127,
+      "Id": 1127,
+      "LangStringTable": {
+        "Text": "進行改造"
+      }
+    },
+    "1128": {
+      "Cuid": 1128,
+      "Id": 1128,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1129": {
+      "Cuid": 1129,
+      "Id": 1129,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1130": {
+      "Cuid": 1130,
+      "Id": 1130,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1131": {
+      "Cuid": 1131,
+      "Id": 1131,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1132": {
+      "Cuid": 1132,
+      "Id": 1132,
+      "LangStringTable": {
+        "Text": "傷害"
+      }
+    },
+    "1133": {
+      "Cuid": 1133,
+      "Id": 1133,
+      "LangStringTable": {
+        "Text": "解鎖技能："
+      }
+    },
+    "1134": {
+      "Cuid": 1134,
+      "Id": 1134,
+      "LangStringTable": {
+        "Text": "※  人形等級達到Lv {0}（當前Lv {1}）"
+      }
+    },
+    "1135": {
+      "Cuid": 1135,
+      "Id": 1135,
+      "LangStringTable": {
+        "Text": "高速充能+"
+      }
+    },
+    "1136": {
+      "Cuid": 1136,
+      "Id": 1136,
+      "LangStringTable": {
+        "Text": "技能"
+      }
+    },
+    "1137": {
+      "Cuid": 1137,
+      "Id": 1137,
+      "LangStringTable": {
+        "Text": "主動"
+      }
+    },
+    "1138": {
+      "Cuid": 1138,
+      "Id": 1138,
+      "LangStringTable": {
+        "Text": "立即回復30耐久，5秒內持續回復最大耐久的50%"
+      }
+    },
+    "1139": {
+      "Cuid": 1139,
+      "Id": 1139,
+      "LangStringTable": {
+        "Text": "任務名任務名"
+      }
+    },
+    "1140": {
+      "Cuid": 1140,
+      "Id": 1140,
+      "LangStringTable": {
+        "Text": "完成7次遠征任務"
+      }
+    },
+    "1141": {
+      "Cuid": 1141,
+      "Id": 1141,
+      "LangStringTable": {
+        "Text": "已完成"
+      }
+    },
+    "1142": {
+      "Cuid": 1142,
+      "Id": 1142,
+      "LangStringTable": {
+        "Text": "已完成"
+      }
+    },
+    "1143": {
+      "Cuid": 1143,
+      "Id": 1143,
+      "LangStringTable": {
+        "Text": "領取"
+      }
+    },
+    "1144": {
+      "Cuid": 1144,
+      "Id": 1144,
+      "LangStringTable": {
+        "Text": "領 取"
+      }
+    },
+    "1145": {
+      "Cuid": 1145,
+      "Id": 1145,
+      "LangStringTable": {
+        "Text": "劇情回顧"
+      }
+    },
+    "1146": {
+      "Cuid": 1146,
+      "Id": 1146,
+      "LangStringTable": {
+        "Text": "戰艦"
+      }
+    },
+    "1147": {
+      "Cuid": 1147,
+      "Id": 1147,
+      "LangStringTable": {
+        "Text": "繆爾"
+      }
+    },
+    "1148": {
+      "Cuid": 1148,
+      "Id": 1148,
+      "LangStringTable": {
+        "Text": "西行寺喵喵子喵喵"
+      }
+    },
+    "1149": {
+      "Cuid": 1149,
+      "Id": 1149,
+      "LangStringTable": {
+        "Text": "可習得"
+      }
+    },
+    "1150": {
+      "Cuid": 1150,
+      "Id": 1150,
+      "LangStringTable": {
+        "Text": "技能名稱"
+      }
+    },
+    "1151": {
+      "Cuid": 1151,
+      "Id": 1151,
+      "LangStringTable": {
+        "Text": "技能描述20個字技能描述20個字技能描述20個字"
+      }
+    },
+    "1152": {
+      "Cuid": 1152,
+      "Id": 1152,
+      "LangStringTable": {
+        "Text": "鎖定"
+      }
+    },
+    "1153": {
+      "Cuid": 1153,
+      "Id": 1153,
+      "LangStringTable": {
+        "Text": "鎖定"
+      }
+    },
+    "1154": {
+      "Cuid": 1154,
+      "Id": 1154,
+      "LangStringTable": {
+        "Text": "鎖定"
+      }
+    },
+    "1155": {
+      "Cuid": 1155,
+      "Id": 1155,
+      "LangStringTable": {
+        "Text": "鎖定"
+      }
+    },
+    "1156": {
+      "Cuid": 1156,
+      "Id": 1156,
+      "LangStringTable": {
+        "Text": "鎖定"
+      }
+    },
+    "1157": {
+      "Cuid": 1157,
+      "Id": 1157,
+      "LangStringTable": {
+        "Text": "鎖定"
+      }
+    },
+    "1158": {
+      "Cuid": 1158,
+      "Id": 1158,
+      "LangStringTable": {
+        "Text": "鎖定"
+      }
+    },
+    "1159": {
+      "Cuid": 1159,
+      "Id": 1159,
+      "LangStringTable": {
+        "Text": "高速充能+"
+      }
+    },
+    "1160": {
+      "Cuid": 1160,
+      "Id": 1160,
+      "LangStringTable": {
+        "Text": "主動"
+      }
+    },
+    "1161": {
+      "Cuid": 1161,
+      "Id": 1161,
+      "LangStringTable": {
+        "Text": "解鎖條件："
+      }
+    },
+    "1162": {
+      "Cuid": 1162,
+      "Id": 1162,
+      "LangStringTable": {
+        "Text": "未解鎖"
+      }
+    },
+    "1163": {
+      "Cuid": 1163,
+      "Id": 1163,
+      "LangStringTable": {
+        "Text": "警戒值到達50  等級突破到3階"
+      }
+    },
+    "1164": {
+      "Cuid": 1164,
+      "Id": 1164,
+      "LangStringTable": {
+        "Text": "立即回復<color=#00FFFF>40</color>耐久，5秒內持續回復最大耐久的<color=#00FFFF>60</color>%"
+      }
+    },
+    "1165": {
+      "Cuid": 1165,
+      "Id": 1165,
+      "LangStringTable": {
+        "Text": "立即回復<color=#00FFFF>30</color>耐久，5秒內持續回復最大耐久的<color=#00FFFF>50</color>%"
+      }
+    },
+    "1166": {
+      "Cuid": 1166,
+      "Id": 1166,
+      "LangStringTable": {
+        "Text": "立即回復<color=#00FFFF>40</color>耐久，5秒內持續回復最大耐久的<color=#00FFFF>60</color>%"
+      }
+    },
+    "1167": {
+      "Cuid": 1167,
+      "Id": 1167,
+      "LangStringTable": {
+        "Text": "需求素材"
+      }
+    },
+    "1168": {
+      "Cuid": 1168,
+      "Id": 1168,
+      "LangStringTable": {
+        "Text": "升級技能"
+      }
+    },
+    "1169": {
+      "Cuid": 1169,
+      "Id": 1169,
+      "LangStringTable": {
+        "Text": "消耗"
+      }
+    },
+    "1170": {
+      "Cuid": 1170,
+      "Id": 1170,
+      "LangStringTable": {
+        "Text": "立即回復<color=#00FFFF>30</color>耐久，5秒內持續回復最大耐久的<color=#00FFFF>50</color>%"
+      }
+    },
+    "1171": {
+      "Cuid": 1171,
+      "Id": 1171,
+      "LangStringTable": {
+        "Text": "預設"
+      }
+    },
+    "1172": {
+      "Cuid": 1172,
+      "Id": 1172,
+      "LangStringTable": {
+        "Text": "一些外觀的描述,來源或者臺詞。"
+      }
+    },
+    "1173": {
+      "Cuid": 1173,
+      "Id": 1173,
+      "LangStringTable": {
+        "Text": "暫無獲取方式"
+      }
+    },
+    "1174": {
+      "Cuid": 1174,
+      "Id": 1174,
+      "LangStringTable": {
+        "Text": "未開放"
+      }
+    },
+    "1175": {
+      "Cuid": 1175,
+      "Id": 1175,
+      "LangStringTable": {
+        "Text": "透過限時商城購買獲得"
+      }
+    },
+    "1176": {
+      "Cuid": 1176,
+      "Id": 1176,
+      "LangStringTable": {
+        "Text": "前往"
+      }
+    },
+    "1177": {
+      "Cuid": 1177,
+      "Id": 1177,
+      "LangStringTable": {
+        "Text": "透過限時商城購買獲得"
+      }
+    },
+    "1178": {
+      "Cuid": 1178,
+      "Id": 1178,
+      "LangStringTable": {
+        "Text": "逆許小隊"
+      }
+    },
+    "1179": {
+      "Cuid": 1179,
+      "Id": 1179,
+      "LangStringTable": {
+        "Text": "逆許小隊"
+      }
+    },
+    "1180": {
+      "Cuid": 1180,
+      "Id": 1180,
+      "LangStringTable": {
+        "Text": "確定出擊"
+      }
+    },
+    "1181": {
+      "Cuid": 1181,
+      "Id": 1181,
+      "LangStringTable": {
+        "Text": "已行動"
+      }
+    },
+    "1182": {
+      "Cuid": 1182,
+      "Id": 1182,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "1183": {
+      "Cuid": 1183,
+      "Id": 1183,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "1184": {
+      "Cuid": 1184,
+      "Id": 1184,
+      "LangStringTable": {
+        "Text": "中央海域"
+      }
+    },
+    "1185": {
+      "Cuid": 1185,
+      "Id": 1185,
+      "LangStringTable": {
+        "Text": "黑鋒"
+      }
+    },
+    "1186": {
+      "Cuid": 1186,
+      "Id": 1186,
+      "LangStringTable": {
+        "Text": "重置"
+      }
+    },
+    "1187": {
+      "Cuid": 1187,
+      "Id": 1187,
+      "LangStringTable": {
+        "Text": "隊"
+      }
+    },
+    "1188": {
+      "Cuid": 1188,
+      "Id": 1188,
+      "LangStringTable": {
+        "Text": "布呂歇爾"
+      }
+    },
+    "1189": {
+      "Cuid": 1189,
+      "Id": 1189,
+      "LangStringTable": {
+        "Text": "綜合性能"
+      }
+    },
+    "1190": {
+      "Cuid": 1190,
+      "Id": 1190,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "1191": {
+      "Cuid": 1191,
+      "Id": 1191,
+      "LangStringTable": {
+        "Text": "砲擊"
+      }
+    },
+    "1192": {
+      "Cuid": 1192,
+      "Id": 1192,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1193": {
+      "Cuid": 1193,
+      "Id": 1193,
+      "LangStringTable": {
+        "Text": "航空"
+      }
+    },
+    "1194": {
+      "Cuid": 1194,
+      "Id": 1194,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "1195": {
+      "Cuid": 1195,
+      "Id": 1195,
+      "LangStringTable": {
+        "Text": "艦娘的名字"
+      }
+    },
+    "1196": {
+      "Cuid": 1196,
+      "Id": 1196,
+      "LangStringTable": {
+        "Text": "消耗"
+      }
+    },
+    "1197": {
+      "Cuid": 1197,
+      "Id": 1197,
+      "LangStringTable": {
+        "Text": "強 化"
+      }
+    },
+    "1198": {
+      "Cuid": 1198,
+      "Id": 1198,
+      "LangStringTable": {
+        "Text": "一鍵添加N卡"
+      }
+    },
+    "1199": {
+      "Cuid": 1199,
+      "Id": 1199,
+      "LangStringTable": {
+        "Text": "耐久"
+      }
+    },
+    "1200": {
+      "Cuid": 1200,
+      "Id": 1200,
+      "LangStringTable": {
+        "Text": "砲擊"
+      }
+    },
+    "1201": {
+      "Cuid": 1201,
+      "Id": 1201,
+      "LangStringTable": {
+        "Text": "雷擊"
+      }
+    },
+    "1202": {
+      "Cuid": 1202,
+      "Id": 1202,
+      "LangStringTable": {
+        "Text": "空襲"
+      }
+    },
+    "1203": {
+      "Cuid": 1203,
+      "Id": 1203,
+      "LangStringTable": {
+        "Text": "艦隊名字"
+      }
+    },
+    "1204": {
+      "Cuid": 1204,
+      "Id": 1204,
+      "LangStringTable": {
+        "Text": "- 存在禁用艦種 -"
+      }
+    },
+    "1205": {
+      "Cuid": 1205,
+      "Id": 1205,
+      "LangStringTable": {
+        "Text": "艦隊名字"
+      }
+    },
+    "1206": {
+      "Cuid": 1206,
+      "Id": 1206,
+      "LangStringTable": {
+        "Text": "旗\\r\\n艦"
+      }
+    },
+    "1207": {
+      "Cuid": 1207,
+      "Id": 1207,
+      "LangStringTable": {
+        "Text": "妖\\r\\n精"
+      }
+    },
+    "1208": {
+      "Cuid": 1208,
+      "Id": 1208,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "1209": {
+      "Cuid": 1209,
+      "Id": 1209,
+      "LangStringTable": {
+        "Text": "評分"
+      }
+    },
+    "1210": {
+      "Cuid": 1210,
+      "Id": 1210,
+      "LangStringTable": {
+        "Text": "- 存在禁用艦種 -"
+      }
+    }
+  }
+}

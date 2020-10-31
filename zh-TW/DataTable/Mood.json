@@ -1,0 +1,74 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Moodmin": 80,
+      "Moodmax": 300,
+      "Icon": "common_1_face_001",
+      "Isdisplay": 1,
+      "Battleicon": "battle_1_icon_buff_1010",
+      "Buff": "2,2,100;3,2,100;4,2,100;5,2,100;8,2,100;9,2,100;28,2,100;35,2,100;36,2,100",
+      "LangStringTable": {
+        "Mooddes": "高興",
+        "Buffdes": "各屬性+10%"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Moodmin": 60,
+      "Moodmax": 79,
+      "Icon": "common_1_face_002",
+      "Isdisplay": 1,
+      "Battleicon": "battle_1_icon_buff_1011",
+      "Buff": "2,2,50;3,2,50;4,2,50;5,2,50;8,2,50;9,2,50;28,2,50;35,2,50;36,2,50",
+      "LangStringTable": {
+        "Mooddes": "開心",
+        "Buffdes": "各屬性+5%"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Moodmin": 40,
+      "Moodmax": 59,
+      "Icon": "common_1_face_003",
+      "Isdisplay": 0,
+      "Battleicon": null,
+      "Buff": null,
+      "LangStringTable": {
+        "Mooddes": "平淡",
+        "Buffdes": "各屬性::::"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Moodmin": 20,
+      "Moodmax": 39,
+      "Icon": "common_1_face_004",
+      "Isdisplay": 1,
+      "Battleicon": "battle_1_icon_debuff_1010",
+      "Buff": "2,2,-50;3,2,-50;4,2,-50;5,2,-50;8,2,-50;9,2,-50;28,2,-50;35,2,-50;36,2,-50",
+      "LangStringTable": {
+        "Mooddes": "低落",
+        "Buffdes": "各屬性-5%"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Moodmin": 0,
+      "Moodmax": 19,
+      "Icon": "common_1_face_005",
+      "Isdisplay": 1,
+      "Battleicon": "battle_1_icon_debuff_1009",
+      "Buff": "2,2,-100;3,2,-100;4,2,-100;5,2,-100;8,2,-100;9,2,-100;28,2,-100;35,2,-100;36,2,-100",
+      "LangStringTable": {
+        "Mooddes": "沮喪",
+        "Buffdes": "各屬性-10%"
+      }
+    }
+  }
+}

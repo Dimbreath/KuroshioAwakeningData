@@ -1,0 +1,225 @@
+{
+  "Rows": {
+    "10000": {
+      "Cuid": 10000,
+      "Id": 10000,
+      "Wdtype": 2,
+      "Icon": "guide_1_icon_help",
+      "Parent": "Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "manoeuvre_1_text_tips"
+      ],
+      "LangStringTable": {
+        "Name": "演習"
+      }
+    },
+    "10001": {
+      "Cuid": 10001,
+      "Id": 10001,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_reform_01",
+        "function_help_reform_02"
+      ],
+      "LangStringTable": {
+        "Name": "深海化"
+      }
+    },
+    "10002": {
+      "Cuid": 10002,
+      "Id": 10002,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_reform_03",
+        "function_help_reform_04"
+      ],
+      "LangStringTable": {
+        "Name": "艦裝改造"
+      }
+    },
+    "10003": {
+      "Cuid": 10003,
+      "Id": 10003,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "FettersInfoForm/Left",
+      "Iconcpos": "-205,321",
+      "Value": [
+        "function_help_fettersform_01",
+        "function_help_fettersform_02",
+        "function_help_fettersform_03",
+        "function_help_fettersform_04"
+      ],
+      "LangStringTable": {
+        "Name": "羈絆"
+      }
+    },
+    "10004": {
+      "Cuid": 10004,
+      "Id": 10004,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "GachaOrderForm/RightBottom/PreGacha_Panel/Tip_Parent/Txt_GachaTip",
+      "Iconcpos": "-100,0",
+      "Value": [
+        "function_help_drawcard_01",
+        "function_help_drawcard_02"
+      ],
+      "LangStringTable": {
+        "Name": "定向招募"
+      }
+    },
+    "10005": {
+      "Cuid": 10005,
+      "Id": 10005,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_livitan_01",
+        "function_help_livitan_02"
+      ],
+      "LangStringTable": {
+        "Name": "材料副本"
+      }
+    },
+    "10006": {
+      "Cuid": 10006,
+      "Id": 10006,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "ContentRoot/Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_blitzkrieg_05",
+        "function_help_blitzkrieg_06",
+        "function_help_blitzkrieg_07",
+        "function_help_blitzkrieg_08"
+      ],
+      "LangStringTable": {
+        "Name": "深海閃擊"
+      }
+    },
+    "10007": {
+      "Cuid": 10007,
+      "Id": 10007,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "WorldRoot/Layer/Hook/MenuComponent/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_worldmap_01",
+        "function_help_worldmap_02",
+        "function_help_worldmap_03",
+        "function_help_worldmap_04",
+        "function_help_worldmap_05",
+        "function_help_worldmap_06"
+      ],
+      "LangStringTable": {
+        "Name": "世界地圖玩法"
+      }
+    },
+    "10008": {
+      "Cuid": 10008,
+      "Id": 10008,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "GachaReformForm/Queue_Panel",
+      "Iconcpos": "-205,321",
+      "Value": [
+        "function_help_gachareform_01",
+        "function_help_gachareform_02"
+      ],
+      "LangStringTable": {
+        "Name": "人偶培養"
+      }
+    },
+    "10009": {
+      "Cuid": 10009,
+      "Id": 10009,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "GachaRetireForm/Btn_Shop",
+      "Iconcpos": "-690,89",
+      "Value": [
+        "function_help_retire_01",
+        "function_help_retire_02"
+      ],
+      "LangStringTable": {
+        "Name": "人偶回收"
+      }
+    },
+    "10010": {
+      "Cuid": 10010,
+      "Id": 10010,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_fleetmission_01",
+        "function_help_fleetmission_02"
+      ],
+      "LangStringTable": {
+        "Name": "聯盟任務"
+      }
+    },
+    "10011": {
+      "Cuid": 10011,
+      "Id": 10011,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_room_01",
+        "function_help_room_02",
+        "function_help_room_03",
+        "function_help_room_04",
+        "function_help_room_05",
+        "function_help_room_06",
+        "function_help_equiproom_01",
+        "function_help_equiproom_02",
+        "function_help_equiproom_03",
+        "function_help_equiproom_04",
+        "function_help_equiproom_05",
+        "function_help_equiproom_06",
+        "function_help_equiproom_07",
+        "function_help_equiproom_08"
+      ],
+      "LangStringTable": {
+        "Name": "後宅"
+      }
+    },
+    "10012": {
+      "Cuid": 10012,
+      "Id": 10012,
+      "Wdtype": 1,
+      "Icon": "guide_1_icon_help",
+      "Parent": "Hook/MenuComponent(Clone)/Top/menu/icon",
+      "Iconcpos": "100,0",
+      "Value": [
+        "function_help_component_01",
+        "function_help_component_02",
+        "function_help_component_03",
+        "function_help_component_04",
+        "function_help_component_05",
+        "function_help_component_06",
+        "function_help_component_07",
+        "function_help_component_08",
+        ""
+      ],
+      "LangStringTable": {
+        "Name": "詳情"
+      }
+    }
+  }
+}

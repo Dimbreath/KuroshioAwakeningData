@@ -1,0 +1,54 @@
+{
+  "Rows": {
+    "1001": {
+      "Cuid": 1001,
+      "Id": 1001,
+      "Partenname": "Prologue",
+      "Chapterid": 1,
+      "Order": 1,
+      "LangStringTable": {
+        "Partname": "序幕-出逃"
+      }
+    },
+    "1002": {
+      "Cuid": 1002,
+      "Id": 1002,
+      "Partenname": "Chapter I",
+      "Chapterid": 1,
+      "Order": 2,
+      "LangStringTable": {
+        "Partname": "第一節-神秘人偶"
+      }
+    },
+    "1003": {
+      "Cuid": 1003,
+      "Id": 1003,
+      "Partenname": "Chapter II",
+      "Chapterid": 1,
+      "Order": 3,
+      "LangStringTable": {
+        "Partname": "第二節-漁村之夜"
+      }
+    },
+    "1004": {
+      "Cuid": 1004,
+      "Id": 1004,
+      "Partenname": "Chapter III",
+      "Chapterid": 1,
+      "Order": 4,
+      "LangStringTable": {
+        "Partname": "第三節-騷亂"
+      }
+    },
+    "1005": {
+      "Cuid": 1005,
+      "Id": 1005,
+      "Partenname": "Chapter IX",
+      "Chapterid": 1,
+      "Order": 5,
+      "LangStringTable": {
+        "Partname": "第四節-八百萬神"
+      }
+    }
+  }
+}

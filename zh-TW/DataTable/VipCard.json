@@ -1,0 +1,24 @@
+{
+  "Rows": {
+    "250011": {
+      "Cuid": 250011,
+      "Id": 250011,
+      "Btnpic": "activity_1_head2_20191022",
+      "Price": 230,
+      "Time": 30,
+      "Mailform": 1,
+      "Mail": 5,
+      "Buff": "5,6"
+    },
+    "250012": {
+      "Cuid": 250012,
+      "Id": 250012,
+      "Btnpic": "activity_1_head3_20191022",
+      "Price": 180,
+      "Time": 15,
+      "Mailform": 1,
+      "Mail": 6,
+      "Buff": null
+    }
+  }
+}

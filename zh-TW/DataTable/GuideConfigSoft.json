@@ -1,0 +1,1476 @@
+{
+  "Rows": {
+    "1001": {
+      "Cuid": 1001,
+      "Id": 1001,
+      "Lastid": 0,
+      "Group": 10,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "11",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "levia",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1002": {
+      "Cuid": 1002,
+      "Id": 1002,
+      "Lastid": 0,
+      "Group": 10,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "1001",
+      "Storygroupid": 1215,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "levia_exp",
+      "LangStringTable": {
+        "Title": "利維坦深淵",
+        "Context": "為了避開四大財團在海面的勘查基地，我們的人偶需要下潛到深海。"
+      }
+    },
+    "1003": {
+      "Cuid": 1003,
+      "Id": 1003,
+      "Lastid": 1002,
+      "Group": 10,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "CommonButtonSingle",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "levia_down",
+      "LangStringTable": {
+        "Title": "利維坦深淵",
+        "Context": "越是無人造訪的深淵之下，海洋會給予探索者的饋贈越多，但黑泥污染與未知的風險也更加嚴峻。"
+      }
+    },
+    "1004": {
+      "Cuid": 1004,
+      "Id": 1004,
+      "Lastid": 1003,
+      "Group": 10,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapTeamSelectForm",
+      "Item": "button_Start_SLG",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "levia_attack",
+      "LangStringTable": {
+        "Title": "利維坦深淵",
+        "Context": "請您謹慎推進勘查深度，指揮大家平安地為基地帶回更多資源吧。"
+      }
+    },
+    "1101": {
+      "Cuid": 1101,
+      "Id": 1101,
+      "Lastid": 0,
+      "Group": 11,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "FreeMarchForm",
+      "Item": "101101",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "整備",
+        "Context": "人偶們平常會在基地內外進行各項整備任務"
+      }
+    },
+    "1102": {
+      "Cuid": 1102,
+      "Id": 1102,
+      "Lastid": 1101,
+      "Group": 11,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "FreeMarchForm",
+      "Item": "CommonButtonSingle",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "整備",
+        "Context": "點擊選擇前往整備的人偶"
+      }
+    },
+    "1103": {
+      "Cuid": 1103,
+      "Id": 1103,
+      "Lastid": 1102,
+      "Group": 11,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "GirlScrollForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1104": {
+      "Cuid": 1104,
+      "Id": 1104,
+      "Lastid": 1103,
+      "Group": 11,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "GirlScrollForm",
+      "Item": "1",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1105": {
+      "Cuid": 1105,
+      "Id": 1105,
+      "Lastid": 1104,
+      "Group": 11,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "GirlScrollForm",
+      "Item": "2",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1106": {
+      "Cuid": 1106,
+      "Id": 1106,
+      "Lastid": 1105,
+      "Group": 11,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "GirlScrollForm",
+      "Item": "ConfirmButton1",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 1,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "整備",
+        "Context": "開始行動吧"
+      }
+    },
+    "1201": {
+      "Cuid": 1201,
+      "Id": 1201,
+      "Lastid": 0,
+      "Group": 12,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "10",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "manoeuvre",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1202": {
+      "Cuid": 1202,
+      "Id": 1202,
+      "Lastid": 0,
+      "Group": 12,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ArenaForm",
+      "Item": "0",
+      "Storygroupid": 1216,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "manoeuvre_choose",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1203": {
+      "Cuid": 1203,
+      "Id": 1203,
+      "Lastid": 1202,
+      "Group": 12,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "EnemyFormationForm",
+      "Item": "Btn_StartAttack",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "manoeuvre_attack",
+      "LangStringTable": {
+        "Title": "演習",
+        "Context": "為了應對今後戰爭中的任何突發狀況，請選擇想要較量的對手，展開演習吧。"
+      }
+    },
+    "1301": {
+      "Cuid": 1301,
+      "Id": 1301,
+      "Lastid": 0,
+      "Group": 13,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "27",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "memories",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1302": {
+      "Cuid": 1302,
+      "Id": 1302,
+      "Lastid": 0,
+      "Group": 13,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "14",
+      "Storygroupid": 1217,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "memories_harbour",
+      "LangStringTable": {
+        "Title": "深海迴響",
+        "Context": "我們就從這裡開始吧！"
+      }
+    },
+    "1303": {
+      "Cuid": 1303,
+      "Id": 1303,
+      "Lastid": 1302,
+      "Group": 13,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "200101",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "memories_chapter1",
+      "LangStringTable": {
+        "Title": "深海迴響",
+        "Context": "在這裡可以選擇時間軸最開始的紀錄來讀取"
+      }
+    },
+    "1304": {
+      "Cuid": 1304,
+      "Id": 1304,
+      "Lastid": 1303,
+      "Group": 13,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "CommonSidebarForm",
+      "Item": "CommonButtonSingle",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 1,
+      "Datastatisticskey": "manoeuvre_attack",
+      "LangStringTable": {
+        "Title": "深海迴響",
+        "Context": "讓我們來看看人偶忠實刻錄下來的故事吧"
+      }
+    },
+    "1305": {
+      "Cuid": 1305,
+      "Id": 1305,
+      "Lastid": 1304,
+      "Group": 13,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "FormationForm",
+      "Item": "Btn_StartAttack",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "manoeuvre_attack",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1401": {
+      "Cuid": 1401,
+      "Id": 1401,
+      "Lastid": 0,
+      "Group": 14,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "BackHouseLobbyForm",
+      "Item": "Room_1001",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_room",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "這裡是基地的後宅，讓我們前往第一個房間看看吧"
+      }
+    },
+    "1402": {
+      "Cuid": 1402,
+      "Id": 1402,
+      "Lastid": 1401,
+      "Group": 14,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "RoomLobbyForm",
+      "Item": "LayoutBtn",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_dec",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "佈置房間可以調整房間的舒適度，舒適度越高，入住人偶心情值恢復地越多"
+      }
+    },
+    "1403": {
+      "Cuid": 1403,
+      "Id": 1403,
+      "Lastid": 1402,
+      "Group": 14,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "RoomLayoutForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_furniture",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1404": {
+      "Cuid": 1404,
+      "Id": 1404,
+      "Lastid": 1403,
+      "Group": 14,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "RoomLayoutForm",
+      "Item": "SaveRoomLayout",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "dock_save",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "佈置好房間後記得點擊保存佈置哦"
+      }
+    },
+    "1405": {
+      "Cuid": 1405,
+      "Id": 1405,
+      "Lastid": 1404,
+      "Group": 14,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "RoomLayoutForm",
+      "Item": "ExitDecoration",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_quit",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1501": {
+      "Cuid": 1501,
+      "Id": 1501,
+      "Lastid": 0,
+      "Group": 15,
+      "Request": 14,
+      "Precondi": null,
+      "Prefab": "RoomLobbyForm",
+      "Item": "ControlBtn",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_switch",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "指揮官，透過中控臺介面，您可以清晰看到後宅的安排情況。"
+      }
+    },
+    "1502": {
+      "Cuid": 1502,
+      "Id": 1502,
+      "Lastid": 0,
+      "Group": 15,
+      "Request": 14,
+      "Precondi": null,
+      "Prefab": "RoomManagementForm",
+      "Item": "ChangeOwnerBtn",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_owner",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "可以安排您信賴的孩子來做房間的擁有者哦~"
+      }
+    },
+    "1503": {
+      "Cuid": 1503,
+      "Id": 1503,
+      "Lastid": 1502,
+      "Group": 15,
+      "Request": 14,
+      "Precondi": null,
+      "Prefab": "ChooseCharacterForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_choose",
+      "LangStringTable": {
+        "Title": null,
+        "Context": null
+      }
+    },
+    "1504": {
+      "Cuid": 1504,
+      "Id": 1504,
+      "Lastid": 1503,
+      "Group": 15,
+      "Request": 14,
+      "Precondi": null,
+      "Prefab": "DialogForm",
+      "Item": "Confirm",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "dock_confirm",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "確認好安排之後，人偶們就會遵照指令搬進房間了～"
+      }
+    },
+    "1601": {
+      "Cuid": 1601,
+      "Id": 1601,
+      "Lastid": 0,
+      "Group": 16,
+      "Request": 15,
+      "Precondi": null,
+      "Prefab": "BackHouseLobbyForm",
+      "Item": "Room_2001",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_equip",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "雖然基地的生產能力有限，但我們也盡力修復了裝備室，現在可以進行裝備製作了。"
+      }
+    },
+    "1602": {
+      "Cuid": 1602,
+      "Id": 1602,
+      "Lastid": 1601,
+      "Group": 16,
+      "Request": 15,
+      "Precondi": null,
+      "Prefab": "RoomLobbyForm",
+      "Item": "2001101",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_control",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "透過操作臺就可以進入裝備訂製的介面。"
+      }
+    },
+    "1603": {
+      "Cuid": 1603,
+      "Id": 1603,
+      "Lastid": 1602,
+      "Group": 16,
+      "Request": 15,
+      "Precondi": null,
+      "Prefab": "MakeEquipItem",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_order",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "試試看下達訂單吧～"
+      }
+    },
+    "1604": {
+      "Cuid": 1604,
+      "Id": 1604,
+      "Lastid": 1603,
+      "Group": 16,
+      "Request": 15,
+      "Precondi": null,
+      "Prefab": "MakeEquipForm",
+      "Item": "MakeButton",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "dock_order",
+      "LangStringTable": {
+        "Title": "後宅",
+        "Context": "如果您對裝備有特定的需求，今後也可以在下達訂單時給出一些篩選條件哦。"
+      }
+    },
+    "1701": {
+      "Cuid": 1701,
+      "Id": 1701,
+      "Lastid": 0,
+      "Group": 17,
+      "Request": 0,
+      "Precondi": [
+        "11301,260201"
+      ],
+      "Prefab": "LobbyForm",
+      "Item": "Warehouse",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "depot",
+      "LangStringTable": {
+        "Title": "道具使用",
+        "Context": "點擊倉庫"
+      }
+    },
+    "1702": {
+      "Cuid": 1702,
+      "Id": 1702,
+      "Lastid": 1701,
+      "Group": 17,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WarehouseForm",
+      "Item": "ButtonUse",
+      "Storygroupid": 1220,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "depot_use",
+      "LangStringTable": {
+        "Title": "道具使用",
+        "Context": "點擊使用後可獲得賦絡溶液，溶液是人偶升級的重要資源，記得常來倉庫清點哦！"
+      }
+    },
+    "1801": {
+      "Cuid": 1801,
+      "Id": 1801,
+      "Lastid": 0,
+      "Group": 18,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "LobbyForm",
+      "Item": "Preparedness",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "深海化",
+        "Context": "點擊深海溯源"
+      }
+    },
+    "1802": {
+      "Cuid": 1802,
+      "Id": 1802,
+      "Lastid": 1801,
+      "Group": 18,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ReformMainForm",
+      "Item": "ReformEnterPoint",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "深海化",
+        "Context": "這裡的實驗室是我們對人偶進行深海覺醒的場所"
+      }
+    },
+    "1803": {
+      "Cuid": 1803,
+      "Id": 1803,
+      "Lastid": 1802,
+      "Group": 18,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ReformLabForm",
+      "Item": "Btn_Select",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "深海化",
+        "Context": "請指揮官選擇您想要進行覺醒的人偶"
+      }
+    },
+    "1804": {
+      "Cuid": 1804,
+      "Id": 1804,
+      "Lastid": 1803,
+      "Group": 18,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ChooseCharacterForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "深海化",
+        "Context": "確認好人偶的話，就開始深海實驗吧"
+      }
+    },
+    "1805": {
+      "Cuid": 1805,
+      "Id": 1805,
+      "Lastid": 1804,
+      "Group": 18,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ReformLabForm",
+      "Item": "Btn_Reform",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 1,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "深海化",
+        "Context": "覺醒可以大幅度提升人偶的屬性，滿足深海條件後記得來實驗室覺醒人偶"
+      }
+    },
+    "1901": {
+      "Cuid": 1901,
+      "Id": 1901,
+      "Lastid": 0,
+      "Group": 19,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "LobbyForm",
+      "Item": "Preparedness",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "abyss",
+      "LangStringTable": {
+        "Title": "深海艦裝",
+        "Context": "指揮官，這段時間以來，黑潮發生了非常大的變化……"
+      }
+    },
+    "1902": {
+      "Cuid": 1902,
+      "Id": 1902,
+      "Lastid": 1901,
+      "Group": 19,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ReformMainForm",
+      "Item": "ReformEnterPoint (1)",
+      "Storygroupid": 1219,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "abyss_equip",
+      "LangStringTable": {
+        "Title": "深海艦裝",
+        "Context": "指揮官，艦裝改造實驗室的通行許可已經加入您的權限了"
+      }
+    },
+    "1903": {
+      "Cuid": 1903,
+      "Id": 1903,
+      "Lastid": 0,
+      "Group": 19,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ChooseCharacterForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "dock_choose",
+      "LangStringTable": {
+        "Title": "深海艦裝",
+        "Context": "只有透過深海化得到了覺醒的人偶，才能夠接受這一特殊的改造"
+      }
+    },
+    "1904": {
+      "Cuid": 1904,
+      "Id": 1904,
+      "Lastid": 1903,
+      "Group": 19,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ReformEquipForm",
+      "Item": "slotItem",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "abyss_weapon",
+      "LangStringTable": {
+        "Title": "深海艦裝",
+        "Context": "深海艦裝的改良是對人偶軀體本身的強化，但請不要擔心，這件事不會讓她們痛苦"
+      }
+    },
+    "1905": {
+      "Cuid": 1905,
+      "Id": 1905,
+      "Lastid": 1904,
+      "Group": 19,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ReformEquipForm",
+      "Item": "lvlUp",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "abyss_up",
+      "LangStringTable": {
+        "Title": "深海艦裝",
+        "Context": "指揮官，請檢驗改造的成果吧～"
+      }
+    },
+    "2001": {
+      "Cuid": 2001,
+      "Id": 2001,
+      "Lastid": 0,
+      "Group": 20,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "LobbyForm",
+      "Item": "Factory",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "指揮官，近期獲得的戰利品中有可以用於武裝人偶的裝備呢～"
+      }
+    },
+    "2002": {
+      "Cuid": 2002,
+      "Id": 2002,
+      "Lastid": 2001,
+      "Group": 20,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "DockForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship_chooseship",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "武裝給予了人偶殺傷力，也保護著她們免受傷害，對人偶而言是非常重要的一部分。"
+      }
+    },
+    "2003": {
+      "Cuid": 2003,
+      "Id": 2003,
+      "Lastid": 2002,
+      "Group": 20,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "OverviewForm",
+      "Item": "Item2",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship_equip",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "試試看為人偶換上新的裝備吧～"
+      }
+    },
+    "2004": {
+      "Cuid": 2004,
+      "Id": 2004,
+      "Lastid": 0,
+      "Group": 20,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "OverviewForm",
+      "Item": "Btn_AutoChange",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "ship_equipchange",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "分析系統能夠為每位人偶選擇最合適的裝備，點擊一鍵更換即可"
+      }
+    },
+    "2101": {
+      "Cuid": 2101,
+      "Id": 2101,
+      "Lastid": 0,
+      "Group": 21,
+      "Request": 20,
+      "Precondi": null,
+      "Prefab": "OverviewForm",
+      "Item": "EquipSlotTemplete (2)",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship_body",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "除了更新裝備，對現有的裝備進行升級也很重要呢～"
+      }
+    },
+    "2102": {
+      "Cuid": 2102,
+      "Id": 2102,
+      "Lastid": 2101,
+      "Group": 21,
+      "Request": 20,
+      "Precondi": null,
+      "Prefab": "EquipInfoForm",
+      "Item": "Btn_Strengthen",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship_up",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "指揮官，繳獲的裝備即使陳舊過時，也可以拆解為重要的材料"
+      }
+    },
+    "2103": {
+      "Cuid": 2103,
+      "Id": 2103,
+      "Lastid": 2102,
+      "Group": 21,
+      "Request": 20,
+      "Precondi": null,
+      "Prefab": "EquipEnhancedForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship_chooseequip",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "利用這些被淘汰的裝備，就能夠強化人偶身上的武裝"
+      }
+    },
+    "2104": {
+      "Cuid": 2104,
+      "Id": 2104,
+      "Lastid": 2103,
+      "Group": 21,
+      "Request": 20,
+      "Precondi": null,
+      "Prefab": "EquipEnhancedForm",
+      "Item": "Btn_Strengthen",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "ship_strength",
+      "LangStringTable": {
+        "Title": "裝備",
+        "Context": "在您以指揮官權限確認之後，裝備強化就會完成，來試試看吧～"
+      }
+    },
+    "2201": {
+      "Cuid": 2201,
+      "Id": 2201,
+      "Lastid": 0,
+      "Group": 22,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "LobbyForm",
+      "Item": "Factory",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "ship",
+      "LangStringTable": {
+        "Title": "技能",
+        "Context": "指揮官，也許您已經注意到了，新來基地的人偶，她們的戰鬥技能模組並沒有被完全解鎖……"
+      }
+    },
+    "2202": {
+      "Cuid": 2202,
+      "Id": 2202,
+      "Lastid": 2201,
+      "Group": 22,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "DockForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "ship2_choose",
+      "LangStringTable": {
+        "Title": "技能",
+        "Context": "事實上，黑潮的基地已經能夠完成這樣的改造。"
+      }
+    },
+    "2203": {
+      "Cuid": 2203,
+      "Id": 2203,
+      "Lastid": 2002,
+      "Group": 22,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "OverviewForm",
+      "Item": "Item1",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship2_tech",
+      "LangStringTable": {
+        "Title": "技能",
+        "Context": "在這裡，您可以看到人偶本身裝載的全部技能"
+      }
+    },
+    "2204": {
+      "Cuid": 2204,
+      "Id": 2204,
+      "Lastid": 0,
+      "Group": 22,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "OverviewForm",
+      "Item": "102",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship2_choosetech",
+      "LangStringTable": {
+        "Title": "技能",
+        "Context": "這些技能，需要消耗同名的人偶複製體來協助反編譯，從而逐步解除限制"
+      }
+    },
+    "2205": {
+      "Cuid": 2205,
+      "Id": 2205,
+      "Lastid": 2204,
+      "Group": 22,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "OverviewForm",
+      "Item": "Btn_AutoSelect",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "ship2_add",
+      "LangStringTable": {
+        "Title": "技能",
+        "Context": "除此之外，極其珍稀的素材型人偶可以泛用於所有人偶的技能解鎖"
+      }
+    },
+    "2206": {
+      "Cuid": 2206,
+      "Id": 2206,
+      "Lastid": 2205,
+      "Group": 22,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "OverviewForm",
+      "Item": "Btn_Upgrade",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "ship2_up",
+      "LangStringTable": {
+        "Title": "技能",
+        "Context": "在您準備好的時候，就來這裡幫助她們吧"
+      }
+    },
+    "2301": {
+      "Cuid": 2301,
+      "Id": 2301,
+      "Lastid": 0,
+      "Group": 23,
+      "Request": 0,
+      "Precondi": [
+        "11201,2301"
+      ],
+      "Prefab": "LobbyForm",
+      "Item": "Activity",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "activity",
+      "LangStringTable": {
+        "Title": "指揮官特訓",
+        "Context": "除了每日任務，斯諾普也會制定其它計劃"
+      }
+    },
+    "2302": {
+      "Cuid": 2302,
+      "Id": 2302,
+      "Lastid": 2301,
+      "Group": 23,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ActivityCommanderTrain",
+      "Item": "13",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "activity_training",
+      "LangStringTable": {
+        "Title": "指揮官特訓",
+        "Context": "這次，為了讓您更快地適應黑潮指揮官的身份，他們準備了一份特訓課程"
+      }
+    },
+    "2303": {
+      "Cuid": 2303,
+      "Id": 2303,
+      "Lastid": 2302,
+      "Group": 23,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "ActivityCommanderTrain",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "activity_get",
+      "LangStringTable": {
+        "Title": "指揮官特訓",
+        "Context": "指揮官，要和那些孩子們一起認真參加訓練哦~"
+      }
+    },
+    "2401": {
+      "Cuid": 2401,
+      "Id": 2401,
+      "Lastid": 0,
+      "Group": 24,
+      "Request": 0,
+      "Precondi": [
+        "11201,6000"
+      ],
+      "Prefab": "WorldMapForm",
+      "Item": "5007",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "station_choose",
+      "LangStringTable": {
+        "Title": "駐紮",
+        "Context": "指揮官，這些港口曾經隸屬於財團，儘管現在被我們佔領，但財團隨時可能對我們發動<color=#64FFFF>反攻</color>"
+      }
+    },
+    "2402": {
+      "Cuid": 2402,
+      "Id": 2402,
+      "Lastid": 2401,
+      "Group": 24,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "HarbourInfoForm",
+      "Item": "Button (1)",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "駐紮",
+        "Context": "您需要在敵人抵達前<color=#64FFFF>派遣人偶駐紮</color>，以免港口被敵人再次佔領"
+      }
+    },
+    "2403": {
+      "Cuid": 2403,
+      "Id": 2403,
+      "Lastid": 0,
+      "Group": 24,
+      "Request": 0,
+      "Precondi": [
+        "11201,6000"
+      ],
+      "Prefab": "HarbourInfoForm",
+      "Item": "Btn_ToSecond",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "station_team",
+      "LangStringTable": {
+        "Title": "駐紮",
+        "Context": "儘管這些港口現在被我們佔領，但財團隨時都有可能對我們發動<color=#64FFFF>反攻</color>，您需要在敵人抵達前<color=#64FFFF>派遣人偶駐紮</color>"
+      }
+    },
+    "2404": {
+      "Cuid": 2404,
+      "Id": 2404,
+      "Lastid": 2403,
+      "Group": 24,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "StationSingleForm",
+      "Item": "0",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "station_chooseship",
+      "LangStringTable": {
+        "Title": "駐紮",
+        "Context": "不準備出征的人偶就可以安排在港口駐紮"
+      }
+    },
+    "2405": {
+      "Cuid": 2405,
+      "Id": 2405,
+      "Lastid": 2404,
+      "Group": 24,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "StationSingleForm",
+      "Item": "Btn_OkSelect",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "station_confirm",
+      "LangStringTable": {
+        "Title": "駐紮",
+        "Context": "決定好之後就可以向人偶們發出駐紮的指令了~"
+      }
+    },
+    "2406": {
+      "Cuid": 2406,
+      "Id": 2406,
+      "Lastid": 2405,
+      "Group": 24,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "MenuComponent",
+      "Item": "arrow",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "駐紮",
+        "Context": "人偶們已經前往駐紮了，趁這個時間，讓我向您進一步介紹人偶們的每日活動吧。"
+      }
+    },
+    "2501": {
+      "Cuid": 2501,
+      "Id": 2501,
+      "Lastid": 0,
+      "Group": 25,
+      "Request": 0,
+      "Precondi": [
+        "11201,6000"
+      ],
+      "Prefab": "WorldMapForm",
+      "Item": "ResourceButton",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 0,
+      "Datastatisticskey": "occupy_reward",
+      "LangStringTable": {
+        "Title": "海域開採",
+        "Context": "在駐紮港口後，人偶們會持續對海域進行開採。"
+      }
+    },
+    "2502": {
+      "Cuid": 2502,
+      "Id": 2502,
+      "Lastid": 2501,
+      "Group": 25,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "OccupyRewardForm",
+      "Item": "GetRewardButton",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "occupy_getrwd",
+      "LangStringTable": {
+        "Title": "海域開採",
+        "Context": "在駐紮港口後，人偶們會持續對海域進行開採，指揮官，記得時常來清點人偶獲得的資源哦~"
+      }
+    },
+    "2601": {
+      "Cuid": 2601,
+      "Id": 2601,
+      "Lastid": 0,
+      "Group": 26,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapForm",
+      "Item": "5005",
+      "Storygroupid": 0,
+      "Guidetype": 0,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": "revenge_choose",
+      "LangStringTable": {
+        "Title": "反攻",
+        "Context": "指揮官，這些港口曾經隸屬於財團，儘管現在被我們佔領，但財團隨時可能對我們發動<color=#64FFFF>反攻</color>。"
+      }
+    },
+    "2602": {
+      "Cuid": 2602,
+      "Id": 2602,
+      "Lastid": 2601,
+      "Group": 26,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "HarbourInfoForm",
+      "Item": "Button (1)",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "反攻",
+        "Context": "不過這一次，我們及時發現了敵軍反攻活動，您可以直接前去攔截敵軍~"
+      }
+    },
+    "2603": {
+      "Cuid": 2603,
+      "Id": 2603,
+      "Lastid": 0,
+      "Group": 26,
+      "Request": 0,
+      "Precondi": [
+        "11201,6000"
+      ],
+      "Prefab": "HarbourSingleForm",
+      "Item": "Btn_recapture",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 1,
+      "End": 1,
+      "Datastatisticskey": "revenge_attack",
+      "LangStringTable": {
+        "Title": "反攻",
+        "Context": "這個港口已經被敵方佔領，我們需要奪回這個港口"
+      }
+    },
+    "26031": {
+      "Cuid": 26031,
+      "Id": 26031,
+      "Lastid": 2603,
+      "Group": 26,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "MenuComponent",
+      "Item": "arrow",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "反攻",
+        "Context": "真是一場漂亮的戰鬥，不愧是我們英勇的指揮官"
+      }
+    },
+    "2604": {
+      "Cuid": 2604,
+      "Id": 2604,
+      "Lastid": 0,
+      "Group": 26,
+      "Request": 0,
+      "Precondi": null,
+      "Prefab": "WorldMapOverlay",
+      "Item": "AreaRewardButton",
+      "Storygroupid": 0,
+      "Guidetype": 2,
+      "Resourceid": 920001,
+      "Open": 0,
+      "End": 0,
+      "Datastatisticskey": null,
+      "LangStringTable": {
+        "Title": "反攻",
+        "Context": "四大財團派來的敵人通常會攜帶大量物資，指揮官可以在這裡清點繳獲的戰利品哦~"
+      }
+    }
+  }
+}

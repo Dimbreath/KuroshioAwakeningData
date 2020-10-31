@@ -1,0 +1,3204 @@
+{
+  "Rows": {
+    "dock_capacity": {
+      "Cuid": "dock_capacity",
+      "Key": "dock_capacity",
+      "Value": "200",
+      "LangStringTable": {
+        "Remarks": "初始船塢存放人形數量上限（船塢）"
+      }
+    },
+    "dock_add": {
+      "Cuid": "dock_add",
+      "Key": "dock_add",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "單次擴展船塢增加上限數量（船塢）"
+      }
+    },
+    "dock_cost": {
+      "Cuid": "dock_cost",
+      "Key": "dock_cost",
+      "Value": "1,1,50",
+      "LangStringTable": {
+        "Remarks": "單次擴展船塢消耗鑽石（船塢）"
+      }
+    },
+    "dock_limit": {
+      "Cuid": "dock_limit",
+      "Key": "dock_limit",
+      "Value": "500",
+      "LangStringTable": {
+        "Remarks": "船塢擴展數量上限（船塢）"
+      }
+    },
+    "player_initial_lv": {
+      "Cuid": "player_initial_lv",
+      "Key": "player_initial_lv",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "指揮官初始等級（指揮官）"
+      }
+    },
+    "player_initial_blackdiamond": {
+      "Cuid": "player_initial_blackdiamond",
+      "Key": "player_initial_blackdiamond",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "指揮官初始黑鑽（指揮官）"
+      }
+    },
+    "player_initial_diamond": {
+      "Cuid": "player_initial_diamond",
+      "Key": "player_initial_diamond",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "指揮官初始鑽石（指揮官）"
+      }
+    },
+    "player_initial_coin": {
+      "Cuid": "player_initial_coin",
+      "Key": "player_initial_coin",
+      "Value": "50000",
+      "LangStringTable": {
+        "Remarks": "指揮官初始金幣（指揮官）"
+      }
+    },
+    "player_initial_oil": {
+      "Cuid": "player_initial_oil",
+      "Key": "player_initial_oil",
+      "Value": "240",
+      "LangStringTable": {
+        "Remarks": "指揮官初始石油（指揮官）"
+      }
+    },
+    "player_initial_item": {
+      "Cuid": "player_initial_item",
+      "Key": "player_initial_item",
+      "Value": "1,680001,1;25,1031,1;1,160001,1;1,143010,100;1,145101,100;6,4001031,1;2,90010,1;25,1020,1",
+      "LangStringTable": {
+        "Remarks": "指揮官初始道具（指揮官）（道具ID，道具數量）"
+      }
+    },
+    "player_initial_secretary": {
+      "Cuid": "player_initial_secretary",
+      "Key": "player_initial_secretary",
+      "Value": "50430",
+      "LangStringTable": {
+        "Remarks": "初始秘書艦"
+      }
+    },
+    "player_initial_doll": {
+      "Cuid": "player_initial_doll",
+      "Key": "player_initial_doll",
+      "Value": "40130,50030,50430,30190,0",
+      "LangStringTable": {
+        "Remarks": "初始編隊人形（人形ID1,人形ID2,人形ID3）"
+      }
+    },
+    "player_initial_other": {
+      "Cuid": "player_initial_other",
+      "Key": "player_initial_other",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "初始人形（人形ID1，人形ID2，人形ID3）"
+      }
+    },
+    "player_level_limit": {
+      "Cuid": "player_level_limit",
+      "Key": "player_level_limit",
+      "Value": "80",
+      "LangStringTable": {
+        "Remarks": "指揮官等級上限"
+      }
+    },
+    "player_initial_BusinessCard": {
+      "Cuid": "player_initial_BusinessCard",
+      "Key": "player_initial_BusinessCard",
+      "Value": "1,690001,1",
+      "LangStringTable": {
+        "Remarks": "指揮官初始名片背景（道具ID，道具數量）"
+      }
+    },
+    "character_level_limit": {
+      "Cuid": "character_level_limit",
+      "Key": "character_level_limit",
+      "Value": "80",
+      "LangStringTable": {
+        "Remarks": "人形等級上限"
+      }
+    },
+    "mail_limit": {
+      "Cuid": "mail_limit",
+      "Key": "mail_limit",
+      "Value": "200",
+      "LangStringTable": {
+        "Remarks": "郵件上限（郵件）"
+      }
+    },
+    "depot_item": {
+      "Cuid": "depot_item",
+      "Key": "depot_item",
+      "Value": "11;12;13;14",
+      "LangStringTable": {
+        "Remarks": "倉庫中道具分頁包含的道具類型（倉庫）"
+      }
+    },
+    "depot_equip": {
+      "Cuid": "depot_equip",
+      "Key": "depot_equip",
+      "Value": "21;22;31",
+      "LangStringTable": {
+        "Remarks": "倉庫中裝備分頁包含的道具類型（倉庫）"
+      }
+    },
+    "depot_blueprint": {
+      "Cuid": "depot_blueprint",
+      "Key": "depot_blueprint",
+      "Value": "32",
+      "LangStringTable": {
+        "Remarks": "倉庫中圖紙分頁包含的道具類型（倉庫）"
+      }
+    },
+    "DrawCard_Value1": {
+      "Cuid": "DrawCard_Value1",
+      "Key": "DrawCard_Value1",
+      "Value": "1,120001,1",
+      "LangStringTable": {
+        "Remarks": "招募加速消耗（道具ID 1，數量）（注意：第一個道具ID，如果有，就直接使用，如果沒有，就提示使用第二道具ID。）"
+      }
+    },
+    "DrawCard_Value2": {
+      "Cuid": "DrawCard_Value2",
+      "Key": "DrawCard_Value2",
+      "Value": "1,1,50",
+      "LangStringTable": {
+        "Remarks": "招募加速消耗（道具ID 2，數量；道具ID，數量）（注意：第一個道具ID，如果有，就直接使用，如果沒有，就提示使用第二道具ID。）"
+      }
+    },
+    "DrawCard_PosScale": {
+      "Cuid": "DrawCard_PosScale",
+      "Key": "DrawCard_PosScale",
+      "Value": "-320,60;1.38",
+      "LangStringTable": {
+        "Remarks": "立繪座標"
+      }
+    },
+    "boatstar_limit": {
+      "Cuid": "boatstar_limit",
+      "Key": "boatstar_limit",
+      "Value": "6;6;6;6;6",
+      "LangStringTable": {
+        "Remarks": "不同品質人形星級上限（分別對應未知;N;R;SR;SSR）"
+      }
+    },
+    "boatstar_limit_reform": {
+      "Cuid": "boatstar_limit_reform",
+      "Key": "boatstar_limit_reform",
+      "Value": "6",
+      "LangStringTable": {
+        "Remarks": "深海化&改造船隻星級上限"
+      }
+    },
+    "boatarouse_itemid": {
+      "Cuid": "boatarouse_itemid",
+      "Key": "boatarouse_itemid",
+      "Value": "1,150001,1",
+      "LangStringTable": {
+        "Remarks": "人形深海化使用道具"
+      }
+    },
+    "BoatExp": {
+      "Cuid": "BoatExp",
+      "Key": "BoatExp",
+      "Value": "12",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "BoatExpMax": {
+      "Cuid": "BoatExpMax",
+      "Key": "BoatExpMax",
+      "Value": "99999",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "Friend_Level": {
+      "Cuid": "Friend_Level",
+      "Key": "Friend_Level",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "推薦好友等級差為5"
+      }
+    },
+    "Friend_Next_Level": {
+      "Cuid": "Friend_Next_Level",
+      "Key": "Friend_Next_Level",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "逐次放寬等級條件，每次可允許等級差+1"
+      }
+    },
+    "Friend_OffLineTime": {
+      "Cuid": "Friend_OffLineTime",
+      "Key": "Friend_OffLineTime",
+      "Value": "60",
+      "LangStringTable": {
+        "Remarks": "推薦好友離線時間為60分鐘以內"
+      }
+    },
+    "Friend_Next_OffLineTime": {
+      "Cuid": "Friend_Next_OffLineTime",
+      "Key": "Friend_Next_OffLineTime",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "逐次放寬離線時間條件，每次允許離線等級時間增加5分鐘"
+      }
+    },
+    "Friend_Amount": {
+      "Cuid": "Friend_Amount",
+      "Key": "Friend_Amount",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "每次推薦好友10人"
+      }
+    },
+    "Friend_VisitingCard": {
+      "Cuid": "Friend_VisitingCard",
+      "Key": "Friend_VisitingCard",
+      "Value": "15,socialcontact_1_text_0015_bg_2;30,socialcontact_1_text_0015_bg_2;40,socialcontact_1_text_0015_bg;50,socialcontact_1_text_0015_bg",
+      "LangStringTable": {
+        "Remarks": "好友預設名片設定：【等級上限，使用資源】"
+      }
+    },
+    "Coin_Add_cost": {
+      "Cuid": "Coin_Add_cost",
+      "Key": "Coin_Add_cost",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "快速購買BP時的鑽石消耗"
+      }
+    },
+    "Oil_Add_cost": {
+      "Cuid": "Oil_Add_cost",
+      "Key": "Oil_Add_cost",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "快速購買能源時的鑽石消耗"
+      }
+    },
+    "Coin_Add_num": {
+      "Cuid": "Coin_Add_num",
+      "Key": "Coin_Add_num",
+      "Value": "9999",
+      "LangStringTable": {
+        "Remarks": "單日可購買BP次數上限"
+      }
+    },
+    "Oil_Add_num": {
+      "Cuid": "Oil_Add_num",
+      "Key": "Oil_Add_num",
+      "Value": "9999",
+      "LangStringTable": {
+        "Remarks": "單日可購買能源次數上限"
+      }
+    },
+    "Coin_max": {
+      "Cuid": "Coin_max",
+      "Key": "Coin_max",
+      "Value": "999999999",
+      "LangStringTable": {
+        "Remarks": "BP數值理論上限"
+      }
+    },
+    "Oil_max": {
+      "Cuid": "Oil_max",
+      "Key": "Oil_max",
+      "Value": "2000000",
+      "LangStringTable": {
+        "Remarks": "能源數值理論上限"
+      }
+    },
+    "Coin_max_buffer": {
+      "Cuid": "Coin_max_buffer",
+      "Key": "Coin_max_buffer",
+      "Value": "1999999999",
+      "LangStringTable": {
+        "Remarks": "BP緩衝上限"
+      }
+    },
+    "comment_maxcount": {
+      "Cuid": "comment_maxcount",
+      "Key": "comment_maxcount",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "comment_maxpage": {
+      "Cuid": "comment_maxpage",
+      "Key": "comment_maxpage",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "Oil_max_buffer": {
+      "Cuid": "Oil_max_buffer",
+      "Key": "Oil_max_buffer",
+      "Value": "3000000",
+      "LangStringTable": {
+        "Remarks": "能源緩衝上限"
+      }
+    },
+    "boat_max_buffer": {
+      "Cuid": "boat_max_buffer",
+      "Key": "boat_max_buffer",
+      "Value": "10000",
+      "LangStringTable": {
+        "Remarks": "人偶上限緩衝增加值"
+      }
+    },
+    "equip_max_buffer": {
+      "Cuid": "equip_max_buffer",
+      "Key": "equip_max_buffer",
+      "Value": "3000",
+      "LangStringTable": {
+        "Remarks": "裝備緩衝上限"
+      }
+    },
+    "diamond_max": {
+      "Cuid": "diamond_max",
+      "Key": "diamond_max",
+      "Value": "50000000",
+      "LangStringTable": {
+        "Remarks": "鑽石數值理論上限"
+      }
+    },
+    "diamond_max_buffer": {
+      "Cuid": "diamond_max_buffer",
+      "Key": "diamond_max_buffer",
+      "Value": "60000000",
+      "LangStringTable": {
+        "Remarks": "鑽石緩衝上限"
+      }
+    },
+    "expeditiongroup_base": {
+      "Cuid": "expeditiongroup_base",
+      "Key": "expeditiongroup_base",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "每個角色初始遠征隊列數"
+      }
+    },
+    "expeditiongroup_add": {
+      "Cuid": "expeditiongroup_add",
+      "Key": "expeditiongroup_add",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "帳號額外可購買遠征隊列數"
+      }
+    },
+    "site_cost": {
+      "Cuid": "site_cost",
+      "Key": "site_cost",
+      "Value": "1,1,100;1,1,300",
+      "LangStringTable": {
+        "Remarks": "購買可執行遠征數的消耗，【type,id,value】"
+      }
+    },
+    "skin_Add_id": {
+      "Cuid": "skin_Add_id",
+      "Key": "skin_Add_id",
+      "Value": "3,7",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "skin_gold": {
+      "Cuid": "skin_gold",
+      "Key": "skin_gold",
+      "Value": "1,9,20",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "slg_tips": {
+      "Cuid": "slg_tips",
+      "Key": "slg_tips",
+      "Value": "80",
+      "LangStringTable": {
+        "Remarks": "出戰艦隊戰鬥力低於推薦戰鬥力的百分之X，給與彈窗提示"
+      }
+    },
+    "expedition_task": {
+      "Cuid": "expedition_task",
+      "Key": "expedition_task",
+      "Value": "101,111,121,131,141",
+      "LangStringTable": {
+        "Remarks": "整備任務的抽取規則，「主類ID，主類ID，……"
+      }
+    },
+    "base_harbour": {
+      "Cuid": "base_harbour",
+      "Key": "base_harbour",
+      "Value": "7001",
+      "LangStringTable": {
+        "Remarks": "大地圖初始港口，開發用未來可能刪掉"
+      }
+    },
+    "married_item": {
+      "Cuid": "married_item",
+      "Key": "married_item",
+      "Value": "1,240020,1",
+      "LangStringTable": {
+        "Remarks": "簽訂誓約消耗的道具ID及數量（CB1專屬誓約戒指，道具ICON為臨時ICON）"
+      }
+    },
+    "friendliness": {
+      "Cuid": "friendliness",
+      "Key": "friendliness",
+      "Value": "6",
+      "LangStringTable": {
+        "Remarks": "簽訂誓約需要的好感等級（測試用"
+      }
+    },
+    "married_attribute": {
+      "Cuid": "married_attribute",
+      "Key": "married_attribute",
+      "Value": "1,2,30",
+      "LangStringTable": {
+        "Remarks": "屬性ID，屬性單位（1=具體值；2=千分比），屬性值"
+      }
+    },
+    "secretary_addfriendlypoint": {
+      "Cuid": "secretary_addfriendlypoint",
+      "Key": "secretary_addfriendlypoint",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "秘書艦每小時所增加的友好度"
+      }
+    },
+    "sensitivesords_max_replace": {
+      "Cuid": "sensitivesords_max_replace",
+      "Key": "sensitivesords_max_replace",
+      "Value": "9",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "friendlylevel_limit": {
+      "Cuid": "friendlylevel_limit",
+      "Key": "friendlylevel_limit",
+      "Value": "9999",
+      "LangStringTable": {
+        "Remarks": "友好度等級上限"
+      }
+    },
+    "item_limitations": {
+      "Cuid": "item_limitations",
+      "Key": "item_limitations",
+      "Value": "9999",
+      "LangStringTable": {
+        "Remarks": "單次批量可使用物品數量上限"
+      }
+    },
+    "materiallv_limit": {
+      "Cuid": "materiallv_limit",
+      "Key": "materiallv_limit",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": "版本強化等級上限"
+      }
+    },
+    "materiallv_claim": {
+      "Cuid": "materiallv_claim",
+      "Key": "materiallv_claim",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "目前可強化上限=人形lv+X"
+      }
+    },
+    "materialnum_limit": {
+      "Cuid": "materialnum_limit",
+      "Key": "materialnum_limit",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "單次可添加強化素材數量上限"
+      }
+    },
+    "min_income": {
+      "Cuid": "min_income",
+      "Key": "min_income",
+      "Value": "260002,2,2820;260202,2,2820;260001,2,2820;260201,2,2820",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "materialadd_value": {
+      "Cuid": "materialadd_value",
+      "Key": "materialadd_value",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "強化吃同ID船時的經驗加成參數【百分比加法】"
+      }
+    },
+    "materialexp_add": {
+      "Cuid": "materialexp_add",
+      "Key": "materialexp_add",
+      "Value": "0,50,100,150,300",
+      "LangStringTable": {
+        "Remarks": "不同稀有度人形提供基礎強化經驗，順序為\"空,N,R,SR,SSR\""
+      }
+    },
+    "tagadd_limit": {
+      "Cuid": "tagadd_limit",
+      "Key": "tagadd_limit",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "圖鑑評論允許添加tag需求的友好度等級"
+      }
+    },
+    "tagnum_limit": {
+      "Cuid": "tagnum_limit",
+      "Key": "tagnum_limit",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": "同一人形允許添加tag數量上限"
+      }
+    },
+    "DrawCard_wait": {
+      "Cuid": "DrawCard_wait",
+      "Key": "DrawCard_wait",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "招募等待隊列數量"
+      }
+    },
+    "DrawCard_done": {
+      "Cuid": "DrawCard_done",
+      "Key": "DrawCard_done",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "招募完成隊列數量"
+      }
+    },
+    "DrawCard_start": {
+      "Cuid": "DrawCard_start",
+      "Key": "DrawCard_start",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "初始招募隊列數量"
+      }
+    },
+    "DrawCard_develop": {
+      "Cuid": "DrawCard_develop",
+      "Key": "DrawCard_develop",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "可擴展招募隊列數量"
+      }
+    },
+    "DrawCard_cost": {
+      "Cuid": "DrawCard_cost",
+      "Key": "DrawCard_cost",
+      "Value": "1,1,50",
+      "LangStringTable": {
+        "Remarks": "單次擴展招募隊列消耗"
+      }
+    },
+    "activity_pass_switch": {
+      "Cuid": "activity_pass_switch",
+      "Key": "activity_pass_switch",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "小黃本活動全域開關（1=開，0=關）"
+      }
+    },
+    "activity_resouce": {
+      "Cuid": "activity_resouce",
+      "Key": "activity_resouce",
+      "Value": "6005001",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "banner_time": {
+      "Cuid": "banner_time",
+      "Key": "banner_time",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "Banner每個分頁滯留時間（單位秒）"
+      }
+    },
+    "loginreward_list": {
+      "Cuid": "loginreward_list",
+      "Key": "loginreward_list",
+      "Value": "1,2,3,4,5,6,7",
+      "LangStringTable": {
+        "Remarks": "簽到獎勵序列（對應簽到配置表LoginReward中的ID）"
+      }
+    },
+    "battle_Armor_a": {
+      "Cuid": "battle_Armor_a",
+      "Key": "battle_Armor_a",
+      "Value": "0.025",
+      "LangStringTable": {
+        "Remarks": "護甲減免=（係數a * 護甲）  /  （係數b + 係數c * 護甲）"
+      }
+    },
+    "battle_Armor_b": {
+      "Cuid": "battle_Armor_b",
+      "Key": "battle_Armor_b",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "護甲減免=（係數a * 護甲）  /  （係數b + 係數c * 護甲）"
+      }
+    },
+    "battle_Armor_c": {
+      "Cuid": "battle_Armor_c",
+      "Key": "battle_Armor_c",
+      "Value": "0.035",
+      "LangStringTable": {
+        "Remarks": "護甲減免=（係數a * 護甲）  /  （係數b + 係數c * 護甲）"
+      }
+    },
+    "battle_lvSuppress_limit": {
+      "Cuid": "battle_lvSuppress_limit",
+      "Key": "battle_lvSuppress_limit",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": "等級壓制 = 1 + ((目前等價壓制高於所配的值/limit)^exp) *（upper - lower）+ lower【只在PVE中有等級壓制才生效，怪物攻擊玩家計算此，玩家攻擊怪物預設為1】"
+      }
+    },
+    "battle_lvSuppress_exp": {
+      "Cuid": "battle_lvSuppress_exp",
+      "Key": "battle_lvSuppress_exp",
+      "Value": "0.44",
+      "LangStringTable": {
+        "Remarks": "等級壓制 = 1 + ((目前等價壓制高於所配的值/limit)^exp) *（upper - lower）+ lower【只在PVE中有等級壓制才生效，怪物攻擊玩家計算此，玩家攻擊怪物預設為1】"
+      }
+    },
+    "battle_lvSuppress_upper": {
+      "Cuid": "battle_lvSuppress_upper",
+      "Key": "battle_lvSuppress_upper",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "等級壓制 = 1 + ((目前等價壓制高於所配的值/limit)^exp) *（upper - lower）+ lower【只在PVE中有等級壓制才生效，怪物攻擊玩家計算此，玩家攻擊怪物預設為1】"
+      }
+    },
+    "battle_lvSuppress_lower": {
+      "Cuid": "battle_lvSuppress_lower",
+      "Key": "battle_lvSuppress_lower",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "等級壓制 = 1 + ((目前等價壓制高於所配的值/limit)^exp) *（upper - lower）+ lower【只在PVE中有等級壓制才生效，怪物攻擊玩家計算此，玩家攻擊怪物預設為1】"
+      }
+    },
+    "battle_AttribuA": {
+      "Cuid": "battle_AttribuA",
+      "Key": "battle_AttribuA",
+      "Value": "200;150",
+      "LangStringTable": {
+        "Remarks": "屬性加成 = 1 + ∑屬性 / 係數a【係數a未覺醒 ; 係數a覺醒】"
+      }
+    },
+    "shop_banner": {
+      "Cuid": "shop_banner",
+      "Key": "shop_banner",
+      "Value": "trading_1_banner_alphaver_002",
+      "LangStringTable": {
+        "Remarks": "商店主介面banner資源，圖片順序與填入檔案名順序相同，存在多個資源時用,隔開。各banner滯留時間使用banner_time參數"
+      }
+    },
+    "WorldIntercontinentalCfg": {
+      "Cuid": "WorldIntercontinentalCfg",
+      "Key": "WorldIntercontinentalCfg",
+      "Value": "10,7,8,6,9,11,12,13,14,15,16,5,27",
+      "LangStringTable": {
+        "Remarks": "目前版本所使用的大洲配置資訊。"
+      }
+    },
+    "new_lasted": {
+      "Cuid": "new_lasted",
+      "Key": "new_lasted",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "new標籤顯示的持續時間，包含上架當天（例：上架時間為20180101，持續時間為30時：①於20180130首次進入商店時顯示new；②於20180131首次進入商店時，不顯示new"
+      }
+    },
+    "tips_delay_time": {
+      "Cuid": "tips_delay_time",
+      "Key": "tips_delay_time",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "條狀tips顯示時長（單位為秒）"
+      }
+    },
+    "voice_txt_exist": {
+      "Cuid": "voice_txt_exist",
+      "Key": "voice_txt_exist",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "無語音的文字方塊顯示時長，單位為秒（適用於主介面、總覽、圖鑑）[所有語音通用一個時間"
+      }
+    },
+    "equip_num_max": {
+      "Cuid": "equip_num_max",
+      "Key": "equip_num_max",
+      "Value": "2000",
+      "LangStringTable": {
+        "Remarks": "倉庫內裝備數量上限"
+      }
+    },
+    "equip_sell_max": {
+      "Cuid": "equip_sell_max",
+      "Key": "equip_sell_max",
+      "Value": "500",
+      "LangStringTable": {
+        "Remarks": "倉庫內裝備批量出售單次上限"
+      }
+    },
+    "equip_level_limit": {
+      "Cuid": "equip_level_limit",
+      "Key": "equip_level_limit",
+      "Value": "10;30;60",
+      "LangStringTable": {
+        "Remarks": "3個頁面對應3個等級段"
+      }
+    },
+    "monster_lv_limit": {
+      "Cuid": "monster_lv_limit",
+      "Key": "monster_lv_limit",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": "SLG劇情副本生成怪物等級上限"
+      }
+    },
+    "friendlyLevelDivide": {
+      "Cuid": "friendlyLevelDivide",
+      "Key": "friendlyLevelDivide",
+      "Value": "0,1,2,3,6",
+      "LangStringTable": {
+        "Remarks": "普通人偶好感度等級劃分，從左至右分別為厭惡 陌生 友好 心動 愛，即>=0時為陌生階段，>=2時為友好階段以此類推"
+      }
+    },
+    "ghostfriendlyLevelDivide": {
+      "Cuid": "ghostfriendlyLevelDivide",
+      "Key": "ghostfriendlyLevelDivide",
+      "Value": "0,1,3,6",
+      "LangStringTable": {
+        "Remarks": "深海化人偶好感度等級劃分，從左至右分別為陌生 友好 心動 愛，即>=0時為陌生階段，>=2時為友好階段以此類推"
+      }
+    },
+    "char_bones_name": {
+      "Cuid": "char_bones_name",
+      "Key": "char_bones_name",
+      "Value": "zhupaokou;fupaokou;yulei;fashekou;root",
+      "LangStringTable": {
+        "Remarks": "戰鬥人形骨骼收集，包含所有所需的骨骼首碼【假戰鬥專用】"
+      }
+    },
+    "battle_order": {
+      "Cuid": "battle_order",
+      "Key": "battle_order",
+      "Value": "0,10,10",
+      "LangStringTable": {
+        "Remarks": "戰鬥指令參數【初始指令數，指令上限數，指令增長速度1s/1格】"
+      }
+    },
+    "Questionnaire_Rewards": {
+      "Cuid": "Questionnaire_Rewards",
+      "Key": "Questionnaire_Rewards",
+      "Value": "1,1,100;2,90010,1",
+      "LangStringTable": {
+        "Remarks": "CB1運營活動-調查問卷完成獎勵"
+      }
+    },
+    "Strengthen_N_cost": {
+      "Cuid": "Strengthen_N_cost",
+      "Key": "Strengthen_N_cost",
+      "Value": "1,2,1500",
+      "LangStringTable": {
+        "Remarks": "強化時，每消耗1張N卡需要消耗的BP數量"
+      }
+    },
+    "Strengthen_R_cost": {
+      "Cuid": "Strengthen_R_cost",
+      "Key": "Strengthen_R_cost",
+      "Value": "1,2,3000",
+      "LangStringTable": {
+        "Remarks": "強化時，每消耗1張R卡需要消耗的BP數量"
+      }
+    },
+    "Strengthen_SR_cost": {
+      "Cuid": "Strengthen_SR_cost",
+      "Key": "Strengthen_SR_cost",
+      "Value": "1,2,4500",
+      "LangStringTable": {
+        "Remarks": "強化時，每消耗1張SR卡需要消耗的BP數量"
+      }
+    },
+    "Strengthen_SSR_cost": {
+      "Cuid": "Strengthen_SSR_cost",
+      "Key": "Strengthen_SSR_cost",
+      "Value": "1,2,9000",
+      "LangStringTable": {
+        "Remarks": "強化時，每消耗1張SSR卡需要消耗的BP數量"
+      }
+    },
+    "battle_check_val1": {
+      "Cuid": "battle_check_val1",
+      "Key": "battle_check_val1",
+      "Value": "8",
+      "LangStringTable": {
+        "Remarks": "戰鬥弱驗證-時間合理數參數"
+      }
+    },
+    "battle_check_val2": {
+      "Cuid": "battle_check_val2",
+      "Key": "battle_check_val2",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "戰鬥弱驗證-傷害合理倍數參數"
+      }
+    },
+    "player_initial_sprite": {
+      "Cuid": "player_initial_sprite",
+      "Key": "player_initial_sprite",
+      "Value": null,
+      "LangStringTable": {
+        "Remarks": "第一編隊初始妖精數量（id,num;id,num;id,num）"
+      }
+    },
+    "crusade_max_position_num": {
+      "Cuid": "crusade_max_position_num",
+      "Key": "crusade_max_position_num",
+      "Value": "8",
+      "LangStringTable": {
+        "Remarks": "整備任務可能出現的位置數量"
+      }
+    },
+    "player_register_num": {
+      "Cuid": "player_register_num",
+      "Key": "player_register_num",
+      "Value": "500000000",
+      "LangStringTable": {
+        "Remarks": "CBT1可註冊帳號上限"
+      }
+    },
+    "player_register_switch": {
+      "Cuid": "player_register_switch",
+      "Key": "player_register_switch",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "註冊開關（0-關閉註冊；1-開啟註冊）"
+      }
+    },
+    "player_ment_num": {
+      "Cuid": "player_ment_num",
+      "Key": "player_ment_num",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "設備是否只能註冊一個帳號（0-不限制；1-只能1個帳號）"
+      }
+    },
+    "Equip_num": {
+      "Cuid": "Equip_num",
+      "Key": "Equip_num",
+      "Value": "2,0;3,1;4,2;5,3",
+      "LangStringTable": {
+        "Remarks": "裝備副屬性數量：品質越高，副屬性數量越多"
+      }
+    },
+    "Equip_retrieve": {
+      "Cuid": "Equip_retrieve",
+      "Key": "Equip_retrieve",
+      "Value": "2,80;3,80;4,80;5,80",
+      "LangStringTable": {
+        "Remarks": "裝備強化經驗回收比例：品質，百分比"
+      }
+    },
+    "DrawCard_gold": {
+      "Cuid": "DrawCard_gold",
+      "Key": "DrawCard_gold",
+      "Value": "1,1,100",
+      "LangStringTable": {
+        "Remarks": "招募合約資源兌換比例"
+      }
+    },
+    "diamond_exchange_rate": {
+      "Cuid": "diamond_exchange_rate",
+      "Key": "diamond_exchange_rate",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "資源兌換比例，1RMB=鑽石量"
+      }
+    },
+    "BP_exchange_rate": {
+      "Cuid": "BP_exchange_rate",
+      "Key": "BP_exchange_rate",
+      "Value": "4000",
+      "LangStringTable": {
+        "Remarks": "資源兌換比例，1RMB=BP量"
+      }
+    },
+    "oil_exchange_rate": {
+      "Cuid": "oil_exchange_rate",
+      "Key": "oil_exchange_rate",
+      "Value": "60",
+      "LangStringTable": {
+        "Remarks": "資源兌換比例，1RMB=能源量"
+      }
+    },
+    "battle_time": {
+      "Cuid": "battle_time",
+      "Key": "battle_time",
+      "Value": "90",
+      "LangStringTable": {
+        "Remarks": "填入90=倒數計時90S"
+      }
+    },
+    "battle_start_speed": {
+      "Cuid": "battle_start_speed",
+      "Key": "battle_start_speed",
+      "Value": "800",
+      "LangStringTable": {
+        "Remarks": "戰鬥開場入場速度"
+      }
+    },
+    "emoji": {
+      "Cuid": "emoji",
+      "Key": "emoji",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "小方塊基本表情數量，最後會定為20個"
+      }
+    },
+    "animation": {
+      "Cuid": "animation",
+      "Key": "animation",
+      "Value": "28",
+      "LangStringTable": {
+        "Remarks": "角色個人化表情包數量，會新增很多"
+      }
+    },
+    "Strengthen_proportion": {
+      "Cuid": "Strengthen_proportion",
+      "Key": "Strengthen_proportion",
+      "Value": "80",
+      "LangStringTable": {
+        "Remarks": "強化經驗兌換比例"
+      }
+    },
+    "Mood_Initial": {
+      "Cuid": "Mood_Initial",
+      "Key": "Mood_Initial",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": "心情值初始值"
+      }
+    },
+    "Mood_natural_restoration": {
+      "Cuid": "Mood_natural_restoration",
+      "Key": "Mood_natural_restoration",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "心情值每小時自然恢復量"
+      }
+    },
+    "Mood_battle_cost": {
+      "Cuid": "Mood_battle_cost",
+      "Key": "Mood_battle_cost",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "每次出擊扣除心情值"
+      }
+    },
+    "Mood_dead_cost": {
+      "Cuid": "Mood_dead_cost",
+      "Key": "Mood_dead_cost",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "每次死亡扣除心情值"
+      }
+    },
+    "Mood_vow": {
+      "Cuid": "Mood_vow",
+      "Key": "Mood_vow",
+      "Value": "200",
+      "LangStringTable": {
+        "Remarks": "誓約後，心情值提升"
+      }
+    },
+    "seasocardtask_random": {
+      "Cuid": "seasocardtask_random",
+      "Key": "seasocardtask_random",
+      "Value": "1,1;2,1;3,1",
+      "LangStringTable": {
+        "Remarks": "季卡每日任務隨機參數"
+      }
+    },
+    "seasoncard_cost": {
+      "Cuid": "seasoncard_cost",
+      "Key": "seasoncard_cost",
+      "Value": "60",
+      "LangStringTable": {
+        "Remarks": "季卡購買等級價格"
+      }
+    },
+    "Equip_manufacture_cost": {
+      "Cuid": "Equip_manufacture_cost",
+      "Key": "Equip_manufacture_cost",
+      "Value": "1,2,4000",
+      "LangStringTable": {
+        "Remarks": "裝備製作時，每次製作裝備所需消耗的BP數量"
+      }
+    },
+    "seasoncard_refresh": {
+      "Cuid": "seasoncard_refresh",
+      "Key": "seasoncard_refresh",
+      "Value": "3",
+      "LangStringTable": {
+        "Remarks": "季卡任務每日可更新次數"
+      }
+    },
+    "seasoncard_votereward": {
+      "Cuid": "seasoncard_votereward",
+      "Key": "seasoncard_votereward",
+      "Value": "1,1,5",
+      "LangStringTable": {
+        "Remarks": "季卡投票獎勵內容"
+      }
+    },
+    "item_max_num": {
+      "Cuid": "item_max_num",
+      "Key": "item_max_num",
+      "Value": "9999",
+      "LangStringTable": {
+        "Remarks": "道具單次使用上限"
+      }
+    },
+    "judge_days": {
+      "Cuid": "judge_days",
+      "Key": "judge_days",
+      "Value": "3",
+      "LangStringTable": {
+        "Remarks": "彈出評價的天數"
+      }
+    },
+    "judge_limit": {
+      "Cuid": "judge_limit",
+      "Key": "judge_limit",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "總彈窗次數上限"
+      }
+    },
+    "judge_reward": {
+      "Cuid": "judge_reward",
+      "Key": "judge_reward",
+      "Value": "1,1,50",
+      "LangStringTable": {
+        "Remarks": "評價獎勵"
+      }
+    },
+    "judge_story": {
+      "Cuid": "judge_story",
+      "Key": "judge_story",
+      "Value": "200104",
+      "LangStringTable": {
+        "Remarks": "彈出評價的關卡id"
+      }
+    },
+    "judge_switch": {
+      "Cuid": "judge_switch",
+      "Key": "judge_switch",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "打分提示是否開啟，1開0關"
+      }
+    },
+    "judge_time_01": {
+      "Cuid": "judge_time_01",
+      "Key": "judge_time_01",
+      "Value": "3",
+      "LangStringTable": {
+        "Remarks": "識別評價是否成功間隔時間(秒)"
+      }
+    },
+    "judge_time_02": {
+      "Cuid": "judge_time_02",
+      "Key": "judge_time_02",
+      "Value": "43200",
+      "LangStringTable": {
+        "Remarks": "兩次彈窗之間至少間隔時間(秒)"
+      }
+    },
+    "Shop_hot": {
+      "Cuid": "Shop_hot",
+      "Key": "Shop_hot",
+      "Value": "7",
+      "LangStringTable": {
+        "Remarks": "黑市商品數量"
+      }
+    },
+    "first_draw_pool": {
+      "Cuid": "first_draw_pool",
+      "Key": "first_draw_pool",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "全艦種卡池ID單次首抽固定"
+      }
+    },
+    "first_draw": {
+      "Cuid": "first_draw",
+      "Key": "first_draw",
+      "Value": "20020",
+      "LangStringTable": {
+        "Remarks": "全艦種卡池單次首抽為固定艦娘"
+      }
+    },
+    "first_draw_ten": {
+      "Cuid": "first_draw_ten",
+      "Key": "first_draw_ten",
+      "Value": null,
+      "LangStringTable": {
+        "Remarks": "全艦種卡池單次十連抽為固定艦娘"
+      }
+    },
+    "battle_time_check": {
+      "Cuid": "battle_time_check",
+      "Key": "battle_time_check",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "後端戰鬥驗證有效極限時長，單位秒"
+      }
+    },
+    "battle_time_limit": {
+      "Cuid": "battle_time_limit",
+      "Key": "battle_time_limit",
+      "Value": "1800",
+      "LangStringTable": {
+        "Remarks": "後端戰鬥驗證封禁持續時長，單位秒"
+      }
+    },
+    "notic_head": {
+      "Cuid": "notic_head",
+      "Key": "notic_head",
+      "Value": "920001",
+      "LangStringTable": {
+        "Remarks": "聊天系統大頭貼照（resource表ID）"
+      }
+    },
+    "rename_dialog_list": {
+      "Cuid": "rename_dialog_list",
+      "Key": "rename_dialog_list",
+      "Value": "name_system01:0.5;name_system02:0.7",
+      "LangStringTable": {
+        "Remarks": "命名界面，對話ID：間隔時間；下一句。"
+      }
+    },
+    "renovate_cd": {
+      "Cuid": "renovate_cd",
+      "Key": "renovate_cd",
+      "Value": "0.5",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "question_delay_time": {
+      "Cuid": "question_delay_time",
+      "Key": "question_delay_time",
+      "Value": "0.7",
+      "LangStringTable": {
+        "Remarks": "問題間隔時間"
+      }
+    },
+    "chose_delay_time": {
+      "Cuid": "chose_delay_time",
+      "Key": "chose_delay_time",
+      "Value": "0.5",
+      "LangStringTable": {
+        "Remarks": "選擇間隔時間"
+      }
+    },
+    "guide_draw_groupid": {
+      "Cuid": "guide_draw_groupid",
+      "Key": "guide_draw_groupid",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "全艦種指定卡池位於第一位"
+      }
+    },
+    "guide_end": {
+      "Cuid": "guide_end",
+      "Key": "guide_end",
+      "Value": "315",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "troop_skin_01": {
+      "Cuid": "troop_skin_01",
+      "Key": "troop_skin_01",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "部隊棋子形象1"
+      }
+    },
+    "troop_skin_02": {
+      "Cuid": "troop_skin_02",
+      "Key": "troop_skin_02",
+      "Value": "3000",
+      "LangStringTable": {
+        "Remarks": "部隊棋子形象2"
+      }
+    },
+    "troop_skin_03": {
+      "Cuid": "troop_skin_03",
+      "Key": "troop_skin_03",
+      "Value": "5000",
+      "LangStringTable": {
+        "Remarks": "部隊棋子形象3"
+      }
+    },
+    "troop_skin_04": {
+      "Cuid": "troop_skin_04",
+      "Key": "troop_skin_04",
+      "Value": "10000",
+      "LangStringTable": {
+        "Remarks": "部隊棋子形象4"
+      }
+    },
+    "troop_1_scale": {
+      "Cuid": "troop_1_scale",
+      "Key": "troop_1_scale",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": "單棋子縮放比例"
+      }
+    },
+    "troop_2_scale": {
+      "Cuid": "troop_2_scale",
+      "Key": "troop_2_scale",
+      "Value": "90",
+      "LangStringTable": {
+        "Remarks": "兩個棋子縮放比例"
+      }
+    },
+    "troop_3_scale": {
+      "Cuid": "troop_3_scale",
+      "Key": "troop_3_scale",
+      "Value": "85",
+      "LangStringTable": {
+        "Remarks": "三個棋子縮放比例"
+      }
+    },
+    "troop_4_scale": {
+      "Cuid": "troop_4_scale",
+      "Key": "troop_4_scale",
+      "Value": "75",
+      "LangStringTable": {
+        "Remarks": "四個棋子縮放比例"
+      }
+    },
+    "troop_5_scale": {
+      "Cuid": "troop_5_scale",
+      "Key": "troop_5_scale",
+      "Value": "65",
+      "LangStringTable": {
+        "Remarks": "五個棋子縮放比例"
+      }
+    },
+    "task_version": {
+      "Cuid": "task_version",
+      "Key": "task_version",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "當前任務版本，如任務配置表更新， 此處版本號+1"
+      }
+    },
+    "digit_transfer_threhold": {
+      "Cuid": "digit_transfer_threhold",
+      "Key": "digit_transfer_threhold",
+      "Value": "100000",
+      "LangStringTable": {
+        "Remarks": "數字轉換為帶k格式時閾值"
+      }
+    },
+    "quality_excellent": {
+      "Cuid": "quality_excellent",
+      "Key": "quality_excellent",
+      "Value": "4;5",
+      "LangStringTable": {
+        "Remarks": "高品質範圍"
+      }
+    },
+    "battle_materia_id": {
+      "Cuid": "battle_materia_id",
+      "Key": "battle_materia_id",
+      "Value": "11",
+      "LangStringTable": {
+        "Remarks": "狗糧本大洲ID，狗糧本解鎖顯示"
+      }
+    },
+    "comment_time_limit": {
+      "Cuid": "comment_time_limit",
+      "Key": "comment_time_limit",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "評論間隔時間30"
+      }
+    },
+    "comment_word_limit": {
+      "Cuid": "comment_word_limit",
+      "Key": "comment_word_limit",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "評論字數限制30"
+      }
+    },
+    "comment_num": {
+      "Cuid": "comment_num",
+      "Key": "comment_num",
+      "Value": "1000",
+      "LangStringTable": {
+        "Remarks": "普通評論數量1000"
+      }
+    },
+    "comment_num_hot": {
+      "Cuid": "comment_num_hot",
+      "Key": "comment_num_hot",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "熱度評論數量10"
+      }
+    },
+    "comment_num_limit": {
+      "Cuid": "comment_num_limit",
+      "Key": "comment_num_limit",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": "普通評論達到一定數量時會出現熱評50"
+      }
+    },
+    "comment_report_num": {
+      "Cuid": "comment_report_num",
+      "Key": "comment_report_num",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "一天之內最多可舉報的評論數量"
+      }
+    },
+    "comment_report_disappear": {
+      "Cuid": "comment_report_disappear",
+      "Key": "comment_report_disappear",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": "舉報評論達到一定數量，該評論消失50"
+      }
+    },
+    "troop_max_num": {
+      "Cuid": "troop_max_num",
+      "Key": "troop_max_num",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "編隊序列數量上限"
+      }
+    },
+    "troop_unlock_num": {
+      "Cuid": "troop_unlock_num",
+      "Key": "troop_unlock_num",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "編隊序列預設解鎖數量"
+      }
+    },
+    "equip_lv_num": {
+      "Cuid": "equip_lv_num",
+      "Key": "equip_lv_num",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": "裝備強化單次選擇上限"
+      }
+    },
+    "troop_res_cost_num": {
+      "Cuid": "troop_res_cost_num",
+      "Key": "troop_res_cost_num",
+      "Value": "1,1,{0}",
+      "LangStringTable": {
+        "Remarks": "編隊序列消耗資源類型"
+      }
+    },
+    "boat_level_limit": {
+      "Cuid": "boat_level_limit",
+      "Key": "boat_level_limit",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "素材人偶下限等級"
+      }
+    },
+    "firstcharge_icon": {
+      "Cuid": "firstcharge_icon",
+      "Key": "firstcharge_icon",
+      "Value": "activity_1_iconitem_",
+      "LangStringTable": {
+        "Remarks": "首儲介面圖標前綴"
+      }
+    },
+    "novice_name": {
+      "Cuid": "novice_name",
+      "Key": "novice_name",
+      "Value": "activity_1_name_",
+      "LangStringTable": {
+        "Remarks": "新手特派名稱"
+      }
+    },
+    "seacrystal": {
+      "Cuid": "seacrystal",
+      "Key": "seacrystal",
+      "Value": "250010",
+      "LangStringTable": {
+        "Remarks": "神秘商店-代幣"
+      }
+    },
+    "ghost_story": {
+      "Cuid": "ghost_story",
+      "Key": "ghost_story",
+      "Value": "1136",
+      "LangStringTable": {
+        "Remarks": "深海化劇情引導組"
+      }
+    },
+    "mvp_ratio": {
+      "Cuid": "mvp_ratio",
+      "Key": "mvp_ratio",
+      "Value": "1,1,1",
+      "LangStringTable": {
+        "Remarks": "Mvp評選輸出、傷害承受、治療的計算係數（直接乘該數值）"
+      }
+    },
+    "newplayer_cardpool": {
+      "Cuid": "newplayer_cardpool",
+      "Key": "newplayer_cardpool",
+      "Value": "9,14",
+      "LangStringTable": {
+        "Remarks": "標記新手卡池ID"
+      }
+    },
+    "vipcard_commodity": {
+      "Cuid": "vipcard_commodity",
+      "Key": "vipcard_commodity",
+      "Value": "1,107",
+      "LangStringTable": {
+        "Remarks": "月卡商品id"
+      }
+    },
+    "vipcard_big": {
+      "Cuid": "vipcard_big",
+      "Key": "vipcard_big",
+      "Value": "250011",
+      "LangStringTable": {
+        "Remarks": "大月卡標識"
+      }
+    },
+    "vipcard_small": {
+      "Cuid": "vipcard_small",
+      "Key": "vipcard_small",
+      "Value": "250012",
+      "LangStringTable": {
+        "Remarks": "小月卡標識"
+      }
+    },
+    "vipcard_recharge": {
+      "Cuid": "vipcard_recharge",
+      "Key": "vipcard_recharge",
+      "Value": "1007,2007",
+      "LangStringTable": {
+        "Remarks": "月卡儲值標識"
+      }
+    },
+    "story_reward_mail_expiry_data": {
+      "Cuid": "story_reward_mail_expiry_data",
+      "Key": "story_reward_mail_expiry_data",
+      "Value": "604800",
+      "LangStringTable": {
+        "Remarks": "劇情港口商店的郵件有效期"
+      }
+    },
+    "guide_fight_lv": {
+      "Cuid": "guide_fight_lv",
+      "Key": "guide_fight_lv",
+      "Value": "8",
+      "LangStringTable": {
+        "Remarks": "出征按鈕引導等級"
+      }
+    },
+    "guide_fight_time": {
+      "Cuid": "guide_fight_time",
+      "Key": "guide_fight_time",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "出征按鈕引導等待時間"
+      }
+    },
+    "GlobalConfig_Mood_SLG_limit_tips": {
+      "Cuid": "GlobalConfig_Mood_SLG_limit_tips",
+      "Key": "GlobalConfig_Mood_SLG_limit_tips",
+      "Value": "40",
+      "LangStringTable": {
+        "Remarks": "心情值低於多少時，出戰會提示"
+      }
+    },
+    "Site_change_cd": {
+      "Cuid": "Site_change_cd",
+      "Key": "Site_change_cd",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "單位：S；每個單位發生變化後生效"
+      }
+    },
+    "achieve_badge_show": {
+      "Cuid": "achieve_badge_show",
+      "Key": "achieve_badge_show",
+      "Value": "680001,680002,680003,680004,680005",
+      "LangStringTable": {
+        "Remarks": "成就介面展示徽章匯總"
+      }
+    },
+    "activity_integral": {
+      "Cuid": "activity_integral",
+      "Key": "activity_integral",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "alliance_task_num": {
+      "Cuid": "alliance_task_num",
+      "Key": "alliance_task_num",
+      "Value": "6",
+      "LangStringTable": {
+        "Remarks": "聯盟任務隨機數量"
+      }
+    },
+    "fish_season_activity_id": {
+      "Cuid": "fish_season_activity_id",
+      "Key": "fish_season_activity_id",
+      "Value": "21,22",
+      "LangStringTable": {
+        "Remarks": "大漁祭活動Id"
+      }
+    },
+    "story_shop_title": {
+      "Cuid": "story_shop_title",
+      "Key": "story_shop_title",
+      "Value": "exchange_1_head_tittle",
+      "LangStringTable": {
+        "Remarks": "劇情副本商店左上角標題圖"
+      }
+    },
+    "bigfish_shop_title": {
+      "Cuid": "bigfish_shop_title",
+      "Key": "bigfish_shop_title",
+      "Value": "map_1_head_tittle_fs",
+      "LangStringTable": {
+        "Remarks": "大漁祭商店左上角標題圖"
+      }
+    },
+    "pvp_victory": {
+      "Cuid": "pvp_victory",
+      "Key": "pvp_victory",
+      "Value": "1,15,10;1,14,10",
+      "LangStringTable": {
+        "Remarks": "勝利獲得積分，代幣"
+      }
+    },
+    "pvp_fail": {
+      "Cuid": "pvp_fail",
+      "Key": "pvp_fail",
+      "Value": "1,15,0;1,14,5",
+      "LangStringTable": {
+        "Remarks": "失敗獲得積分，代幣"
+      }
+    },
+    "pvp_seasonday": {
+      "Cuid": "pvp_seasonday",
+      "Key": "pvp_seasonday",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "演習賽季週期"
+      }
+    },
+    "pvp_seasonday_interval": {
+      "Cuid": "pvp_seasonday_interval",
+      "Key": "pvp_seasonday_interval",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "演習賽季週期間隔"
+      }
+    },
+    "pvp_openlevel": {
+      "Cuid": "pvp_openlevel",
+      "Key": "pvp_openlevel",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "PVP開放等級"
+      }
+    },
+    "pvp_refreshtimes": {
+      "Cuid": "pvp_refreshtimes",
+      "Key": "pvp_refreshtimes",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "PVP恢復次數上限"
+      }
+    },
+    "pvp_payforrefreshtimes": {
+      "Cuid": "pvp_payforrefreshtimes",
+      "Key": "pvp_payforrefreshtimes",
+      "Value": "5,10,15,20,25,30,35,40,45,50",
+      "LangStringTable": {
+        "Remarks": "PVP付費更新挑戰次數鑽石價格梯度"
+      }
+    },
+    "pvp_refreshtimesrecover": {
+      "Cuid": "pvp_refreshtimesrecover",
+      "Key": "pvp_refreshtimesrecover",
+      "Value": "5400",
+      "LangStringTable": {
+        "Remarks": "PVP每個挑戰次數的恢復時間(秒)"
+      }
+    },
+    "pvp_dailyrefresh": {
+      "Cuid": "pvp_dailyrefresh",
+      "Key": "pvp_dailyrefresh",
+      "Value": "12:00:00,18:00:00",
+      "LangStringTable": {
+        "Remarks": "PVP每日定時更新"
+      }
+    },
+    "pvp_refresh": {
+      "Cuid": "pvp_refresh",
+      "Key": "pvp_refresh",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "PVP每日免費更新對手次數"
+      }
+    },
+    "questionnaire_url_reward": {
+      "Cuid": "questionnaire_url_reward",
+      "Key": "questionnaire_url_reward",
+      "Value": "1,1,100;2,90010,1",
+      "LangStringTable": {
+        "Remarks": "問卷獎勵"
+      }
+    },
+    "questionnaire_url_limit": {
+      "Cuid": "questionnaire_url_limit",
+      "Key": "questionnaire_url_limit",
+      "Value": "10101,10",
+      "LangStringTable": {
+        "Remarks": "問卷開放條件"
+      }
+    },
+    "questionnaire_url_doll": {
+      "Cuid": "questionnaire_url_doll",
+      "Key": "questionnaire_url_doll",
+      "Value": "50320",
+      "LangStringTable": {
+        "Remarks": "問卷展示人偶id"
+      }
+    },
+    "task_type_8_harbour_id": {
+      "Cuid": "task_type_8_harbour_id",
+      "Key": "task_type_8_harbour_id",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "任務類型8戰鬥次數計算的港口類型id"
+      }
+    },
+    "material_open_time_offset": {
+      "Cuid": "material_open_time_offset",
+      "Key": "material_open_time_offset",
+      "Value": "14400",
+      "LangStringTable": {
+        "Remarks": "材料副本開放時間偏移量"
+      }
+    },
+    "fetters_item_id": {
+      "Cuid": "fetters_item_id",
+      "Key": "fetters_item_id",
+      "Value": "240006",
+      "LangStringTable": {
+        "Remarks": "羈絆道具id"
+      }
+    },
+    "formation_max_number": {
+      "Cuid": "formation_max_number",
+      "Key": "formation_max_number",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "編隊艦娘最大數量"
+      }
+    },
+    "source_dock": {
+      "Cuid": "source_dock",
+      "Key": "source_dock",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "船塢排序是否重置，0為重置，1為不重置，用於跳轉邏輯"
+      }
+    },
+    "retire_max": {
+      "Cuid": "retire_max",
+      "Key": "retire_max",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": "回收數量上限"
+      }
+    },
+    "equip_attribute": {
+      "Cuid": "equip_attribute",
+      "Key": "equip_attribute",
+      "Value": "1,2,5,4,28,3,8,9,35,36",
+      "LangStringTable": {
+        "Remarks": "顯示裝備介面屬性"
+      }
+    },
+    "equip_type": {
+      "Cuid": "equip_type",
+      "Key": "equip_type",
+      "Value": "1;2;3;4;5;6;7;8;9;10",
+      "LangStringTable": {
+        "Remarks": "裝備類型標籤"
+      }
+    },
+    "equip_type_weight": {
+      "Cuid": "equip_type_weight",
+      "Key": "equip_type_weight",
+      "Value": "1,1;2,1;3,1;4,1;5,1;6,1;7,1;8,1;9,1;10,1",
+      "LangStringTable": {
+        "Remarks": "裝備類型隨機權重"
+      }
+    },
+    "Furniture_region": {
+      "Cuid": "Furniture_region",
+      "Key": "Furniture_region",
+      "Value": "2000000",
+      "LangStringTable": {
+        "Remarks": "佈置用家具，功能家具以ID區分，大於此數為功能家具（該ID無法使用）"
+      }
+    },
+    "Initial_Reception_Room": {
+      "Cuid": "Initial_Reception_Room",
+      "Key": "Initial_Reception_Room",
+      "Value": "1001",
+      "LangStringTable": {
+        "Remarks": "玩家初始會客室房間id"
+      }
+    },
+    "Visit_Stay_Time": {
+      "Cuid": "Visit_Stay_Time",
+      "Key": "Visit_Stay_Time",
+      "Value": "8",
+      "LangStringTable": {
+        "Remarks": "他人參觀停留時間上限"
+      }
+    },
+    "Visit_Stat_Number": {
+      "Cuid": "Visit_Stat_Number",
+      "Key": "Visit_Stat_Number",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "他人參觀停留人數上限"
+      }
+    },
+    "Lose_House_Mood": {
+      "Cuid": "Lose_House_Mood",
+      "Key": "Lose_House_Mood",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "若人偶被剝奪房間擁有權，將扣除好感度"
+      }
+    },
+    "debuff_attack_mood": {
+      "Cuid": "debuff_attack_mood",
+      "Key": "debuff_attack_mood",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "流離失所debuff，人偶每次出擊將加扣心情值"
+      }
+    },
+    "debuff_dead_mood": {
+      "Cuid": "debuff_dead_mood",
+      "Key": "debuff_dead_mood",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "流離失所debuff，人偶每次於出擊中死亡將加扣心情值"
+      }
+    },
+    "debuff_mood_time": {
+      "Cuid": "debuff_mood_time",
+      "Key": "debuff_mood_time",
+      "Value": "86400",
+      "LangStringTable": {
+        "Remarks": "流離失所debuff持續時間"
+      }
+    },
+    "debuff_refresh_time": {
+      "Cuid": "debuff_refresh_time",
+      "Key": "debuff_refresh_time",
+      "Value": "300",
+      "LangStringTable": {
+        "Remarks": "心情值扣減緩衝時間"
+      }
+    },
+    "backhouse_collect_max": {
+      "Cuid": "backhouse_collect_max",
+      "Key": "backhouse_collect_max",
+      "Value": "200",
+      "LangStringTable": {
+        "Remarks": "後宅收藏數量上限"
+      }
+    },
+    "backhouse_share_max": {
+      "Cuid": "backhouse_share_max",
+      "Key": "backhouse_share_max",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "後宅分享數量上限"
+      }
+    },
+    "backhouse_room_scale": {
+      "Cuid": "backhouse_room_scale",
+      "Key": "backhouse_room_scale",
+      "Value": "3",
+      "LangStringTable": {
+        "Remarks": "後宅主介面房間縮放比例"
+      }
+    },
+    "backhouse_camera_area": {
+      "Cuid": "backhouse_camera_area",
+      "Key": "backhouse_camera_area",
+      "Value": "-105,135",
+      "LangStringTable": {
+        "Remarks": "後宅主介面鏡頭上下移動區域邊界"
+      }
+    },
+    "backhouse_bg_scale": {
+      "Cuid": "backhouse_bg_scale",
+      "Key": "backhouse_bg_scale",
+      "Value": "4",
+      "LangStringTable": {
+        "Remarks": "後宅背景圖片縮放尺寸"
+      }
+    },
+    "backhouse_bg_delta": {
+      "Cuid": "backhouse_bg_delta",
+      "Key": "backhouse_bg_delta",
+      "Value": "9.8",
+      "LangStringTable": {
+        "Remarks": "後宅背景圖片間距"
+      }
+    },
+    "backhouse_camera_normal_size": {
+      "Cuid": "backhouse_camera_normal_size",
+      "Key": "backhouse_camera_normal_size",
+      "Value": "32",
+      "LangStringTable": {
+        "Remarks": "後宅預設鏡頭尺寸"
+      }
+    },
+    "backhouse_camera_focus_size": {
+      "Cuid": "backhouse_camera_focus_size",
+      "Key": "backhouse_camera_focus_size",
+      "Value": "12.25",
+      "LangStringTable": {
+        "Remarks": "後宅聚焦鏡頭尺寸"
+      }
+    },
+    "backhouse_camera_focus_offset": {
+      "Cuid": "backhouse_camera_focus_offset",
+      "Key": "backhouse_camera_focus_offset",
+      "Value": "0.99,-3.42",
+      "LangStringTable": {
+        "Remarks": "後宅聚焦房間偏移量"
+      }
+    },
+    "backhouse_move_size": {
+      "Cuid": "backhouse_move_size",
+      "Key": "backhouse_move_size",
+      "Value": "64",
+      "LangStringTable": {
+        "Remarks": "後宅主介面單次鏡頭滑動尺寸（鏡頭佔1/2螢幕）"
+      }
+    },
+    "backhouse_move_time": {
+      "Cuid": "backhouse_move_time",
+      "Key": "backhouse_move_time",
+      "Value": "300",
+      "LangStringTable": {
+        "Remarks": "後宅主介面單次滑動時間(ms)"
+      }
+    },
+    "backhouse_default_floor": {
+      "Cuid": "backhouse_default_floor",
+      "Key": "backhouse_default_floor",
+      "Value": "baseroom_0000001",
+      "LangStringTable": {
+        "Remarks": "後宅房間基本地面"
+      }
+    },
+    "backhouse_default_wall": {
+      "Cuid": "backhouse_default_wall",
+      "Key": "backhouse_default_wall",
+      "Value": "baseroom_0000002",
+      "LangStringTable": {
+        "Remarks": "後宅房間基本牆面"
+      }
+    },
+    "formation_default": {
+      "Cuid": "formation_default",
+      "Key": "formation_default",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "預設陣型"
+      }
+    },
+    "battle_cgcutin_delay": {
+      "Cuid": "battle_cgcutin_delay",
+      "Key": "battle_cgcutin_delay",
+      "Value": "0.2",
+      "LangStringTable": {
+        "Remarks": "大招不進入第二戰場時，動畫播放結束延遲放開時停參數"
+      }
+    },
+    "battle_uicutin_delay": {
+      "Cuid": "battle_uicutin_delay",
+      "Key": "battle_uicutin_delay",
+      "Value": "0.2",
+      "LangStringTable": {
+        "Remarks": "大招不進入第二戰場時，UI插屏播放結束延遲放開時停參數"
+      }
+    },
+    "battle_declare_time": {
+      "Cuid": "battle_declare_time",
+      "Key": "battle_declare_time",
+      "Value": "1.5",
+      "LangStringTable": {
+        "Remarks": "戰鬥宣言人偶喊話文本顯示總時長"
+      }
+    },
+    "battle_delicious_id": {
+      "Cuid": "battle_delicious_id",
+      "Key": "battle_delicious_id",
+      "Value": "19",
+      "LangStringTable": {
+        "Remarks": "味蕾革命大洲id，對應活動表跳轉"
+      }
+    },
+    "totalrecharge_kanbanniang": {
+      "Cuid": "totalrecharge_kanbanniang",
+      "Key": "totalrecharge_kanbanniang",
+      "Value": "3016000",
+      "LangStringTable": {
+        "Remarks": "累積儲值活動看板娘資源"
+      }
+    },
+    "scene_switch": {
+      "Cuid": "scene_switch",
+      "Key": "scene_switch",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "1=開啟；0=關閉"
+      }
+    },
+    "food_open_time": {
+      "Cuid": "food_open_time",
+      "Key": "food_open_time",
+      "Value": "1901,1;1902,2;1903,3;1904,4;1905,5;1906,6;1907,7",
+      "LangStringTable": {
+        "Remarks": "特派僱傭港口解鎖天數，港口id,第幾天解鎖;港口id,第幾天解鎖"
+      }
+    },
+    "food_activity": {
+      "Cuid": "food_activity",
+      "Key": "food_activity",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "特派僱傭港口解鎖天數，港口id,第幾天解鎖;港口id,第幾天解鎖"
+      }
+    },
+    "pvp_time": {
+      "Cuid": "pvp_time",
+      "Key": "pvp_time",
+      "Value": "120",
+      "LangStringTable": {
+        "Remarks": "演習戰鬥時長"
+      }
+    },
+    "pvp_battle": {
+      "Cuid": "pvp_battle",
+      "Key": "pvp_battle",
+      "Value": "9000",
+      "LangStringTable": {
+        "Remarks": "演習戰鬥ID"
+      }
+    },
+    "prospect_refresh": {
+      "Cuid": "prospect_refresh",
+      "Key": "prospect_refresh",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "海上勘查更新次數"
+      }
+    },
+    "prospect_item": {
+      "Cuid": "prospect_item",
+      "Key": "prospect_item",
+      "Value": "1,990001,1;1,990002,1;1,990003,1;1,990004,1;1,990005,1;1,990006,1;1,990007,1;1,990008,1",
+      "LangStringTable": {
+        "Remarks": "海上勘查初始贈送道具"
+      }
+    },
+    "prospect_treasure1": {
+      "Cuid": "prospect_treasure1",
+      "Key": "prospect_treasure1",
+      "Value": "12",
+      "LangStringTable": {
+        "Remarks": "海上勘查寶藏1數量"
+      }
+    },
+    "prospect_treasure2": {
+      "Cuid": "prospect_treasure2",
+      "Key": "prospect_treasure2",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "海上勘查寶藏2數量"
+      }
+    },
+    "prospect_treasure2_pro": {
+      "Cuid": "prospect_treasure2_pro",
+      "Key": "prospect_treasure2_pro",
+      "Value": "50",
+      "LangStringTable": {
+        "Remarks": "海上勘查寶藏2每次更新出現的機率（百分比）"
+      }
+    },
+    "prospect_reward": {
+      "Cuid": "prospect_reward",
+      "Key": "prospect_reward",
+      "Value": "1,18,8;1,18,10",
+      "LangStringTable": {
+        "Remarks": "海上勘查每種寶藏單位兌換代幣基本獎勵（寶藏1；寶藏2）"
+      }
+    },
+    "prospect_story": {
+      "Cuid": "prospect_story",
+      "Key": "prospect_story",
+      "Value": "9011",
+      "LangStringTable": {
+        "Remarks": "海上勘查劇情組ID"
+      }
+    },
+    "chat_reset": {
+      "Cuid": "chat_reset",
+      "Key": "chat_reset",
+      "Value": "86400",
+      "LangStringTable": {
+        "Remarks": "聊天行為分數重置時間（秒）"
+      }
+    },
+    "chat_repeat": {
+      "Cuid": "chat_repeat",
+      "Key": "chat_repeat",
+      "Value": "80",
+      "LangStringTable": {
+        "Remarks": "聊天重複標準（百分比）"
+      }
+    },
+    "chat_initial": {
+      "Cuid": "chat_initial",
+      "Key": "chat_initial",
+      "Value": "1000",
+      "LangStringTable": {
+        "Remarks": "聊天初始行為分數"
+      }
+    },
+    "chat_report": {
+      "Cuid": "chat_report",
+      "Key": "chat_report",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "聊天檢舉次數每日上限"
+      }
+    },
+    "chat_report_one": {
+      "Cuid": "chat_report_one",
+      "Key": "chat_report_one",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "單一聊天對象每日檢舉限制"
+      }
+    },
+    "chat_delay_time": {
+      "Cuid": "chat_delay_time",
+      "Key": "chat_delay_time",
+      "Value": "3",
+      "LangStringTable": {
+        "Remarks": "聊天間隔（秒）"
+      }
+    },
+    "missionsevent_mail": {
+      "Cuid": "missionsevent_mail",
+      "Key": "missionsevent_mail",
+      "Value": "8",
+      "LangStringTable": {
+        "Remarks": "偶像活動郵件補寄"
+      }
+    },
+    "season_boat_rate": {
+      "Cuid": "season_boat_rate",
+      "Key": "season_boat_rate",
+      "Value": "6025000",
+      "LangStringTable": {
+        "Remarks": "看板娘資源ID"
+      }
+    },
+    "season_boat_task": {
+      "Cuid": "season_boat_task",
+      "Key": "season_boat_task",
+      "Value": "6025000",
+      "LangStringTable": {
+        "Remarks": "看板娘資源ID"
+      }
+    },
+    "season_boat_box": {
+      "Cuid": "season_boat_box",
+      "Key": "season_boat_box",
+      "Value": "6025000",
+      "LangStringTable": {
+        "Remarks": "看板娘資源ID"
+      }
+    },
+    "season_box": {
+      "Cuid": "season_box",
+      "Key": "season_box",
+      "Value": "241021;24102",
+      "LangStringTable": {
+        "Remarks": "遺跡箱基本掉落;額外掉落（dropid）"
+      }
+    },
+    "map_bg_size": {
+      "Cuid": "map_bg_size",
+      "Key": "map_bg_size",
+      "Value": "1680,960",
+      "LangStringTable": {
+        "Remarks": "世界地圖背景預設大小"
+      }
+    },
+    "guide_story_textrate": {
+      "Cuid": "guide_story_textrate",
+      "Key": "guide_story_textrate",
+      "Value": "0.05",
+      "LangStringTable": {
+        "Remarks": "引導劇情對白文本預設的播放速度"
+      }
+    },
+    "guide_story_textspeed": {
+      "Cuid": "guide_story_textspeed",
+      "Key": "guide_story_textspeed",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "引導劇情對白速度加倍，填0直接出現。"
+      }
+    },
+    "guide_black": {
+      "Cuid": "guide_black",
+      "Key": "guide_black",
+      "Value": "40",
+      "LangStringTable": {
+        "Remarks": "引導功能中的壓黑值"
+      }
+    },
+    "backhouse_visit_max_num": {
+      "Cuid": "backhouse_visit_max_num",
+      "Key": "backhouse_visit_max_num",
+      "Value": "4",
+      "LangStringTable": {
+        "Remarks": "後宅自身邀請人偶拜訪數量上限"
+      }
+    },
+    "BackKeyCD": {
+      "Cuid": "BackKeyCD",
+      "Key": "BackKeyCD",
+      "Value": "0.5",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "pvp_token_id": {
+      "Cuid": "pvp_token_id",
+      "Key": "pvp_token_id",
+      "Value": "9000",
+      "LangStringTable": {
+        "Remarks": "演習獲得的代幣ID，ID讀item表"
+      }
+    },
+    "fps_check": {
+      "Cuid": "fps_check",
+      "Key": "fps_check",
+      "Value": "15",
+      "LangStringTable": {
+        "Remarks": "戰鬥平均幀率檢測，上報閾值"
+      }
+    },
+    "FPS_default_battle": {
+      "Cuid": "FPS_default_battle",
+      "Key": "FPS_default_battle",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "FPS_default_normal": {
+      "Cuid": "FPS_default_normal",
+      "Key": "FPS_default_normal",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "expedition_first": {
+      "Cuid": "expedition_first",
+      "Key": "expedition_first",
+      "Value": "101101",
+      "LangStringTable": {
+        "Remarks": "整備第一個任務固定"
+      }
+    },
+    "guide_time": {
+      "Cuid": "guide_time",
+      "Key": "guide_time",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "新手引導防卡死點按次數"
+      }
+    },
+    "guideconfig": {
+      "Cuid": "guideconfig",
+      "Key": "guideconfig",
+      "Value": "10201,5007",
+      "LangStringTable": {
+        "Remarks": "該新手引導結束後，港口開採資源開始計算groupID"
+      }
+    },
+    "guide_step": {
+      "Cuid": "guide_step",
+      "Key": "guide_step",
+      "Value": "100000;100001",
+      "LangStringTable": {
+        "Remarks": "正常新手引導結束後步驟；非正常新手引導跳過後步驟"
+      }
+    },
+    "battle_formation_long_press_trigger": {
+      "Cuid": "battle_formation_long_press_trigger",
+      "Key": "battle_formation_long_press_trigger",
+      "Value": "0.2",
+      "LangStringTable": {
+        "Remarks": "戰鬥即時拖動人偶更動陣型，拖曳觸發時間"
+      }
+    },
+    "battle_formation_press_limit": {
+      "Cuid": "battle_formation_press_limit",
+      "Key": "battle_formation_press_limit",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "戰鬥即時拖動人偶更動陣型，最大拖曳時間"
+      }
+    },
+    "suspend_server_time": {
+      "Cuid": "suspend_server_time",
+      "Key": "suspend_server_time",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "停服公告請求伺服器的間隔時間，單位s"
+      }
+    },
+    "exploration_end_delete": {
+      "Cuid": "exploration_end_delete",
+      "Key": "exploration_end_delete",
+      "Value": "17;18;990001;990002;990003;990004;990005;990006;990007;990008",
+      "LangStringTable": {
+        "Remarks": "海上勘查活動關閉時需刪除的道具"
+      }
+    },
+    "story_before_name": {
+      "Cuid": "story_before_name",
+      "Key": "story_before_name",
+      "Value": "1001;1002",
+      "LangStringTable": {
+        "Remarks": "取名前的劇情組"
+      }
+    },
+    "story_before_battle": {
+      "Cuid": "story_before_battle",
+      "Key": "story_before_battle",
+      "Value": "2002",
+      "LangStringTable": {
+        "Remarks": "取名後開場戰鬥前的劇情組"
+      }
+    },
+    "story_after_battle": {
+      "Cuid": "story_after_battle",
+      "Key": "story_after_battle",
+      "Value": "2003",
+      "LangStringTable": {
+        "Remarks": "開場戰鬥後的劇情組"
+      }
+    },
+    "story_after_dress": {
+      "Cuid": "story_after_dress",
+      "Key": "story_after_dress",
+      "Value": "2004",
+      "LangStringTable": {
+        "Remarks": "選擇性別後的劇情組"
+      }
+    },
+    "data_time": {
+      "Cuid": "data_time",
+      "Key": "data_time",
+      "Value": "300",
+      "LangStringTable": {
+        "Remarks": "資料埋點的上傳間隔時間，單位s"
+      }
+    },
+    "battle_halfway_skip_init_cooldown": {
+      "Cuid": "battle_halfway_skip_init_cooldown",
+      "Key": "battle_halfway_skip_init_cooldown",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "戰鬥途中跳過並直接結算--初始冷卻"
+      }
+    },
+    "Intrusion_time_max": {
+      "Cuid": "Intrusion_time_max",
+      "Key": "Intrusion_time_max",
+      "Value": "12",
+      "LangStringTable": {
+        "Remarks": "派遣掛機產出最大累計時間（小時）"
+      }
+    },
+    "Intrusion_time_min": {
+      "Cuid": "Intrusion_time_min",
+      "Key": "Intrusion_time_min",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "派遣掛機產出最小觸發時間（分鐘）"
+      }
+    },
+    "notice_speed": {
+      "Cuid": "notice_speed",
+      "Key": "notice_speed",
+      "Value": "8",
+      "LangStringTable": {
+        "Remarks": "跑馬燈速度（秒）"
+      }
+    },
+    "occupy_battle_time": {
+      "Cuid": "occupy_battle_time",
+      "Key": "occupy_battle_time",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "反攻鎖定戰鬥時間（秒）"
+      }
+    },
+    "occupy_boat_cd": {
+      "Cuid": "occupy_boat_cd",
+      "Key": "occupy_boat_cd",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "反攻人偶戰鬥CD（分鐘）"
+      }
+    },
+    "occupy_bounty_max": {
+      "Cuid": "occupy_bounty_max",
+      "Key": "occupy_bounty_max",
+      "Value": "21",
+      "LangStringTable": {
+        "Remarks": "懸賞未領取獎勵，則不更新上限個數"
+      }
+    },
+    "occupy_bounty_people": {
+      "Cuid": "occupy_bounty_people",
+      "Key": "occupy_bounty_people",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "懸賞上陣人數"
+      }
+    },
+    "occupy_bounty_refresh": {
+      "Cuid": "occupy_bounty_refresh",
+      "Key": "occupy_bounty_refresh",
+      "Value": "4:00:00;12:00:00;18:00:00",
+      "LangStringTable": {
+        "Remarks": "懸賞系統更新時間"
+      }
+    },
+    "occupy_bounty_surpris": {
+      "Cuid": "occupy_bounty_surpris",
+      "Key": "occupy_bounty_surpris",
+      "Value": "0.1",
+      "LangStringTable": {
+        "Remarks": "驚喜懸賞出現機率"
+      }
+    },
+    "occupy_coefficient": {
+      "Cuid": "occupy_coefficient",
+      "Key": "occupy_coefficient",
+      "Value": "0.5",
+      "LangStringTable": {
+        "Remarks": "反攻係數"
+      }
+    },
+    "occupy_frozen_after_prop": {
+      "Cuid": "occupy_frozen_after_prop",
+      "Key": "occupy_frozen_after_prop",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "港後被敵軍反攻佔領後，產出的道具是否被凍結"
+      }
+    },
+    "occupy_frozen_after_prop_deduction": {
+      "Cuid": "occupy_frozen_after_prop_deduction",
+      "Key": "occupy_frozen_after_prop_deduction",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "港後被敵軍反攻佔領後，扣除敵軍攜帶道具獎勵的百分比"
+      }
+    },
+    "occupy_frozen_after_prop_deduction_time": {
+      "Cuid": "occupy_frozen_after_prop_deduction_time",
+      "Key": "occupy_frozen_after_prop_deduction_time",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "港後被敵軍反攻佔領後，扣除敵軍攜帶道具獎勵的最小扣除時間（分鐘）"
+      }
+    },
+    "occupy_frozen_after_resources": {
+      "Cuid": "occupy_frozen_after_resources",
+      "Key": "occupy_frozen_after_resources",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": "港後被敵軍反攻佔領後，產出的資源凍結百分比"
+      }
+    },
+    "occupy_frozen_after_resources_deduction": {
+      "Cuid": "occupy_frozen_after_resources_deduction",
+      "Key": "occupy_frozen_after_resources_deduction",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "港後被敵軍反攻佔領後，扣除凍結資源的百分比"
+      }
+    },
+    "occupy_frozen_after_resources_deduction_time": {
+      "Cuid": "occupy_frozen_after_resources_deduction_time",
+      "Key": "occupy_frozen_after_resources_deduction_time",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "港後被敵軍反攻佔領後，扣除凍結資源的最小扣除時間（分鐘）"
+      }
+    },
+    "occupy_frozen_before_prop": {
+      "Cuid": "occupy_frozen_before_prop",
+      "Key": "occupy_frozen_before_prop",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "港口被敵軍反攻佔領前，產出的道具是否被凍結"
+      }
+    },
+    "occupy_frozen_before_resources": {
+      "Cuid": "occupy_frozen_before_resources",
+      "Key": "occupy_frozen_before_resources",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": "港口被敵軍反攻佔領前，產出的資源被凍結的百分比"
+      }
+    },
+    "occupy_frozen_reward": {
+      "Cuid": "occupy_frozen_reward",
+      "Key": "occupy_frozen_reward",
+      "Value": "43.9,-21.7",
+      "LangStringTable": {
+        "Remarks": "反攻獎勵領取位置"
+      }
+    },
+    "occupy_initial": {
+      "Cuid": "occupy_initial",
+      "Key": "occupy_initial",
+      "Value": "10101,5",
+      "LangStringTable": {
+        "Remarks": "時間反攻初始觸發時機"
+      }
+    },
+    "occupy_settlement_time": {
+      "Cuid": "occupy_settlement_time",
+      "Key": "occupy_settlement_time",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "反攻結算時間（秒）"
+      }
+    },
+    "region_color_0": {
+      "Cuid": "region_color_0",
+      "Key": "region_color_0",
+      "Value": "0,255,255,68",
+      "LangStringTable": {
+        "Remarks": "縮圖我方勢力顏色（黑潮）"
+      }
+    },
+    "region_color_1": {
+      "Cuid": "region_color_1",
+      "Key": "region_color_1",
+      "Value": "166,64,93,75",
+      "LangStringTable": {
+        "Remarks": "縮圖敵方勢力顏色（黑峰）"
+      }
+    },
+    "region_color_100": {
+      "Cuid": "region_color_100",
+      "Key": "region_color_100",
+      "Value": "255,243,250,86",
+      "LangStringTable": {
+        "Remarks": "反攻佔領的顏色"
+      }
+    },
+    "region_color_2": {
+      "Cuid": "region_color_2",
+      "Key": "region_color_2",
+      "Value": "210,146,255,78",
+      "LangStringTable": {
+        "Remarks": "縮圖敵方勢力顏色（薔薇）"
+      }
+    },
+    "region_color_3": {
+      "Cuid": "region_color_3",
+      "Key": "region_color_3",
+      "Value": "255,243,250,86",
+      "LangStringTable": {
+        "Remarks": "縮圖敵方勢力顏色（神代）"
+      }
+    },
+    "region_color_4": {
+      "Cuid": "region_color_4",
+      "Key": "region_color_4",
+      "Value": "0,198,255,83",
+      "LangStringTable": {
+        "Remarks": "縮圖敵方勢力顏色（銀翼）"
+      }
+    },
+    "region_color_5": {
+      "Cuid": "region_color_5",
+      "Key": "region_color_5",
+      "Value": "0,255,255,0",
+      "LangStringTable": {
+        "Remarks": "縮圖敵方勢力顏色（中立）--透明"
+      }
+    },
+    "notice_max": {
+      "Cuid": "notice_max",
+      "Key": "notice_max",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": "戰報紀錄上限（條）"
+      }
+    },
+    "battle_performance_high": {
+      "Cuid": "battle_performance_high",
+      "Key": "battle_performance_high",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "戰鬥畫質等級-高畫質"
+      }
+    },
+    "battle_performance_middle": {
+      "Cuid": "battle_performance_middle",
+      "Key": "battle_performance_middle",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "戰鬥畫質等級-中畫質"
+      }
+    },
+    "open_sequence": {
+      "Cuid": "open_sequence",
+      "Key": "open_sequence",
+      "Value": "1,1101;1,1102;2;1,1108;1,1109;3;1,1123;4;1,1110;1,1112",
+      "LangStringTable": {
+        "Remarks": "開場順序"
+      }
+    },
+    "fetters_robot_level": {
+      "Cuid": "fetters_robot_level",
+      "Key": "fetters_robot_level",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "演習機器人羈絆等級"
+      }
+    },
+    "boat_exp_current": {
+      "Cuid": "boat_exp_current",
+      "Key": "boat_exp_current",
+      "Value": "24",
+      "LangStringTable": {
+        "Remarks": "升級經驗值資源ID"
+      }
+    },
+    "open_sdk": {
+      "Cuid": "open_sdk",
+      "Key": "open_sdk",
+      "Value": "1000",
+      "LangStringTable": {
+        "Remarks": "sdk開始之前的劇情組"
+      }
+    },
+    "occupy_red_dot": {
+      "Cuid": "occupy_red_dot",
+      "Key": "occupy_red_dot",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "紅點開始顯示的累計時間（分鐘）"
+      }
+    },
+    "WORLD_RATIO_FAR": {
+      "Cuid": "WORLD_RATIO_FAR",
+      "Key": "WORLD_RATIO_FAR",
+      "Value": "0.2",
+      "LangStringTable": {
+        "Remarks": "世界地圖常規圖-細節圖（100%）"
+      }
+    },
+    "WORLD_RATIO_NORMAL": {
+      "Cuid": "WORLD_RATIO_NORMAL",
+      "Key": "WORLD_RATIO_NORMAL",
+      "Value": "0.5",
+      "LangStringTable": {
+        "Remarks": "世界地圖常規圖-縮圖（0%）"
+      }
+    },
+    "WORLD_RATIO_FOCUS_DEFAULT": {
+      "Cuid": "WORLD_RATIO_FOCUS_DEFAULT",
+      "Key": "WORLD_RATIO_FOCUS_DEFAULT",
+      "Value": "0.75",
+      "LangStringTable": {
+        "Remarks": "點擊港口聚焦比例"
+      }
+    },
+    "WORLD_RATIO_DEFAULT": {
+      "Cuid": "WORLD_RATIO_DEFAULT",
+      "Key": "WORLD_RATIO_DEFAULT",
+      "Value": "0.2",
+      "LangStringTable": {
+        "Remarks": "初次進入世界地圖比例"
+      }
+    },
+    "WORLD_CORE": {
+      "Cuid": "WORLD_CORE",
+      "Key": "WORLD_CORE",
+      "Value": "60,224,156",
+      "LangStringTable": {
+        "Remarks": "中心位置座標"
+      }
+    },
+    "WORLD_CORE_NEW": {
+      "Cuid": "WORLD_CORE_NEW",
+      "Key": "WORLD_CORE_NEW",
+      "Value": "-283,-3363,-2277",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "blitzkrieg_skip_num": {
+      "Cuid": "blitzkrieg_skip_num",
+      "Key": "blitzkrieg_skip_num",
+      "Value": "2",
+      "LangStringTable": {
+        "Remarks": "深海閃擊基於目前大洲閃擊進度的順序id減去該值後，[1~結果值]的港口可跳過戰鬥"
+      }
+    },
+    "notice_time": {
+      "Cuid": "notice_time",
+      "Key": "notice_time",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": "跑馬燈延遲時間（秒）"
+      }
+    },
+    "notice_repeat_time": {
+      "Cuid": "notice_repeat_time",
+      "Key": "notice_repeat_time",
+      "Value": "90",
+      "LangStringTable": {
+        "Remarks": "跑馬燈循環時間（秒）"
+      }
+    },
+    "delay_time_trigger_capture": {
+      "Cuid": "delay_time_trigger_capture",
+      "Key": "delay_time_trigger_capture",
+      "Value": "200",
+      "LangStringTable": {
+        "Remarks": "壓制戰力波動延時（秒）"
+      }
+    },
+    "delay_time_trigger_stationed": {
+      "Cuid": "delay_time_trigger_stationed",
+      "Key": "delay_time_trigger_stationed",
+      "Value": "500",
+      "LangStringTable": {
+        "Remarks": "駐紮戰力波動延時（秒）"
+      }
+    },
+    "player_sortie_type": {
+      "Cuid": "player_sortie_type",
+      "Key": "player_sortie_type",
+      "Value": "5,6",
+      "LangStringTable": {
+        "Remarks": "個人資訊介面出擊數統計的港口類型"
+      }
+    },
+    "program_LoginServerPage_serverPageCount": {
+      "Cuid": "program_LoginServerPage_serverPageCount",
+      "Key": "program_LoginServerPage_serverPageCount",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "program_OccupyRewardForm_AvatarID": {
+      "Cuid": "program_OccupyRewardForm_AvatarID",
+      "Key": "program_OccupyRewardForm_AvatarID",
+      "Value": "5043000",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "program_Ranking_Show_Num": {
+      "Cuid": "program_Ranking_Show_Num",
+      "Key": "program_Ranking_Show_Num",
+      "Value": "100",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "program_Ranking_Special_Num": {
+      "Cuid": "program_Ranking_Special_Num",
+      "Key": "program_Ranking_Special_Num",
+      "Value": "3",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "Oil_Add_id": {
+      "Cuid": "Oil_Add_id",
+      "Key": "Oil_Add_id",
+      "Value": "3,2",
+      "LangStringTable": {
+        "Remarks": "快捷購買能源對應商品id"
+      }
+    },
+    "Coin_Add_id": {
+      "Cuid": "Coin_Add_id",
+      "Key": "Coin_Add_id",
+      "Value": "3,1",
+      "LangStringTable": {
+        "Remarks": "快捷購買BP對應商品id"
+      }
+    },
+    "battle_story_id": {
+      "Cuid": "battle_story_id",
+      "Key": "battle_story_id",
+      "Value": "27",
+      "LangStringTable": {
+        "Remarks": "劇情副本大洲id，對應uicfg功能解鎖用"
+      }
+    },
+    "MapDragMoveSpeed": {
+      "Cuid": "MapDragMoveSpeed",
+      "Key": "MapDragMoveSpeed",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "滑動靈敏度"
+      }
+    },
+    "MapTouchScaleSpeed": {
+      "Cuid": "MapTouchScaleSpeed",
+      "Key": "MapTouchScaleSpeed",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "縮放靈敏度"
+      }
+    },
+    "MapDoubleDragSpeed": {
+      "Cuid": "MapDoubleDragSpeed",
+      "Key": "MapDoubleDragSpeed",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "雙指靈敏度"
+      }
+    },
+    "delay_time_trigger_times": {
+      "Cuid": "delay_time_trigger_times",
+      "Key": "delay_time_trigger_times",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": "戰力波動類型每個港口每天觸發X次"
+      }
+    },
+    "Z_direction": {
+      "Cuid": "Z_direction",
+      "Key": "Z_direction",
+      "Value": "-15",
+      "LangStringTable": {
+        "Remarks": "Z方向偏移線"
+      }
+    },
+    "Monoploy_reward": {
+      "Cuid": "Monoploy_reward",
+      "Key": "Monoploy_reward",
+      "Value": "1,880003,3",
+      "LangStringTable": {
+        "Remarks": "大富翁指定點數道具;雙骰子道具;代幣;骰子"
+      }
+    },
+    "monopoly_dice_anim_interval": {
+      "Cuid": "monopoly_dice_anim_interval",
+      "Key": "monopoly_dice_anim_interval",
+      "Value": "0.8",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "monopoly_dice_disappear_time": {
+      "Cuid": "monopoly_dice_disappear_time",
+      "Key": "monopoly_dice_disappear_time",
+      "Value": "0.5",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "monopoly_dice_select_delay": {
+      "Cuid": "monopoly_dice_select_delay",
+      "Key": "monopoly_dice_select_delay",
+      "Value": "0.3",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "monopoly_item_dice": {
+      "Cuid": "monopoly_item_dice",
+      "Key": "monopoly_item_dice",
+      "Value": "880003",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "monopoly_story_floor_1": {
+      "Cuid": "monopoly_story_floor_1",
+      "Key": "monopoly_story_floor_1",
+      "Value": "8102,8103",
+      "LangStringTable": {
+        "Remarks": "欲念之骰活動劇情（未生效"
+      }
+    },
+    "monopoly_story_floor_2": {
+      "Cuid": "monopoly_story_floor_2",
+      "Key": "monopoly_story_floor_2",
+      "Value": "8104,8105,8106",
+      "LangStringTable": {
+        "Remarks": "欲念之骰活動劇情（未生效"
+      }
+    },
+    "monopoly_story_floor_3": {
+      "Cuid": "monopoly_story_floor_3",
+      "Key": "monopoly_story_floor_3",
+      "Value": "8107,8108,8109,8110",
+      "LangStringTable": {
+        "Remarks": "欲念之骰活動劇情（未生效"
+      }
+    },
+    "monopoly_story_start": {
+      "Cuid": "monopoly_story_start",
+      "Key": "monopoly_story_start",
+      "Value": "8101",
+      "LangStringTable": {
+        "Remarks": "欲念之骰活動劇情 首次進入"
+      }
+    },
+    "Bag_red_type_01": {
+      "Cuid": "Bag_red_type_01",
+      "Key": "Bag_red_type_01",
+      "Value": "24",
+      "LangStringTable": {
+        "Remarks": "倉庫出現紅點，使用後消失對應的倉庫道具類型"
+      }
+    },
+    "battle_anmate": {
+      "Cuid": "battle_anmate",
+      "Key": "battle_anmate",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "戰鬥中手繪動畫是否加速"
+      }
+    },
+    "Bag_red_type_02": {
+      "Cuid": "Bag_red_type_02",
+      "Key": "Bag_red_type_02",
+      "Value": "30",
+      "LangStringTable": {
+        "Remarks": "倉庫出現紅點，打開介面消失對應的倉庫道具類型"
+      }
+    },
+    "ndaylogin_bg": {
+      "Cuid": "ndaylogin_bg",
+      "Key": "ndaylogin_bg",
+      "Value": "activity_1_ND_bg_20200412",
+      "LangStringTable": {
+        "Remarks": "N日登入背景資源"
+      }
+    },
+    "ndaylogin_overview": {
+      "Cuid": "ndaylogin_overview",
+      "Key": "ndaylogin_overview",
+      "Value": "activity_1_ND_pic_20200412",
+      "LangStringTable": {
+        "Remarks": "N日登入立繪資源"
+      }
+    },
+    "ndaylogin_overview_axis": {
+      "Cuid": "ndaylogin_overview_axis",
+      "Key": "ndaylogin_overview_axis",
+      "Value": "-240,-95",
+      "LangStringTable": {
+        "Remarks": "N日登入立繪資源座標"
+      }
+    },
+    "ndaylogin_title": {
+      "Cuid": "ndaylogin_title",
+      "Key": "ndaylogin_title",
+      "Value": "activity_1_ZYQX_title_20200412",
+      "LangStringTable": {
+        "Remarks": "N日登入名稱資源"
+      }
+    },
+    "ndaylogin_title_axis": {
+      "Cuid": "ndaylogin_title_axis",
+      "Key": "ndaylogin_title_axis",
+      "Value": "318228",
+      "LangStringTable": {
+        "Remarks": "N日登入名稱資源座標"
+      }
+    },
+    "ndaylogin_text_color": {
+      "Cuid": "ndaylogin_text_color",
+      "Key": "ndaylogin_text_color",
+      "Value": "71ADFF",
+      "LangStringTable": {
+        "Remarks": "N日登入日期文本顏色"
+      }
+    },
+    "item_division_max": {
+      "Cuid": "item_division_max",
+      "Key": "item_division_max",
+      "Value": "9999",
+      "LangStringTable": {
+        "Remarks": "材料堆疊數量上限"
+      }
+    },
+    "loading_text_time": {
+      "Cuid": "loading_text_time",
+      "Key": "loading_text_time",
+      "Value": "500",
+      "LangStringTable": {
+        "Remarks": "判斷過多少ms出現loading字樣"
+      }
+    },
+    "Line_max": {
+      "Cuid": "Line_max",
+      "Key": "Line_max",
+      "Value": "220",
+      "LangStringTable": {
+        "Remarks": "線出現英文字母的最小長度"
+      }
+    },
+    "Push_queue": {
+      "Cuid": "Push_queue",
+      "Key": "Push_queue",
+      "Value": "530,6,25,5440,5430",
+      "LangStringTable": {
+        "Remarks": "世界地圖事件隊列（從左往右）"
+      }
+    },
+    "pushgift_price_item": {
+      "Cuid": "pushgift_price_item",
+      "Key": "pushgift_price_item",
+      "Value": "6",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "pushgift_shop_remove": {
+      "Cuid": "pushgift_shop_remove",
+      "Key": "pushgift_shop_remove",
+      "Value": "1;2;3;4;5;6;11;12;13;14;21",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "materia_num_initial": {
+      "Cuid": "materia_num_initial",
+      "Key": "materia_num_initial",
+      "Value": "12",
+      "LangStringTable": {
+        "Remarks": "材料副本初始挑戰次數"
+      }
+    },
+    "materia_num_reply": {
+      "Cuid": "materia_num_reply",
+      "Key": "materia_num_reply",
+      "Value": "14400",
+      "LangStringTable": {
+        "Remarks": "材料副本自動回復時間(s)"
+      }
+    },
+    "materia_num_max": {
+      "Cuid": "materia_num_max",
+      "Key": "materia_num_max",
+      "Value": "6",
+      "LangStringTable": {
+        "Remarks": "材料副本最大上限次數"
+      }
+    },
+    "blitzkrieg_num_initial": {
+      "Cuid": "blitzkrieg_num_initial",
+      "Key": "blitzkrieg_num_initial",
+      "Value": "10",
+      "LangStringTable": {
+        "Remarks": "閃擊初始挑戰次數（暫時不用了，改為無限制次數，保留配置以便再次使用）"
+      }
+    },
+    "blitzkrieg_num_reply": {
+      "Cuid": "blitzkrieg_num_reply",
+      "Key": "blitzkrieg_num_reply",
+      "Value": "300",
+      "LangStringTable": {
+        "Remarks": "閃擊自動回復時間(s)（暫時不用了，改為無限制次數，保留配置以便再次使用）"
+      }
+    },
+    "blitzkrieg_num_max": {
+      "Cuid": "blitzkrieg_num_max",
+      "Key": "blitzkrieg_num_max",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "閃擊最大上限次數（暫時不用了，改為無限制次數，保留配置以便再次使用）"
+      }
+    },
+    "harbour_collect_max": {
+      "Cuid": "harbour_collect_max",
+      "Key": "harbour_collect_max",
+      "Value": "5",
+      "LangStringTable": {
+        "Remarks": "港口收藏上限次數"
+      }
+    },
+    "HarbourInfo_output": {
+      "Cuid": "HarbourInfo_output",
+      "Key": "HarbourInfo_output",
+      "Value": "5001",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "worldmap_menu_open": {
+      "Cuid": "worldmap_menu_open",
+      "Key": "worldmap_menu_open",
+      "Value": "0",
+      "LangStringTable": {
+        "Remarks": "世界地圖快速轉移側邊欄預設是否顯示（0-關閉 1-顯示）"
+      }
+    },
+    "MapSpeed": {
+      "Cuid": "MapSpeed",
+      "Key": "MapSpeed",
+      "Value": "1.5,4,3.5,1.5",
+      "LangStringTable": {
+        "Remarks": "拖動速度,緩動速度, 雙指滑動,雙點擊"
+      }
+    },
+    "retire_item_list": {
+      "Cuid": "retire_item_list",
+      "Key": "retire_item_list",
+      "Value": "3;16;27",
+      "LangStringTable": {
+        "Remarks": "回收商店中，獎勵清單顯示的道具ID"
+      }
+    },
+    "retire_skill_compensate": {
+      "Cuid": "retire_skill_compensate",
+      "Key": "retire_skill_compensate",
+      "Value": "2,100;3,100;4,100;5,100",
+      "LangStringTable": {
+        "Remarks": "品質ID，獎勵衰減（百分比）；"
+      }
+    },
+    "SalvageAuto_maxTimes": {
+      "Cuid": "SalvageAuto_maxTimes",
+      "Key": "SalvageAuto_maxTimes",
+      "Value": "20",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "SalvageAuto_minTimes": {
+      "Cuid": "SalvageAuto_minTimes",
+      "Key": "SalvageAuto_minTimes",
+      "Value": "1",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "connecting_text_time": {
+      "Cuid": "connecting_text_time",
+      "Key": "connecting_text_time",
+      "Value": "cn,500;tw,600",
+      "LangStringTable": {
+        "Remarks": "判斷過多少ms出現connecting文字"
+      }
+    },
+    "level_exp": {
+      "Cuid": "level_exp",
+      "Key": "level_exp",
+      "Value": "260201",
+      "LangStringTable": {
+        "Remarks": "人偶升級溶液不足時快速使用的道具"
+      }
+    },
+    "level_bp": {
+      "Cuid": "level_bp",
+      "Key": "level_bp",
+      "Value": "260202",
+      "LangStringTable": {
+        "Remarks": "人偶升級BP不足時快速使用的道具"
+      }
+    },
+    "Region": {
+      "Cuid": "Region",
+      "Key": "Region",
+      "Value": "-50,50",
+      "LangStringTable": {
+        "Remarks": "色塊位罝"
+      }
+    }
+  }
+}

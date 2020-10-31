@@ -1,0 +1,384 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Score": 0.0602,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_01",
+      "LangStringTable": {
+        "Name": "耐久"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Score": 0.8921,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_09",
+      "LangStringTable": {
+        "Name": "砲擊"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Score": 0.6335,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_08",
+      "LangStringTable": {
+        "Name": "防空"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Score": 0.9813,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_03",
+      "LangStringTable": {
+        "Name": "雷擊"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Score": 0.8921,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_02",
+      "LangStringTable": {
+        "Name": "空襲"
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "武器效率"
+      }
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Score": 0.1,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "命中"
+      }
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Score": 0.6989,
+      "Attrtype": 0,
+      "Icon": "common_1_icon_state_07",
+      "LangStringTable": {
+        "Name": "機動"
+      }
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Score": 0.274,
+      "Attrtype": 0,
+      "Icon": "common_1_icon_state_04",
+      "LangStringTable": {
+        "Name": "暴擊"
+      }
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "韌性"
+      }
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "幸運"
+      }
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "裝填"
+      }
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "鎖敵"
+      }
+    },
+    "14": {
+      "Cuid": 14,
+      "Id": 14,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "裝甲類型"
+      }
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "額外暴擊率"
+      }
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "額外迴避率"
+      }
+    },
+    "17": {
+      "Cuid": 17,
+      "Id": 17,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "等級"
+      }
+    },
+    "18": {
+      "Cuid": 18,
+      "Id": 18,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "經驗"
+      }
+    },
+    "19": {
+      "Cuid": 19,
+      "Id": 19,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "最大經驗"
+      }
+    },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "砲擊最小傷害"
+      }
+    },
+    "21": {
+      "Cuid": 21,
+      "Id": 21,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "砲擊最大傷害"
+      }
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "魚雷武器最小傷害"
+      }
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "魚雷武器最大傷害"
+      }
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "運氣"
+      }
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "友好度"
+      }
+    },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "最小攻擊"
+      }
+    },
+    "27": {
+      "Cuid": 27,
+      "Id": 27,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "最大攻擊"
+      }
+    },
+    "28": {
+      "Cuid": 28,
+      "Id": 28,
+      "Score": 0.6335,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_05",
+      "LangStringTable": {
+        "Name": "護甲"
+      }
+    },
+    "29": {
+      "Cuid": 29,
+      "Id": 29,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "空襲最小傷害"
+      }
+    },
+    "30": {
+      "Cuid": 30,
+      "Id": 30,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "空襲最大傷害"
+      }
+    },
+    "31": {
+      "Cuid": 31,
+      "Id": 31,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "傷害加深（A類易傷）"
+      }
+    },
+    "32": {
+      "Cuid": 32,
+      "Id": 32,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "傷害減免（A類減免）"
+      }
+    },
+    "33": {
+      "Cuid": 33,
+      "Id": 33,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "暴擊傷害"
+      }
+    },
+    "34": {
+      "Cuid": 34,
+      "Id": 34,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "航速"
+      }
+    },
+    "35": {
+      "Cuid": 35,
+      "Id": 35,
+      "Score": 0.01,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_06",
+      "LangStringTable": {
+        "Name": "損管"
+      }
+    },
+    "36": {
+      "Cuid": 36,
+      "Id": 36,
+      "Score": 0.1,
+      "Attrtype": 1,
+      "Icon": "common_1_icon_state_10",
+      "LangStringTable": {
+        "Name": "火控"
+      }
+    },
+    "99": {
+      "Cuid": 99,
+      "Id": 99,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "劇情特殊1"
+      }
+    },
+    "98": {
+      "Cuid": 98,
+      "Id": 98,
+      "Score": 0.0,
+      "Attrtype": 1,
+      "Icon": null,
+      "LangStringTable": {
+        "Name": "劇情特殊1"
+      }
+    }
+  }
+}

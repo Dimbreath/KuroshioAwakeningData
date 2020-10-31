@@ -1,0 +1,64 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Fetterslevel": 1,
+      "Exptonextlevel": 500,
+      "Attrcoefficient": 1000
+    },
+    "2": {
+      "Cuid": 2,
+      "Fetterslevel": 2,
+      "Exptonextlevel": 700,
+      "Attrcoefficient": 1100
+    },
+    "3": {
+      "Cuid": 3,
+      "Fetterslevel": 3,
+      "Exptonextlevel": 900,
+      "Attrcoefficient": 1200
+    },
+    "4": {
+      "Cuid": 4,
+      "Fetterslevel": 4,
+      "Exptonextlevel": 1100,
+      "Attrcoefficient": 1300
+    },
+    "5": {
+      "Cuid": 5,
+      "Fetterslevel": 5,
+      "Exptonextlevel": 1300,
+      "Attrcoefficient": 1400
+    },
+    "6": {
+      "Cuid": 6,
+      "Fetterslevel": 6,
+      "Exptonextlevel": 1500,
+      "Attrcoefficient": 1500
+    },
+    "7": {
+      "Cuid": 7,
+      "Fetterslevel": 7,
+      "Exptonextlevel": 2500,
+      "Attrcoefficient": 1600
+    },
+    "8": {
+      "Cuid": 8,
+      "Fetterslevel": 8,
+      "Exptonextlevel": 3000,
+      "Attrcoefficient": 1700
+    },
+    "9": {
+      "Cuid": 9,
+      "Fetterslevel": 9,
+      "Exptonextlevel": 3500,
+      "Attrcoefficient": 1800
+    },
+    "10": {
+      "Cuid": 10,
+      "Fetterslevel": 10,
+      "Exptonextlevel": 0,
+      "Attrcoefficient": 2000
+    }
+  }
+}

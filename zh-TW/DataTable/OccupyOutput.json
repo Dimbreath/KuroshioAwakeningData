@@ -1,0 +1,1537 @@
+{
+  "Rows": {
+    "5001": {
+      "Cuid": 5001,
+      "Harbourid": 5001,
+      "Unlockcondition": [
+        "10201,5001"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,20;1,2,20;4,25,10",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 1,
+      "Defaultid2": "3,3005001,1;3,3000000,16;3,10004,6",
+      "Minimumtime2": 10
+    },
+    "5002": {
+      "Cuid": 5002,
+      "Harbourid": 5002,
+      "Unlockcondition": [
+        "10201,5002"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 5005,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 10,
+      "Defaultid2": "3,3005002,1;3,3000000,33;3,10004,8",
+      "Minimumtime2": 10
+    },
+    "5003": {
+      "Cuid": 5003,
+      "Harbourid": 5003,
+      "Unlockcondition": [
+        "10201,5003"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 5007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": "1,24,2000;1,2,1000",
+      "Prioritylevel": 2,
+      "Defaultid2": "3,3005003,1;3,3000000,16;3,10004,6",
+      "Minimumtime2": 10
+    },
+    "5004": {
+      "Cuid": 5004,
+      "Harbourid": 5004,
+      "Unlockcondition": [
+        "10201,5004"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 5007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 3,
+      "Defaultid2": "3,3005004,1;3,3000000,16;3,10004,6",
+      "Minimumtime2": 10
+    },
+    "5005": {
+      "Cuid": 5005,
+      "Harbourid": 5005,
+      "Unlockcondition": [
+        "10201,5005"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 9,
+      "Defaultid2": "3,3005005,1;3,3000000,33;3,10004,8",
+      "Minimumtime2": 10
+    },
+    "5006": {
+      "Cuid": 5006,
+      "Harbourid": 5006,
+      "Unlockcondition": [
+        "10201,5006"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 5007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 5,
+      "Defaultid2": "3,3005006,1;3,3000000,16;3,10004,6",
+      "Minimumtime2": 10
+    },
+    "5007": {
+      "Cuid": 5007,
+      "Harbourid": 5007,
+      "Unlockcondition": [
+        "10201,5007"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 4,
+      "Defaultid2": "3,3005007,1;3,3000000,16;3,10004,6",
+      "Minimumtime2": 10
+    },
+    "5008": {
+      "Cuid": 5008,
+      "Harbourid": 5008,
+      "Unlockcondition": [
+        "10201,5008"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 5005,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 6,
+      "Defaultid2": "3,3005008,1;3,3000000,33;3,10004,8",
+      "Minimumtime2": 10
+    },
+    "5009": {
+      "Cuid": 5009,
+      "Harbourid": 5009,
+      "Unlockcondition": [
+        "10201,5009"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 5005,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 7,
+      "Defaultid2": "3,3005009,1;3,3000000,33;3,10004,8",
+      "Minimumtime2": 10
+    },
+    "5010": {
+      "Cuid": 5010,
+      "Harbourid": 5010,
+      "Unlockcondition": [
+        "10201,5010"
+      ],
+      "Areaid": 5,
+      "Fight": 1,
+      "Mainid": 5005,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 8,
+      "Defaultid2": "3,3005010,1;3,3000000,33;3,10004,8",
+      "Minimumtime2": 10
+    },
+    "7001": {
+      "Cuid": 7001,
+      "Harbourid": 7001,
+      "Unlockcondition": [
+        "10201,7001"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7005,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 13,
+      "Defaultid2": "3,3007001,1;3,3000000,100;3,10004,13",
+      "Minimumtime2": 10
+    },
+    "7002": {
+      "Cuid": 7002,
+      "Harbourid": 7002,
+      "Unlockcondition": [
+        "10201,7002"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7005,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 17,
+      "Defaultid2": "3,3007002,1;3,3000000,100;3,10004,13",
+      "Minimumtime2": 10
+    },
+    "7003": {
+      "Cuid": 7003,
+      "Harbourid": 7003,
+      "Unlockcondition": [
+        "10201,7003"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7005,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 21,
+      "Defaultid2": "3,3007003,1;3,3000000,100;3,10004,13",
+      "Minimumtime2": 10
+    },
+    "7004": {
+      "Cuid": 7004,
+      "Harbourid": 7004,
+      "Unlockcondition": [
+        "10201,7004"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7008,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 29,
+      "Defaultid2": "3,3007004,1;3,3000000,150;3,10004,18",
+      "Minimumtime2": 10
+    },
+    "7005": {
+      "Cuid": 7005,
+      "Harbourid": 7005,
+      "Unlockcondition": [
+        "10201,7005"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 25,
+      "Defaultid2": "3,3007005,1;3,3000000,100;3,10004,13",
+      "Minimumtime2": 10
+    },
+    "7006": {
+      "Cuid": 7006,
+      "Harbourid": 7006,
+      "Unlockcondition": [
+        "10201,7006"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 45,
+      "Defaultid2": "3,3007006,1;3,3000000,216;3,10004,23",
+      "Minimumtime2": 10
+    },
+    "7007": {
+      "Cuid": 7007,
+      "Harbourid": 7007,
+      "Unlockcondition": [
+        "10201,7007"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7008,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 33,
+      "Defaultid2": "3,3007007,1;3,3000000,150;3,10004,18",
+      "Minimumtime2": 10
+    },
+    "7008": {
+      "Cuid": 7008,
+      "Harbourid": 7008,
+      "Unlockcondition": [
+        "10201,7008"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 37,
+      "Defaultid2": "3,3007008,1;3,3000000,150;3,10004,18",
+      "Minimumtime2": 10
+    },
+    "7009": {
+      "Cuid": 7009,
+      "Harbourid": 7009,
+      "Unlockcondition": [
+        "10201,7009"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 41,
+      "Defaultid2": "3,3007009,1;3,3000000,216;3,10004,23",
+      "Minimumtime2": 10
+    },
+    "7010": {
+      "Cuid": 7010,
+      "Harbourid": 7010,
+      "Unlockcondition": [
+        "10201,7010"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 57,
+      "Defaultid2": "3,3007010,1;3,3000000,216;3,10004,23",
+      "Minimumtime2": 10
+    },
+    "7011": {
+      "Cuid": 7011,
+      "Harbourid": 7011,
+      "Unlockcondition": [
+        "10201,7011"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 53,
+      "Defaultid2": "3,3007011,1;3,3000000,216;3,10004,23",
+      "Minimumtime2": 10
+    },
+    "7012": {
+      "Cuid": 7012,
+      "Harbourid": 7012,
+      "Unlockcondition": [
+        "10201,7012"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7008,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 49,
+      "Defaultid2": "3,3007012,1;3,3000000,150;3,10004,18",
+      "Minimumtime2": 10
+    },
+    "7013": {
+      "Cuid": 7013,
+      "Harbourid": 7013,
+      "Unlockcondition": [
+        "10201,7013"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 65,
+      "Defaultid2": "3,3007013,1;3,3000000,283;3,10004,29",
+      "Minimumtime2": 10
+    },
+    "7014": {
+      "Cuid": 7014,
+      "Harbourid": 7014,
+      "Unlockcondition": [
+        "10201,7014"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 61,
+      "Defaultid2": "3,3007014,1;3,3000000,216;3,10004,23",
+      "Minimumtime2": 10
+    },
+    "7015": {
+      "Cuid": 7015,
+      "Harbourid": 7015,
+      "Unlockcondition": [
+        "10201,7015"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 77,
+      "Defaultid2": "3,3007015,1;3,3000000,283;3,10004,29",
+      "Minimumtime2": 10
+    },
+    "7016": {
+      "Cuid": 7016,
+      "Harbourid": 7016,
+      "Unlockcondition": [
+        "10201,7016"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 69,
+      "Defaultid2": "3,3007016,1;3,3000000,283;3,10004,29",
+      "Minimumtime2": 10
+    },
+    "7017": {
+      "Cuid": 7017,
+      "Harbourid": 7017,
+      "Unlockcondition": [
+        "10201,7017"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 7018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 81,
+      "Defaultid2": "3,3007017,1;3,3000000,283;3,10004,29",
+      "Minimumtime2": 10
+    },
+    "7018": {
+      "Cuid": 7018,
+      "Harbourid": 7018,
+      "Unlockcondition": [
+        "10201,7018"
+      ],
+      "Areaid": 7,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 73,
+      "Defaultid2": "3,3007018,1;3,3000000,283;3,10004,29",
+      "Minimumtime2": 10
+    },
+    "8001": {
+      "Cuid": 8001,
+      "Harbourid": 8001,
+      "Unlockcondition": [
+        "10201,8001"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8002,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 14,
+      "Defaultid2": "3,3008001,1;3,3000000,83;3,10004,12",
+      "Minimumtime2": 10
+    },
+    "8002": {
+      "Cuid": 8002,
+      "Harbourid": 8002,
+      "Unlockcondition": [
+        "10201,8002"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 22,
+      "Defaultid2": "3,3008002,1;3,3000000,83;3,10004,12",
+      "Minimumtime2": 10
+    },
+    "8003": {
+      "Cuid": 8003,
+      "Harbourid": 8003,
+      "Unlockcondition": [
+        "10201,8003"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8002,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 18,
+      "Defaultid2": "3,3008003,1;3,3000000,83;3,10004,12",
+      "Minimumtime2": 10
+    },
+    "8004": {
+      "Cuid": 8004,
+      "Harbourid": 8004,
+      "Unlockcondition": [
+        "10201,8004"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 46,
+      "Defaultid2": "3,3008004,1;3,3000000,200;3,10004,22",
+      "Minimumtime2": 10
+    },
+    "8005": {
+      "Cuid": 8005,
+      "Harbourid": 8005,
+      "Unlockcondition": [
+        "10201,8005"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8002,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 26,
+      "Defaultid2": "3,3008005,1;3,3000000,83;3,10004,12",
+      "Minimumtime2": 10
+    },
+    "8006": {
+      "Cuid": 8006,
+      "Harbourid": 8006,
+      "Unlockcondition": [
+        "10201,8006"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 30,
+      "Defaultid2": "3,3008006,1;3,3000000,116;3,10004,15",
+      "Minimumtime2": 10
+    },
+    "8007": {
+      "Cuid": 8007,
+      "Harbourid": 8007,
+      "Unlockcondition": [
+        "10201,8007"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 50,
+      "Defaultid2": "3,3008007,1;3,3000000,200;3,10004,22",
+      "Minimumtime2": 10
+    },
+    "8008": {
+      "Cuid": 8008,
+      "Harbourid": 8008,
+      "Unlockcondition": [
+        "10201,8008"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 54,
+      "Defaultid2": "3,3008008,1;3,3000000,200;3,10004,22",
+      "Minimumtime2": 10
+    },
+    "8009": {
+      "Cuid": 8009,
+      "Harbourid": 8009,
+      "Unlockcondition": [
+        "10201,8009"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 58,
+      "Defaultid2": "3,3008009,1;3,3000000,300;3,10004,30",
+      "Minimumtime2": 10
+    },
+    "8010": {
+      "Cuid": 8010,
+      "Harbourid": 8010,
+      "Unlockcondition": [
+        "10201,8010"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 34,
+      "Defaultid2": "3,3008010,1;3,3000000,116;3,10004,15",
+      "Minimumtime2": 10
+    },
+    "8011": {
+      "Cuid": 8011,
+      "Harbourid": 8011,
+      "Unlockcondition": [
+        "10201,8011"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 38,
+      "Defaultid2": "3,3008011,1;3,3000000,116;3,10004,15",
+      "Minimumtime2": 10
+    },
+    "8012": {
+      "Cuid": 8012,
+      "Harbourid": 8012,
+      "Unlockcondition": [
+        "10201,8012"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 70,
+      "Defaultid2": "3,3008012,1;3,3000000,200;3,10004,22",
+      "Minimumtime2": 10
+    },
+    "8013": {
+      "Cuid": 8013,
+      "Harbourid": 8013,
+      "Unlockcondition": [
+        "10201,8013"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 78,
+      "Defaultid2": "3,3008013,1;3,3000000,200;3,10004,22",
+      "Minimumtime2": 10
+    },
+    "8014": {
+      "Cuid": 8014,
+      "Harbourid": 8014,
+      "Unlockcondition": [
+        "10201,8014"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 74,
+      "Defaultid2": "3,3008014,1;3,3000000,300;3,10004,30",
+      "Minimumtime2": 10
+    },
+    "8015": {
+      "Cuid": 8015,
+      "Harbourid": 8015,
+      "Unlockcondition": [
+        "10201,8015"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 42,
+      "Defaultid2": "3,3008015,1;3,3000000,116;3,10004,15",
+      "Minimumtime2": 10
+    },
+    "8016": {
+      "Cuid": 8016,
+      "Harbourid": 8016,
+      "Unlockcondition": [
+        "10201,8016"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 66,
+      "Defaultid2": "3,3008016,1;3,3000000,300;3,10004,30",
+      "Minimumtime2": 10
+    },
+    "8017": {
+      "Cuid": 8017,
+      "Harbourid": 8017,
+      "Unlockcondition": [
+        "10201,8017"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 82,
+      "Defaultid2": "3,3008017,1;3,3000000,300;3,10004,30",
+      "Minimumtime2": 10
+    },
+    "8018": {
+      "Cuid": 8018,
+      "Harbourid": 8018,
+      "Unlockcondition": [
+        "10201,8018"
+      ],
+      "Areaid": 8,
+      "Fight": 1,
+      "Mainid": 8014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 62,
+      "Defaultid2": "3,3008018,1;3,3000000,300;3,10004,30",
+      "Minimumtime2": 10
+    },
+    "9001": {
+      "Cuid": 9001,
+      "Harbourid": 9001,
+      "Unlockcondition": [
+        "10201,9001"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9003,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 11,
+      "Defaultid2": "3,3009001,1;3,3000000,66;3,10004,11",
+      "Minimumtime2": 10
+    },
+    "9002": {
+      "Cuid": 9002,
+      "Harbourid": 9002,
+      "Unlockcondition": [
+        "10201,9002"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9003,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 15,
+      "Defaultid2": "3,3009002,1;3,3000000,66;3,10004,11",
+      "Minimumtime2": 10
+    },
+    "9003": {
+      "Cuid": 9003,
+      "Harbourid": 9003,
+      "Unlockcondition": [
+        "10201,9003"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 19,
+      "Defaultid2": "3,3009003,1;3,3000000,66;3,10004,11",
+      "Minimumtime2": 10
+    },
+    "9004": {
+      "Cuid": 9004,
+      "Harbourid": 9004,
+      "Unlockcondition": [
+        "10201,9004"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9003,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 23,
+      "Defaultid2": "3,3009004,1;3,3000000,66;3,10004,11",
+      "Minimumtime2": 10
+    },
+    "9005": {
+      "Cuid": 9005,
+      "Harbourid": 9005,
+      "Unlockcondition": [
+        "10201,9005"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9012,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 43,
+      "Defaultid2": "3,3009005,1;3,3000000,233;3,10004,25",
+      "Minimumtime2": 10
+    },
+    "9006": {
+      "Cuid": 9006,
+      "Harbourid": 9006,
+      "Unlockcondition": [
+        "10201,9006"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 27,
+      "Defaultid2": "3,3009006,1;3,3000000,166;3,10004,19",
+      "Minimumtime2": 10
+    },
+    "9007": {
+      "Cuid": 9007,
+      "Harbourid": 9007,
+      "Unlockcondition": [
+        "10201,9007"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 47,
+      "Defaultid2": "3,3009007,1;3,3000000,266;3,10004,27",
+      "Minimumtime2": 10
+    },
+    "9008": {
+      "Cuid": 9008,
+      "Harbourid": 9008,
+      "Unlockcondition": [
+        "10201,9008"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 31,
+      "Defaultid2": "3,3009008,1;3,3000000,166;3,10004,19",
+      "Minimumtime2": 10
+    },
+    "9009": {
+      "Cuid": 9009,
+      "Harbourid": 9009,
+      "Unlockcondition": [
+        "10201,9009"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 35,
+      "Defaultid2": "3,3009009,1;3,3000000,166;3,10004,19",
+      "Minimumtime2": 10
+    },
+    "9010": {
+      "Cuid": 9010,
+      "Harbourid": 9010,
+      "Unlockcondition": [
+        "10201,9010"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9012,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 51,
+      "Defaultid2": "3,3009010,1;3,3000000,233;3,10004,25",
+      "Minimumtime2": 10
+    },
+    "9011": {
+      "Cuid": 9011,
+      "Harbourid": 9011,
+      "Unlockcondition": [
+        "10201,9011"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9012,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 67,
+      "Defaultid2": "3,3009011,1;3,3000000,233;3,10004,25",
+      "Minimumtime2": 10
+    },
+    "9012": {
+      "Cuid": 9012,
+      "Harbourid": 9012,
+      "Unlockcondition": [
+        "10201,9012"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 59,
+      "Defaultid2": "3,3009012,1;3,3000000,233;3,10004,25",
+      "Minimumtime2": 10
+    },
+    "9013": {
+      "Cuid": 9013,
+      "Harbourid": 9013,
+      "Unlockcondition": [
+        "10201,9013"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9012,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 63,
+      "Defaultid2": "3,3009013,1;3,3000000,233;3,10004,25",
+      "Minimumtime2": 10
+    },
+    "9014": {
+      "Cuid": 9014,
+      "Harbourid": 9014,
+      "Unlockcondition": [
+        "10201,9014"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 39,
+      "Defaultid2": "3,3009014,1;3,3000000,166;3,10004,19",
+      "Minimumtime2": 10
+    },
+    "9015": {
+      "Cuid": 9015,
+      "Harbourid": 9015,
+      "Unlockcondition": [
+        "10201,9015"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 55,
+      "Defaultid2": "3,3009015,1;3,3000000,266;3,10004,27",
+      "Minimumtime2": 10
+    },
+    "9016": {
+      "Cuid": 9016,
+      "Harbourid": 9016,
+      "Unlockcondition": [
+        "10201,9016"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 75,
+      "Defaultid2": "3,3009016,1;3,3000000,266;3,10004,27",
+      "Minimumtime2": 10
+    },
+    "9017": {
+      "Cuid": 9017,
+      "Harbourid": 9017,
+      "Unlockcondition": [
+        "10201,9017"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 9018,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 79,
+      "Defaultid2": "3,3009017,1;3,3000000,266;3,10004,27",
+      "Minimumtime2": 10
+    },
+    "9018": {
+      "Cuid": 9018,
+      "Harbourid": 9018,
+      "Unlockcondition": [
+        "10201,9018"
+      ],
+      "Areaid": 9,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 71,
+      "Defaultid2": "3,3009018,1;3,3000000,266;3,10004,27",
+      "Minimumtime2": 10
+    },
+    "6001": {
+      "Cuid": 6001,
+      "Harbourid": 6001,
+      "Unlockcondition": [
+        "10201,6001"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6002,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 12,
+      "Defaultid2": "3,3006001,1;3,3000000,50;3,10004,9",
+      "Minimumtime2": 10
+    },
+    "6002": {
+      "Cuid": 6002,
+      "Harbourid": 6002,
+      "Unlockcondition": [
+        "10201,6002"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 16,
+      "Defaultid2": "3,3006002,1;3,3000000,50;3,10004,9",
+      "Minimumtime2": 10
+    },
+    "6003": {
+      "Cuid": 6003,
+      "Harbourid": 6003,
+      "Unlockcondition": [
+        "10201,6003"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 28,
+      "Defaultid2": "3,3006003,1;3,3000000,133;3,10004,16",
+      "Minimumtime2": 10
+    },
+    "6004": {
+      "Cuid": 6004,
+      "Harbourid": 6004,
+      "Unlockcondition": [
+        "10201,6004"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6002,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 20,
+      "Defaultid2": "3,3006004,1;3,3000000,50;3,10004,9",
+      "Minimumtime2": 10
+    },
+    "6005": {
+      "Cuid": 6005,
+      "Harbourid": 6005,
+      "Unlockcondition": [
+        "10201,6005"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6002,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 24,
+      "Defaultid2": "3,3006005,1;3,3000000,50;3,10004,9",
+      "Minimumtime2": 10
+    },
+    "6006": {
+      "Cuid": 6006,
+      "Harbourid": 6006,
+      "Unlockcondition": [
+        "10201,6006"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 32,
+      "Defaultid2": "3,3006006,1;3,3000000,133;3,10004,16",
+      "Minimumtime2": 10
+    },
+    "6007": {
+      "Cuid": 6007,
+      "Harbourid": 6007,
+      "Unlockcondition": [
+        "10201,6007"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 36,
+      "Defaultid2": "3,3006007,1;3,3000000,133;3,10004,16",
+      "Minimumtime2": 10
+    },
+    "6008": {
+      "Cuid": 6008,
+      "Harbourid": 6008,
+      "Unlockcondition": [
+        "10201,6008"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6007,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 40,
+      "Defaultid2": "3,3006008,1;3,3000000,133;3,10004,16",
+      "Minimumtime2": 10
+    },
+    "6009": {
+      "Cuid": 6009,
+      "Harbourid": 6009,
+      "Unlockcondition": [
+        "10201,6009"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 44,
+      "Defaultid2": "3,3006009,1;3,3000000,183;3,10004,20",
+      "Minimumtime2": 10
+    },
+    "6010": {
+      "Cuid": 6010,
+      "Harbourid": 6010,
+      "Unlockcondition": [
+        "10201,6010"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 60,
+      "Defaultid2": "3,3006010,1;3,3000000,250;3,10004,26",
+      "Minimumtime2": 10
+    },
+    "6011": {
+      "Cuid": 6011,
+      "Harbourid": 6011,
+      "Unlockcondition": [
+        "10201,6011"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 68,
+      "Defaultid2": "3,3006011,1;3,3000000,250;3,10004,26",
+      "Minimumtime2": 10
+    },
+    "6012": {
+      "Cuid": 6012,
+      "Harbourid": 6012,
+      "Unlockcondition": [
+        "10201,6012"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 64,
+      "Defaultid2": "3,3006012,1;3,3000000,183;3,10004,20",
+      "Minimumtime2": 10
+    },
+    "6013": {
+      "Cuid": 6013,
+      "Harbourid": 6013,
+      "Unlockcondition": [
+        "10201,6013"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 56,
+      "Defaultid2": "3,3006013,1;3,3000000,183;3,10004,20",
+      "Minimumtime2": 10
+    },
+    "6014": {
+      "Cuid": 6014,
+      "Harbourid": 6014,
+      "Unlockcondition": [
+        "10201,6014"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 0,
+      "Operatetype": [
+        1,
+        2
+      ],
+      "Reward": "1,24,5;1,2,5",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 48,
+      "Defaultid2": "3,3006014,1;3,3000000,183;3,10004,20",
+      "Minimumtime2": 10
+    },
+    "6015": {
+      "Cuid": 6015,
+      "Harbourid": 6015,
+      "Unlockcondition": [
+        "10201,6015"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6014,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 52,
+      "Defaultid2": "3,3006015,1;3,3000000,183;3,10004,20",
+      "Minimumtime2": 10
+    },
+    "6016": {
+      "Cuid": 6016,
+      "Harbourid": 6016,
+      "Unlockcondition": [
+        "10201,6016"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 76,
+      "Defaultid2": "3,3006016,1;3,3000000,250;3,10004,26",
+      "Minimumtime2": 10
+    },
+    "6017": {
+      "Cuid": 6017,
+      "Harbourid": 6017,
+      "Unlockcondition": [
+        "10201,6017"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 72,
+      "Defaultid2": "3,3006017,1;3,3000000,250;3,10004,26",
+      "Minimumtime2": 10
+    },
+    "6018": {
+      "Cuid": 6018,
+      "Harbourid": 6018,
+      "Unlockcondition": [
+        "10201,6018"
+      ],
+      "Areaid": 6,
+      "Fight": 1,
+      "Mainid": 6010,
+      "Operatetype": null,
+      "Reward": "1,24,1;1,2,1",
+      "Defaultid": null,
+      "Minimumtime": 0,
+      "Onereward": null,
+      "Prioritylevel": 80,
+      "Defaultid2": "3,3006018,1;3,3000000,250;3,10004,26",
+      "Minimumtime2": 10
+    }
+  }
+}

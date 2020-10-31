@@ -1,0 +1,70 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Paytask": 2,
+      "Type": 1,
+      "Parameter": "0",
+      "Task": "30501,30502,30503,30504,30505,30506,30507,30508,30509,30510",
+      "LangStringTable": {
+        "Name": "高級任務"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Paytask": 1,
+      "Type": 2,
+      "Parameter": "0",
+      "Task": "30001,30002,30003",
+      "LangStringTable": {
+        "Name": "每日任務"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Paytask": 1,
+      "Type": 3,
+      "Parameter": "1",
+      "Task": "30101,30102,30103",
+      "LangStringTable": {
+        "Name": "第一週"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Paytask": 1,
+      "Type": 3,
+      "Parameter": "2",
+      "Task": "30201,30202,30203",
+      "LangStringTable": {
+        "Name": "第二週"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Paytask": 1,
+      "Type": 3,
+      "Parameter": "3",
+      "Task": "30301,30302,30303",
+      "LangStringTable": {
+        "Name": "第三週"
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Paytask": 1,
+      "Type": 3,
+      "Parameter": "4",
+      "Task": "30401,30402,30403",
+      "LangStringTable": {
+        "Name": "第四週"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Shopcn": "activity_shop_title_01",
+      "Shopen": "activity_shop_title_02",
+      "BtnRes": "main_1_function_icon_combat_fish",
+      "ActPicBg": "activity_1_menu_bg_20200103",
+      "ActBtnTxt": "activity_map_tips_04",
+      "ActTextDes": null,
+      "ActTextDesPos": null,
+      "ActTitleRes": null,
+      "ActTitleResPos": null,
+      "SubRule": 1
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Shopcn": "activity_shop2_title_01",
+      "Shopen": "activity_shop2_title_02",
+      "BtnRes": "main_1_function_icon_combat_recallshift",
+      "ActPicBg": "activity_1_menu_bg_20200423",
+      "ActBtnTxt": "activity_go_text_01",
+      "ActTextDes": "activity_surface_des_02",
+      "ActTextDesPos": "-425,-144",
+      "ActTitleRes": "activity_1_title_20200423",
+      "ActTitleResPos": "-297,18",
+      "SubRule": 2
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Shopcn": "activity_shop3_title_01",
+      "Shopen": "activity_shop3_title_02",
+      "BtnRes": "main_1_function_icon_combat_virtual",
+      "ActPicBg": "activity_1_menu_bg_20200420",
+      "ActBtnTxt": "activity_go_text_02",
+      "ActTextDes": "activity_surface_des_01",
+      "ActTextDesPos": "18,-184",
+      "ActTitleRes": "activity_1_title_20200420",
+      "ActTitleResPos": "292,-30",
+      "SubRule": 2
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Shopcn": "activity_shop3_title_01",
+      "Shopen": "activity_shop3_title_02",
+      "BtnRes": "main_1_function_icon_combat_virtual",
+      "ActPicBg": "activity_1_bg_dsv",
+      "ActBtnTxt": "activity_go_text_03",
+      "ActTextDes": "activity_surface_des_03",
+      "ActTextDesPos": "-462,127",
+      "ActTitleRes": "activity_1_title_dsv",
+      "ActTitleResPos": "-223,206",
+      "SubRule": 2
+    }
+  }
+}

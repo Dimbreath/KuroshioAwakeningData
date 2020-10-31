@@ -1,0 +1,1644 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Unlockcondition": [
+        "10201,5001"
+      ],
+      "Number": 1,
+      "Difficulty": 1,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Unlockcondition": [
+        "10201,5003"
+      ],
+      "Number": 1,
+      "Difficulty": 1,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Unlockcondition": [
+        "10201,5004"
+      ],
+      "Number": 1,
+      "Difficulty": 1,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Unlockcondition": [
+        "10201,5007"
+      ],
+      "Number": 1,
+      "Difficulty": 1,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Unlockcondition": [
+        "10201,5006"
+      ],
+      "Number": 2,
+      "Difficulty": 2,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Unlockcondition": [
+        "10201,5008"
+      ],
+      "Number": 2,
+      "Difficulty": 2,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Unlockcondition": [
+        "10201,5005"
+      ],
+      "Number": 3,
+      "Difficulty": 3,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Unlockcondition": [
+        "10201,5009"
+      ],
+      "Number": 3,
+      "Difficulty": 3,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Unlockcondition": [
+        "10201,5002"
+      ],
+      "Number": 4,
+      "Difficulty": 4,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "Unlockcondition": [
+        "10201,5010"
+      ],
+      "Number": 4,
+      "Difficulty": 4,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "Unlockcondition": [
+        "10201,6001"
+      ],
+      "Number": 5,
+      "Difficulty": 5,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "Unlockcondition": [
+        "10201,7001"
+      ],
+      "Number": 5,
+      "Difficulty": 5,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "Unlockcondition": [
+        "10201,8001"
+      ],
+      "Number": 5,
+      "Difficulty": 5,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "14": {
+      "Cuid": 14,
+      "Id": 14,
+      "Unlockcondition": [
+        "10201,9001"
+      ],
+      "Number": 5,
+      "Difficulty": 5,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "Unlockcondition": [
+        "10201,6002"
+      ],
+      "Number": 6,
+      "Difficulty": 6,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "Unlockcondition": [
+        "10201,7002"
+      ],
+      "Number": 6,
+      "Difficulty": 6,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "17": {
+      "Cuid": 17,
+      "Id": 17,
+      "Unlockcondition": [
+        "10201,8003"
+      ],
+      "Number": 6,
+      "Difficulty": 6,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "18": {
+      "Cuid": 18,
+      "Id": 18,
+      "Unlockcondition": [
+        "10201,9002"
+      ],
+      "Number": 6,
+      "Difficulty": 6,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "19": {
+      "Cuid": 19,
+      "Id": 19,
+      "Unlockcondition": [
+        "10201,6004"
+      ],
+      "Number": 7,
+      "Difficulty": 7,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "Unlockcondition": [
+        "10201,7003"
+      ],
+      "Number": 7,
+      "Difficulty": 7,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "21": {
+      "Cuid": 21,
+      "Id": 21,
+      "Unlockcondition": [
+        "10201,8002"
+      ],
+      "Number": 7,
+      "Difficulty": 7,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "Unlockcondition": [
+        "10201,9003"
+      ],
+      "Number": 7,
+      "Difficulty": 7,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "Unlockcondition": [
+        "10201,6005"
+      ],
+      "Number": 8,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "Unlockcondition": [
+        "10201,7005"
+      ],
+      "Number": 8,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "Unlockcondition": [
+        "10201,8005"
+      ],
+      "Number": 8,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "Unlockcondition": [
+        "10201,9004"
+      ],
+      "Number": 8,
+      "Difficulty": 8,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "27": {
+      "Cuid": 27,
+      "Id": 27,
+      "Unlockcondition": [
+        "10201,6003"
+      ],
+      "Number": 9,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "28": {
+      "Cuid": 28,
+      "Id": 28,
+      "Unlockcondition": [
+        "10201,7004"
+      ],
+      "Number": 9,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "29": {
+      "Cuid": 29,
+      "Id": 29,
+      "Unlockcondition": [
+        "10201,8006"
+      ],
+      "Number": 9,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "30": {
+      "Cuid": 30,
+      "Id": 30,
+      "Unlockcondition": [
+        "10201,9006"
+      ],
+      "Number": 9,
+      "Difficulty": 9,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "31": {
+      "Cuid": 31,
+      "Id": 31,
+      "Unlockcondition": [
+        "10201,6006"
+      ],
+      "Number": 10,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "32": {
+      "Cuid": 32,
+      "Id": 32,
+      "Unlockcondition": [
+        "10201,7007"
+      ],
+      "Number": 10,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "33": {
+      "Cuid": 33,
+      "Id": 33,
+      "Unlockcondition": [
+        "10201,8010"
+      ],
+      "Number": 10,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "34": {
+      "Cuid": 34,
+      "Id": 34,
+      "Unlockcondition": [
+        "10201,9008"
+      ],
+      "Number": 10,
+      "Difficulty": 10,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "35": {
+      "Cuid": 35,
+      "Id": 35,
+      "Unlockcondition": [
+        "10201,6007"
+      ],
+      "Number": 11,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "36": {
+      "Cuid": 36,
+      "Id": 36,
+      "Unlockcondition": [
+        "10201,7008"
+      ],
+      "Number": 11,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "37": {
+      "Cuid": 37,
+      "Id": 37,
+      "Unlockcondition": [
+        "10201,8011"
+      ],
+      "Number": 11,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "38": {
+      "Cuid": 38,
+      "Id": 38,
+      "Unlockcondition": [
+        "10201,9009"
+      ],
+      "Number": 11,
+      "Difficulty": 11,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "39": {
+      "Cuid": 39,
+      "Id": 39,
+      "Unlockcondition": [
+        "10201,6008"
+      ],
+      "Number": 12,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "40": {
+      "Cuid": 40,
+      "Id": 40,
+      "Unlockcondition": [
+        "10201,7009"
+      ],
+      "Number": 12,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "41": {
+      "Cuid": 41,
+      "Id": 41,
+      "Unlockcondition": [
+        "10201,8015"
+      ],
+      "Number": 12,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "42": {
+      "Cuid": 42,
+      "Id": 42,
+      "Unlockcondition": [
+        "10201,9014"
+      ],
+      "Number": 12,
+      "Difficulty": 12,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "43": {
+      "Cuid": 43,
+      "Id": 43,
+      "Unlockcondition": [
+        "10201,6009"
+      ],
+      "Number": 13,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "44": {
+      "Cuid": 44,
+      "Id": 44,
+      "Unlockcondition": [
+        "10201,7006"
+      ],
+      "Number": 13,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "45": {
+      "Cuid": 45,
+      "Id": 45,
+      "Unlockcondition": [
+        "10201,8004"
+      ],
+      "Number": 13,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "46": {
+      "Cuid": 46,
+      "Id": 46,
+      "Unlockcondition": [
+        "10201,9005"
+      ],
+      "Number": 13,
+      "Difficulty": 13,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "47": {
+      "Cuid": 47,
+      "Id": 47,
+      "Unlockcondition": [
+        "10201,6014"
+      ],
+      "Number": 14,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "48": {
+      "Cuid": 48,
+      "Id": 48,
+      "Unlockcondition": [
+        "10201,7012"
+      ],
+      "Number": 14,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "49": {
+      "Cuid": 49,
+      "Id": 49,
+      "Unlockcondition": [
+        "10201,8007"
+      ],
+      "Number": 14,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "50": {
+      "Cuid": 50,
+      "Id": 50,
+      "Unlockcondition": [
+        "10201,9007"
+      ],
+      "Number": 14,
+      "Difficulty": 14,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "51": {
+      "Cuid": 51,
+      "Id": 51,
+      "Unlockcondition": [
+        "10201,6015"
+      ],
+      "Number": 15,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "52": {
+      "Cuid": 52,
+      "Id": 52,
+      "Unlockcondition": [
+        "10201,7011"
+      ],
+      "Number": 15,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "53": {
+      "Cuid": 53,
+      "Id": 53,
+      "Unlockcondition": [
+        "10201,8008"
+      ],
+      "Number": 15,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "54": {
+      "Cuid": 54,
+      "Id": 54,
+      "Unlockcondition": [
+        "10201,9010"
+      ],
+      "Number": 15,
+      "Difficulty": 15,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "55": {
+      "Cuid": 55,
+      "Id": 55,
+      "Unlockcondition": [
+        "10201,6013"
+      ],
+      "Number": 16,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "56": {
+      "Cuid": 56,
+      "Id": 56,
+      "Unlockcondition": [
+        "10201,7010"
+      ],
+      "Number": 16,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "57": {
+      "Cuid": 57,
+      "Id": 57,
+      "Unlockcondition": [
+        "10201,8009"
+      ],
+      "Number": 16,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "58": {
+      "Cuid": 58,
+      "Id": 58,
+      "Unlockcondition": [
+        "10201,9015"
+      ],
+      "Number": 16,
+      "Difficulty": 16,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "59": {
+      "Cuid": 59,
+      "Id": 59,
+      "Unlockcondition": [
+        "10201,6010"
+      ],
+      "Number": 17,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "60": {
+      "Cuid": 60,
+      "Id": 60,
+      "Unlockcondition": [
+        "10201,7014"
+      ],
+      "Number": 17,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "61": {
+      "Cuid": 61,
+      "Id": 61,
+      "Unlockcondition": [
+        "10201,8018"
+      ],
+      "Number": 17,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "62": {
+      "Cuid": 62,
+      "Id": 62,
+      "Unlockcondition": [
+        "10201,9012"
+      ],
+      "Number": 17,
+      "Difficulty": 17,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "63": {
+      "Cuid": 63,
+      "Id": 63,
+      "Unlockcondition": [
+        "10201,6012"
+      ],
+      "Number": 18,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "64": {
+      "Cuid": 64,
+      "Id": 64,
+      "Unlockcondition": [
+        "10201,7013"
+      ],
+      "Number": 18,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "65": {
+      "Cuid": 65,
+      "Id": 65,
+      "Unlockcondition": [
+        "10201,8016"
+      ],
+      "Number": 18,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "66": {
+      "Cuid": 66,
+      "Id": 66,
+      "Unlockcondition": [
+        "10201,9013"
+      ],
+      "Number": 18,
+      "Difficulty": 18,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "67": {
+      "Cuid": 67,
+      "Id": 67,
+      "Unlockcondition": [
+        "10201,6011"
+      ],
+      "Number": 19,
+      "Difficulty": 19,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "68": {
+      "Cuid": 68,
+      "Id": 68,
+      "Unlockcondition": [
+        "10201,7016"
+      ],
+      "Number": 19,
+      "Difficulty": 19,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "69": {
+      "Cuid": 69,
+      "Id": 69,
+      "Unlockcondition": [
+        "10201,8012"
+      ],
+      "Number": 19,
+      "Difficulty": 19,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "70": {
+      "Cuid": 70,
+      "Id": 70,
+      "Unlockcondition": [
+        "10201,9011"
+      ],
+      "Number": 19,
+      "Difficulty": 19,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "71": {
+      "Cuid": 71,
+      "Id": 71,
+      "Unlockcondition": [
+        "10201,6017"
+      ],
+      "Number": 20,
+      "Difficulty": 20,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "72": {
+      "Cuid": 72,
+      "Id": 72,
+      "Unlockcondition": [
+        "10201,7018"
+      ],
+      "Number": 20,
+      "Difficulty": 20,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "73": {
+      "Cuid": 73,
+      "Id": 73,
+      "Unlockcondition": [
+        "10201,8014"
+      ],
+      "Number": 20,
+      "Difficulty": 20,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "74": {
+      "Cuid": 74,
+      "Id": 74,
+      "Unlockcondition": [
+        "10201,9018"
+      ],
+      "Number": 20,
+      "Difficulty": 20,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "75": {
+      "Cuid": 75,
+      "Id": 75,
+      "Unlockcondition": [
+        "10201,6016"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "76": {
+      "Cuid": 76,
+      "Id": 76,
+      "Unlockcondition": [
+        "10201,6018"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "77": {
+      "Cuid": 77,
+      "Id": 77,
+      "Unlockcondition": [
+        "10201,7015"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "78": {
+      "Cuid": 78,
+      "Id": 78,
+      "Unlockcondition": [
+        "10201,7017"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "79": {
+      "Cuid": 79,
+      "Id": 79,
+      "Unlockcondition": [
+        "10201,8013"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "80": {
+      "Cuid": 80,
+      "Id": 80,
+      "Unlockcondition": [
+        "10201,8017"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "81": {
+      "Cuid": 81,
+      "Id": 81,
+      "Unlockcondition": [
+        "10201,9016"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    },
+    "82": {
+      "Cuid": 82,
+      "Id": 82,
+      "Unlockcondition": [
+        "10201,9017"
+      ],
+      "Number": 21,
+      "Difficulty": 21,
+      "Qualitychance": [
+        "1,10"
+      ],
+      "Typechance": [
+        "1,5",
+        "2,5",
+        "3,20",
+        "4,20",
+        "5,25",
+        "6,25"
+      ]
+    }
+  }
+}

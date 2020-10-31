@@ -1,0 +1,22 @@
+{
+  "Rows": {
+    "690001": {
+      "Cuid": 690001,
+      "Itemid": 690001,
+      "IconI": "socialcontact_1_nc_ncskin_l_3",
+      "IconM": "socialcontact_1_nc_ncskin_m_3",
+      "IconS": "socialcontact_1_nc_ncskin_s_3",
+      "Frame": null,
+      "Background": 0
+    },
+    "690002": {
+      "Cuid": 690002,
+      "Itemid": 690002,
+      "IconI": "socialcontact_1_nc_ncskin_l_1",
+      "IconM": "socialcontact_1_nc_ncskin_m_1",
+      "IconS": "socialcontact_1_nc_ncskin_s_1",
+      "Frame": "card690002",
+      "Background": 1
+    }
+  }
+}

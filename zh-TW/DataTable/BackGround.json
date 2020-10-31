@@ -1,0 +1,116 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Unlocking": 1,
+      "Display": 1,
+      "Default": 1,
+      "Backgroundtype": 1,
+      "Backgroundres": "lobby_bg_01",
+      "Thumbnail": "lobby_bg_sl_001",
+      "LangStringTable": {
+        "Backgroundname": "港口基地",
+        "Tips": null
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Unlocking": 0,
+      "Display": 0,
+      "Default": 0,
+      "Backgroundtype": 2,
+      "Backgroundres": "bg_1_battle_003",
+      "Thumbnail": "bg_1_battle_003",
+      "LangStringTable": {
+        "Backgroundname": "港口基地-秋日",
+        "Tips": "暫無獲取途徑"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Unlocking": 0,
+      "Display": 0,
+      "Default": 0,
+      "Backgroundtype": 1,
+      "Backgroundres": "lobby_bg_01",
+      "Thumbnail": "bg_1_battle_003",
+      "LangStringTable": {
+        "Backgroundname": "港口基地-春分",
+        "Tips": "暫無獲取途徑"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Unlocking": 0,
+      "Display": 0,
+      "Default": 0,
+      "Backgroundtype": 2,
+      "Backgroundres": "bg_1_battle_004",
+      "Thumbnail": "bg_1_battle_004",
+      "LangStringTable": {
+        "Backgroundname": "港口基地-夏至",
+        "Tips": "暫無獲取途徑"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Unlocking": 0,
+      "Display": 0,
+      "Default": 0,
+      "Backgroundtype": 1,
+      "Backgroundres": "lobby_bg_05",
+      "Thumbnail": "lobby_bg_sl_005",
+      "LangStringTable": {
+        "Backgroundname": "黑鋒重工",
+        "Tips": "暫無獲取途徑"
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Unlocking": 0,
+      "Display": 0,
+      "Default": 0,
+      "Backgroundtype": 1,
+      "Backgroundres": "lobby_bg_06",
+      "Thumbnail": "lobby_bg_sl_006",
+      "LangStringTable": {
+        "Backgroundname": "薔薇帝國",
+        "Tips": "暫無獲取途徑"
+      }
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Unlocking": 0,
+      "Display": 0,
+      "Default": 0,
+      "Backgroundtype": 1,
+      "Backgroundres": "lobby_bg_07",
+      "Thumbnail": "lobby_bg_sl_007",
+      "LangStringTable": {
+        "Backgroundname": "神代會社",
+        "Tips": "暫無獲取途徑"
+      }
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Unlocking": 0,
+      "Display": 1,
+      "Default": 0,
+      "Backgroundtype": 1,
+      "Backgroundres": "lobby_bg_08",
+      "Thumbnail": "lobby_bg_sl_008",
+      "LangStringTable": {
+        "Backgroundname": "銀翼財團",
+        "Tips": "追念之井限時禮包獲取"
+      }
+    }
+  }
+}

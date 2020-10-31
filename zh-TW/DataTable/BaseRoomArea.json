@@ -1,0 +1,208 @@
+{
+  "Rows": {
+    "1001": {
+      "Cuid": 1001,
+      "Id": 1001,
+      "Areatype": 2,
+      "Initialfurniture": "1020",
+      "Initialfurniturepos": "0",
+      "Furnituretype": "102",
+      "Furniturerotate": "0",
+      "LangStringTable": {
+        "Areaname": "地板區域"
+      }
+    },
+    "1002": {
+      "Cuid": 1002,
+      "Id": 1002,
+      "Areatype": 1,
+      "Initialfurniture": "1008",
+      "Initialfurniturepos": "6,6",
+      "Furnituretype": "205",
+      "Furniturerotate": "0",
+      "LangStringTable": {
+        "Areaname": "地毯區域"
+      }
+    },
+    "1003": {
+      "Cuid": 1003,
+      "Id": 1003,
+      "Areatype": 0,
+      "Initialfurniture": "1015;1010;1012;1016;1013;1011;1016;1014;1031",
+      "Initialfurniturepos": "7,8;0,5;0,1;0,15;12,0;0,12;15,0;5,0;8,11",
+      "Furnituretype": "200;201;202;203;204",
+      "Furniturerotate": "1;0;0;0;1;0;1;1;0",
+      "LangStringTable": {
+        "Areaname": "家具區域"
+      }
+    },
+    "1004": {
+      "Cuid": 1004,
+      "Id": 1004,
+      "Areatype": 5,
+      "Initialfurniture": "1019",
+      "Initialfurniturepos": "0",
+      "Furnituretype": "101",
+      "Furniturerotate": "0",
+      "LangStringTable": {
+        "Areaname": "牆面區域"
+      }
+    },
+    "1005": {
+      "Cuid": 1005,
+      "Id": 1005,
+      "Areatype": 3,
+      "Initialfurniture": "1017",
+      "Initialfurniturepos": "1,5",
+      "Furnituretype": "206",
+      "Furniturerotate": "0",
+      "LangStringTable": {
+        "Areaname": "牆掛飾左區域"
+      }
+    },
+    "1006": {
+      "Cuid": 1006,
+      "Id": 1006,
+      "Areatype": 3,
+      "Initialfurniture": "1018",
+      "Initialfurniturepos": "1,4",
+      "Furnituretype": "206",
+      "Furniturerotate": "0",
+      "LangStringTable": {
+        "Areaname": "牆掛飾右區域"
+      }
+    },
+    "1007": {
+      "Cuid": 1007,
+      "Id": 1007,
+      "Areatype": 4,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "103",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "壁紙左區域"
+      }
+    },
+    "1008": {
+      "Cuid": 1008,
+      "Id": 1008,
+      "Areatype": 4,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "103",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "壁紙右區域"
+      }
+    },
+    "1009": {
+      "Cuid": 1009,
+      "Id": 1009,
+      "Areatype": 2,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "102",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "空地板區域"
+      }
+    },
+    "2001": {
+      "Cuid": 2001,
+      "Id": 2001,
+      "Areatype": 2,
+      "Initialfurniture": "2001002",
+      "Initialfurniturepos": "0",
+      "Furnituretype": "300",
+      "Furniturerotate": "0",
+      "LangStringTable": {
+        "Areaname": "地板區域"
+      }
+    },
+    "2002": {
+      "Cuid": 2002,
+      "Id": 2002,
+      "Areatype": 1,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "300",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "地毯區域"
+      }
+    },
+    "2003": {
+      "Cuid": 2003,
+      "Id": 2003,
+      "Areatype": 0,
+      "Initialfurniture": "2001101;2001201;2001301;2001401",
+      "Initialfurniturepos": "8,4;6,0;0,0;0,9",
+      "Furnituretype": "300",
+      "Furniturerotate": "0;0;0;0",
+      "LangStringTable": {
+        "Areaname": "家具區域"
+      }
+    },
+    "2004": {
+      "Cuid": 2004,
+      "Id": 2004,
+      "Areatype": 5,
+      "Initialfurniture": "2001001",
+      "Initialfurniturepos": "0",
+      "Furnituretype": "300",
+      "Furniturerotate": "0",
+      "LangStringTable": {
+        "Areaname": "牆面區域"
+      }
+    },
+    "2005": {
+      "Cuid": 2005,
+      "Id": 2005,
+      "Areatype": 3,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "206",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "牆掛飾區域"
+      }
+    },
+    "2006": {
+      "Cuid": 2006,
+      "Id": 2006,
+      "Areatype": 3,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "206",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "牆掛飾右區域"
+      }
+    },
+    "2007": {
+      "Cuid": 2007,
+      "Id": 2007,
+      "Areatype": 4,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "103",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "壁紙左區域"
+      }
+    },
+    "2008": {
+      "Cuid": 2008,
+      "Id": 2008,
+      "Areatype": 4,
+      "Initialfurniture": null,
+      "Initialfurniturepos": null,
+      "Furnituretype": "103",
+      "Furniturerotate": null,
+      "LangStringTable": {
+        "Areaname": "壁紙右區域"
+      }
+    }
+  }
+}

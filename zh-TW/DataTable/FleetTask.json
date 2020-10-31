@@ -1,0 +1,274 @@
+{
+  "Rows": {
+    "14001": {
+      "Cuid": 14001,
+      "Id": 14001,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14001,
+      "Actionnum": 10000
+    },
+    "14002": {
+      "Cuid": 14002,
+      "Id": 14002,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14001,
+      "Actionnum": 10000
+    },
+    "14003": {
+      "Cuid": 14003,
+      "Id": 14003,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14001,
+      "Actionnum": 10000
+    },
+    "14004": {
+      "Cuid": 14004,
+      "Id": 14004,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14001,
+      "Actionnum": 10000
+    },
+    "14101": {
+      "Cuid": 14101,
+      "Id": 14101,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14101,
+      "Actionnum": 40
+    },
+    "14102": {
+      "Cuid": 14102,
+      "Id": 14102,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14101,
+      "Actionnum": 40
+    },
+    "14103": {
+      "Cuid": 14103,
+      "Id": 14103,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14101,
+      "Actionnum": 40
+    },
+    "14104": {
+      "Cuid": 14104,
+      "Id": 14104,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14101,
+      "Actionnum": 40
+    },
+    "14201": {
+      "Cuid": 14201,
+      "Id": 14201,
+      "Type": 1,
+      "Actionreward": "1,7,3",
+      "Actionrewardmax": "90",
+      "Taskgroup": 14201,
+      "Actionnum": 1
+    },
+    "14202": {
+      "Cuid": 14202,
+      "Id": 14202,
+      "Type": 1,
+      "Actionreward": "1,7,3",
+      "Actionrewardmax": "90",
+      "Taskgroup": 14201,
+      "Actionnum": 1
+    },
+    "14203": {
+      "Cuid": 14203,
+      "Id": 14203,
+      "Type": 1,
+      "Actionreward": "1,7,3",
+      "Actionrewardmax": "90",
+      "Taskgroup": 14201,
+      "Actionnum": 1
+    },
+    "14204": {
+      "Cuid": 14204,
+      "Id": 14204,
+      "Type": 1,
+      "Actionreward": "1,7,3",
+      "Actionrewardmax": "90",
+      "Taskgroup": 14201,
+      "Actionnum": 1
+    },
+    "14301": {
+      "Cuid": 14301,
+      "Id": 14301,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "106",
+      "Taskgroup": 14301,
+      "Actionnum": 1
+    },
+    "14302": {
+      "Cuid": 14302,
+      "Id": 14302,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "106",
+      "Taskgroup": 14301,
+      "Actionnum": 1
+    },
+    "14303": {
+      "Cuid": 14303,
+      "Id": 14303,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "106",
+      "Taskgroup": 14301,
+      "Actionnum": 1
+    },
+    "14304": {
+      "Cuid": 14304,
+      "Id": 14304,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "106",
+      "Taskgroup": 14301,
+      "Actionnum": 1
+    },
+    "14401": {
+      "Cuid": 14401,
+      "Id": 14401,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "120",
+      "Taskgroup": 14401,
+      "Actionnum": 1
+    },
+    "14402": {
+      "Cuid": 14402,
+      "Id": 14402,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "120",
+      "Taskgroup": 14401,
+      "Actionnum": 1
+    },
+    "14403": {
+      "Cuid": 14403,
+      "Id": 14403,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "120",
+      "Taskgroup": 14401,
+      "Actionnum": 1
+    },
+    "14404": {
+      "Cuid": 14404,
+      "Id": 14404,
+      "Type": 1,
+      "Actionreward": "1,7,2",
+      "Actionrewardmax": "120",
+      "Taskgroup": 14401,
+      "Actionnum": 1
+    },
+    "14501": {
+      "Cuid": 14501,
+      "Id": 14501,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14501,
+      "Actionnum": 1
+    },
+    "14502": {
+      "Cuid": 14502,
+      "Id": 14502,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14501,
+      "Actionnum": 1
+    },
+    "14503": {
+      "Cuid": 14503,
+      "Id": 14503,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14501,
+      "Actionnum": 1
+    },
+    "14504": {
+      "Cuid": 14504,
+      "Id": 14504,
+      "Type": 1,
+      "Actionreward": "1,7,1",
+      "Actionrewardmax": "75",
+      "Taskgroup": 14501,
+      "Actionnum": 1
+    },
+    "14901": {
+      "Cuid": 14901,
+      "Id": 14901,
+      "Type": 2,
+      "Actionreward": null,
+      "Actionrewardmax": null,
+      "Taskgroup": 0,
+      "Actionnum": 0
+    },
+    "14902": {
+      "Cuid": 14902,
+      "Id": 14902,
+      "Type": 2,
+      "Actionreward": null,
+      "Actionrewardmax": null,
+      "Taskgroup": 0,
+      "Actionnum": 0
+    },
+    "14903": {
+      "Cuid": 14903,
+      "Id": 14903,
+      "Type": 2,
+      "Actionreward": null,
+      "Actionrewardmax": null,
+      "Taskgroup": 0,
+      "Actionnum": 0
+    },
+    "14904": {
+      "Cuid": 14904,
+      "Id": 14904,
+      "Type": 2,
+      "Actionreward": null,
+      "Actionrewardmax": null,
+      "Taskgroup": 0,
+      "Actionnum": 0
+    },
+    "14905": {
+      "Cuid": 14905,
+      "Id": 14905,
+      "Type": 2,
+      "Actionreward": null,
+      "Actionrewardmax": null,
+      "Taskgroup": 0,
+      "Actionnum": 0
+    },
+    "14906": {
+      "Cuid": 14906,
+      "Id": 14906,
+      "Type": 2,
+      "Actionreward": null,
+      "Actionrewardmax": null,
+      "Taskgroup": 0,
+      "Actionnum": 0
+    }
+  }
+}

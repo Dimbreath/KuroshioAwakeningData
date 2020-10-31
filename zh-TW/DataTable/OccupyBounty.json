@@ -1,0 +1,3244 @@
+{
+  "Rows": {
+    "1155": {
+      "Cuid": 1155,
+      "Taskid": 1155,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 1,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,3800",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(初級)"
+      }
+    },
+    "1144": {
+      "Cuid": 1144,
+      "Taskid": 1144,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 1,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,3800",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(初級)"
+      }
+    },
+    "1133": {
+      "Cuid": 1133,
+      "Taskid": 1133,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 1,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,1;1,2,3800",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(初級)"
+      }
+    },
+    "1122": {
+      "Cuid": 1122,
+      "Taskid": 1122,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 1,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,3800",
+      "Costtime": 240,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(初級)"
+      }
+    },
+    "1111": {
+      "Cuid": 1111,
+      "Taskid": 1111,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 1,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,1;1,2,3800",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(初級)"
+      }
+    },
+    "1255": {
+      "Cuid": 1255,
+      "Taskid": 1255,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 2,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,4700",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(初級)"
+      }
+    },
+    "1244": {
+      "Cuid": 1244,
+      "Taskid": 1244,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 2,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,4700",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(初級)"
+      }
+    },
+    "1233": {
+      "Cuid": 1233,
+      "Taskid": 1233,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 2,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,2;1,2,4700",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(初級)"
+      }
+    },
+    "1222": {
+      "Cuid": 1222,
+      "Taskid": 1222,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 2,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,4700",
+      "Costtime": 240,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(初級)"
+      }
+    },
+    "1211": {
+      "Cuid": 1211,
+      "Taskid": 1211,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 2,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,2;1,2,4700",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(初級)"
+      }
+    },
+    "1355": {
+      "Cuid": 1355,
+      "Taskid": 1355,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 3,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,5500",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(初級)"
+      }
+    },
+    "1344": {
+      "Cuid": 1344,
+      "Taskid": 1344,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 3,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,5500",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(初級)"
+      }
+    },
+    "1333": {
+      "Cuid": 1333,
+      "Taskid": 1333,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 3,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,3;1,2,5500",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(初級)"
+      }
+    },
+    "1322": {
+      "Cuid": 1322,
+      "Taskid": 1322,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 3,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,5500",
+      "Costtime": 240,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(初級)"
+      }
+    },
+    "1311": {
+      "Cuid": 1311,
+      "Taskid": 1311,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 3,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,2;1,2,5500",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(初級)"
+      }
+    },
+    "1455": {
+      "Cuid": 1455,
+      "Taskid": 1455,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 4,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,6300",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅳ(初級)"
+      }
+    },
+    "1444": {
+      "Cuid": 1444,
+      "Taskid": 1444,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 4,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,6300",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅳ(初級)"
+      }
+    },
+    "1433": {
+      "Cuid": 1433,
+      "Taskid": 1433,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 4,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,3;1,2,6300",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(初級)"
+      }
+    },
+    "1422": {
+      "Cuid": 1422,
+      "Taskid": 1422,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 4,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,6300",
+      "Costtime": 240,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅳ(初級)"
+      }
+    },
+    "1411": {
+      "Cuid": 1411,
+      "Taskid": 1411,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 4,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,3;1,2,6300",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(初級)"
+      }
+    },
+    "1555": {
+      "Cuid": 1555,
+      "Taskid": 1555,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 5,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,7100",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅴ(初級)"
+      }
+    },
+    "1544": {
+      "Cuid": 1544,
+      "Taskid": 1544,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 5,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,7100",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅴ(初級)"
+      }
+    },
+    "1533": {
+      "Cuid": 1533,
+      "Taskid": 1533,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 5,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,1;1,2,7100",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(初級)"
+      }
+    },
+    "1522": {
+      "Cuid": 1522,
+      "Taskid": 1522,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 5,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,7100",
+      "Costtime": 240,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅴ(初級)"
+      }
+    },
+    "1511": {
+      "Cuid": 1511,
+      "Taskid": 1511,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 5,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,3;1,2,7100",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(初級)"
+      }
+    },
+    "1655": {
+      "Cuid": 1655,
+      "Taskid": 1655,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 6,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,7900",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(中級)"
+      }
+    },
+    "1644": {
+      "Cuid": 1644,
+      "Taskid": 1644,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 6,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,7900",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(中級)"
+      }
+    },
+    "1633": {
+      "Cuid": 1633,
+      "Taskid": 1633,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 6,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,7900",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(中級)"
+      }
+    },
+    "1622": {
+      "Cuid": 1622,
+      "Taskid": 1622,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 6,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,7900",
+      "Costtime": 240,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(中級)"
+      }
+    },
+    "1611": {
+      "Cuid": 1611,
+      "Taskid": 1611,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 6,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,7900",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(中級)"
+      }
+    },
+    "1755": {
+      "Cuid": 1755,
+      "Taskid": 1755,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 7,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,8700",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(中級)"
+      }
+    },
+    "1744": {
+      "Cuid": 1744,
+      "Taskid": 1744,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 7,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,8700",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(中級)"
+      }
+    },
+    "1733": {
+      "Cuid": 1733,
+      "Taskid": 1733,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 7,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,8700",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(中級)"
+      }
+    },
+    "1722": {
+      "Cuid": 1722,
+      "Taskid": 1722,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 7,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,220;1,2,8700",
+      "Costtime": 240,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(中級)"
+      }
+    },
+    "1711": {
+      "Cuid": 1711,
+      "Taskid": 1711,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 7,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,8700",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(中級)"
+      }
+    },
+    "1855": {
+      "Cuid": 1855,
+      "Taskid": 1855,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 8,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,9500",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(中級)"
+      }
+    },
+    "1844": {
+      "Cuid": 1844,
+      "Taskid": 1844,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 8,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,9500",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(中級)"
+      }
+    },
+    "1833": {
+      "Cuid": 1833,
+      "Taskid": 1833,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 8,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,9500",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(中級)"
+      }
+    },
+    "1822": {
+      "Cuid": 1822,
+      "Taskid": 1822,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 8,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,240;1,2,9500",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(中級)"
+      }
+    },
+    "1811": {
+      "Cuid": 1811,
+      "Taskid": 1811,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 8,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,9500",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(中級)"
+      }
+    },
+    "1955": {
+      "Cuid": 1955,
+      "Taskid": 1955,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 9,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,10400",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅳ(中級)"
+      }
+    },
+    "1944": {
+      "Cuid": 1944,
+      "Taskid": 1944,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 9,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,10400",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅳ(中級)"
+      }
+    },
+    "1933": {
+      "Cuid": 1933,
+      "Taskid": 1933,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 9,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,10400",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(中級)"
+      }
+    },
+    "1922": {
+      "Cuid": 1922,
+      "Taskid": 1922,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 9,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,260;1,2,10400",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅳ(中級)"
+      }
+    },
+    "1911": {
+      "Cuid": 1911,
+      "Taskid": 1911,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 9,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,10400",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(中級)"
+      }
+    },
+    "11055": {
+      "Cuid": 11055,
+      "Taskid": 11055,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 10,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,11300",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅴ(中級)"
+      }
+    },
+    "11044": {
+      "Cuid": 11044,
+      "Taskid": 11044,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 10,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,11300",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅴ(中級)"
+      }
+    },
+    "11033": {
+      "Cuid": 11033,
+      "Taskid": 11033,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 10,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,1;1,2,11300",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(中級)"
+      }
+    },
+    "11022": {
+      "Cuid": 11022,
+      "Taskid": 11022,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 10,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,280;1,2,11300",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅴ(中級)"
+      }
+    },
+    "11011": {
+      "Cuid": 11011,
+      "Taskid": 11011,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 10,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,11300",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(中級)"
+      }
+    },
+    "11155": {
+      "Cuid": 11155,
+      "Taskid": 11155,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 11,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,12200",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(高級)"
+      }
+    },
+    "11144": {
+      "Cuid": 11144,
+      "Taskid": 11144,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 11,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,12200",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(高級)"
+      }
+    },
+    "11133": {
+      "Cuid": 11133,
+      "Taskid": 11133,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 11,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,1;1,2,12200",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(高級)"
+      }
+    },
+    "11122": {
+      "Cuid": 11122,
+      "Taskid": 11122,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 11,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,300;1,2,12200",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(高級)"
+      }
+    },
+    "11111": {
+      "Cuid": 11111,
+      "Taskid": 11111,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 11,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,12200",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(高級)"
+      }
+    },
+    "11255": {
+      "Cuid": 11255,
+      "Taskid": 11255,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 12,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,13100",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(高級)"
+      }
+    },
+    "11244": {
+      "Cuid": 11244,
+      "Taskid": 11244,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 12,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,13100",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(高級)"
+      }
+    },
+    "11233": {
+      "Cuid": 11233,
+      "Taskid": 11233,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 12,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,13100",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(高級)"
+      }
+    },
+    "11222": {
+      "Cuid": 11222,
+      "Taskid": 11222,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 12,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,340;1,2,13100",
+      "Costtime": 240,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(高級)"
+      }
+    },
+    "11211": {
+      "Cuid": 11211,
+      "Taskid": 11211,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 12,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,2;1,2,13100",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(高級)"
+      }
+    },
+    "11355": {
+      "Cuid": 11355,
+      "Taskid": 11355,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 13,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,14000",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(高級)"
+      }
+    },
+    "11344": {
+      "Cuid": 11344,
+      "Taskid": 11344,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 13,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,14000",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(高級)"
+      }
+    },
+    "11333": {
+      "Cuid": 11333,
+      "Taskid": 11333,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 13,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,14000",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(高級)"
+      }
+    },
+    "11322": {
+      "Cuid": 11322,
+      "Taskid": 11322,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 13,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,380;1,2,14000",
+      "Costtime": 240,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(高級)"
+      }
+    },
+    "11311": {
+      "Cuid": 11311,
+      "Taskid": 11311,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 13,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,2;1,2,14000",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(高級)"
+      }
+    },
+    "11455": {
+      "Cuid": 11455,
+      "Taskid": 11455,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 14,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,14900",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅳ(高級)"
+      }
+    },
+    "11444": {
+      "Cuid": 11444,
+      "Taskid": 11444,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 14,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,14900",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅳ(高級)"
+      }
+    },
+    "11433": {
+      "Cuid": 11433,
+      "Taskid": 11433,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 14,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,14900",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(高級)"
+      }
+    },
+    "11422": {
+      "Cuid": 11422,
+      "Taskid": 11422,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 14,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,420;1,2,14900",
+      "Costtime": 240,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅳ(高級)"
+      }
+    },
+    "11411": {
+      "Cuid": 11411,
+      "Taskid": 11411,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 14,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,2;1,2,14900",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(高級)"
+      }
+    },
+    "11555": {
+      "Cuid": 11555,
+      "Taskid": 11555,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 15,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,15800",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅴ(高級)"
+      }
+    },
+    "11544": {
+      "Cuid": 11544,
+      "Taskid": 11544,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 15,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,15800",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅴ(高級)"
+      }
+    },
+    "11533": {
+      "Cuid": 11533,
+      "Taskid": 11533,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 15,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,15800",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(高級)"
+      }
+    },
+    "11522": {
+      "Cuid": 11522,
+      "Taskid": 11522,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 15,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,460;1,2,15800",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅴ(高級)"
+      }
+    },
+    "11511": {
+      "Cuid": 11511,
+      "Taskid": 11511,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 15,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,15800",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(高級)"
+      }
+    },
+    "11655": {
+      "Cuid": 11655,
+      "Taskid": 11655,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 16,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,16700",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(頂級)"
+      }
+    },
+    "11644": {
+      "Cuid": 11644,
+      "Taskid": 11644,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 16,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,16700",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(頂級)"
+      }
+    },
+    "11633": {
+      "Cuid": 11633,
+      "Taskid": 11633,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 16,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,16700",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(頂級)"
+      }
+    },
+    "11622": {
+      "Cuid": 11622,
+      "Taskid": 11622,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 16,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,500;1,2,16700",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(頂級)"
+      }
+    },
+    "11611": {
+      "Cuid": 11611,
+      "Taskid": 11611,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 16,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,16700",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(頂級)"
+      }
+    },
+    "11755": {
+      "Cuid": 11755,
+      "Taskid": 11755,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 17,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,17600",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(頂級)"
+      }
+    },
+    "11744": {
+      "Cuid": 11744,
+      "Taskid": 11744,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 17,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,17600",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(頂級)"
+      }
+    },
+    "11733": {
+      "Cuid": 11733,
+      "Taskid": 11733,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 17,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,17600",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(頂級)"
+      }
+    },
+    "11722": {
+      "Cuid": 11722,
+      "Taskid": 11722,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 17,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,540;1,2,17600",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(頂級)"
+      }
+    },
+    "11711": {
+      "Cuid": 11711,
+      "Taskid": 11711,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 17,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,17600",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(頂級)"
+      }
+    },
+    "11855": {
+      "Cuid": 11855,
+      "Taskid": 11855,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 18,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,18500",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(頂級)"
+      }
+    },
+    "11844": {
+      "Cuid": 11844,
+      "Taskid": 11844,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 18,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,18500",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(頂級)"
+      }
+    },
+    "11833": {
+      "Cuid": 11833,
+      "Taskid": 11833,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 18,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,18500",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(頂級)"
+      }
+    },
+    "11822": {
+      "Cuid": 11822,
+      "Taskid": 11822,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 18,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,580;1,2,18500",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(頂級)"
+      }
+    },
+    "11811": {
+      "Cuid": 11811,
+      "Taskid": 11811,
+      "Tasktype": 0,
+      "Limittime": 0,
+      "Difficulty": 18,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,18500",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(頂級)"
+      }
+    },
+    "101": {
+      "Cuid": 101,
+      "Taskid": 101,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 1,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,3800",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(初級)"
+      }
+    },
+    "102": {
+      "Cuid": 102,
+      "Taskid": 102,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 1,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,3800",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(初級)"
+      }
+    },
+    "103": {
+      "Cuid": 103,
+      "Taskid": 103,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 1,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,1;1,2,3800",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(初級)"
+      }
+    },
+    "104": {
+      "Cuid": 104,
+      "Taskid": 104,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 1,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,3800",
+      "Costtime": 240,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(初級)"
+      }
+    },
+    "105": {
+      "Cuid": 105,
+      "Taskid": 105,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 1,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,1;1,2,3800",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 760,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(初級)"
+      }
+    },
+    "106": {
+      "Cuid": 106,
+      "Taskid": 106,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 2,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,4700",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(初級)"
+      }
+    },
+    "107": {
+      "Cuid": 107,
+      "Taskid": 107,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 2,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,4700",
+      "Costtime": 480,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(初級)"
+      }
+    },
+    "108": {
+      "Cuid": 108,
+      "Taskid": 108,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 2,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,2;1,2,4700",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(初級)"
+      }
+    },
+    "109": {
+      "Cuid": 109,
+      "Taskid": 109,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 2,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,4700",
+      "Costtime": 240,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(初級)"
+      }
+    },
+    "110": {
+      "Cuid": 110,
+      "Taskid": 110,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 2,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,2;1,2,4700",
+      "Costtime": 360,
+      "Limitlevel": "1,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 940,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(初級)"
+      }
+    },
+    "111": {
+      "Cuid": 111,
+      "Taskid": 111,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 3,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,5500",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(初級)"
+      }
+    },
+    "112": {
+      "Cuid": 112,
+      "Taskid": 112,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 3,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,5500",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(初級)"
+      }
+    },
+    "113": {
+      "Cuid": 113,
+      "Taskid": 113,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 3,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,3;1,2,5500",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(初級)"
+      }
+    },
+    "114": {
+      "Cuid": 114,
+      "Taskid": 114,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 3,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,5500",
+      "Costtime": 240,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(初級)"
+      }
+    },
+    "115": {
+      "Cuid": 115,
+      "Taskid": 115,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 3,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,2;1,2,5500",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1100,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(初級)"
+      }
+    },
+    "116": {
+      "Cuid": 116,
+      "Taskid": 116,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 4,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,6300",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅳ(初級)"
+      }
+    },
+    "117": {
+      "Cuid": 117,
+      "Taskid": 117,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 4,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,6300",
+      "Costtime": 480,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅳ(初級)"
+      }
+    },
+    "118": {
+      "Cuid": 118,
+      "Taskid": 118,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 4,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240040,3;1,2,6300",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(初級)"
+      }
+    },
+    "119": {
+      "Cuid": 119,
+      "Taskid": 119,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 4,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,6300",
+      "Costtime": 240,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅳ(初級)"
+      }
+    },
+    "120": {
+      "Cuid": 120,
+      "Taskid": 120,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 4,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,3;1,2,6300",
+      "Costtime": 360,
+      "Limitlevel": "2,5",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(初級)"
+      }
+    },
+    "121": {
+      "Cuid": 121,
+      "Taskid": 121,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 5,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,7100",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅴ(初級)"
+      }
+    },
+    "122": {
+      "Cuid": 122,
+      "Taskid": 122,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 5,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,7100",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅴ(初級)"
+      }
+    },
+    "123": {
+      "Cuid": 123,
+      "Taskid": 123,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 5,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,1;1,2,7100",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(初級)"
+      }
+    },
+    "124": {
+      "Cuid": 124,
+      "Taskid": 124,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 5,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,7100",
+      "Costtime": 240,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅴ(初級)"
+      }
+    },
+    "125": {
+      "Cuid": 125,
+      "Taskid": 125,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 5,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240016,3;1,2,7100",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1420,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(初級)"
+      }
+    },
+    "126": {
+      "Cuid": 126,
+      "Taskid": 126,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 6,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,7900",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(中級)"
+      }
+    },
+    "127": {
+      "Cuid": 127,
+      "Taskid": 127,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 6,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,7900",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(中級)"
+      }
+    },
+    "128": {
+      "Cuid": 128,
+      "Taskid": 128,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 6,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,7900",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(中級)"
+      }
+    },
+    "129": {
+      "Cuid": 129,
+      "Taskid": 129,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 6,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,200;1,2,7900",
+      "Costtime": 240,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(中級)"
+      }
+    },
+    "130": {
+      "Cuid": 130,
+      "Taskid": 130,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 6,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,7900",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1580,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(中級)"
+      }
+    },
+    "131": {
+      "Cuid": 131,
+      "Taskid": 131,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 7,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,8700",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(中級)"
+      }
+    },
+    "132": {
+      "Cuid": 132,
+      "Taskid": 132,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 7,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,8700",
+      "Costtime": 480,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(中級)"
+      }
+    },
+    "133": {
+      "Cuid": 133,
+      "Taskid": 133,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 7,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,8700",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(中級)"
+      }
+    },
+    "134": {
+      "Cuid": 134,
+      "Taskid": 134,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 7,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,220;1,2,8700",
+      "Costtime": 240,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(中級)"
+      }
+    },
+    "135": {
+      "Cuid": 135,
+      "Taskid": 135,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 7,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,8700",
+      "Costtime": 360,
+      "Limitlevel": "2,10",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1740,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(中級)"
+      }
+    },
+    "136": {
+      "Cuid": 136,
+      "Taskid": 136,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 8,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,9500",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(中級)"
+      }
+    },
+    "137": {
+      "Cuid": 137,
+      "Taskid": 137,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 8,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,9500",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(中級)"
+      }
+    },
+    "138": {
+      "Cuid": 138,
+      "Taskid": 138,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 8,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,9500",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(中級)"
+      }
+    },
+    "139": {
+      "Cuid": 139,
+      "Taskid": 139,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 8,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,240;1,2,9500",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(中級)"
+      }
+    },
+    "140": {
+      "Cuid": 140,
+      "Taskid": 140,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 8,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,9500",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 1900,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(中級)"
+      }
+    },
+    "141": {
+      "Cuid": 141,
+      "Taskid": 141,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 9,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,10400",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅳ(中級)"
+      }
+    },
+    "142": {
+      "Cuid": 142,
+      "Taskid": 142,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 9,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,10400",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅳ(中級)"
+      }
+    },
+    "143": {
+      "Cuid": 143,
+      "Taskid": 143,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 9,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240041,2;1,2,10400",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(中級)"
+      }
+    },
+    "144": {
+      "Cuid": 144,
+      "Taskid": 144,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 9,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,260;1,2,10400",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅳ(中級)"
+      }
+    },
+    "145": {
+      "Cuid": 145,
+      "Taskid": 145,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 9,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,10400",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2080,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(中級)"
+      }
+    },
+    "146": {
+      "Cuid": 146,
+      "Taskid": 146,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 10,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,11300",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅴ(中級)"
+      }
+    },
+    "147": {
+      "Cuid": 147,
+      "Taskid": 147,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 10,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,11300",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅴ(中級)"
+      }
+    },
+    "148": {
+      "Cuid": 148,
+      "Taskid": 148,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 10,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,1;1,2,11300",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(中級)"
+      }
+    },
+    "149": {
+      "Cuid": 149,
+      "Taskid": 149,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 10,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,280;1,2,11300",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅴ(中級)"
+      }
+    },
+    "150": {
+      "Cuid": 150,
+      "Taskid": 150,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 10,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,11300",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2260,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(中級)"
+      }
+    },
+    "151": {
+      "Cuid": 151,
+      "Taskid": 151,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 11,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,12200",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(高級)"
+      }
+    },
+    "152": {
+      "Cuid": 152,
+      "Taskid": 152,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 11,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,12200",
+      "Costtime": 480,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(高級)"
+      }
+    },
+    "153": {
+      "Cuid": 153,
+      "Taskid": 153,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 11,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,1;1,2,12200",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(高級)"
+      }
+    },
+    "154": {
+      "Cuid": 154,
+      "Taskid": 154,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 11,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,300;1,2,12200",
+      "Costtime": 240,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(高級)"
+      }
+    },
+    "155": {
+      "Cuid": 155,
+      "Taskid": 155,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 11,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,1;1,2,12200",
+      "Costtime": 360,
+      "Limitlevel": "3,20",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2440,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(高級)"
+      }
+    },
+    "156": {
+      "Cuid": 156,
+      "Taskid": 156,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 12,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,13100",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(高級)"
+      }
+    },
+    "157": {
+      "Cuid": 157,
+      "Taskid": 157,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 12,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,13100",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(高級)"
+      }
+    },
+    "158": {
+      "Cuid": 158,
+      "Taskid": 158,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 12,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,13100",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(高級)"
+      }
+    },
+    "159": {
+      "Cuid": 159,
+      "Taskid": 159,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 12,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,340;1,2,13100",
+      "Costtime": 240,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(高級)"
+      }
+    },
+    "160": {
+      "Cuid": 160,
+      "Taskid": 160,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 12,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,2;1,2,13100",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2620,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(高級)"
+      }
+    },
+    "161": {
+      "Cuid": 161,
+      "Taskid": 161,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 13,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,14000",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(高級)"
+      }
+    },
+    "162": {
+      "Cuid": 162,
+      "Taskid": 162,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 13,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,14000",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(高級)"
+      }
+    },
+    "163": {
+      "Cuid": 163,
+      "Taskid": 163,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 13,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,14000",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(高級)"
+      }
+    },
+    "164": {
+      "Cuid": 164,
+      "Taskid": 164,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 13,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,380;1,2,14000",
+      "Costtime": 240,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(高級)"
+      }
+    },
+    "165": {
+      "Cuid": 165,
+      "Taskid": 165,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 13,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,2;1,2,14000",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2800,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(高級)"
+      }
+    },
+    "166": {
+      "Cuid": 166,
+      "Taskid": 166,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 14,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,14900",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅳ(高級)"
+      }
+    },
+    "167": {
+      "Cuid": 167,
+      "Taskid": 167,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 14,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,14900",
+      "Costtime": 480,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅳ(高級)"
+      }
+    },
+    "168": {
+      "Cuid": 168,
+      "Taskid": 168,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 14,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,14900",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(高級)"
+      }
+    },
+    "169": {
+      "Cuid": 169,
+      "Taskid": 169,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 14,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,420;1,2,14900",
+      "Costtime": 240,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅳ(高級)"
+      }
+    },
+    "170": {
+      "Cuid": 170,
+      "Taskid": 170,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 14,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240007,2;1,2,14900",
+      "Costtime": 360,
+      "Limitlevel": "4,30",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 2980,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅳ(高級)"
+      }
+    },
+    "171": {
+      "Cuid": 171,
+      "Taskid": 171,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 15,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,15800",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅴ(高級)"
+      }
+    },
+    "172": {
+      "Cuid": 172,
+      "Taskid": 172,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 15,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,15800",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅴ(高級)"
+      }
+    },
+    "173": {
+      "Cuid": 173,
+      "Taskid": 173,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 15,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,15800",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(高級)"
+      }
+    },
+    "174": {
+      "Cuid": 174,
+      "Taskid": 174,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 15,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,460;1,2,15800",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅴ(高級)"
+      }
+    },
+    "175": {
+      "Cuid": 175,
+      "Taskid": 175,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 15,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,15800",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3160,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅴ(高級)"
+      }
+    },
+    "176": {
+      "Cuid": 176,
+      "Taskid": 176,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 16,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,16700",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅰ(頂級)"
+      }
+    },
+    "177": {
+      "Cuid": 177,
+      "Taskid": 177,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 16,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,16700",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅰ(頂級)"
+      }
+    },
+    "178": {
+      "Cuid": 178,
+      "Taskid": 178,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 16,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,16700",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(頂級)"
+      }
+    },
+    "179": {
+      "Cuid": 179,
+      "Taskid": 179,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 16,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,500;1,2,16700",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅰ(頂級)"
+      }
+    },
+    "180": {
+      "Cuid": 180,
+      "Taskid": 180,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 16,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,16700",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3340,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅰ(頂級)"
+      }
+    },
+    "181": {
+      "Cuid": 181,
+      "Taskid": 181,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 17,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,17600",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅱ(頂級)"
+      }
+    },
+    "182": {
+      "Cuid": 182,
+      "Taskid": 182,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 17,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,17600",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅱ(頂級)"
+      }
+    },
+    "183": {
+      "Cuid": 183,
+      "Taskid": 183,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 17,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,17600",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(頂級)"
+      }
+    },
+    "184": {
+      "Cuid": 184,
+      "Taskid": 184,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 17,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,540;1,2,17600",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅱ(頂級)"
+      }
+    },
+    "185": {
+      "Cuid": 185,
+      "Taskid": 185,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 17,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,17600",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3520,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅱ(頂級)"
+      }
+    },
+    "186": {
+      "Cuid": 186,
+      "Taskid": 186,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 18,
+      "Quality": 5,
+      "Type": 1,
+      "Reward": "1,1,30;1,2,18500",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "貿易開發Ⅲ(頂級)"
+      }
+    },
+    "187": {
+      "Cuid": 187,
+      "Taskid": 187,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 18,
+      "Quality": 4,
+      "Type": 4,
+      "Reward": "1,160001,1;1,2,18500",
+      "Costtime": 480,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "港口防務Ⅲ(頂級)"
+      }
+    },
+    "188": {
+      "Cuid": 188,
+      "Taskid": 188,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 18,
+      "Quality": 3,
+      "Type": 2,
+      "Reward": "1,240042,2;1,2,18500",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(頂級)"
+      }
+    },
+    "189": {
+      "Cuid": 189,
+      "Taskid": 189,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 18,
+      "Quality": 2,
+      "Type": 3,
+      "Reward": "1,135000,580;1,2,18500",
+      "Costtime": 240,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "經驗巡航Ⅲ(頂級)"
+      }
+    },
+    "190": {
+      "Cuid": 190,
+      "Taskid": 190,
+      "Tasktype": 1,
+      "Limittime": 5,
+      "Difficulty": 18,
+      "Quality": 1,
+      "Type": 2,
+      "Reward": "1,240021,1;1,2,18500",
+      "Costtime": 360,
+      "Limitlevel": "5,40",
+      "Limitstar": "1,1",
+      "Limitquality": null,
+      "Exp": 3700,
+      "LangStringTable": {
+        "Taskname": "武裝巡航Ⅲ(頂級)"
+      }
+    }
+  }
+}

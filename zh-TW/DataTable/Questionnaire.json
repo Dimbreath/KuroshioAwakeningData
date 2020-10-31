@@ -1,0 +1,381 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 1,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "您的性別【單選題】",
+        "Options": "男;女"
+      }
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 2,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "您的年齡【單選題】",
+        "Options": "13以下;14~19;20~25;26~35;36以上"
+      }
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Groupid": 1,
+      "Type": 1,
+      "No": 3,
+      "Blank": "0;0;0;0;0;0;0;0;0;0;0;1\n",
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "選擇有玩過以下哪些遊戲（可多選）【多選題】",
+        "Options": "艦隊collection;碧藍航線;戰艦少女R;深淵地平線;蒼藍誓約;少女前線;明日方舟;崩壞3rd;Fate/Grand Order;夢幻模擬戰;陰陽師;其他"
+      }
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 4,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "您對作品中的角色立繪評價如何【單選題】(立繪畫風)",
+        "Options": "5分（非常喜歡）;4分（喜歡）;3分;2分;1分"
+      }
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Groupid": 1,
+      "Type": 2,
+      "No": 5,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "您最喜歡哪個角色的立繪【填空題】",
+        "Options": null
+      }
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 6,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "遊戲整體風格（UI風格、背景、色調、特效等）是否讓你接受【單選題】",
+        "Options": "5分（非常喜歡）;4分（喜歡）;3分;2分;1分"
+      }
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 7,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "您對目前的遊戲戰鬥看法如何【單選題】",
+        "Options": "5分（非常喜歡）;4分（喜歡）;3分;2分;1分"
+      }
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 8,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "你對於現在港口地圖玩法接受程度【單選題】",
+        "Options": "5分;4分;3分;2分;1分"
+      }
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 9,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "你對PVP玩法是否期待【單選題】",
+        "Options": "5分;4分;3分;2分;1分"
+      }
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 10,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "你對社交類活動是否接受【單選題】（需要好友協助、或可即時邀請好友一起打港口類的）",
+        "Options": "5分;4分;3分;2分;1分"
+      }
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 11,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "你是否期待豐富的聯盟玩法【單選題】（聯盟所指類似軍團、公會等）",
+        "Options": "5分;4分;3分;2分;1分"
+      }
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 12,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "你對後續正式戰鬥技能效果及技能動畫是否具有期待值【單選題】Ps：本次特效均非正式特效，技能動畫可參考 翔鶴 技能動畫",
+        "Options": "5分（很期待）;4分;3分;2分;1分"
+      }
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 13,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "您對本次關卡難度呈現感受如何？【單選題】",
+        "Options": "太簡單了，完全沒有挑戰難度;有一定戰力需求，但是不用額外肝船攻略;難度提升太快，不肝過不去"
+      }
+    },
+    "14": {
+      "Cuid": 14,
+      "Id": 14,
+      "Groupid": 1,
+      "Type": 0,
+      "No": 14,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "您之後會將這個遊戲推薦給您的朋友體驗嗎？【單選題】",
+        "Options": "會;不會;說不清楚"
+      }
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "Groupid": 1,
+      "Type": 2,
+      "No": 15,
+      "Blank": null,
+      "Duration": "20190801;20191201",
+      "LangStringTable": {
+        "Title": "你對這次測試的建議回饋【填空題】",
+        "Options": null
+      }
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 1,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你的性別【單選題】",
+        "Options": "男;女"
+      }
+    },
+    "17": {
+      "Cuid": 17,
+      "Id": 17,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 2,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你的年齡【單選題】",
+        "Options": "13以下;14～19;20～25;26～35;36以上"
+      }
+    },
+    "18": {
+      "Cuid": 18,
+      "Id": 18,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 3,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你是否經歷黑潮：深海覺醒玩法改版？",
+        "Options": "是;否"
+      }
+    },
+    "19": {
+      "Cuid": 19,
+      "Id": 19,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 4,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你對作品中的角色立繪評價如何【單選題】（立繪畫風）",
+        "Options": "5分（非常喜歡）;4分（喜歡）;3分;2分;1分"
+      }
+    },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "Groupid": 2,
+      "Type": 2,
+      "No": 5,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你最喜歡哪個角色的立繪【填空題】",
+        "Options": null
+      }
+    },
+    "21": {
+      "Cuid": 21,
+      "Id": 21,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 6,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "遊戲整體風格（UI風格、背景、色調、特效等）是否讓你接受【單選題】",
+        "Options": "5分（非常喜歡）;4分（喜歡）;3分;2分;1分"
+      }
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 7,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "您對目前的遊戲戰鬥看法如何【單選題】",
+        "Options": "5分（非常喜歡）;4分（喜歡）;3分;2分;1分"
+      }
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 8,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你對於現在港口地圖玩法接受程度【單選題】",
+        "Options": "5分;4分;3分;2分;1分"
+      }
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 9,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你覺得目前人偶定位是否清晰合理【單選題】",
+        "Options": "5分;4分;3分;2分;1分（不清楚）"
+      }
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 10,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你覺得目前人偶深海化難度如何【單選題】",
+        "Options": "5分（非常難）;4分;3分;2分;1分（非常簡單）"
+      }
+    },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 11,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "介面操作是否讓你接受【單選題】",
+        "Options": "5分（實用）;4分;3分;2分;1分（難用）"
+      }
+    },
+    "27": {
+      "Cuid": 27,
+      "Id": 27,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 12,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "您對本次關卡難度呈現感受如何？【單選題】",
+        "Options": "太簡單了，完全沒有挑戰難度;有一定戰力需求，但是不用額外肝船攻略;難度提升太快，不肝過不去"
+      }
+    },
+    "28": {
+      "Cuid": 28,
+      "Id": 28,
+      "Groupid": 2,
+      "Type": 0,
+      "No": 13,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "您之後會將這個遊戲推薦給您的朋友體驗嗎？【單選題】",
+        "Options": "會;不會;說不清楚"
+      }
+    },
+    "29": {
+      "Cuid": 29,
+      "Id": 29,
+      "Groupid": 2,
+      "Type": 2,
+      "No": 14,
+      "Blank": null,
+      "Duration": "20191201;21201201",
+      "LangStringTable": {
+        "Title": "你對這次測試的建議回饋【填空題】",
+        "Options": null
+      }
+    }
+  }
+}

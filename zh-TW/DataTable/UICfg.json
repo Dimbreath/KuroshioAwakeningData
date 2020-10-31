@@ -1,0 +1,1182 @@
+{
+  "Rows": {
+    "100": {
+      "Cuid": 100,
+      "Id": 100,
+      "Lv": 999,
+      "Map": null,
+      "Hide": 1,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": "Overview",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "強化"
+      }
+    },
+    "200": {
+      "Cuid": 200,
+      "Id": 200,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_15",
+      "UnlockIcon": null,
+      "Source": 106,
+      "Guide": 1,
+      "Iconfolder": "Overview",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "突破"
+      }
+    },
+    "300": {
+      "Cuid": 300,
+      "Id": 300,
+      "Lv": 4,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_13",
+      "UnlockIcon": null,
+      "Source": 104,
+      "Guide": 1,
+      "Iconfolder": "Overview",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "技能"
+      }
+    },
+    "400": {
+      "Cuid": 400,
+      "Id": 400,
+      "Lv": 999,
+      "Map": null,
+      "Hide": 1,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": "Overview",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "深海化"
+      }
+    },
+    "500": {
+      "Cuid": 500,
+      "Id": 500,
+      "Lv": 6,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_03",
+      "UnlockIcon": "common_1_unlock_icon_3",
+      "Source": 105,
+      "Guide": 1,
+      "Iconfolder": "Overview",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "武裝"
+      }
+    },
+    "501": {
+      "Cuid": 501,
+      "Id": 501,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 105,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "武裝強化"
+      }
+    },
+    "600": {
+      "Cuid": 600,
+      "Id": 600,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 102,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "升級"
+      }
+    },
+    "6000": {
+      "Cuid": 6000,
+      "Id": 6000,
+      "Lv": 0,
+      "Map": "5007",
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "海域開採"
+      }
+    },
+    "601": {
+      "Cuid": 601,
+      "Id": 601,
+      "Lv": 999,
+      "Map": null,
+      "Hide": 1,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 102,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "評論"
+      }
+    },
+    "700": {
+      "Cuid": 700,
+      "Id": 700,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 102,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "時裝"
+      }
+    },
+    "800": {
+      "Cuid": 800,
+      "Id": 800,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 102,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "好感度"
+      }
+    },
+    "801": {
+      "Cuid": 801,
+      "Id": 801,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 102,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "誓約"
+      }
+    },
+    "1000": {
+      "Cuid": 1000,
+      "Id": 1000,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "船塢"
+      }
+    },
+    "1100": {
+      "Cuid": 1100,
+      "Id": 1100,
+      "Lv": 16,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 2,
+      "Icon": "pl_1_icon_09",
+      "UnlockIcon": null,
+      "Source": 5,
+      "Guide": 1,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "聯盟"
+      }
+    },
+    "1101": {
+      "Cuid": 1101,
+      "Id": 1101,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 5,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "聯盟商店"
+      }
+    },
+    "1102": {
+      "Cuid": 1102,
+      "Id": 1102,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 5,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "聯盟任務"
+      }
+    },
+    "1200": {
+      "Cuid": 1200,
+      "Id": 1200,
+      "Lv": 12,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 2,
+      "Icon": "pl_1_icon_01",
+      "UnlockIcon": null,
+      "Source": 42,
+      "Guide": 0,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "後宅"
+      }
+    },
+    "1201": {
+      "Cuid": 1201,
+      "Id": 1201,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_06",
+      "UnlockIcon": null,
+      "Source": 42,
+      "Guide": 0,
+      "Iconfolder": "PlayerLevelUp",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "後宅-商城"
+      }
+    },
+    "1202": {
+      "Cuid": 1202,
+      "Id": 1202,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 42,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "裝備製造"
+      }
+    },
+    "1300": {
+      "Cuid": 1300,
+      "Id": 1300,
+      "Lv": 999,
+      "Map": null,
+      "Hide": 1,
+      "Priority": 1,
+      "Icon": "pl_1_icon_01",
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": "PlayerLevelUp",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "整備"
+      }
+    },
+    "1400": {
+      "Cuid": 1400,
+      "Id": 1400,
+      "Lv": 6,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_02",
+      "UnlockIcon": "common_1_unlock_icon_1",
+      "Source": 3000,
+      "Guide": 1,
+      "Iconfolder": "PlayerLevelUp",
+      "Default": null,
+      "Show": "11",
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "材料副本"
+      }
+    },
+    "1500": {
+      "Cuid": 1500,
+      "Id": 1500,
+      "Lv": 2,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_08",
+      "UnlockIcon": "common_1_unlock_icon_6",
+      "Source": 302,
+      "Guide": 0,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "任務"
+      }
+    },
+    "1501": {
+      "Cuid": 1501,
+      "Id": 1501,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_08",
+      "UnlockIcon": null,
+      "Source": 302,
+      "Guide": 0,
+      "Iconfolder": "QuestLoad",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "主線"
+      }
+    },
+    "1502": {
+      "Cuid": 1502,
+      "Id": 1502,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_08",
+      "UnlockIcon": null,
+      "Source": 303,
+      "Guide": 0,
+      "Iconfolder": "QuestLoad",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "每日"
+      }
+    },
+    "1503": {
+      "Cuid": 1503,
+      "Id": 1503,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_07",
+      "UnlockIcon": null,
+      "Source": 304,
+      "Guide": 0,
+      "Iconfolder": "QuestLoad",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "每週"
+      }
+    },
+    "1504": {
+      "Cuid": 1504,
+      "Id": 1504,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_07",
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": "QuestLoad",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "活動"
+      }
+    },
+    "1600": {
+      "Cuid": 1600,
+      "Id": 1600,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_21",
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "社交"
+      }
+    },
+    "1700": {
+      "Cuid": 1700,
+      "Id": 1700,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_11",
+      "UnlockIcon": null,
+      "Source": 9,
+      "Guide": 0,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "成就"
+      }
+    },
+    "1800": {
+      "Cuid": 1800,
+      "Id": 1800,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_14",
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "圖鑑"
+      }
+    },
+    "1900": {
+      "Cuid": 1900,
+      "Id": 1900,
+      "Lv": 0,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_12",
+      "UnlockIcon": null,
+      "Source": 30,
+      "Guide": 0,
+      "Iconfolder": "Album",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "商會"
+      }
+    },
+    "2000": {
+      "Cuid": 2000,
+      "Id": 2000,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 1000,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "出征"
+      }
+    },
+    "2010": {
+      "Cuid": 2010,
+      "Id": 2010,
+      "Lv": 999,
+      "Map": null,
+      "Hide": 1,
+      "Priority": 1,
+      "Icon": "pl_1_icon_16",
+      "UnlockIcon": "common_1_unlock_icon_4",
+      "Source": 2000,
+      "Guide": 1,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "劇情副本"
+      }
+    },
+    "2020": {
+      "Cuid": 2020,
+      "Id": 2020,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "編隊"
+      }
+    },
+    "2100": {
+      "Cuid": 2100,
+      "Id": 2100,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 2,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "招募"
+      }
+    },
+    "2101": {
+      "Cuid": 2101,
+      "Id": 2101,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 2,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "培養隊列"
+      }
+    },
+    "2102": {
+      "Cuid": 2102,
+      "Id": 2102,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 40,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "人偶回收"
+      }
+    },
+    "2200": {
+      "Cuid": 2200,
+      "Id": 2200,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "倉庫"
+      }
+    },
+    "2300": {
+      "Cuid": 2300,
+      "Id": 2300,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "活動"
+      }
+    },
+    "2301": {
+      "Cuid": 2301,
+      "Id": 2301,
+      "Lv": 5,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": "common_1_unlock_icon_2",
+      "Source": 27,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": "13",
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "指揮官特訓"
+      }
+    },
+    "2302": {
+      "Cuid": 2302,
+      "Id": 2302,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "累計儲值"
+      }
+    },
+    "2400": {
+      "Cuid": 2400,
+      "Id": 2400,
+      "Lv": 20,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_22",
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "排行"
+      }
+    },
+    "8000": {
+      "Cuid": 8000,
+      "Id": 8000,
+      "Lv": 18,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_19",
+      "UnlockIcon": null,
+      "Source": 15,
+      "Guide": 1,
+      "Iconfolder": "MainMenu",
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "演習"
+      }
+    },
+    "9901": {
+      "Cuid": 9901,
+      "Id": 9901,
+      "Lv": 5,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "預抽功能"
+      }
+    },
+    "2500": {
+      "Cuid": 2500,
+      "Id": 2500,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_05",
+      "UnlockIcon": "common_1_unlock_icon_5",
+      "Source": 103,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "深海溯源"
+      }
+    },
+    "2510": {
+      "Cuid": 2510,
+      "Id": 2510,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 103,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "深海實驗"
+      }
+    },
+    "2520": {
+      "Cuid": 2520,
+      "Id": 2520,
+      "Lv": 40,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_20",
+      "UnlockIcon": null,
+      "Source": 108,
+      "Guide": 1,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "深海裝備"
+      }
+    },
+    "2600": {
+      "Cuid": 2600,
+      "Id": 2600,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "推撥功能"
+      }
+    },
+    "2700": {
+      "Cuid": 2700,
+      "Id": 2700,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "兌換碼功能"
+      }
+    },
+    "3000": {
+      "Cuid": 3000,
+      "Id": 3000,
+      "Lv": 0,
+      "Map": "5007",
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "反攻功能"
+      }
+    },
+    "3100": {
+      "Cuid": 3100,
+      "Id": 3100,
+      "Lv": 14,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": "pl_1_icon_18",
+      "UnlockIcon": null,
+      "Source": 6,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "巡航功能"
+      }
+    },
+    "3200": {
+      "Cuid": 3200,
+      "Id": 3200,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "羈絆功能"
+      }
+    },
+    "3300": {
+      "Cuid": 3300,
+      "Id": 3300,
+      "Lv": 0,
+      "Map": "5007",
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "駐紮列表"
+      }
+    },
+    "4000": {
+      "Cuid": 4000,
+      "Id": 4000,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "秘書艦"
+      }
+    },
+    "4100": {
+      "Cuid": 4100,
+      "Id": 4100,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "聊天"
+      }
+    },
+    "4200": {
+      "Cuid": 4200,
+      "Id": 4200,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 4,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "信箱"
+      }
+    },
+    "4300": {
+      "Cuid": 4300,
+      "Id": 4300,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "世界地圖編隊"
+      }
+    },
+    "4400": {
+      "Cuid": 4400,
+      "Id": 4400,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "新手引導"
+      }
+    },
+    "4500": {
+      "Cuid": 4500,
+      "Id": 4500,
+      "Lv": 3,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "世界地圖快捷導航"
+      }
+    },
+    "4600": {
+      "Cuid": 4600,
+      "Id": 4600,
+      "Lv": 999,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "個人資訊更改"
+      }
+    },
+    "4700": {
+      "Cuid": 4700,
+      "Id": 4700,
+      "Lv": 4,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "移至指揮官升級介面"
+      }
+    },
+    "5500": {
+      "Cuid": 5500,
+      "Id": 5500,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": "分享模組"
+      }
+    },
+    "5600": {
+      "Cuid": 5600,
+      "Id": 5600,
+      "Lv": 1,
+      "Map": null,
+      "Hide": 0,
+      "Priority": 1,
+      "Icon": null,
+      "UnlockIcon": null,
+      "Source": 0,
+      "Guide": 0,
+      "Iconfolder": null,
+      "Default": null,
+      "Show": null,
+      "Storyguide": null,
+      "LangStringTable": {
+        "Name": null
+      }
+    }
+  }
+}

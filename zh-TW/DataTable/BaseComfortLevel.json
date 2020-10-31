@@ -1,0 +1,454 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Level": 1,
+      "Comfort": 0,
+      "Basemood": 1,
+      "Visitmood": 1,
+      "Visitexp": 15000,
+      "Time": 14400
+    },
+    "2": {
+      "Cuid": 2,
+      "Level": 2,
+      "Comfort": 250,
+      "Basemood": 2,
+      "Visitmood": 2,
+      "Visitexp": 16000,
+      "Time": 14400
+    },
+    "3": {
+      "Cuid": 3,
+      "Level": 3,
+      "Comfort": 500,
+      "Basemood": 3,
+      "Visitmood": 3,
+      "Visitexp": 17000,
+      "Time": 14400
+    },
+    "4": {
+      "Cuid": 4,
+      "Level": 4,
+      "Comfort": 1000,
+      "Basemood": 4,
+      "Visitmood": 4,
+      "Visitexp": 18000,
+      "Time": 14400
+    },
+    "5": {
+      "Cuid": 5,
+      "Level": 5,
+      "Comfort": 1500,
+      "Basemood": 5,
+      "Visitmood": 5,
+      "Visitexp": 19000,
+      "Time": 14400
+    },
+    "6": {
+      "Cuid": 6,
+      "Level": 6,
+      "Comfort": 2000,
+      "Basemood": 6,
+      "Visitmood": 6,
+      "Visitexp": 20000,
+      "Time": 14400
+    },
+    "7": {
+      "Cuid": 7,
+      "Level": 7,
+      "Comfort": 2500,
+      "Basemood": 7,
+      "Visitmood": 7,
+      "Visitexp": 21000,
+      "Time": 14400
+    },
+    "8": {
+      "Cuid": 8,
+      "Level": 8,
+      "Comfort": 3000,
+      "Basemood": 8,
+      "Visitmood": 8,
+      "Visitexp": 22000,
+      "Time": 14400
+    },
+    "9": {
+      "Cuid": 9,
+      "Level": 9,
+      "Comfort": 3500,
+      "Basemood": 9,
+      "Visitmood": 9,
+      "Visitexp": 23000,
+      "Time": 14400
+    },
+    "10": {
+      "Cuid": 10,
+      "Level": 10,
+      "Comfort": 4000,
+      "Basemood": 10,
+      "Visitmood": 10,
+      "Visitexp": 24000,
+      "Time": 14400
+    },
+    "11": {
+      "Cuid": 11,
+      "Level": 11,
+      "Comfort": 4500,
+      "Basemood": 11,
+      "Visitmood": 11,
+      "Visitexp": 25000,
+      "Time": 14400
+    },
+    "12": {
+      "Cuid": 12,
+      "Level": 12,
+      "Comfort": 5000,
+      "Basemood": 12,
+      "Visitmood": 12,
+      "Visitexp": 26000,
+      "Time": 14400
+    },
+    "13": {
+      "Cuid": 13,
+      "Level": 13,
+      "Comfort": 5500,
+      "Basemood": 13,
+      "Visitmood": 13,
+      "Visitexp": 27000,
+      "Time": 14400
+    },
+    "14": {
+      "Cuid": 14,
+      "Level": 14,
+      "Comfort": 6000,
+      "Basemood": 14,
+      "Visitmood": 14,
+      "Visitexp": 28000,
+      "Time": 14400
+    },
+    "15": {
+      "Cuid": 15,
+      "Level": 15,
+      "Comfort": 6500,
+      "Basemood": 15,
+      "Visitmood": 15,
+      "Visitexp": 29000,
+      "Time": 14400
+    },
+    "16": {
+      "Cuid": 16,
+      "Level": 16,
+      "Comfort": 7000,
+      "Basemood": 16,
+      "Visitmood": 16,
+      "Visitexp": 30000,
+      "Time": 14400
+    },
+    "17": {
+      "Cuid": 17,
+      "Level": 17,
+      "Comfort": 7500,
+      "Basemood": 17,
+      "Visitmood": 17,
+      "Visitexp": 31000,
+      "Time": 14400
+    },
+    "18": {
+      "Cuid": 18,
+      "Level": 18,
+      "Comfort": 8000,
+      "Basemood": 18,
+      "Visitmood": 18,
+      "Visitexp": 32000,
+      "Time": 14400
+    },
+    "19": {
+      "Cuid": 19,
+      "Level": 19,
+      "Comfort": 8500,
+      "Basemood": 19,
+      "Visitmood": 19,
+      "Visitexp": 33000,
+      "Time": 14400
+    },
+    "20": {
+      "Cuid": 20,
+      "Level": 20,
+      "Comfort": 9000,
+      "Basemood": 20,
+      "Visitmood": 20,
+      "Visitexp": 34000,
+      "Time": 14400
+    },
+    "21": {
+      "Cuid": 21,
+      "Level": 21,
+      "Comfort": 9500,
+      "Basemood": 21,
+      "Visitmood": 21,
+      "Visitexp": 35000,
+      "Time": 14400
+    },
+    "22": {
+      "Cuid": 22,
+      "Level": 22,
+      "Comfort": 10000,
+      "Basemood": 22,
+      "Visitmood": 22,
+      "Visitexp": 36000,
+      "Time": 14400
+    },
+    "23": {
+      "Cuid": 23,
+      "Level": 23,
+      "Comfort": 10500,
+      "Basemood": 23,
+      "Visitmood": 23,
+      "Visitexp": 37000,
+      "Time": 14400
+    },
+    "24": {
+      "Cuid": 24,
+      "Level": 24,
+      "Comfort": 11000,
+      "Basemood": 24,
+      "Visitmood": 24,
+      "Visitexp": 38000,
+      "Time": 14400
+    },
+    "25": {
+      "Cuid": 25,
+      "Level": 25,
+      "Comfort": 11500,
+      "Basemood": 25,
+      "Visitmood": 25,
+      "Visitexp": 39000,
+      "Time": 14400
+    },
+    "26": {
+      "Cuid": 26,
+      "Level": 26,
+      "Comfort": 12000,
+      "Basemood": 26,
+      "Visitmood": 26,
+      "Visitexp": 40000,
+      "Time": 14400
+    },
+    "27": {
+      "Cuid": 27,
+      "Level": 27,
+      "Comfort": 12500,
+      "Basemood": 27,
+      "Visitmood": 27,
+      "Visitexp": 41000,
+      "Time": 14400
+    },
+    "28": {
+      "Cuid": 28,
+      "Level": 28,
+      "Comfort": 13000,
+      "Basemood": 28,
+      "Visitmood": 28,
+      "Visitexp": 42000,
+      "Time": 14400
+    },
+    "29": {
+      "Cuid": 29,
+      "Level": 29,
+      "Comfort": 13500,
+      "Basemood": 29,
+      "Visitmood": 29,
+      "Visitexp": 43000,
+      "Time": 14400
+    },
+    "30": {
+      "Cuid": 30,
+      "Level": 30,
+      "Comfort": 14000,
+      "Basemood": 30,
+      "Visitmood": 30,
+      "Visitexp": 44000,
+      "Time": 14400
+    },
+    "31": {
+      "Cuid": 31,
+      "Level": 31,
+      "Comfort": 14500,
+      "Basemood": 31,
+      "Visitmood": 31,
+      "Visitexp": 45000,
+      "Time": 14400
+    },
+    "32": {
+      "Cuid": 32,
+      "Level": 32,
+      "Comfort": 15000,
+      "Basemood": 32,
+      "Visitmood": 32,
+      "Visitexp": 46000,
+      "Time": 14400
+    },
+    "33": {
+      "Cuid": 33,
+      "Level": 33,
+      "Comfort": 15500,
+      "Basemood": 33,
+      "Visitmood": 33,
+      "Visitexp": 47000,
+      "Time": 14400
+    },
+    "34": {
+      "Cuid": 34,
+      "Level": 34,
+      "Comfort": 16000,
+      "Basemood": 34,
+      "Visitmood": 34,
+      "Visitexp": 48000,
+      "Time": 14400
+    },
+    "35": {
+      "Cuid": 35,
+      "Level": 35,
+      "Comfort": 16500,
+      "Basemood": 35,
+      "Visitmood": 35,
+      "Visitexp": 49000,
+      "Time": 14400
+    },
+    "36": {
+      "Cuid": 36,
+      "Level": 36,
+      "Comfort": 17000,
+      "Basemood": 36,
+      "Visitmood": 36,
+      "Visitexp": 50000,
+      "Time": 14400
+    },
+    "37": {
+      "Cuid": 37,
+      "Level": 37,
+      "Comfort": 17500,
+      "Basemood": 37,
+      "Visitmood": 37,
+      "Visitexp": 51000,
+      "Time": 14400
+    },
+    "38": {
+      "Cuid": 38,
+      "Level": 38,
+      "Comfort": 18000,
+      "Basemood": 38,
+      "Visitmood": 38,
+      "Visitexp": 52000,
+      "Time": 14400
+    },
+    "39": {
+      "Cuid": 39,
+      "Level": 39,
+      "Comfort": 18500,
+      "Basemood": 39,
+      "Visitmood": 39,
+      "Visitexp": 53000,
+      "Time": 14400
+    },
+    "40": {
+      "Cuid": 40,
+      "Level": 40,
+      "Comfort": 19000,
+      "Basemood": 40,
+      "Visitmood": 40,
+      "Visitexp": 54000,
+      "Time": 14400
+    },
+    "41": {
+      "Cuid": 41,
+      "Level": 41,
+      "Comfort": 19500,
+      "Basemood": 41,
+      "Visitmood": 41,
+      "Visitexp": 55000,
+      "Time": 14400
+    },
+    "42": {
+      "Cuid": 42,
+      "Level": 42,
+      "Comfort": 20000,
+      "Basemood": 42,
+      "Visitmood": 42,
+      "Visitexp": 56000,
+      "Time": 14400
+    },
+    "43": {
+      "Cuid": 43,
+      "Level": 43,
+      "Comfort": 20500,
+      "Basemood": 43,
+      "Visitmood": 43,
+      "Visitexp": 57000,
+      "Time": 14400
+    },
+    "44": {
+      "Cuid": 44,
+      "Level": 44,
+      "Comfort": 21000,
+      "Basemood": 44,
+      "Visitmood": 44,
+      "Visitexp": 58000,
+      "Time": 14400
+    },
+    "45": {
+      "Cuid": 45,
+      "Level": 45,
+      "Comfort": 21500,
+      "Basemood": 45,
+      "Visitmood": 45,
+      "Visitexp": 59000,
+      "Time": 14400
+    },
+    "46": {
+      "Cuid": 46,
+      "Level": 46,
+      "Comfort": 22000,
+      "Basemood": 46,
+      "Visitmood": 46,
+      "Visitexp": 60000,
+      "Time": 14400
+    },
+    "47": {
+      "Cuid": 47,
+      "Level": 47,
+      "Comfort": 22500,
+      "Basemood": 47,
+      "Visitmood": 47,
+      "Visitexp": 61000,
+      "Time": 14400
+    },
+    "48": {
+      "Cuid": 48,
+      "Level": 48,
+      "Comfort": 23000,
+      "Basemood": 48,
+      "Visitmood": 48,
+      "Visitexp": 62000,
+      "Time": 14400
+    },
+    "49": {
+      "Cuid": 49,
+      "Level": 49,
+      "Comfort": 23500,
+      "Basemood": 49,
+      "Visitmood": 49,
+      "Visitexp": 63000,
+      "Time": 14400
+    },
+    "50": {
+      "Cuid": 50,
+      "Level": 50,
+      "Comfort": 24000,
+      "Basemood": 50,
+      "Visitmood": 50,
+      "Visitexp": 64000,
+      "Time": 14400
+    }
+  }
+}

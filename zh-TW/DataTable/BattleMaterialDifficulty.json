@@ -1,0 +1,2012 @@
+{
+  "Rows": {
+    "4299262263297": {
+      "Cuid": 4299262263297,
+      "Harbourid": 1001,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 100101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,6"
+      ],
+      "Comateffectiveness": 2500,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001201,8",
+      "Stagereward": "3,1001201,40;1,1,50",
+      "Salvagedropshow": "3,1001201,8",
+      "Dropshow": "3,1001201,40;1,1,50",
+      "Exp": 750,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263298": {
+      "Cuid": 4299262263298,
+      "Harbourid": 1001,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 100102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,1001,1"
+      ],
+      "Comateffectiveness": 5100,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001202,9",
+      "Stagereward": "3,1001202,45;1,1,50",
+      "Salvagedropshow": "3,1001202,9",
+      "Dropshow": "3,1001202,45;1,1,50",
+      "Exp": 1000,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263299": {
+      "Cuid": 4299262263299,
+      "Harbourid": 1001,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 100103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,1001,2"
+      ],
+      "Comateffectiveness": 8900,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001203,10",
+      "Stagereward": "3,1001203,50;1,1,50",
+      "Salvagedropshow": "3,1001203,10",
+      "Dropshow": "3,1001203,50;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263300": {
+      "Cuid": 4299262263300,
+      "Harbourid": 1001,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 100104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,1001,3"
+      ],
+      "Comateffectiveness": 13000,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001204,12",
+      "Stagereward": "3,1001204,60;1,1,50",
+      "Salvagedropshow": "3,1001204,12",
+      "Dropshow": "3,1001204,60;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263301": {
+      "Cuid": 4299262263301,
+      "Harbourid": 1001,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 100105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,1001,4"
+      ],
+      "Comateffectiveness": 18600,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001205,13",
+      "Stagereward": "3,1001205,65;1,1,100",
+      "Salvagedropshow": "3,1001205,13",
+      "Dropshow": "3,1001205,65;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263302": {
+      "Cuid": 4299262263302,
+      "Harbourid": 1001,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 100106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,1001,5"
+      ],
+      "Comateffectiveness": 23100,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001206,14",
+      "Stagereward": "3,1001206,70;1,1,100",
+      "Salvagedropshow": "3,1001206,14",
+      "Dropshow": "3,1001206,70;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263303": {
+      "Cuid": 4299262263303,
+      "Harbourid": 1001,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 100107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,1001,6"
+      ],
+      "Comateffectiveness": 26500,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001207,16",
+      "Stagereward": "3,1001207,80;1,1,100",
+      "Salvagedropshow": "3,1001207,16",
+      "Dropshow": "3,1001207,80;1,1,100",
+      "Exp": 2250,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263304": {
+      "Cuid": 4299262263304,
+      "Harbourid": 1001,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 100108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,1001,7"
+      ],
+      "Comateffectiveness": 28800,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001208,19",
+      "Stagereward": "3,1001208,95;1,1,100",
+      "Salvagedropshow": "3,1001208,19",
+      "Dropshow": "3,1001208,95;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "4299262263305": {
+      "Cuid": 4299262263305,
+      "Harbourid": 1001,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 100109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,1001,8"
+      ],
+      "Comateffectiveness": 30400,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001209,22",
+      "Stagereward": "3,1001209,110;1,1,100",
+      "Salvagedropshow": "3,1001209,22",
+      "Dropshow": "3,1001209,110;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被三方勢力包圍的中央島嶼。雖然並沒有什麼得xx得天下的傳聞，人們依舊對此地趨之若鶩。"
+      }
+    },
+    "8594229559297": {
+      "Cuid": 8594229559297,
+      "Harbourid": 2001,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 200101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,14"
+      ],
+      "Comateffectiveness": 5000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001301,5",
+      "Stagereward": "3,1001301,10;1,1,50",
+      "Salvagedropshow": "3,1001301,5",
+      "Dropshow": "3,1001301,10;1,1,50",
+      "Exp": 750,
+      "Lordexp": 150,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559298": {
+      "Cuid": 8594229559298,
+      "Harbourid": 2001,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 200102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,2001,1"
+      ],
+      "Comateffectiveness": 7500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001302,6",
+      "Stagereward": "3,1001302,10;1,1,50",
+      "Salvagedropshow": "3,1001302,6",
+      "Dropshow": "3,1001302,10;1,1,50",
+      "Exp": 1000,
+      "Lordexp": 200,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559299": {
+      "Cuid": 8594229559299,
+      "Harbourid": 2001,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 200103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,2001,2"
+      ],
+      "Comateffectiveness": 10000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001303,7",
+      "Stagereward": "3,1001303,15;1,1,50",
+      "Salvagedropshow": "3,1001303,7",
+      "Dropshow": "3,1001303,15;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 250,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559300": {
+      "Cuid": 8594229559300,
+      "Harbourid": 2001,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 200104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,2001,3"
+      ],
+      "Comateffectiveness": 11500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001304,8",
+      "Stagereward": "3,1001304,15;1,1,50",
+      "Salvagedropshow": "3,1001304,8",
+      "Dropshow": "3,1001304,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 300,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559301": {
+      "Cuid": 8594229559301,
+      "Harbourid": 2001,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 200105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,2001,4"
+      ],
+      "Comateffectiveness": 12500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001305,9",
+      "Stagereward": "3,1001305,20;1,1,100",
+      "Salvagedropshow": "3,1001305,9",
+      "Dropshow": "3,1001305,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 350,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559302": {
+      "Cuid": 8594229559302,
+      "Harbourid": 2001,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 200106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,2001,5"
+      ],
+      "Comateffectiveness": 14000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001306,10",
+      "Stagereward": "3,1001306,20;1,1,100",
+      "Salvagedropshow": "3,1001306,10",
+      "Dropshow": "3,1001306,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 400,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559303": {
+      "Cuid": 8594229559303,
+      "Harbourid": 2001,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 200107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,2001,6"
+      ],
+      "Comateffectiveness": 15500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001307,10",
+      "Stagereward": "3,1001307,20;1,1,100",
+      "Salvagedropshow": "3,1001307,10",
+      "Dropshow": "3,1001307,20;1,1,100",
+      "Exp": 2250,
+      "Lordexp": 450,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559304": {
+      "Cuid": 8594229559304,
+      "Harbourid": 2001,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 200108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,2001,7"
+      ],
+      "Comateffectiveness": 17000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001308,11",
+      "Stagereward": "3,1001308,20;1,1,100",
+      "Salvagedropshow": "3,1001308,11",
+      "Dropshow": "3,1001308,20;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8594229559305": {
+      "Cuid": 8594229559305,
+      "Harbourid": 2001,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 200109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,2001,8"
+      ],
+      "Comateffectiveness": 19000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001309,12",
+      "Stagereward": "3,1001309,20;1,1,100",
+      "Salvagedropshow": "3,1001309,12",
+      "Dropshow": "3,1001309,20;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526593": {
+      "Cuid": 8598524526593,
+      "Harbourid": 2002,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 200101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,14"
+      ],
+      "Comateffectiveness": 5000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001301,5",
+      "Stagereward": "3,1001301,10;1,1,50",
+      "Salvagedropshow": "3,1001301,5",
+      "Dropshow": "3,1001301,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 150,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526594": {
+      "Cuid": 8598524526594,
+      "Harbourid": 2002,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 200102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,2002,1"
+      ],
+      "Comateffectiveness": 7500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001302,7",
+      "Stagereward": "3,1001302,10;1,1,50",
+      "Salvagedropshow": "3,1001302,7",
+      "Dropshow": "3,1001302,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 200,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526595": {
+      "Cuid": 8598524526595,
+      "Harbourid": 2002,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 200103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,2002,2"
+      ],
+      "Comateffectiveness": 10000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001303,10",
+      "Stagereward": "3,1001303,15;1,1,50",
+      "Salvagedropshow": "3,1001303,10",
+      "Dropshow": "3,1001303,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 250,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526596": {
+      "Cuid": 8598524526596,
+      "Harbourid": 2002,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 200104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,2002,3"
+      ],
+      "Comateffectiveness": 11500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001304,12",
+      "Stagereward": "3,1001304,15;1,1,50",
+      "Salvagedropshow": "3,1001304,12",
+      "Dropshow": "3,1001304,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 300,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526597": {
+      "Cuid": 8598524526597,
+      "Harbourid": 2002,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 200105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,2002,4"
+      ],
+      "Comateffectiveness": 12500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001305,14",
+      "Stagereward": "3,1001305,20;1,1,100",
+      "Salvagedropshow": "3,1001305,14",
+      "Dropshow": "3,1001305,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 350,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526598": {
+      "Cuid": 8598524526598,
+      "Harbourid": 2002,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 200106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,2002,5"
+      ],
+      "Comateffectiveness": 14000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001306,19",
+      "Stagereward": "3,1001306,20;1,1,100",
+      "Salvagedropshow": "3,1001306,19",
+      "Dropshow": "3,1001306,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 400,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526599": {
+      "Cuid": 8598524526599,
+      "Harbourid": 2002,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 200107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,2002,6"
+      ],
+      "Comateffectiveness": 15500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001307,24",
+      "Stagereward": "3,1001307,20;1,1,100",
+      "Salvagedropshow": "3,1001307,24",
+      "Dropshow": "3,1001307,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 450,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526600": {
+      "Cuid": 8598524526600,
+      "Harbourid": 2002,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 200108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,2002,7"
+      ],
+      "Comateffectiveness": 17000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001308,30",
+      "Stagereward": "3,1001308,20;1,1,100",
+      "Salvagedropshow": "3,1001308,30",
+      "Dropshow": "3,1001308,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8598524526601": {
+      "Cuid": 8598524526601,
+      "Harbourid": 2002,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 200109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,2002,8"
+      ],
+      "Comateffectiveness": 19000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001309,36",
+      "Stagereward": "3,1001309,20;1,1,100",
+      "Salvagedropshow": "3,1001309,36",
+      "Dropshow": "3,1001309,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493889": {
+      "Cuid": 8602819493889,
+      "Harbourid": 2003,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 200101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,14"
+      ],
+      "Comateffectiveness": 5000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001301,5",
+      "Stagereward": "3,1001301,10;1,1,50",
+      "Salvagedropshow": "3,1001301,5",
+      "Dropshow": "3,1001301,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 150,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493890": {
+      "Cuid": 8602819493890,
+      "Harbourid": 2003,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 200102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,2003,1"
+      ],
+      "Comateffectiveness": 7500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001302,7",
+      "Stagereward": "3,1001302,10;1,1,50",
+      "Salvagedropshow": "3,1001302,7",
+      "Dropshow": "3,1001302,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 200,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493891": {
+      "Cuid": 8602819493891,
+      "Harbourid": 2003,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 200103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,2003,2"
+      ],
+      "Comateffectiveness": 10000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001303,10",
+      "Stagereward": "3,1001303,15;1,1,50",
+      "Salvagedropshow": "3,1001303,10",
+      "Dropshow": "3,1001303,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 250,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493892": {
+      "Cuid": 8602819493892,
+      "Harbourid": 2003,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 200104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,2003,3"
+      ],
+      "Comateffectiveness": 11500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001304,12",
+      "Stagereward": "3,1001304,15;1,1,50",
+      "Salvagedropshow": "3,1001304,12",
+      "Dropshow": "3,1001304,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 300,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493893": {
+      "Cuid": 8602819493893,
+      "Harbourid": 2003,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 200105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,2003,4"
+      ],
+      "Comateffectiveness": 12500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001305,14",
+      "Stagereward": "3,1001305,20;1,1,100",
+      "Salvagedropshow": "3,1001305,14",
+      "Dropshow": "3,1001305,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 350,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493894": {
+      "Cuid": 8602819493894,
+      "Harbourid": 2003,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 200106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,2003,5"
+      ],
+      "Comateffectiveness": 14000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001306,19",
+      "Stagereward": "3,1001306,20;1,1,100",
+      "Salvagedropshow": "3,1001306,19",
+      "Dropshow": "3,1001306,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 400,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493895": {
+      "Cuid": 8602819493895,
+      "Harbourid": 2003,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 200107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,2003,6"
+      ],
+      "Comateffectiveness": 15500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001307,24",
+      "Stagereward": "3,1001307,20;1,1,100",
+      "Salvagedropshow": "3,1001307,24",
+      "Dropshow": "3,1001307,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 450,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493896": {
+      "Cuid": 8602819493896,
+      "Harbourid": 2003,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 200108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,2003,7"
+      ],
+      "Comateffectiveness": 17000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001308,30",
+      "Stagereward": "3,1001308,20;1,1,100",
+      "Salvagedropshow": "3,1001308,30",
+      "Dropshow": "3,1001308,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8602819493897": {
+      "Cuid": 8602819493897,
+      "Harbourid": 2003,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 200109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,2003,8"
+      ],
+      "Comateffectiveness": 19000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001309,36",
+      "Stagereward": "3,1001309,20;1,1,100",
+      "Salvagedropshow": "3,1001309,36",
+      "Dropshow": "3,1001309,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461185": {
+      "Cuid": 8607114461185,
+      "Harbourid": 2004,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 200101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,14"
+      ],
+      "Comateffectiveness": 5000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001301,5",
+      "Stagereward": "3,1001301,10;1,1,50",
+      "Salvagedropshow": "3,1001301,5",
+      "Dropshow": "3,1001301,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 150,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461186": {
+      "Cuid": 8607114461186,
+      "Harbourid": 2004,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 200102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,2004,1"
+      ],
+      "Comateffectiveness": 7500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001302,7",
+      "Stagereward": "3,1001302,10;1,1,50",
+      "Salvagedropshow": "3,1001302,7",
+      "Dropshow": "3,1001302,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 200,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461187": {
+      "Cuid": 8607114461187,
+      "Harbourid": 2004,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 200103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,2004,2"
+      ],
+      "Comateffectiveness": 10000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001303,10",
+      "Stagereward": "3,1001303,15;1,1,50",
+      "Salvagedropshow": "3,1001303,10",
+      "Dropshow": "3,1001303,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 250,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461188": {
+      "Cuid": 8607114461188,
+      "Harbourid": 2004,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 200104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,2004,3"
+      ],
+      "Comateffectiveness": 11500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001304,12",
+      "Stagereward": "3,1001304,15;1,1,50",
+      "Salvagedropshow": "3,1001304,12",
+      "Dropshow": "3,1001304,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 300,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461189": {
+      "Cuid": 8607114461189,
+      "Harbourid": 2004,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 200105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,2004,4"
+      ],
+      "Comateffectiveness": 12500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001305,14",
+      "Stagereward": "3,1001305,20;1,1,100",
+      "Salvagedropshow": "3,1001305,14",
+      "Dropshow": "3,1001305,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 350,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461190": {
+      "Cuid": 8607114461190,
+      "Harbourid": 2004,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 200106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,2004,5"
+      ],
+      "Comateffectiveness": 14000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001306,19",
+      "Stagereward": "3,1001306,20;1,1,100",
+      "Salvagedropshow": "3,1001306,19",
+      "Dropshow": "3,1001306,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 400,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461191": {
+      "Cuid": 8607114461191,
+      "Harbourid": 2004,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 200107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,2004,6"
+      ],
+      "Comateffectiveness": 15500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001307,24",
+      "Stagereward": "3,1001307,20;1,1,100",
+      "Salvagedropshow": "3,1001307,24",
+      "Dropshow": "3,1001307,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 450,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461192": {
+      "Cuid": 8607114461192,
+      "Harbourid": 2004,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 200108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,2004,7"
+      ],
+      "Comateffectiveness": 17000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001308,30",
+      "Stagereward": "3,1001308,20;1,1,100",
+      "Salvagedropshow": "3,1001308,30",
+      "Dropshow": "3,1001308,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8607114461193": {
+      "Cuid": 8607114461193,
+      "Harbourid": 2004,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 200109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,2004,8"
+      ],
+      "Comateffectiveness": 19000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001309,36",
+      "Stagereward": "3,1001309,20;1,1,100",
+      "Salvagedropshow": "3,1001309,36",
+      "Dropshow": "3,1001309,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428481": {
+      "Cuid": 8611409428481,
+      "Harbourid": 2005,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 200101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,14"
+      ],
+      "Comateffectiveness": 5000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001301,5",
+      "Stagereward": "3,1001301,10;1,1,50",
+      "Salvagedropshow": "3,1001301,5",
+      "Dropshow": "3,1001301,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 150,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428482": {
+      "Cuid": 8611409428482,
+      "Harbourid": 2005,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 200102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,2005,1"
+      ],
+      "Comateffectiveness": 7500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001302,7",
+      "Stagereward": "3,1001302,10;1,1,50",
+      "Salvagedropshow": "3,1001302,7",
+      "Dropshow": "3,1001302,10;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 200,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428483": {
+      "Cuid": 8611409428483,
+      "Harbourid": 2005,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 200103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,2005,2"
+      ],
+      "Comateffectiveness": 10000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001303,10",
+      "Stagereward": "3,1001303,15;1,1,50",
+      "Salvagedropshow": "3,1001303,10",
+      "Dropshow": "3,1001303,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 250,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428484": {
+      "Cuid": 8611409428484,
+      "Harbourid": 2005,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 200104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,2005,3"
+      ],
+      "Comateffectiveness": 11500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001304,12",
+      "Stagereward": "3,1001304,15;1,1,50",
+      "Salvagedropshow": "3,1001304,12",
+      "Dropshow": "3,1001304,15;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 300,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428485": {
+      "Cuid": 8611409428485,
+      "Harbourid": 2005,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 200105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,2005,4"
+      ],
+      "Comateffectiveness": 12500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001305,14",
+      "Stagereward": "3,1001305,20;1,1,100",
+      "Salvagedropshow": "3,1001305,14",
+      "Dropshow": "3,1001305,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 350,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428486": {
+      "Cuid": 8611409428486,
+      "Harbourid": 2005,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 200106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,2005,5"
+      ],
+      "Comateffectiveness": 14000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001306,19",
+      "Stagereward": "3,1001306,20;1,1,100",
+      "Salvagedropshow": "3,1001306,19",
+      "Dropshow": "3,1001306,20;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 400,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428487": {
+      "Cuid": 8611409428487,
+      "Harbourid": 2005,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 200107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,2005,6"
+      ],
+      "Comateffectiveness": 15500,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001307,24",
+      "Stagereward": "3,1001307,20;1,1,100",
+      "Salvagedropshow": "3,1001307,24",
+      "Dropshow": "3,1001307,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 450,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428488": {
+      "Cuid": 8611409428488,
+      "Harbourid": 2005,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 200108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,2005,7"
+      ],
+      "Comateffectiveness": 17000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001308,30",
+      "Stagereward": "3,1001308,20;1,1,100",
+      "Salvagedropshow": "3,1001308,30",
+      "Dropshow": "3,1001308,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "8611409428489": {
+      "Cuid": 8611409428489,
+      "Harbourid": 2005,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 200109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,2005,8"
+      ],
+      "Comateffectiveness": 19000,
+      "Cost": 10,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001309,36",
+      "Stagereward": "3,1001309,20;1,1,100",
+      "Salvagedropshow": "3,1001309,36",
+      "Dropshow": "3,1001309,20;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 500,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "被稱為「魔鬼之域」的三角地帶，傳說有大量艦隊在這裡消失。也有在這裡埋藏著舊時代寶藏的傳說。"
+      }
+    },
+    "12889196855297": {
+      "Cuid": 12889196855297,
+      "Harbourid": 3001,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 300101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,10"
+      ],
+      "Comateffectiveness": 2500,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001401,400",
+      "Stagereward": "3,1001401,2000;1,1,50",
+      "Salvagedropshow": "3,1001401,400",
+      "Dropshow": "3,1001401,2000;1,1,50",
+      "Exp": 750,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855298": {
+      "Cuid": 12889196855298,
+      "Harbourid": 3001,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 300102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,3001,1"
+      ],
+      "Comateffectiveness": 5100,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001402,440",
+      "Stagereward": "3,1001402,2200;1,1,50",
+      "Salvagedropshow": "3,1001402,440",
+      "Dropshow": "3,1001402,2200;1,1,50",
+      "Exp": 1000,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855299": {
+      "Cuid": 12889196855299,
+      "Harbourid": 3001,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 300103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,3001,2"
+      ],
+      "Comateffectiveness": 8900,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001403,480",
+      "Stagereward": "3,1001403,2400;1,1,50",
+      "Salvagedropshow": "3,1001403,480",
+      "Dropshow": "3,1001403,2400;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855300": {
+      "Cuid": 12889196855300,
+      "Harbourid": 3001,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 300104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,3001,3"
+      ],
+      "Comateffectiveness": 13000,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001404,600",
+      "Stagereward": "3,1001404,3000;1,1,50",
+      "Salvagedropshow": "3,1001404,600",
+      "Dropshow": "3,1001404,3000;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855301": {
+      "Cuid": 12889196855301,
+      "Harbourid": 3001,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 300105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,3001,4"
+      ],
+      "Comateffectiveness": 18600,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001405,660",
+      "Stagereward": "3,1001405,3300;1,1,100",
+      "Salvagedropshow": "3,1001405,660",
+      "Dropshow": "3,1001405,3300;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855302": {
+      "Cuid": 12889196855302,
+      "Harbourid": 3001,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 300106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,3001,5"
+      ],
+      "Comateffectiveness": 23100,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001406,720",
+      "Stagereward": "3,1001406,3600;1,1,100",
+      "Salvagedropshow": "3,1001406,720",
+      "Dropshow": "3,1001406,3600;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855303": {
+      "Cuid": 12889196855303,
+      "Harbourid": 3001,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 300107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,3001,6"
+      ],
+      "Comateffectiveness": 26500,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001407,800",
+      "Stagereward": "3,1001407,4000;1,1,100",
+      "Salvagedropshow": "3,1001407,800",
+      "Dropshow": "3,1001407,4000;1,1,100",
+      "Exp": 2250,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855304": {
+      "Cuid": 12889196855304,
+      "Harbourid": 3001,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 300108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,3001,7"
+      ],
+      "Comateffectiveness": 28800,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001408,960",
+      "Stagereward": "3,1001408,4800;1,1,100",
+      "Salvagedropshow": "3,1001408,960",
+      "Dropshow": "3,1001408,4800;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "12889196855305": {
+      "Cuid": 12889196855305,
+      "Harbourid": 3001,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 300109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,3001,8"
+      ],
+      "Comateffectiveness": 30400,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001409,1120",
+      "Stagereward": "3,1001409,5600;1,1,100",
+      "Salvagedropshow": "3,1001409,1120",
+      "Dropshow": "3,1001409,5600;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "聚集了各個地域珍奇貨物的貿易港，是各地商船途徑並進行補給的中轉港口。"
+      }
+    },
+    "17184164151297": {
+      "Cuid": 17184164151297,
+      "Harbourid": 4001,
+      "Difficultyid": 1,
+      "Harbourname": "1000m",
+      "Battleid": 400101,
+      "Harbournamedesc": "1000m",
+      "Unlockcondition": [
+        "10102,8"
+      ],
+      "Comateffectiveness": 2500,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001301,8",
+      "Stagereward": "3,1001301,40;1,1,50",
+      "Salvagedropshow": "3,1001301,8",
+      "Dropshow": "3,1001301,40;1,1,50",
+      "Exp": 750,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151298": {
+      "Cuid": 17184164151298,
+      "Harbourid": 4001,
+      "Difficultyid": 2,
+      "Harbourname": "2000m",
+      "Battleid": 400102,
+      "Harbournamedesc": "2000m",
+      "Unlockcondition": [
+        "10102,20",
+        "10601,4001,1"
+      ],
+      "Comateffectiveness": 5100,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001302,9",
+      "Stagereward": "3,1001302,45;1,1,50",
+      "Salvagedropshow": "3,1001302,9",
+      "Dropshow": "3,1001302,45;1,1,50",
+      "Exp": 1000,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151299": {
+      "Cuid": 17184164151299,
+      "Harbourid": 4001,
+      "Difficultyid": 3,
+      "Harbourname": "3000m",
+      "Battleid": 400103,
+      "Harbournamedesc": "3000m",
+      "Unlockcondition": [
+        "10102,30",
+        "10601,4001,2"
+      ],
+      "Comateffectiveness": 8900,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001303,10",
+      "Stagereward": "3,1001303,50;1,1,50",
+      "Salvagedropshow": "3,1001303,10",
+      "Dropshow": "3,1001303,50;1,1,50",
+      "Exp": 1250,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151300": {
+      "Cuid": 17184164151300,
+      "Harbourid": 4001,
+      "Difficultyid": 4,
+      "Harbourname": "4000m",
+      "Battleid": 400104,
+      "Harbournamedesc": "4000m",
+      "Unlockcondition": [
+        "10102,35",
+        "10601,4001,3"
+      ],
+      "Comateffectiveness": 13000,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001304,12",
+      "Stagereward": "3,1001304,60;1,1,50",
+      "Salvagedropshow": "3,1001304,12",
+      "Dropshow": "3,1001304,60;1,1,50",
+      "Exp": 1500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151301": {
+      "Cuid": 17184164151301,
+      "Harbourid": 4001,
+      "Difficultyid": 5,
+      "Harbourname": "5000m",
+      "Battleid": 400105,
+      "Harbournamedesc": "5000m",
+      "Unlockcondition": [
+        "10102,40",
+        "10601,4001,4"
+      ],
+      "Comateffectiveness": 18600,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001305,13",
+      "Stagereward": "3,1001305,65;1,1,100",
+      "Salvagedropshow": "3,1001305,13",
+      "Dropshow": "3,1001305,65;1,1,100",
+      "Exp": 1750,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151302": {
+      "Cuid": 17184164151302,
+      "Harbourid": 4001,
+      "Difficultyid": 6,
+      "Harbourname": "6000m",
+      "Battleid": 400106,
+      "Harbournamedesc": "6000m",
+      "Unlockcondition": [
+        "10102,45",
+        "10601,4001,5"
+      ],
+      "Comateffectiveness": 23100,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001306,14",
+      "Stagereward": "3,1001306,70;1,1,100",
+      "Salvagedropshow": "3,1001306,14",
+      "Dropshow": "3,1001306,70;1,1,100",
+      "Exp": 2000,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151303": {
+      "Cuid": 17184164151303,
+      "Harbourid": 4001,
+      "Difficultyid": 7,
+      "Harbourname": "7000m",
+      "Battleid": 400107,
+      "Harbournamedesc": "7000m",
+      "Unlockcondition": [
+        "10102,50",
+        "10601,4001,6"
+      ],
+      "Comateffectiveness": 26500,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001307,16",
+      "Stagereward": "3,1001307,80;1,1,100",
+      "Salvagedropshow": "3,1001307,16",
+      "Dropshow": "3,1001307,80;1,1,100",
+      "Exp": 2250,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151304": {
+      "Cuid": 17184164151304,
+      "Harbourid": 4001,
+      "Difficultyid": 8,
+      "Harbourname": "8000m",
+      "Battleid": 400108,
+      "Harbournamedesc": "8000m",
+      "Unlockcondition": [
+        "10102,55",
+        "10601,4001,7"
+      ],
+      "Comateffectiveness": 28800,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001308,19",
+      "Stagereward": "3,1001308,95;1,1,100",
+      "Salvagedropshow": "3,1001308,19",
+      "Dropshow": "3,1001308,95;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    },
+    "17184164151305": {
+      "Cuid": 17184164151305,
+      "Harbourid": 4001,
+      "Difficultyid": 9,
+      "Harbourname": "9000m",
+      "Battleid": 400109,
+      "Harbournamedesc": "9000m",
+      "Unlockcondition": [
+        "10102,60",
+        "10601,4001,8"
+      ],
+      "Comateffectiveness": 30400,
+      "Cost": 6,
+      "Partynum": 1,
+      "Task": null,
+      "Taskdetails": "[[ \"5;4\",\"6;180\" ],\n  [\"5;3\", \"6;240\"],\n  [\"5;2\",\"6;300\"]]",
+      "Salvagereward": "3,1001309,22",
+      "Stagereward": "3,1001309,110;1,1,100",
+      "Salvagedropshow": "3,1001309,22",
+      "Dropshow": "3,1001309,110;1,1,100",
+      "Exp": 2500,
+      "Lordexp": 120,
+      "Friendlyexp": 5,
+      "LangStringTable": {
+        "Taskdesc": "{\"Desc\":[\n\"存活大於4人並在180秒內勝利\",\n\"存活大於3人並在240秒內勝利\",\n\"存活大於2人並在300秒內勝利\"\n    ]}",
+        "Harbourdesc": "失落的海底遺跡，傳說這裡藏著數不盡的財寶。"
+      }
+    }
+  }
+}

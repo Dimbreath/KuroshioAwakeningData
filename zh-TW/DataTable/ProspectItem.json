@@ -1,0 +1,76 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Iatticetype": 1,
+      "IatticeX": 1,
+      "IatticeY": 1,
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999801
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Iatticetype": 1,
+      "IatticeX": 1,
+      "IatticeY": 5,
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999802
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Iatticetype": 1,
+      "IatticeX": 5,
+      "IatticeY": 1,
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999803
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Iatticetype": 1,
+      "IatticeX": 3,
+      "IatticeY": 3,
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999804
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Iatticetype": 2,
+      "IatticeX": 3,
+      "IatticeY": 3,
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999805
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Iatticetype": 1,
+      "IatticeX": 3,
+      "IatticeY": 3,
+      "IatticeRandom": 4,
+      "Coinexchangeid": 999806
+    },
+    "7": {
+      "Cuid": 7,
+      "Id": 7,
+      "Iatticetype": 2,
+      "IatticeX": 5,
+      "IatticeY": 5,
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999807
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Iatticetype": 1,
+      "IatticeX": 5,
+      "IatticeY": 5,
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999808
+    }
+  }
+}

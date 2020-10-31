@@ -1,0 +1,144 @@
+{
+  "Rows": {
+    "198": {
+      "Cuid": 198,
+      "Id": 198,
+      "Helptype": 1,
+      "Helpid": 98,
+      "Order": 1,
+      "Icon": "slg_1_map_icon_2005",
+      "Pagenum": 1,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "固定據點",
+        "Content": "我方艦隊潛入港口時的初始據點與敵方港口駐軍Boss據點。"
+      }
+    },
+    "101": {
+      "Cuid": 101,
+      "Id": 101,
+      "Helptype": 1,
+      "Helpid": 1,
+      "Order": 2,
+      "Icon": "slg_1_map_icon_2008",
+      "Pagenum": 2,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "物資緝獲",
+        "Content": "敵方據點通常有物資儲備，佔領該類型據點將緝獲敵方物資。"
+      }
+    },
+    "103": {
+      "Cuid": 103,
+      "Id": 103,
+      "Helptype": 1,
+      "Helpid": 3,
+      "Order": 3,
+      "Icon": "slg_1_map_icon_2007",
+      "Pagenum": 2,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "Buff加成",
+        "Content": "佔領該類型據點時，士氣獲得提升，對應艦隊可獲得一項Buff加成效果。"
+      }
+    },
+    "105": {
+      "Cuid": 105,
+      "Id": 105,
+      "Helptype": 1,
+      "Helpid": 5,
+      "Order": 4,
+      "Icon": "slg_1_map_event_icon_5",
+      "Pagenum": 2,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "定向潛入",
+        "Content": "某些海域存在暗流密道，佔領該類型據點，對應艦隊可潛入至某一固定據點。"
+      }
+    },
+    "106": {
+      "Cuid": 106,
+      "Id": 106,
+      "Helptype": 1,
+      "Helpid": 6,
+      "Order": 5,
+      "Icon": "slg_1_map_event_icon_6",
+      "Pagenum": 2,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "隨機潛入",
+        "Content": "某些海域存在神秘暗流，佔領該類型據點，對應艦隊可潛入至某一隨機據點。"
+      }
+    },
+    "102": {
+      "Cuid": 102,
+      "Id": 102,
+      "Helptype": 1,
+      "Helpid": 2,
+      "Order": 6,
+      "Icon": "slg_1_map_icon_2006",
+      "Pagenum": 2,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "安全據點",
+        "Content": "港口內可能存在安全區域，佔領該類型據點後，可回復對應艦隊的血量以及大招能量。"
+      }
+    },
+    "104": {
+      "Cuid": 104,
+      "Id": 104,
+      "Helptype": 1,
+      "Helpid": 4,
+      "Order": 7,
+      "Icon": "slg_1_map_event_icon_4",
+      "Pagenum": 3,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "戰略事件",
+        "Content": "佔領該類型據點，可解鎖通行特殊航道。"
+      }
+    },
+    "107": {
+      "Cuid": 107,
+      "Id": 107,
+      "Helptype": 1,
+      "Helpid": 7,
+      "Order": 8,
+      "Icon": "slg_1_map_event_icon_7",
+      "Pagenum": 2,
+      "Color": "ff78b1cc",
+      "LangStringTable": {
+        "Title": "戰術迂迴",
+        "Content": "途經該類型據點時，可選擇是否進行迂迴作戰，成功則可規避直接戰鬥，有效保存實力。"
+      }
+    },
+    "202": {
+      "Cuid": 202,
+      "Id": 202,
+      "Helptype": 2,
+      "Helpid": 2,
+      "Order": 9,
+      "Icon": "slg_1_map_link_06",
+      "Pagenum": 2,
+      "Color": "49ecffcc",
+      "LangStringTable": {
+        "Title": "單向航道",
+        "Content": "該航道僅可隨箭頭指向單向通行，無法原航路返回，請指揮官謹慎進行戰略部署。"
+      }
+    },
+    "204": {
+      "Cuid": 204,
+      "Id": 204,
+      "Helptype": 2,
+      "Helpid": 4,
+      "Order": 10,
+      "Icon": "slg_1_map_icon_s_lockbg",
+      "Pagenum": 1,
+      "Color": "49ecffcc",
+      "LangStringTable": {
+        "Title": "特殊航道",
+        "Content": "該航道實行通行管制，滿足解禁條件後才可通行。"
+      }
+    }
+  }
+}

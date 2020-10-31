@@ -1,0 +1,52 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Id": 1,
+      "Superposition": false,
+      "Type": 1,
+      "Value": 0.1,
+      "Ext": null
+    },
+    "2": {
+      "Cuid": 2,
+      "Id": 2,
+      "Superposition": false,
+      "Type": 2,
+      "Value": 0.05,
+      "Ext": null
+    },
+    "3": {
+      "Cuid": 3,
+      "Id": 3,
+      "Superposition": false,
+      "Type": 3,
+      "Value": 0.05,
+      "Ext": null
+    },
+    "4": {
+      "Cuid": 4,
+      "Id": 4,
+      "Superposition": false,
+      "Type": 4,
+      "Value": 0.2,
+      "Ext": null
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Superposition": false,
+      "Type": 5,
+      "Value": 0.05,
+      "Ext": null
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Superposition": false,
+      "Type": 6,
+      "Value": 10.0,
+      "Ext": null
+    }
+  }
+}
