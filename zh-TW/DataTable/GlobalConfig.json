@@ -2963,7 +2963,7 @@
     "ndaylogin_bg": {
       "Cuid": "ndaylogin_bg",
       "Key": "ndaylogin_bg",
-      "Value": "activity_1_ND_bg_20200412",
+      "Value": "activity_1_menu_bg_xhzy_20200723",
       "LangStringTable": {
         "Remarks": "N日登入背景資源"
       }
@@ -2971,7 +2971,7 @@
     "ndaylogin_overview": {
       "Cuid": "ndaylogin_overview",
       "Key": "ndaylogin_overview",
-      "Value": "activity_1_ND_pic_20200412",
+      "Value": "activity_1_pic_xhzy_20200723",
       "LangStringTable": {
         "Remarks": "N日登入立繪資源"
       }
@@ -2987,7 +2987,7 @@
     "ndaylogin_title": {
       "Cuid": "ndaylogin_title",
       "Key": "ndaylogin_title",
-      "Value": "activity_1_ZYQX_title_20200412",
+      "Value": "activity_1_title_xhzy_20200723",
       "LangStringTable": {
         "Remarks": "N日登入名稱資源"
       }

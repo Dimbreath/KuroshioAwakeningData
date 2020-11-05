@@ -15,7 +15,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(初級)"
+        "Taskname": "商路巡航Ⅰ(初級)"
       }
     },
     "1144": {
@@ -33,7 +33,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(初級)"
+        "Taskname": "港口巡航Ⅰ(初級)"
       }
     },
     "1133": {
@@ -51,7 +51,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(初級)"
+        "Taskname": "遠洋巡航Ⅰ(初級)"
       }
     },
     "1122": {
@@ -69,7 +69,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(初級)"
+        "Taskname": "科研巡航Ⅰ(初級)"
       }
     },
     "1111": {
@@ -87,7 +87,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(初級)"
+        "Taskname": "邊防巡航Ⅰ(初級)"
       }
     },
     "1255": {
@@ -105,7 +105,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(初級)"
+        "Taskname": "商路巡航Ⅱ(初級)"
       }
     },
     "1244": {
@@ -123,7 +123,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(初級)"
+        "Taskname": "港口巡航Ⅱ(初級)"
       }
     },
     "1233": {
@@ -141,7 +141,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(初級)"
+        "Taskname": "遠洋巡航Ⅱ(初級)"
       }
     },
     "1222": {
@@ -159,7 +159,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(初級)"
+        "Taskname": "科研巡航Ⅱ(初級)"
       }
     },
     "1211": {
@@ -177,7 +177,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(初級)"
+        "Taskname": "邊防巡航Ⅱ(初級)"
       }
     },
     "1355": {
@@ -195,7 +195,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(初級)"
+        "Taskname": "商路巡航Ⅲ(初級)"
       }
     },
     "1344": {
@@ -213,7 +213,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(初級)"
+        "Taskname": "港口巡航Ⅲ(初級)"
       }
     },
     "1333": {
@@ -231,7 +231,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(初級)"
+        "Taskname": "遠洋巡航Ⅲ(初級)"
       }
     },
     "1322": {
@@ -249,7 +249,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(初級)"
+        "Taskname": "科研巡航Ⅲ(初級)"
       }
     },
     "1311": {
@@ -267,7 +267,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(初級)"
+        "Taskname": "邊防巡航Ⅲ(初級)"
       }
     },
     "1455": {
@@ -285,7 +285,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅳ(初級)"
+        "Taskname": "商路巡航Ⅳ(初級)"
       }
     },
     "1444": {
@@ -303,7 +303,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅳ(初級)"
+        "Taskname": "港口巡航Ⅳ(初級)"
       }
     },
     "1433": {
@@ -321,7 +321,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(初級)"
+        "Taskname": "遠洋巡航Ⅳ(初級)"
       }
     },
     "1422": {
@@ -339,7 +339,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅳ(初級)"
+        "Taskname": "科研巡航Ⅳ(初級)"
       }
     },
     "1411": {
@@ -357,7 +357,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(初級)"
+        "Taskname": "邊防巡航Ⅳ(初級)"
       }
     },
     "1555": {
@@ -375,7 +375,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅴ(初級)"
+        "Taskname": "商路巡航Ⅴ(初級)"
       }
     },
     "1544": {
@@ -393,7 +393,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅴ(初級)"
+        "Taskname": "港口巡航Ⅴ(初級)"
       }
     },
     "1533": {
@@ -411,7 +411,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(初級)"
+        "Taskname": "遠洋巡航Ⅴ(初級)"
       }
     },
     "1522": {
@@ -429,7 +429,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅴ(初級)"
+        "Taskname": "科研巡航Ⅴ(初級)"
       }
     },
     "1511": {
@@ -447,7 +447,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(初級)"
+        "Taskname": "邊防巡航Ⅴ(初級)"
       }
     },
     "1655": {
@@ -465,7 +465,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(中級)"
+        "Taskname": "商路巡航Ⅰ(中級)"
       }
     },
     "1644": {
@@ -483,7 +483,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(中級)"
+        "Taskname": "港口巡航Ⅰ(中級)"
       }
     },
     "1633": {
@@ -501,7 +501,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(中級)"
+        "Taskname": "遠洋巡航Ⅰ(中級)"
       }
     },
     "1622": {
@@ -519,7 +519,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(中級)"
+        "Taskname": "科研巡航Ⅰ(中級)"
       }
     },
     "1611": {
@@ -537,7 +537,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(中級)"
+        "Taskname": "邊防巡航Ⅰ(中級)"
       }
     },
     "1755": {
@@ -555,7 +555,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(中級)"
+        "Taskname": "商路巡航Ⅱ(中級)"
       }
     },
     "1744": {
@@ -573,7 +573,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(中級)"
+        "Taskname": "港口巡航Ⅱ(中級)"
       }
     },
     "1733": {
@@ -591,7 +591,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(中級)"
+        "Taskname": "遠洋巡航Ⅱ(中級)"
       }
     },
     "1722": {
@@ -609,7 +609,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(中級)"
+        "Taskname": "科研巡航Ⅱ(中級)"
       }
     },
     "1711": {
@@ -627,7 +627,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(中級)"
+        "Taskname": "邊防巡航Ⅱ(中級)"
       }
     },
     "1855": {
@@ -645,7 +645,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(中級)"
+        "Taskname": "商路巡航Ⅲ(中級)"
       }
     },
     "1844": {
@@ -663,7 +663,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(中級)"
+        "Taskname": "港口巡航Ⅲ(中級)"
       }
     },
     "1833": {
@@ -681,7 +681,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(中級)"
+        "Taskname": "遠洋巡航Ⅲ(中級)"
       }
     },
     "1822": {
@@ -699,7 +699,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(中級)"
+        "Taskname": "科研巡航Ⅲ(中級)"
       }
     },
     "1811": {
@@ -717,7 +717,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(中級)"
+        "Taskname": "邊防巡航Ⅲ(中級)"
       }
     },
     "1955": {
@@ -735,7 +735,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅳ(中級)"
+        "Taskname": "商路巡航Ⅳ(中級)"
       }
     },
     "1944": {
@@ -753,7 +753,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅳ(中級)"
+        "Taskname": "港口巡航Ⅳ(中級)"
       }
     },
     "1933": {
@@ -771,7 +771,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(中級)"
+        "Taskname": "遠洋巡航Ⅳ(中級)"
       }
     },
     "1922": {
@@ -789,7 +789,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅳ(中級)"
+        "Taskname": "科研巡航Ⅳ(中級)"
       }
     },
     "1911": {
@@ -807,7 +807,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(中級)"
+        "Taskname": "邊防巡航Ⅳ(中級)"
       }
     },
     "11055": {
@@ -825,7 +825,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅴ(中級)"
+        "Taskname": "商路巡航Ⅴ(中級)"
       }
     },
     "11044": {
@@ -843,7 +843,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅴ(中級)"
+        "Taskname": "港口巡航Ⅴ(中級)"
       }
     },
     "11033": {
@@ -861,7 +861,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(中級)"
+        "Taskname": "遠洋巡航Ⅴ(中級)"
       }
     },
     "11022": {
@@ -879,7 +879,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅴ(中級)"
+        "Taskname": "科研巡航Ⅴ(中級)"
       }
     },
     "11011": {
@@ -897,7 +897,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(中級)"
+        "Taskname": "邊防巡航Ⅴ(中級)"
       }
     },
     "11155": {
@@ -915,7 +915,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(高級)"
+        "Taskname": "商路巡航Ⅰ(高級)"
       }
     },
     "11144": {
@@ -933,7 +933,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(高級)"
+        "Taskname": "港口巡航Ⅰ(高級)"
       }
     },
     "11133": {
@@ -951,7 +951,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(高級)"
+        "Taskname": "遠洋巡航Ⅰ(高級)"
       }
     },
     "11122": {
@@ -969,7 +969,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(高級)"
+        "Taskname": "科研巡航Ⅰ(高級)"
       }
     },
     "11111": {
@@ -987,7 +987,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(高級)"
+        "Taskname": "邊防巡航Ⅰ(高級)"
       }
     },
     "11255": {
@@ -1005,7 +1005,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(高級)"
+        "Taskname": "商路巡航Ⅱ(高級)"
       }
     },
     "11244": {
@@ -1023,7 +1023,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(高級)"
+        "Taskname": "港口巡航Ⅱ(高級)"
       }
     },
     "11233": {
@@ -1041,7 +1041,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(高級)"
+        "Taskname": "遠洋巡航Ⅱ(高級)"
       }
     },
     "11222": {
@@ -1059,7 +1059,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(高級)"
+        "Taskname": "科研巡航Ⅱ(高級)"
       }
     },
     "11211": {
@@ -1077,7 +1077,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(高級)"
+        "Taskname": "邊防巡航Ⅱ(高級)"
       }
     },
     "11355": {
@@ -1095,7 +1095,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(高級)"
+        "Taskname": "商路巡航Ⅲ(高級)"
       }
     },
     "11344": {
@@ -1113,7 +1113,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(高級)"
+        "Taskname": "港口巡航Ⅲ(高級)"
       }
     },
     "11333": {
@@ -1131,7 +1131,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(高級)"
+        "Taskname": "遠洋巡航Ⅲ(高級)"
       }
     },
     "11322": {
@@ -1149,7 +1149,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(高級)"
+        "Taskname": "科研巡航Ⅲ(高級)"
       }
     },
     "11311": {
@@ -1167,7 +1167,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(高級)"
+        "Taskname": "邊防巡航Ⅲ(高級)"
       }
     },
     "11455": {
@@ -1185,7 +1185,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅳ(高級)"
+        "Taskname": "商路巡航Ⅳ(高級)"
       }
     },
     "11444": {
@@ -1203,7 +1203,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅳ(高級)"
+        "Taskname": "港口巡航Ⅳ(高級)"
       }
     },
     "11433": {
@@ -1221,7 +1221,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(高級)"
+        "Taskname": "遠洋巡航Ⅳ(高級)"
       }
     },
     "11422": {
@@ -1239,7 +1239,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅳ(高級)"
+        "Taskname": "科研巡航Ⅳ(高級)"
       }
     },
     "11411": {
@@ -1257,7 +1257,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(高級)"
+        "Taskname": "邊防巡航Ⅳ(高級)"
       }
     },
     "11555": {
@@ -1275,7 +1275,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅴ(高級)"
+        "Taskname": "商路巡航Ⅴ(高級)"
       }
     },
     "11544": {
@@ -1293,7 +1293,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅴ(高級)"
+        "Taskname": "港口巡航Ⅴ(高級)"
       }
     },
     "11533": {
@@ -1311,7 +1311,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(高級)"
+        "Taskname": "遠洋巡航Ⅴ(高級)"
       }
     },
     "11522": {
@@ -1329,7 +1329,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅴ(高級)"
+        "Taskname": "科研巡航Ⅴ(高級)"
       }
     },
     "11511": {
@@ -1347,7 +1347,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(高級)"
+        "Taskname": "邊防巡航Ⅴ(高級)"
       }
     },
     "11655": {
@@ -1365,7 +1365,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(頂級)"
+        "Taskname": "商路巡航Ⅰ(頂級)"
       }
     },
     "11644": {
@@ -1383,7 +1383,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(頂級)"
+        "Taskname": "港口巡航Ⅰ(頂級)"
       }
     },
     "11633": {
@@ -1401,7 +1401,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(頂級)"
+        "Taskname": "遠洋巡航Ⅰ(頂級)"
       }
     },
     "11622": {
@@ -1419,7 +1419,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(頂級)"
+        "Taskname": "科研巡航Ⅰ(頂級)"
       }
     },
     "11611": {
@@ -1437,7 +1437,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(頂級)"
+        "Taskname": "邊防巡航Ⅰ(頂級)"
       }
     },
     "11755": {
@@ -1455,7 +1455,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(頂級)"
+        "Taskname": "商路巡航Ⅱ(頂級)"
       }
     },
     "11744": {
@@ -1473,7 +1473,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(頂級)"
+        "Taskname": "港口巡航Ⅱ(頂級)"
       }
     },
     "11733": {
@@ -1491,7 +1491,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(頂級)"
+        "Taskname": "遠洋巡航Ⅱ(頂級)"
       }
     },
     "11722": {
@@ -1509,7 +1509,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(頂級)"
+        "Taskname": "科研巡航Ⅱ(頂級)"
       }
     },
     "11711": {
@@ -1527,7 +1527,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(頂級)"
+        "Taskname": "邊防巡航Ⅱ(頂級)"
       }
     },
     "11855": {
@@ -1545,7 +1545,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(頂級)"
+        "Taskname": "商路巡航Ⅲ(頂級)"
       }
     },
     "11844": {
@@ -1563,7 +1563,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(頂級)"
+        "Taskname": "港口巡航Ⅲ(頂級)"
       }
     },
     "11833": {
@@ -1581,7 +1581,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(頂級)"
+        "Taskname": "遠洋巡航Ⅲ(頂級)"
       }
     },
     "11822": {
@@ -1599,7 +1599,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(頂級)"
+        "Taskname": "科研巡航Ⅲ(頂級)"
       }
     },
     "11811": {
@@ -1617,7 +1617,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(頂級)"
+        "Taskname": "邊防巡航Ⅲ(頂級)"
       }
     },
     "101": {
@@ -1635,7 +1635,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(初級)"
+        "Taskname": "商路巡航Ⅰ(初級)"
       }
     },
     "102": {
@@ -1653,7 +1653,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(初級)"
+        "Taskname": "港口巡航Ⅰ(初級)"
       }
     },
     "103": {
@@ -1671,7 +1671,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(初級)"
+        "Taskname": "遠洋巡航Ⅰ(初級)"
       }
     },
     "104": {
@@ -1689,7 +1689,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(初級)"
+        "Taskname": "科研巡航Ⅰ(初級)"
       }
     },
     "105": {
@@ -1707,7 +1707,7 @@
       "Limitquality": null,
       "Exp": 760,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(初級)"
+        "Taskname": "邊防巡航Ⅰ(初級)"
       }
     },
     "106": {
@@ -1725,7 +1725,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(初級)"
+        "Taskname": "商路巡航Ⅱ(初級)"
       }
     },
     "107": {
@@ -1743,7 +1743,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(初級)"
+        "Taskname": "港口巡航Ⅱ(初級)"
       }
     },
     "108": {
@@ -1761,7 +1761,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(初級)"
+        "Taskname": "遠洋巡航Ⅱ(初級)"
       }
     },
     "109": {
@@ -1779,7 +1779,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(初級)"
+        "Taskname": "科研巡航Ⅱ(初級)"
       }
     },
     "110": {
@@ -1797,7 +1797,7 @@
       "Limitquality": null,
       "Exp": 940,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(初級)"
+        "Taskname": "邊防巡航Ⅱ(初級)"
       }
     },
     "111": {
@@ -1815,7 +1815,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(初級)"
+        "Taskname": "商路巡航Ⅲ(初級)"
       }
     },
     "112": {
@@ -1833,7 +1833,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(初級)"
+        "Taskname": "港口巡航Ⅲ(初級)"
       }
     },
     "113": {
@@ -1851,7 +1851,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(初級)"
+        "Taskname": "遠洋巡航Ⅲ(初級)"
       }
     },
     "114": {
@@ -1869,7 +1869,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(初級)"
+        "Taskname": "科研巡航Ⅲ(初級)"
       }
     },
     "115": {
@@ -1887,7 +1887,7 @@
       "Limitquality": null,
       "Exp": 1100,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(初級)"
+        "Taskname": "邊防巡航Ⅲ(初級)"
       }
     },
     "116": {
@@ -1905,7 +1905,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅳ(初級)"
+        "Taskname": "商路巡航Ⅳ(初級)"
       }
     },
     "117": {
@@ -1923,7 +1923,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅳ(初級)"
+        "Taskname": "港口巡航Ⅳ(初級)"
       }
     },
     "118": {
@@ -1941,7 +1941,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(初級)"
+        "Taskname": "遠洋巡航Ⅳ(初級)"
       }
     },
     "119": {
@@ -1959,7 +1959,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅳ(初級)"
+        "Taskname": "科研巡航Ⅳ(初級)"
       }
     },
     "120": {
@@ -1977,7 +1977,7 @@
       "Limitquality": null,
       "Exp": 1260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(初級)"
+        "Taskname": "邊防巡航Ⅳ(初級)"
       }
     },
     "121": {
@@ -1995,7 +1995,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅴ(初級)"
+        "Taskname": "商路巡航Ⅴ(初級)"
       }
     },
     "122": {
@@ -2013,7 +2013,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅴ(初級)"
+        "Taskname": "港口巡航Ⅴ(初級)"
       }
     },
     "123": {
@@ -2031,7 +2031,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(初級)"
+        "Taskname": "遠洋巡航Ⅴ(初級)"
       }
     },
     "124": {
@@ -2049,7 +2049,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅴ(初級)"
+        "Taskname": "科研巡航Ⅴ(初級)"
       }
     },
     "125": {
@@ -2067,7 +2067,7 @@
       "Limitquality": null,
       "Exp": 1420,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(初級)"
+        "Taskname": "邊防巡航Ⅴ(初級)"
       }
     },
     "126": {
@@ -2085,7 +2085,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(中級)"
+        "Taskname": "商路巡航Ⅰ(中級)"
       }
     },
     "127": {
@@ -2103,7 +2103,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(中級)"
+        "Taskname": "港口巡航Ⅰ(中級)"
       }
     },
     "128": {
@@ -2121,7 +2121,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(中級)"
+        "Taskname": "遠洋巡航Ⅰ(中級)"
       }
     },
     "129": {
@@ -2139,7 +2139,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(中級)"
+        "Taskname": "科研巡航Ⅰ(中級)"
       }
     },
     "130": {
@@ -2157,7 +2157,7 @@
       "Limitquality": null,
       "Exp": 1580,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(中級)"
+        "Taskname": "邊防巡航Ⅰ(中級)"
       }
     },
     "131": {
@@ -2175,7 +2175,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(中級)"
+        "Taskname": "商路巡航Ⅱ(中級)"
       }
     },
     "132": {
@@ -2193,7 +2193,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(中級)"
+        "Taskname": "港口巡航Ⅱ(中級)"
       }
     },
     "133": {
@@ -2211,7 +2211,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(中級)"
+        "Taskname": "遠洋巡航Ⅱ(中級)"
       }
     },
     "134": {
@@ -2229,7 +2229,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(中級)"
+        "Taskname": "科研巡航Ⅱ(中級)"
       }
     },
     "135": {
@@ -2247,7 +2247,7 @@
       "Limitquality": null,
       "Exp": 1740,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(中級)"
+        "Taskname": "邊防巡航Ⅱ(中級)"
       }
     },
     "136": {
@@ -2265,7 +2265,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(中級)"
+        "Taskname": "商路巡航Ⅲ(中級)"
       }
     },
     "137": {
@@ -2283,7 +2283,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(中級)"
+        "Taskname": "港口巡航Ⅲ(中級)"
       }
     },
     "138": {
@@ -2301,7 +2301,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(中級)"
+        "Taskname": "遠洋巡航Ⅲ(中級)"
       }
     },
     "139": {
@@ -2319,7 +2319,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(中級)"
+        "Taskname": "科研巡航Ⅲ(中級)"
       }
     },
     "140": {
@@ -2337,7 +2337,7 @@
       "Limitquality": null,
       "Exp": 1900,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(中級)"
+        "Taskname": "邊防巡航Ⅲ(中級)"
       }
     },
     "141": {
@@ -2355,7 +2355,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅳ(中級)"
+        "Taskname": "商路巡航Ⅳ(中級)"
       }
     },
     "142": {
@@ -2373,7 +2373,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅳ(中級)"
+        "Taskname": "港口巡航Ⅳ(中級)"
       }
     },
     "143": {
@@ -2391,7 +2391,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(中級)"
+        "Taskname": "遠洋巡航Ⅳ(中級)"
       }
     },
     "144": {
@@ -2409,7 +2409,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅳ(中級)"
+        "Taskname": "科研巡航Ⅳ(中級)"
       }
     },
     "145": {
@@ -2427,7 +2427,7 @@
       "Limitquality": null,
       "Exp": 2080,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(中級)"
+        "Taskname": "邊防巡航Ⅳ(中級)"
       }
     },
     "146": {
@@ -2445,7 +2445,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅴ(中級)"
+        "Taskname": "商路巡航Ⅴ(中級)"
       }
     },
     "147": {
@@ -2463,7 +2463,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅴ(中級)"
+        "Taskname": "港口巡航Ⅴ(中級)"
       }
     },
     "148": {
@@ -2481,7 +2481,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(中級)"
+        "Taskname": "遠洋巡航Ⅴ(中級)"
       }
     },
     "149": {
@@ -2499,7 +2499,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅴ(中級)"
+        "Taskname": "科研巡航Ⅴ(中級)"
       }
     },
     "150": {
@@ -2517,7 +2517,7 @@
       "Limitquality": null,
       "Exp": 2260,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(中級)"
+        "Taskname": "邊防巡航Ⅴ(中級)"
       }
     },
     "151": {
@@ -2535,7 +2535,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(高級)"
+        "Taskname": "商路巡航Ⅰ(高級)"
       }
     },
     "152": {
@@ -2553,7 +2553,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(高級)"
+        "Taskname": "港口巡航Ⅰ(高級)"
       }
     },
     "153": {
@@ -2571,7 +2571,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(高級)"
+        "Taskname": "遠洋巡航Ⅰ(高級)"
       }
     },
     "154": {
@@ -2589,7 +2589,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(高級)"
+        "Taskname": "科研巡航Ⅰ(高級)"
       }
     },
     "155": {
@@ -2607,7 +2607,7 @@
       "Limitquality": null,
       "Exp": 2440,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(高級)"
+        "Taskname": "邊防巡航Ⅰ(高級)"
       }
     },
     "156": {
@@ -2625,7 +2625,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(高級)"
+        "Taskname": "商路巡航Ⅱ(高級)"
       }
     },
     "157": {
@@ -2643,7 +2643,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(高級)"
+        "Taskname": "港口巡航Ⅱ(高級)"
       }
     },
     "158": {
@@ -2661,7 +2661,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(高級)"
+        "Taskname": "遠洋巡航Ⅱ(高級)"
       }
     },
     "159": {
@@ -2679,7 +2679,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(高級)"
+        "Taskname": "科研巡航Ⅱ(高級)"
       }
     },
     "160": {
@@ -2697,7 +2697,7 @@
       "Limitquality": null,
       "Exp": 2620,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(高級)"
+        "Taskname": "邊防巡航Ⅱ(高級)"
       }
     },
     "161": {
@@ -2715,7 +2715,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(高級)"
+        "Taskname": "商路巡航Ⅲ(高級)"
       }
     },
     "162": {
@@ -2733,7 +2733,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(高級)"
+        "Taskname": "港口巡航Ⅲ(高級)"
       }
     },
     "163": {
@@ -2751,7 +2751,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(高級)"
+        "Taskname": "遠洋巡航Ⅲ(高級)"
       }
     },
     "164": {
@@ -2769,7 +2769,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(高級)"
+        "Taskname": "科研巡航Ⅲ(高級)"
       }
     },
     "165": {
@@ -2787,7 +2787,7 @@
       "Limitquality": null,
       "Exp": 2800,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(高級)"
+        "Taskname": "邊防巡航Ⅲ(高級)"
       }
     },
     "166": {
@@ -2805,7 +2805,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅳ(高級)"
+        "Taskname": "商路巡航Ⅳ(高級)"
       }
     },
     "167": {
@@ -2823,7 +2823,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅳ(高級)"
+        "Taskname": "港口巡航Ⅳ(高級)"
       }
     },
     "168": {
@@ -2841,7 +2841,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(高級)"
+        "Taskname": "遠洋巡航Ⅳ(高級)"
       }
     },
     "169": {
@@ -2859,7 +2859,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅳ(高級)"
+        "Taskname": "科研巡航Ⅳ(高級)"
       }
     },
     "170": {
@@ -2877,7 +2877,7 @@
       "Limitquality": null,
       "Exp": 2980,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅳ(高級)"
+        "Taskname": "邊防巡航Ⅳ(高級)"
       }
     },
     "171": {
@@ -2895,7 +2895,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅴ(高級)"
+        "Taskname": "商路巡航Ⅴ(高級)"
       }
     },
     "172": {
@@ -2913,7 +2913,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅴ(高級)"
+        "Taskname": "港口巡航Ⅴ(高級)"
       }
     },
     "173": {
@@ -2931,7 +2931,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(高級)"
+        "Taskname": "遠洋巡航Ⅴ(高級)"
       }
     },
     "174": {
@@ -2949,7 +2949,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅴ(高級)"
+        "Taskname": "科研巡航Ⅴ(高級)"
       }
     },
     "175": {
@@ -2967,7 +2967,7 @@
       "Limitquality": null,
       "Exp": 3160,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅴ(高級)"
+        "Taskname": "邊防巡航Ⅴ(高級)"
       }
     },
     "176": {
@@ -2985,7 +2985,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅰ(頂級)"
+        "Taskname": "商路巡航Ⅰ(頂級)"
       }
     },
     "177": {
@@ -3003,7 +3003,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅰ(頂級)"
+        "Taskname": "港口巡航Ⅰ(頂級)"
       }
     },
     "178": {
@@ -3021,7 +3021,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(頂級)"
+        "Taskname": "遠洋巡航Ⅰ(頂級)"
       }
     },
     "179": {
@@ -3039,7 +3039,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅰ(頂級)"
+        "Taskname": "科研巡航Ⅰ(頂級)"
       }
     },
     "180": {
@@ -3057,7 +3057,7 @@
       "Limitquality": null,
       "Exp": 3340,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅰ(頂級)"
+        "Taskname": "邊防巡航Ⅰ(頂級)"
       }
     },
     "181": {
@@ -3075,7 +3075,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅱ(頂級)"
+        "Taskname": "商路巡航Ⅱ(頂級)"
       }
     },
     "182": {
@@ -3093,7 +3093,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅱ(頂級)"
+        "Taskname": "港口巡航Ⅱ(頂級)"
       }
     },
     "183": {
@@ -3111,7 +3111,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(頂級)"
+        "Taskname": "遠洋巡航Ⅱ(頂級)"
       }
     },
     "184": {
@@ -3129,7 +3129,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅱ(頂級)"
+        "Taskname": "科研巡航Ⅱ(頂級)"
       }
     },
     "185": {
@@ -3147,7 +3147,7 @@
       "Limitquality": null,
       "Exp": 3520,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅱ(頂級)"
+        "Taskname": "邊防巡航Ⅱ(頂級)"
       }
     },
     "186": {
@@ -3165,7 +3165,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "貿易開發Ⅲ(頂級)"
+        "Taskname": "商路巡航Ⅲ(頂級)"
       }
     },
     "187": {
@@ -3183,7 +3183,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "港口防務Ⅲ(頂級)"
+        "Taskname": "港口巡航Ⅲ(頂級)"
       }
     },
     "188": {
@@ -3201,7 +3201,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(頂級)"
+        "Taskname": "遠洋巡航Ⅲ(頂級)"
       }
     },
     "189": {
@@ -3219,7 +3219,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "經驗巡航Ⅲ(頂級)"
+        "Taskname": "科研巡航Ⅲ(頂級)"
       }
     },
     "190": {
@@ -3237,7 +3237,7 @@
       "Limitquality": null,
       "Exp": 3700,
       "LangStringTable": {
-        "Taskname": "武裝巡航Ⅲ(頂級)"
+        "Taskname": "邊防巡航Ⅲ(頂級)"
       }
     }
   }

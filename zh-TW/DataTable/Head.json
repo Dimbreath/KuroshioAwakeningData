@@ -154,204 +154,6 @@
         "Desc": "宇宙戰艦海倫娜，異常電波get！這就是地球人的頻率嗎？"
       }
     },
-    "140": {
-      "Cuid": 140,
-      "Id": 140,
-      "Boatid": "30020",
-      "Resource": "3002000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "利安德",
-        "Desc": null
-      }
-    },
-    "141": {
-      "Cuid": 141,
-      "Id": 141,
-      "Boatid": "30020",
-      "Resource": "3002100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "利安德",
-        "Desc": "好久不見了，指揮官大人，這副模樣是不是讓您更有安全感呢？接下來就讓利安德來保護您吧。"
-      }
-    },
-    "142": {
-      "Cuid": 142,
-      "Id": 142,
-      "Boatid": "30190",
-      "Resource": "3019000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "朱諾",
-        "Desc": "亞特蘭大級輕型巡洋艦二號艦，朱諾來報到啦，從今天開始為您服務。"
-      }
-    },
-    "143": {
-      "Cuid": 143,
-      "Id": 143,
-      "Boatid": "30190",
-      "Resource": "3019101",
-      "Icontype": "3",
-      "LangStringTable": {
-        "Name": "朱諾",
-        "Desc": "亞特蘭大級輕型巡洋艦二號艦，朱諾來報到啦，從今天開始為您服務。"
-      }
-    },
-    "144": {
-      "Cuid": 144,
-      "Id": 144,
-      "Boatid": "30190",
-      "Resource": "3019100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "朱諾",
-        "Desc": "亞特蘭大級輕型巡洋艦二號艦，朱諾，被拋棄的感覺真是美妙呢。"
-      }
-    },
-    "145": {
-      "Cuid": 145,
-      "Id": 145,
-      "Boatid": "30330",
-      "Resource": "3033000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "哥倫比亞",
-        "Desc": "銀翼克里夫蘭級輕巡洋艦二號艦，哥倫比亞前來支援，情況危急的時候我自然會處理。"
-      }
-    },
-    "146": {
-      "Cuid": 146,
-      "Id": 146,
-      "Boatid": "30330",
-      "Resource": "3033100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "哥倫比亞",
-        "Desc": "呼，有生以來這麼神清氣爽，這才是真正的自我嗎？重新認識一下，我是銀翼的輕巡洋艦，CL-56哥倫比亞喔！"
-      }
-    },
-    "147": {
-      "Cuid": 147,
-      "Id": 147,
-      "Boatid": "40150",
-      "Resource": "4015000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "北安普頓",
-        "Desc": null
-      }
-    },
-    "148": {
-      "Cuid": 148,
-      "Id": 148,
-      "Boatid": "40150",
-      "Resource": "4015100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "北安普頓",
-        "Desc": "CA-26，重巡洋艦北安普頓來了，這塊地盤以後我說了算，誰贊成，誰反對？"
-      }
-    },
-    "149": {
-      "Cuid": 149,
-      "Id": 149,
-      "Boatid": "40160",
-      "Resource": "4016000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "最上",
-        "Desc": "最上前來報到了……怎麼了？指揮官你問那邊的護欄？我來的時候就這樣了──別看我，我什麼都不知道。"
-      }
-    },
-    "15": {
-      "Cuid": 15,
-      "Id": 15,
-      "Boatid": "30180",
-      "Resource": "3018100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "海倫娜",
-        "Desc": "宇宙戰艦少女海倫娜，編號CL-50，正在重新啟動記憶資料……"
-      }
-    },
-    "150": {
-      "Cuid": 150,
-      "Id": 150,
-      "Boatid": "40160",
-      "Resource": "4016100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "最上",
-        "Desc": "嗯……換上這身衣服，就顯得不那麼熱情了吧。"
-      }
-    },
-    "151": {
-      "Cuid": 151,
-      "Id": 151,
-      "Boatid": "40300",
-      "Resource": "4030000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "諾福克",
-        "Desc": "您好，主人，我是郡級的諾福克號，從今以後我將成為您的專屬女僕，為您打理日常雜務。"
-      }
-    },
-    "152": {
-      "Cuid": 152,
-      "Id": 152,
-      "Boatid": "40300",
-      "Resource": "4030100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "諾福克",
-        "Desc": "主人，從今以後，您只需專注於事業與想做的事情上，其他大小瑣事就由我諾福克替您解決。"
-      }
-    },
-    "153": {
-      "Cuid": 153,
-      "Id": 153,
-      "Boatid": "50150",
-      "Resource": "5015000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "白露",
-        "Desc": null
-      }
-    },
-    "154": {
-      "Cuid": 154,
-      "Id": 154,
-      "Boatid": "50150",
-      "Resource": "5015100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "白露",
-        "Desc": null
-      }
-    },
-    "155": {
-      "Cuid": 155,
-      "Id": 155,
-      "Boatid": "50210",
-      "Resource": "5021000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "戴爾",
-        "Desc": "指揮官你好，我是法拉格特級驅逐艦戴爾，我會好好完成工作的！"
-      }
-    },
-    "156": {
-      "Cuid": 156,
-      "Id": 156,
-      "Boatid": "50210",
-      "Resource": "5021100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "戴爾",
-        "Desc": "法拉格特級驅逐艦，DD-353戴爾！指揮官，你有沒有看到我的眼鏡呀！"
-      }
-    },
     "157": {
       "Cuid": 157,
       "Id": 157,
@@ -385,17 +187,6 @@
         "Desc": "在下是神代會社的親潮，有任何秘密任務，都請儘管交給我吧。"
       }
     },
-    "16": {
-      "Cuid": 16,
-      "Id": 16,
-      "Boatid": "40020",
-      "Resource": "4002000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "妙高",
-        "Desc": "妙高級重巡洋艦首艦妙高參上。雖然總被誤認為是那智的妹妹，但其實人家才是姐姐啦。"
-      }
-    },
     "160": {
       "Cuid": 160,
       "Id": 160,
@@ -427,6 +218,138 @@
       "LangStringTable": {
         "Name": "Z1",
         "Desc": "Kapitän登場！全場都給我嗨起來！我可是黑鋒驅逐一號艦，Z1大人啊！"
+      }
+    },
+    "146": {
+      "Cuid": 146,
+      "Id": 146,
+      "Boatid": "30330",
+      "Resource": "3033100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "哥倫比亞",
+        "Desc": "呼，有生以來這麼神清氣爽，這才是真正的自我嗎？重新認識一下，我是銀翼的輕巡洋艦，CL-56哥倫比亞喔！"
+      }
+    },
+    "147": {
+      "Cuid": 147,
+      "Id": 147,
+      "Boatid": "40150",
+      "Resource": "4015000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "北安普頓",
+        "Desc": null
+      }
+    },
+    "126": {
+      "Cuid": 126,
+      "Id": 126,
+      "Boatid": "10010",
+      "Resource": "1001000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": null,
+        "Desc": null
+      }
+    },
+    "127": {
+      "Cuid": 127,
+      "Id": 127,
+      "Boatid": "10010",
+      "Resource": "1001100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": null,
+        "Desc": "Midway，CVB-41，覺醒完成，真是耗神啊，我得休息一下。沒事別來找我，有事……也別找我。"
+      }
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "Boatid": "30180",
+      "Resource": "3018100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "海倫娜",
+        "Desc": "宇宙戰艦少女海倫娜，編號CL-50，正在重新啟動記憶資料……"
+      }
+    },
+    "128": {
+      "Cuid": 128,
+      "Id": 128,
+      "Boatid": "50090",
+      "Resource": "5009000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": null,
+        "Desc": "指揮官大人，馬漢級首艦馬漢準備就緒……對，對，就是我……你沒找錯人。"
+      }
+    },
+    "129": {
+      "Cuid": 129,
+      "Id": 129,
+      "Boatid": "50090",
+      "Resource": "5009100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": null,
+        "Desc": "看到這股火焰了嗎？不想被燒焦的話就快滾吧。"
+      }
+    },
+    "130": {
+      "Cuid": 130,
+      "Id": 130,
+      "Boatid": "50400",
+      "Resource": "5040000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": null,
+        "Desc": null
+      }
+    },
+    "131": {
+      "Cuid": 131,
+      "Id": 131,
+      "Boatid": "50400",
+      "Resource": "5040100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": null,
+        "Desc": "嘻嘻……再也不怕衣服燒起來囉！"
+      }
+    },
+    "154": {
+      "Cuid": 154,
+      "Id": 154,
+      "Boatid": "50150",
+      "Resource": "5015100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "白露",
+        "Desc": null
+      }
+    },
+    "155": {
+      "Cuid": 155,
+      "Id": 155,
+      "Boatid": "50210",
+      "Resource": "5021000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "戴爾",
+        "Desc": "指揮官你好，我是法拉格特級驅逐艦戴爾，我會好好完成工作的！"
+      }
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "Boatid": "40020",
+      "Resource": "4002000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "妙高",
+        "Desc": "妙高級重巡洋艦首艦妙高參上。雖然總被誤認為是那智的妹妹，但其實人家才是姐姐啦。"
       }
     },
     "17": {
@@ -1441,39 +1364,6 @@
         "Desc": "在黑暗之中，我聽到了許多聲音；有憎恨，有哀嘆，有悲鳴，他們是無家可歸的遊魂，而我……成為了他們的容器。"
       }
     },
-    "109": {
-      "Cuid": 109,
-      "Id": 109,
-      "Boatid": "30170",
-      "Resource": "3017000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "夕張",
-        "Desc": "叫人家怪胎也太失禮了吧？我乃僅此一艘、別無分艦的輕巡洋艦──夕張是也。"
-      }
-    },
-    "110": {
-      "Cuid": 110,
-      "Id": 110,
-      "Boatid": "30170",
-      "Resource": "3017001",
-      "Icontype": "3",
-      "LangStringTable": {
-        "Name": "夕張",
-        "Desc": "叫人家怪胎也太失禮了吧？我乃僅此一艘、別無分艦的輕巡洋艦──夕張是也。"
-      }
-    },
-    "111": {
-      "Cuid": 111,
-      "Id": 111,
-      "Boatid": "30170",
-      "Resource": "3017100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "夕張",
-        "Desc": "找到了！這就是夕張歷經多次實驗找到的最高選擇形態，指揮官對這樣的我還滿意嗎？"
-      }
-    },
     "112": {
       "Cuid": 112,
       "Id": 112,
@@ -1540,50 +1430,6 @@
         "Desc": "司令，來玩捉迷藏吧……天亮之前找不到我的話，會有懲罰唷？"
       }
     },
-    "118": {
-      "Cuid": 118,
-      "Id": 118,
-      "Boatid": "60250",
-      "Resource": "6025000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "金剛",
-        "Desc": "齁齁，您就是這裡的司令官吧？小女子金剛，是神代會社的戰艦，請多指教吶。"
-      }
-    },
-    "119": {
-      "Cuid": 119,
-      "Id": 119,
-      "Boatid": "60250",
-      "Resource": "6025100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "金剛",
-        "Desc": "齁齁，您就是這裡的司令官吧？小女子金剛，是神代會社的戰艦，請多指教吶。"
-      }
-    },
-    "120": {
-      "Cuid": 120,
-      "Id": 120,
-      "Boatid": "60340",
-      "Resource": "6034000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "懷俄明",
-        "Desc": "欸……這裡作為新的執教場所看起來還不錯嘛，那麼之後的日子懷俄明老師我會好好負起責任充分鍛煉你們的。"
-      }
-    },
-    "121": {
-      "Cuid": 121,
-      "Id": 121,
-      "Boatid": "60340",
-      "Resource": "6034100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "懷俄明",
-        "Desc": "這無法抑制的衝動，終於……終於啊！那麼……就讓我們開始新的課．程．吧！"
-      }
-    },
     "122": {
       "Cuid": 122,
       "Id": 122,
@@ -1604,116 +1450,6 @@
       "LangStringTable": {
         "Name": "約克鎮",
         "Desc": "啊～～身體上的傷口還在隱隱作痛，這份甜美的悸動，真想讓敵人好好體會呢～"
-      }
-    },
-    "124": {
-      "Cuid": 124,
-      "Id": 124,
-      "Boatid": "20090",
-      "Resource": "2009000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "千代田",
-        "Desc": "航母千代田前來報到，初次見面，請多關照，這小小的伴手禮是人家的一點心意，指揮官殿下不要嫌棄哦。"
-      }
-    },
-    "125": {
-      "Cuid": 125,
-      "Id": 125,
-      "Boatid": "20090",
-      "Resource": "2009100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "千代田",
-        "Desc": "殿下，妾身變成這樣，是要上場戰鬥了嗎？唔……真令人痛苦。"
-      }
-    },
-    "126": {
-      "Cuid": 126,
-      "Id": 126,
-      "Boatid": "10010",
-      "Resource": "1001000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": null
-      }
-    },
-    "127": {
-      "Cuid": 127,
-      "Id": 127,
-      "Boatid": "10010",
-      "Resource": "1001100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": "Midway，CVB-41，覺醒完成，真是耗神啊，我得休息一下。沒事別來找我，有事……也別找我。"
-      }
-    },
-    "128": {
-      "Cuid": 128,
-      "Id": 128,
-      "Boatid": "50090",
-      "Resource": "5009000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": "指揮官大人，馬漢級首艦馬漢準備就緒……對，對，就是我……你沒找錯人。"
-      }
-    },
-    "129": {
-      "Cuid": 129,
-      "Id": 129,
-      "Boatid": "50090",
-      "Resource": "5009100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": "看到這股火焰了嗎？不想被燒焦的話就快滾吧。"
-      }
-    },
-    "130": {
-      "Cuid": 130,
-      "Id": 130,
-      "Boatid": "50400",
-      "Resource": "5040000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": null
-      }
-    },
-    "131": {
-      "Cuid": 131,
-      "Id": 131,
-      "Boatid": "50400",
-      "Resource": "5040100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": "嘻嘻……再也不怕衣服燒起來囉！"
-      }
-    },
-    "132": {
-      "Cuid": 132,
-      "Id": 132,
-      "Boatid": "60380",
-      "Resource": "6038000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": "呼啊，已經中午了嗎？宿醉真是受不了……科羅拉多前來報到，還不算太晚吧？"
-      }
-    },
-    "133": {
-      "Cuid": 133,
-      "Id": 133,
-      "Boatid": "60380",
-      "Resource": "6038100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": null,
-        "Desc": null
       }
     },
     "134": {
@@ -1738,28 +1474,6 @@
         "Desc": "墜入黑暗之時，有種很奇妙的感覺，彷彿受到了神明的召喚，告訴我還有未盡的使命。"
       }
     },
-    "136": {
-      "Cuid": 136,
-      "Id": 136,
-      "Boatid": "20010",
-      "Resource": "2001000",
-      "Icontype": "1",
-      "LangStringTable": {
-        "Name": "飛鷹",
-        "Desc": "我是飛鷹級輕型航母一號艦，飛鷹。我可是專業的女僕出身，指揮官大人的飲食起居就都交給我吧！"
-      }
-    },
-    "137": {
-      "Cuid": 137,
-      "Id": 137,
-      "Boatid": "20010",
-      "Resource": "2001100",
-      "Icontype": "2",
-      "LangStringTable": {
-        "Name": "飛鷹",
-        "Desc": "雖然我不是戰鬥女僕，但是身上仍然留下了這些印記，作為一名女僕，我是不是不太及格呢？"
-      }
-    },
     "138": {
       "Cuid": 138,
       "Id": 138,
@@ -1780,6 +1494,149 @@
       "LangStringTable": {
         "Name": "亞特蘭大",
         "Desc": "亞特蘭大級輕型巡洋艦首艦，亞特蘭大歸來，敵艦剩下幾艘了？"
+      }
+    },
+    "140": {
+      "Cuid": 140,
+      "Id": 140,
+      "Boatid": "30020",
+      "Resource": "3002000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "利安德",
+        "Desc": null
+      }
+    },
+    "141": {
+      "Cuid": 141,
+      "Id": 141,
+      "Boatid": "30020",
+      "Resource": "3002100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "利安德",
+        "Desc": "好久不見了，指揮官大人，這副模樣是不是讓您更有安全感呢？接下來就讓利安德來保護您吧。"
+      }
+    },
+    "142": {
+      "Cuid": 142,
+      "Id": 142,
+      "Boatid": "30190",
+      "Resource": "3019000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "朱諾",
+        "Desc": "亞特蘭大級輕型巡洋艦二號艦，朱諾來報到啦，從今天開始為您服務。"
+      }
+    },
+    "143": {
+      "Cuid": 143,
+      "Id": 143,
+      "Boatid": "30190",
+      "Resource": "3019101",
+      "Icontype": "3",
+      "LangStringTable": {
+        "Name": "朱諾",
+        "Desc": "亞特蘭大級輕型巡洋艦二號艦，朱諾來報到啦，從今天開始為您服務。"
+      }
+    },
+    "144": {
+      "Cuid": 144,
+      "Id": 144,
+      "Boatid": "30190",
+      "Resource": "3019100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "朱諾",
+        "Desc": "亞特蘭大級輕型巡洋艦二號艦，朱諾，被拋棄的感覺真是美妙呢。"
+      }
+    },
+    "145": {
+      "Cuid": 145,
+      "Id": 145,
+      "Boatid": "30330",
+      "Resource": "3033000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "哥倫比亞",
+        "Desc": "銀翼克里夫蘭級輕巡洋艦二號艦，哥倫比亞前來支援，情況危急的時候我自然會處理。"
+      }
+    },
+    "148": {
+      "Cuid": 148,
+      "Id": 148,
+      "Boatid": "40150",
+      "Resource": "4015100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "北安普頓",
+        "Desc": "CA-26，重巡洋艦北安普頓來了，這塊地盤以後我說了算，誰贊成，誰反對？"
+      }
+    },
+    "149": {
+      "Cuid": 149,
+      "Id": 149,
+      "Boatid": "40160",
+      "Resource": "4016000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "最上",
+        "Desc": "最上前來報到了……怎麼了？指揮官你問那邊的護欄？我來的時候就這樣了──別看我，我什麼都不知道。"
+      }
+    },
+    "150": {
+      "Cuid": 150,
+      "Id": 150,
+      "Boatid": "40160",
+      "Resource": "4016100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "最上",
+        "Desc": "嗯……換上這身衣服，就顯得不那麼熱情了吧。"
+      }
+    },
+    "151": {
+      "Cuid": 151,
+      "Id": 151,
+      "Boatid": "40300",
+      "Resource": "4030000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "諾福克",
+        "Desc": "您好，主人，我是郡級的諾福克號，從今以後我將成為您的專屬女僕，為您打理日常雜務。"
+      }
+    },
+    "152": {
+      "Cuid": 152,
+      "Id": 152,
+      "Boatid": "40300",
+      "Resource": "4030100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "諾福克",
+        "Desc": "主人，從今以後，您只需專注於事業與想做的事情上，其他大小瑣事就由我諾福克替您解決。"
+      }
+    },
+    "153": {
+      "Cuid": 153,
+      "Id": 153,
+      "Boatid": "50150",
+      "Resource": "5015000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "白露",
+        "Desc": null
+      }
+    },
+    "156": {
+      "Cuid": 156,
+      "Id": 156,
+      "Boatid": "50210",
+      "Resource": "5021100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "戴爾",
+        "Desc": "法拉格特級驅逐艦，DD-353戴爾！指揮官，你有沒有看到我的眼鏡呀！"
       }
     }
   }

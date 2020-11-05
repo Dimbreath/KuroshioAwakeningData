@@ -381,7 +381,7 @@
         "Typename": "企業",
         "Dialogue": "約克鎮級二號艦企業，向您報到，無論何等困難的任務，儘管託付於我吧！",
         "Cv": "悠木 碧",
-        "Painter": "manabi",
+        "Painter": "manaBi",
         "Allocation": "單體狙殺"
       }
     },
@@ -416,7 +416,7 @@
         "Typename": "企業",
         "Dialogue": "CV-6企業號再次歸來，你們可真不厭煩呢，一次次把我從死亡中吵醒。要好好負起責任哦，指揮官！",
         "Cv": "悠木 碧",
-        "Painter": "manabi",
+        "Painter": "manaBi",
         "Allocation": "單體狙殺"
       }
     },
@@ -661,7 +661,7 @@
         "Typename": "約克鎮",
         "Dialogue": "航母約克鎮大姐姐出現啦~啊啦？你問我為什麼是大姐姐？當然是因為…大~開玩笑，姐姐可是繼承了那場光榮之戰的名號，不會讓你失望的。",
         "Cv": "大原 沙耶香",
-        "Painter": "manabi",
+        "Painter": "羅德花園",
         "Allocation": "單體狙殺"
       }
     },
@@ -696,7 +696,7 @@
         "Typename": "約克鎮",
         "Dialogue": "啊~~身體上的傷口還在隱隱作痛，這份甜美的悸動，真想讓敵人好好嚐嚐呢~",
         "Cv": "大原 沙耶香",
-        "Painter": "manabi",
+        "Painter": "羅德花園",
         "Allocation": "單體狙殺"
       }
     },
@@ -801,7 +801,7 @@
         "Typename": "皇家方舟",
         "Dialogue": "Commander貴安， 薔薇帝國的航空母艦HMS Ark Royal就是我，今天可真是個值得紀念的日子。",
         "Cv": "花澤 香菜",
-        "Painter": "dhiea",
+        "Painter": "Dhiea",
         "Allocation": "團隊輔助"
       }
     },
@@ -836,7 +836,7 @@
         "Typename": "皇家方舟",
         "Dialogue": "墜入黑暗之時，有種很奇妙的感覺，彷彿受到了神明的召喚，告訴我還有未盡的使命。",
         "Cv": "花澤 香菜",
-        "Painter": "dhiea",
+        "Painter": "Dhiea",
         "Allocation": "團隊輔助"
       }
     },
@@ -2551,7 +2551,7 @@
         "Typename": "彭薩科拉",
         "Dialogue": "我是重巡洋艦彭薩科拉，事不宜遲，讓我試試指揮官的拳頭吧！",
         "Cv": "暫無",
-        "Painter": "do2mi",
+        "Painter": "Do2mi",
         "Allocation": "吸收傷害"
       }
     },
@@ -2586,7 +2586,7 @@
         "Typename": "彭薩科拉",
         "Dialogue": "彭薩科拉級重巡洋艦首艦，CA-24彭薩科拉，自地獄重生了。",
         "Cv": "暫無",
-        "Painter": "do2mi",
+        "Painter": "Do2mi",
         "Allocation": "吸收傷害"
       }
     },
@@ -4861,7 +4861,7 @@
         "Typename": "納爾遜",
         "Dialogue": "你好，我是薔薇帝國的戰列艦，納爾遜，從今天起加入艦隊。如果有什麼需要我的地方，請告訴我就好。",
         "Cv": "暫無",
-        "Painter": "倉鼠bison",
+        "Painter": "Bison倉鼠",
         "Allocation": "群體輸出"
       }
     },
@@ -4896,7 +4896,7 @@
         "Typename": "納爾遜",
         "Dialogue": "人生苦短，為什麼要在意別人的眼光呢？呵呵呵，我決定了，這一次，我要為自己而活~",
         "Cv": "暫無",
-        "Painter": "倉鼠bison",
+        "Painter": "Bison倉鼠",
         "Allocation": "群體輸出"
       }
     },

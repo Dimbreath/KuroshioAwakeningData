@@ -3567,6 +3567,35 @@
         "Funcdesc": null
       }
     },
+    "250013": {
+      "Cuid": 250013,
+      "Id": 250013,
+      "Displaytype": 0,
+      "Type": 29,
+      "Quality": 5,
+      "Sortid": 9999,
+      "Needlevel": 1,
+      "Gainway": null,
+      "Cantips": 0,
+      "Resolve": "0",
+      "Canuse": 0,
+      "Extinctiontime": null,
+      "Icon": "item_1_iconitem_250011",
+      "IconSmall": "item_1_iconitem_250011",
+      "IconSmall2": "item_1_iconitem_250011",
+      "Sale": "0",
+      "Dropid": 0,
+      "Giftid": 250013,
+      "Value": null,
+      "JumpIcon": 1,
+      "LangStringTable": {
+        "Name": "月卡禮包",
+        "Desc": "月卡禮包，包含一張月卡和460黑鑽",
+        "Stroyauthor": null,
+        "Story": "月卡禮包，包含一張月卡和460黑鑽",
+        "Funcdesc": "月卡禮包"
+      }
+    },
     "250017": {
       "Cuid": 250017,
       "Id": 250017,
@@ -4769,9 +4798,9 @@
       "Resolve": "0",
       "Canuse": 1,
       "Extinctiontime": null,
-      "Icon": "item_1_iconitem_250024",
-      "IconSmall": "item_1_iconitem_250024",
-      "IconSmall2": "item_1_iconitem_250024",
+      "Icon": "item_1_iconitem_250022",
+      "IconSmall": "item_1_iconitem_250022",
+      "IconSmall2": "item_1_iconitem_250022",
       "Sale": "0",
       "Dropid": 0,
       "Giftid": 25097,

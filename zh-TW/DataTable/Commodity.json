@@ -3068,7 +3068,7 @@
       "Appear": 0,
       "LangStringTable": {
         "Commodityname": "特別人偶招募箱",
-        "Itemcontent": "trading_1_res_icon_250024;trading_1_res_icon_mask_03;35,84,145",
+        "Itemcontent": "trading_1_res_icon_250022;trading_1_res_icon_mask_03;35,84,145",
         "Boxdes": "‧徵招合約*30\\n‧能源*360"
       }
     },

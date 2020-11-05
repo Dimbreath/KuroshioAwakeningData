@@ -13209,6 +13209,13 @@
         "Value": "活動倒計時："
       }
     },
+    "activity_new_text_10": {
+      "Cuid": "activity_new_text_10",
+      "Stringkey": "activity_new_text_10",
+      "LangStringTable": {
+        "Value": "祈福100次必出時裝"
+      }
+    },
     "activity_shop_text_09": {
       "Cuid": "activity_shop_text_09",
       "Stringkey": "activity_shop_text_09",
@@ -16482,7 +16489,7 @@
       "Cuid": "Ndayslogin_texture",
       "Stringkey": "Ndayslogin_texture",
       "LangStringTable": {
-        "Value": "自從指揮官來到基地後，黑潮的各項工作都開始走上正軌。 \\n不過偶爾，指揮官會在夜間聽到一些奇怪的聲音。難道，基地內還隱藏著什麼不為人知的秘密？"
+        "Value": "本該漆黑無人的銀翼財團檔案室中，作戰終端機正悄然執行中，瀅瀅的蟇幕藍光前，映照出的是……"
       }
     },
     "Ndayslogin_statistics": {
@@ -17007,7 +17014,7 @@
       "Cuid": "activity_surface_des_03",
       "Stringkey": "activity_surface_des_03",
       "LangStringTable": {
-        "Value": "\"<size=15>◆</size> 活 動 時 間 內 深 海 打 撈 的 所 有 副 本 全 部 開放\n<size=15>◆</size> 玩 家 每 天 總 共 有 <color=#00FFFF>2 0</color> 次 打 撈 機 會\n<size=15>◆</size> 打 撈 進 度 和 玩 家 個 人 進 度 一 致\""
+        "Value": "<size=15>◆</size> 活 動 時 間 內 深 海 打 撈 的 所 有 副 本 全 部 開放\n<size=15>◆</size> 玩 家 每 天 總 共 有 <color=#00FFFF>2 0</color> 次 打 撈 機 會\n<size=15>◆</size> 打 撈 進 度 和 玩 家 個 人 進 度 一 致"
       }
     },
     "backhouse_self_visit_txt_01": {
@@ -19446,6 +19453,13 @@
         "Value": "List"
       }
     },
+    "occupy_harbourinfo_149": {
+      "Cuid": "occupy_harbourinfo_149",
+      "Stringkey": "occupy_harbourinfo_149",
+      "LangStringTable": {
+        "Value": "前往攔截"
+      }
+    },
     "occupy_harbourInfo_45_EN": {
       "Cuid": "occupy_harbourInfo_45_EN",
       "Stringkey": "occupy_harbourInfo_45_EN",
@@ -20398,6 +20412,13 @@
         "Value": "前往打撈"
       }
     },
+    "occupy_harbourinfo_150": {
+      "Cuid": "occupy_harbourinfo_150",
+      "Stringkey": "occupy_harbourinfo_150",
+      "LangStringTable": {
+        "Value": "該港口正在對你發起進攻"
+      }
+    },
     "charge_gift_first": {
       "Cuid": "charge_gift_first",
       "Stringkey": "charge_gift_first",
@@ -21028,6 +21049,13 @@
         "Value": "前往攔截"
       }
     },
+    "occupy_harbourinfo_150_EN": {
+      "Cuid": "occupy_harbourinfo_150_EN",
+      "Stringkey": "occupy_harbourinfo_150_EN",
+      "LangStringTable": {
+        "Value": "W A R N I N G"
+      }
+    },
     "occupy_harbourInfo_149_EN": {
       "Cuid": "occupy_harbourInfo_149_EN",
       "Stringkey": "occupy_harbourInfo_149_EN",
@@ -21040,6 +21068,13 @@
       "Stringkey": "occupy_harbourInfo_150",
       "LangStringTable": {
         "Value": "該港口正在對你發起進攻"
+      }
+    },
+    "occupy_harbourinfo_149_EN": {
+      "Cuid": "occupy_harbourinfo_149_EN",
+      "Stringkey": "occupy_harbourinfo_149_EN",
+      "LangStringTable": {
+        "Value": "INTERCEPT"
       }
     },
     "occupy_harbourInfo_150_EN": {
