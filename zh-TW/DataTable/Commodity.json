@@ -3931,9 +3931,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "魚潮．每日補給箱",
+        "Commodityname": "魚潮·每日補給箱",
         "Itemcontent": "trading_1_res_icon_250018;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．賦絡溶液儲罐*24\\n．能源*300"
+        "Boxdes": "·賦絡溶液儲罐*24\\n·能源*300"
       }
     },
     "17179878186": {
@@ -3963,9 +3963,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "魚潮．每週裝備箱",
+        "Commodityname": "魚潮·每週裝備箱",
         "Itemcontent": "trading_1_res_icon_250024;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．高級裝備箱*20\\n．徵招合約*10"
+        "Boxdes": "·高級裝備箱*20\\n·徵招合約*10"
       }
     },
     "17179878187": {
@@ -3995,9 +3995,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "魚潮．特別裝備箱",
+        "Commodityname": "魚潮·特別裝備箱",
         "Itemcontent": "trading_1_res_icon_250004;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．徵招合約*5\\n．高級裝備箱*5\\n．BP卡．60min*12\\n．賦絡溶液儲罐*12"
+        "Boxdes": "·徵招合約*5\\n·高級裝備箱*5\\n·BP卡·60min*12\\n·賦絡溶液儲罐*12"
       }
     },
     "17179878188": {
@@ -4027,9 +4027,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "魚潮．特別改造箱",
+        "Commodityname": "魚潮·特別改造箱",
         "Itemcontent": "trading_1_res_icon_250015;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．誓約刻印*1\\n．皮米材料*1200\\n．深海尖晶*400\\n．元氣櫻花餅*500"
+        "Boxdes": "·誓約刻印*1\\n·皮米材料*​​1200\\n·深海尖晶*400\\n·元氣櫻花餅*500"
       }
     },
     "17179878189": {
@@ -4059,9 +4059,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "魚潮．特別人偶箱",
+        "Commodityname": "魚潮·特別人偶箱",
         "Itemcontent": "trading_1_res_icon_250004;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．A型人偶*2\\n．S型人偶*3\\n．能源*500"
+        "Boxdes": "·A型人偶*2\\n·S型人偶*3\\n·能源*500"
       }
     },
     "17179878190": {
@@ -4093,7 +4093,7 @@
       "LangStringTable": {
         "Commodityname": "虛海．每日補給箱",
         "Itemcontent": "trading_1_res_icon_250001;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．賦絡溶液儲罐*18\\n．BP卡．60min*24\\n．能源*300"
+        "Boxdes": "·賦絡溶液儲罐*18\\n·BP卡·60min*24\\n·能源*300"
       }
     },
     "17179878191": {
@@ -4102,9 +4102,9 @@
       "Commodityid": 9007,
       "Itemid": "1,250068,1",
       "Costkind": 1,
-      "Costqty": 1060,
-      "Discount": 56,
-      "Ajustedprice": 600,
+      "Costqty": 980,
+      "Discount": 69,
+      "Ajustedprice": 680,
       "Costlevel": null,
       "Enabletime": "1546272000",
       "Disabletime": "4102416000",
@@ -4125,7 +4125,7 @@
       "LangStringTable": {
         "Commodityname": "虛海．每週招募箱",
         "Itemcontent": "trading_1_res_icon_250003;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．徵招合約*10\\n．BP卡．60min*12"
+        "Boxdes": "·徵招合約*5\\n·賦絡溶液儲罐*48\\n·BP卡·60min*48"
       }
     },
     "17179878192": {
@@ -4134,16 +4134,16 @@
       "Commodityid": 9008,
       "Itemid": "1,250069,1",
       "Costkind": 1,
-      "Costqty": 1800,
+      "Costqty": 1600,
       "Discount": 49,
-      "Ajustedprice": 888,
+      "Ajustedprice": 788,
       "Costlevel": null,
       "Enabletime": "1546272000",
       "Disabletime": "4102416000",
       "Upperlimit": "2,1",
       "Hot": 2,
-      "Starttime": "1605146400",
-      "Endtime": "1606665599",
+      "Starttime": "1577808000",
+      "Endtime": "1577808001",
       "Fix": 0,
       "Random": 0,
       "Payid": null,
@@ -4157,7 +4157,7 @@
       "LangStringTable": {
         "Commodityname": "虛海．特別技能箱",
         "Itemcontent": "trading_1_res_icon_250004;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．S型人偶*1\\n．A型人偶*3"
+        "Boxdes": "·S型人偶*1\\n·A型人偶*2"
       }
     },
     "17179878193": {
@@ -4166,8 +4166,8 @@
       "Commodityid": 9009,
       "Itemid": "1,250070,1",
       "Costkind": 1,
-      "Costqty": 3140,
-      "Discount": 41,
+      "Costqty": 2500,
+      "Discount": 52,
       "Ajustedprice": 1314,
       "Costlevel": null,
       "Enabletime": "1546272000",
@@ -4189,7 +4189,7 @@
       "LangStringTable": {
         "Commodityname": "虛海．特別誓約箱",
         "Itemcontent": "trading_1_res_icon_250015;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．元氣櫻花餅*314\\n．誓約刻印*1"
+        "Boxdes": "·元氣櫻花餅*200\\n·誓約刻印*1"
       }
     },
     "17179878194": {
@@ -4221,7 +4221,7 @@
       "LangStringTable": {
         "Commodityname": "虛海．特別物資箱",
         "Itemcontent": "trading_1_res_icon_250004;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．小型結晶堆*1\\n．T5裝備箱*2\\n．能源*380"
+        "Boxdes": "·小型結晶堆*1\\n·T5裝備箱*2\\n·能源*380"
       }
     },
     "17179878195": {
@@ -4251,9 +4251,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "追念．每日招募箱",
+        "Commodityname": "追念·每日招募箱",
         "Itemcontent": "trading_1_res_icon_250021;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．徵招合約*2\\n．能源*280"
+        "Boxdes": "·徵招合約*2\\n·能源*280"
       }
     },
     "17179878196": {
@@ -4283,9 +4283,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "追念．每週深海箱",
+        "Commodityname": "追念·每週深海箱",
         "Itemcontent": "trading_1_res_icon_250008;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．高級深海化箱*10\\n．徵招合約*10"
+        "Boxdes": "·高級深海化箱*10\\n·徵招合約*10"
       }
     },
     "17179878197": {
@@ -4315,9 +4315,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "追念．特別補給箱",
+        "Commodityname": "追念·特別補給箱",
         "Itemcontent": "trading_1_res_icon_250020;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．徵招合約*10\\n．賦絡溶液儲罐*12\\n．BP卡．60min*24\\n．A型人偶*2"
+        "Boxdes": "·徵招合約*10\\n·賦絡溶液儲罐*12\\n·BP卡·60min*24\\n·A型人偶*2"
       }
     },
     "17179878198": {
@@ -4347,9 +4347,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "追念．特別培養箱",
+        "Commodityname": "追念·特別培養箱",
         "Itemcontent": "trading_1_res_icon_250004;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．S型人偶*1\\n．高級深海化勢力箱*60"
+        "Boxdes": "·S型人偶*1\\n·高級深海化勢力箱*60"
       }
     },
     "17179878199": {
@@ -4379,9 +4379,9 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "追念．特別深海箱",
+        "Commodityname": "追念·特別深海箱",
         "Itemcontent": "trading_1_res_icon_250026;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．深海化材料艦種箱*90\\n．奈米神經元件*14000\\n．高級深海化箱*30"
+        "Boxdes": "·深海化材料艦種箱*90\\n·奈米神經元件*14000\\n·高級深海化箱*30"
       }
     },
     "17179878200": {
@@ -4411,9 +4411,41 @@
       "Itemtype": 0,
       "Appear": 0,
       "LangStringTable": {
-        "Commodityname": "追念．基地裝修禮包",
+        "Commodityname": "追念·基地裝修禮包",
         "Itemcontent": "trading_1_res_icon_250004;trading_1_res_icon_mask_03;35,84,145",
-        "Boxdes": "．基地-銀翼財團背景*1"
+        "Boxdes": "·基地-銀翼財團背景*1"
+      }
+    },
+    "17179878201": {
+      "Cuid": 17179878201,
+      "Id": 4,
+      "Commodityid": 9017,
+      "Itemid": "1,254001,1",
+      "Costkind": 9,
+      "Costqty": 10200,
+      "Discount": 63,
+      "Ajustedprice": 6480,
+      "Costlevel": null,
+      "Enabletime": "1546272000",
+      "Disabletime": "4102416000",
+      "Upperlimit": "2,2",
+      "Hot": 2,
+      "Starttime": "1605146400",
+      "Endtime": "1605974399",
+      "Fix": 0,
+      "Random": 0,
+      "Payid": null,
+      "Sort": 10,
+      "Next": null,
+      "Prepose": null,
+      "Buylimit": null,
+      "Reddot": 0,
+      "Itemtype": 0,
+      "Appear": 0,
+      "LangStringTable": {
+        "Commodityname": "特供養成補給箱",
+        "Itemcontent": "trading_1_res_icon_250004;trading_1_res_icon_mask_03;35,84,145",
+        "Boxdes": "·S型人偶*1\\n·BP*4000K\\n·賦絡溶液*4000K\\n·奈米神經元件*11500"
       }
     },
     "55834584849": {

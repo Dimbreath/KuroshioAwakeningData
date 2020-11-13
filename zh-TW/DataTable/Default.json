@@ -17339,6 +17339,41 @@
         "Value": "擁有的黑鑽不足！"
       }
     },
+    "blackshop_text_01_lua": {
+      "Cuid": "blackshop_text_01_lua",
+      "Stringkey": "blackshop_text_01_lua",
+      "LangStringTable": {
+        "Value": "%s前,<color=#00ffff>出鞘利劍</color>招募即可獲得黑石鑄幣"
+      }
+    },
+    "blackshop_text_02": {
+      "Cuid": "blackshop_text_02",
+      "Stringkey": "blackshop_text_02",
+      "LangStringTable": {
+        "Value": "活動時間："
+      }
+    },
+    "blackshop_text_03": {
+      "Cuid": "blackshop_text_03",
+      "Stringkey": "blackshop_text_03",
+      "LangStringTable": {
+        "Value": "前往獲取"
+      }
+    },
+    "blackshop_text_04": {
+      "Cuid": "blackshop_text_04",
+      "Stringkey": "blackshop_text_04",
+      "LangStringTable": {
+        "Value": "(提示:<color=#00ffff>黑石鑄幣</color>僅限活動期間使用，活動結束後將清空)"
+      }
+    },
+    "blackshop_text_05": {
+      "Cuid": "blackshop_text_05",
+      "Stringkey": "blackshop_text_05",
+      "LangStringTable": {
+        "Value": "庫存%s/%s"
+      }
+    },
     "warehouse_type_28": {
       "Cuid": "warehouse_type_28",
       "Stringkey": "warehouse_type_28",
@@ -19856,7 +19891,7 @@
       "Cuid": "activity_troop_buff_02",
       "Stringkey": "activity_troop_buff_02",
       "LangStringTable": {
-        "Value": "在{0}中，每次獲勝"
+        "Value": "在{0}中"
       }
     },
     "activity_troop_buff_03": {

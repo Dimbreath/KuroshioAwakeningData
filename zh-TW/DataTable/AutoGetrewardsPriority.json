@@ -76,12 +76,12 @@
       "Open": 1,
       "Type": 3,
       "Activitytype": 1,
-      "Parameter": "59",
+      "Parameter": "48",
       "Jumpmode": 1,
       "Jumptype": 2,
       "Priority": 4,
       "LangStringTable": {
-        "Name": "驍勇之騎"
+        "Name": "出鞘利劍"
       }
     }
   }

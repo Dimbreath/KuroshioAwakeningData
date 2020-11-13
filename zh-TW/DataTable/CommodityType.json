@@ -330,6 +330,26 @@
         "Name": "高級回收商城"
       }
     },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "Activity": 60,
+      "Starttime": "0",
+      "Endtime": "0",
+      "Renovate": "0",
+      "Manual": "0",
+      "Sort": 1,
+      "Icon": "trading_1_icon_106",
+      "CommodityCoin": "33",
+      "BoatPainting": null,
+      "Title": null,
+      "Timetxt": null,
+      "Diff": 0,
+      "Groupid": 0,
+      "LangStringTable": {
+        "Name": "黑石商店"
+      }
+    },
     "17": {
       "Cuid": 17,
       "Id": 17,

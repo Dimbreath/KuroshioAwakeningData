@@ -902,6 +902,17 @@
         "Text": "約定春櫻"
       }
     },
+    "84": {
+      "Cuid": 84,
+      "Id": 84,
+      "Icon": "illustration_1_char_icon_3",
+      "Type": "12",
+      "Value": "60",
+      "Value2": null,
+      "LangStringTable": {
+        "Text": "黑石商店"
+      }
+    },
     "101": {
       "Cuid": 101,
       "Id": 101,

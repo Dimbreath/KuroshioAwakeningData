@@ -3128,6 +3128,30 @@
         "Remarks": "世界地圖快速轉移側邊欄預設是否顯示（0-關閉 1-顯示）"
       }
     },
+    "xhsj_buff_attr": {
+      "Cuid": "xhsj_buff_attr",
+      "Key": "xhsj_buff_attr",
+      "Value": "1,2,1000;5,2,1000",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "xhsj_buff_coin": {
+      "Cuid": "xhsj_buff_coin",
+      "Key": "xhsj_buff_coin",
+      "Value": "23",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
+    "xhsj_buff_doll": {
+      "Cuid": "xhsj_buff_doll",
+      "Key": "xhsj_buff_doll",
+      "Value": "10010",
+      "LangStringTable": {
+        "Remarks": null
+      }
+    },
     "MapSpeed": {
       "Cuid": "MapSpeed",
       "Key": "MapSpeed",

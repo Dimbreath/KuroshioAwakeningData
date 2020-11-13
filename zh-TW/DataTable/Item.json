@@ -116,6 +116,35 @@
         "Funcdesc": "完成約定 · 春櫻活動任務即可獲得，用於祈福抽取大獎。"
       }
     },
+    "33": {
+      "Cuid": 33,
+      "Id": 33,
+      "Displaytype": 0,
+      "Type": 27,
+      "Quality": 5,
+      "Sortid": 9999,
+      "Needlevel": 1,
+      "Gainway": "2",
+      "Cantips": 0,
+      "Resolve": "0",
+      "Canuse": 1,
+      "Extinctiontime": null,
+      "Icon": "item_1_iconitem_33",
+      "IconSmall": "item_1_iconitem_33_1",
+      "IconSmall2": "item_1_iconitem_33_2",
+      "Sale": "0",
+      "Dropid": 0,
+      "Giftid": 0,
+      "Value": null,
+      "JumpIcon": 0,
+      "LangStringTable": {
+        "Name": "黑石鑄幣",
+        "Desc": "失去活性的黑泥壓縮成的紀念幣，由斯諾普之眼製作的招募回饋獎勵",
+        "Stroyauthor": null,
+        "Story": "活動期間進行人偶招募即可獲得，用於兌換商店獎勵。",
+        "Funcdesc": "活動期間進行人偶招募即可獲得，用於兌換商店獎勵。"
+      }
+    },
     "4": {
       "Cuid": 4,
       "Id": 4,
@@ -3967,9 +3996,9 @@
       "JumpIcon": 0,
       "LangStringTable": {
         "Name": "虛海．每週招募箱",
-        "Desc": "內含：\\n　　徵招合約*10\\n　　BP卡．60min*12",
+        "Desc": "內含：\\n　　徵招合約*5\\n　　賦絡溶液儲罐*48\\n　　BP卡·60min*48",
         "Stroyauthor": null,
-        "Story": "內含：\\n　　徵招合約*10\\n　　BP卡．60min*12",
+        "Story": "內含：\\n　　徵招合約*5\\n　　賦絡溶液儲罐*48\\n　　BP卡·60min*48",
         "Funcdesc": "內藏各式道具的箱子"
       }
     },
@@ -3996,9 +4025,9 @@
       "JumpIcon": 0,
       "LangStringTable": {
         "Name": "虛海．特別技能箱",
-        "Desc": "內含：\\n　　S型人偶*1\\n　　A型人偶*3",
+        "Desc": "內含：\\n　　S型人偶*1\\n　　A型人偶*2",
         "Stroyauthor": null,
-        "Story": "內含：\\n　　S型人偶*1\\n　　A型人偶*3",
+        "Story": "內含：\\n　　S型人偶*1\\n　　A型人偶*2",
         "Funcdesc": "內藏各式道具的箱子"
       }
     },
@@ -4025,9 +4054,9 @@
       "JumpIcon": 0,
       "LangStringTable": {
         "Name": "虛海．特別誓約箱",
-        "Desc": "內含：\\n　　元氣櫻花餅*314\\n　　誓約刻印*1",
+        "Desc": "內含：\\n　　元氣櫻花餅*200\\n　　誓約刻印*1",
         "Stroyauthor": null,
-        "Story": "內含：\\n　　元氣櫻花餅*314\\n　　誓約刻印*1",
+        "Story": "內含：\\n　　元氣櫻花餅*200\\n　　誓約刻印*1",
         "Funcdesc": "內藏各式道具的箱子"
       }
     },
@@ -5565,6 +5594,35 @@
         "Desc": "內含：\\n　　皮米材料*600\\n　　深海尖晶*200\\n　　BP*300K",
         "Stroyauthor": null,
         "Story": "內含：\\n　　皮米材料*600\\n　　深海尖晶*200\\n　　BP*300K",
+        "Funcdesc": "內藏各式道具的箱子"
+      }
+    },
+    "254001": {
+      "Cuid": 254001,
+      "Id": 254001,
+      "Displaytype": 3,
+      "Type": 24,
+      "Quality": 5,
+      "Sortid": 20093,
+      "Needlevel": 1,
+      "Gainway": null,
+      "Cantips": 0,
+      "Resolve": "0",
+      "Canuse": 1,
+      "Extinctiontime": null,
+      "Icon": "item_1_iconitem_240009",
+      "IconSmall": "item_1_iconitem_240009",
+      "IconSmall2": "item_1_iconitem_240009",
+      "Sale": "0",
+      "Dropid": 0,
+      "Giftid": 254001,
+      "Value": null,
+      "JumpIcon": 0,
+      "LangStringTable": {
+        "Name": "特供養成補給箱",
+        "Desc": "內含：\\n　　S型人偶*1\\n　　BP*4000K\\n　　賦絡溶液*4000K\\n　　奈米神經元件*11500",
+        "Stroyauthor": null,
+        "Story": "內含：\\n　　S型人偶*1\\n　　BP*4000K\\n　　賦絡溶液*4000K\\n　　奈米神經元件*11500",
         "Funcdesc": "內藏各式道具的箱子"
       }
     },

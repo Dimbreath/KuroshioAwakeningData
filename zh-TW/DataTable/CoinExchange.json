@@ -270,6 +270,141 @@
         "Name": "慾念之骰"
       }
     },
+    "90001": {
+      "Cuid": 90001,
+      "Id": 90001,
+      "Shoptype": 26,
+      "Itemid": "2,10010,1",
+      "Sequence": 9,
+      "Inventory": 1,
+      "Price": "1,33,2000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "中途島"
+      }
+    },
+    "90002": {
+      "Cuid": 90002,
+      "Id": 90002,
+      "Shoptype": 26,
+      "Itemid": "6,301001001,1",
+      "Sequence": 8,
+      "Inventory": 1,
+      "Price": "1,33,1000",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "CVW-5聯隊"
+      }
+    },
+    "90003": {
+      "Cuid": 90003,
+      "Id": 90003,
+      "Shoptype": 26,
+      "Itemid": "1,144009,5",
+      "Sequence": 7,
+      "Inventory": 20,
+      "Price": "1,33,50",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶·銀翼*5"
+      }
+    },
+    "90004": {
+      "Cuid": 90004,
+      "Id": 90004,
+      "Shoptype": 26,
+      "Itemid": "1,145101,10",
+      "Sequence": 6,
+      "Inventory": 20,
+      "Price": "1,33,15",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "深海結晶·航母*10"
+      }
+    },
+    "90005": {
+      "Cuid": 90005,
+      "Id": 90005,
+      "Shoptype": 26,
+      "Itemid": "1,135000,500",
+      "Sequence": 5,
+      "Inventory": 40,
+      "Price": "1,33,25",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "奈米神經元件*500"
+      }
+    },
+    "90006": {
+      "Cuid": 90006,
+      "Id": 90006,
+      "Shoptype": 26,
+      "Itemid": "1,260001,2",
+      "Sequence": 4,
+      "Inventory": 999,
+      "Price": "1,33,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液儲罐*2"
+      }
+    },
+    "90007": {
+      "Cuid": 90007,
+      "Id": 90007,
+      "Shoptype": 26,
+      "Itemid": "1,260002,2",
+      "Sequence": 3,
+      "Inventory": 999,
+      "Price": "1,33,10",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP卡·60min*2"
+      }
+    },
+    "90008": {
+      "Cuid": 90008,
+      "Id": 90008,
+      "Shoptype": 26,
+      "Itemid": "1,24,500",
+      "Sequence": 2,
+      "Inventory": 999,
+      "Price": "1,33,1",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "賦絡溶液*500"
+      }
+    },
+    "90009": {
+      "Cuid": 90009,
+      "Id": 90009,
+      "Shoptype": 26,
+      "Itemid": "1,2,500",
+      "Sequence": 1,
+      "Inventory": 999,
+      "Price": "1,33,1",
+      "Condition": null,
+      "Hot": 0,
+      "Insell": true,
+      "LangStringTable": {
+        "Name": "BP*500"
+      }
+    },
     "20001": {
       "Cuid": 20001,
       "Id": 20001,
@@ -2406,7 +2541,7 @@
       "Shoptype": 18,
       "Itemid": "2,90010,1",
       "Sequence": 48,
-      "Inventory": 3,
+      "Inventory": 1,
       "Price": "1,22,100",
       "Condition": null,
       "Hot": 0,
@@ -2785,7 +2920,7 @@
       "Price": "1,22,500",
       "Condition": null,
       "Hot": 0,
-      "Insell": true,
+      "Insell": false,
       "LangStringTable": {
         "Name": "S型人偶"
       }
@@ -2842,7 +2977,7 @@
       "Itemid": "1,145002,120",
       "Sequence": 27,
       "Inventory": 10,
-      "Price": "1,23,30",
+      "Price": "1,22,30",
       "Condition": null,
       "Hot": 0,
       "Insell": true,
@@ -2857,7 +2992,7 @@
       "Itemid": "1,145001,40",
       "Sequence": 28,
       "Inventory": 5,
-      "Price": "1,23,20",
+      "Price": "1,22,20",
       "Condition": null,
       "Hot": 0,
       "Insell": true,
@@ -2991,8 +3126,8 @@
       "Shoptype": 19,
       "Itemid": "2,90010,1",
       "Sequence": 48,
-      "Inventory": 3,
-      "Price": "1,23,100",
+      "Inventory": 2,
+      "Price": "1,22,100",
       "Condition": null,
       "Hot": 0,
       "Insell": true,
@@ -3307,7 +3442,7 @@
       "Itemid": "2,50090,1",
       "Sequence": 51,
       "Inventory": 1,
-      "Price": "1,23,2250",
+      "Price": "1,23,7500",
       "Condition": null,
       "Hot": 4,
       "Insell": true,
@@ -3385,7 +3520,7 @@
       "Price": "1,23,200",
       "Condition": null,
       "Hot": 0,
-      "Insell": true,
+      "Insell": false,
       "LangStringTable": {
         "Name": "高級裝備箱"
       }
@@ -3400,7 +3535,7 @@
       "Price": "1,23,75",
       "Condition": null,
       "Hot": 0,
-      "Insell": true,
+      "Insell": false,
       "LangStringTable": {
         "Name": "高級深海化箱"
       }

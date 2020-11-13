@@ -220,6 +220,50 @@
         "Desc": "Kapitän登場！全場都給我嗨起來！我可是黑鋒驅逐一號艦，Z1大人啊！"
       }
     },
+    "163": {
+      "Cuid": 163,
+      "Id": 163,
+      "Boatid": "60120",
+      "Resource": "6012000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "威尔士亲王",
+        "Desc": "在下是神代會社的親潮，有任何秘密任務，都請儘管交給我吧。"
+      }
+    },
+    "164": {
+      "Cuid": 164,
+      "Id": 164,
+      "Boatid": "60120",
+      "Resource": "6012100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "威尔士亲王",
+        "Desc": "指揮官？怎麼，已經開始嫌棄我的這副樣子了嗎？哈哈哈，只是開個玩笑而已，請別放在心上。"
+      }
+    },
+    "165": {
+      "Cuid": 165,
+      "Id": 165,
+      "Boatid": "60380",
+      "Resource": "6038000",
+      "Icontype": "1",
+      "LangStringTable": {
+        "Name": "科罗拉多",
+        "Desc": "呀吼～大家精神嗎？讓我看見你們的笑臉！我是大家的開心果Z1哦，來自黑鋒的驅逐艦，請大家記住我～"
+      }
+    },
+    "166": {
+      "Cuid": 166,
+      "Id": 166,
+      "Boatid": "60380",
+      "Resource": "6038100",
+      "Icontype": "2",
+      "LangStringTable": {
+        "Name": "科罗拉多",
+        "Desc": "Kapitän登場！全場都給我嗨起來！我可是黑鋒驅逐一號艦，Z1大人啊！"
+      }
+    },
     "146": {
       "Cuid": 146,
       "Id": 146,
@@ -249,7 +293,7 @@
       "Resource": "1001000",
       "Icontype": "1",
       "LangStringTable": {
-        "Name": null,
+        "Name": "中途岛",
         "Desc": null
       }
     },
@@ -260,7 +304,7 @@
       "Resource": "1001100",
       "Icontype": "2",
       "LangStringTable": {
-        "Name": null,
+        "Name": "中途岛",
         "Desc": "Midway，CVB-41，覺醒完成，真是耗神啊，我得休息一下。沒事別來找我，有事……也別找我。"
       }
     },
@@ -282,7 +326,7 @@
       "Resource": "5009000",
       "Icontype": "1",
       "LangStringTable": {
-        "Name": null,
+        "Name": "马汉",
         "Desc": "指揮官大人，馬漢級首艦馬漢準備就緒……對，對，就是我……你沒找錯人。"
       }
     },
@@ -293,7 +337,7 @@
       "Resource": "5009100",
       "Icontype": "2",
       "LangStringTable": {
-        "Name": null,
+        "Name": "马汉",
         "Desc": "看到這股火焰了嗎？不想被燒焦的話就快滾吧。"
       }
     },
@@ -304,7 +348,7 @@
       "Resource": "5040000",
       "Icontype": "1",
       "LangStringTable": {
-        "Name": null,
+        "Name": "唐斯",
         "Desc": null
       }
     },
@@ -315,7 +359,7 @@
       "Resource": "5040100",
       "Icontype": "2",
       "LangStringTable": {
-        "Name": null,
+        "Name": "唐斯",
         "Desc": "嘻嘻……再也不怕衣服燒起來囉！"
       }
     },

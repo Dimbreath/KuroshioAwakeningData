@@ -774,8 +774,8 @@
       "Iconname": "common_1_icon_xhsj_buff",
       "Iconpos": "-115,33",
       "Dollbuff": "10010",
-      "Coinid": "22,23",
-      "Buffeffect": "1,1",
+      "Coinid": "23",
+      "Buffeffect": "7",
       "Firsttimestoryid": [
         8027
       ],
@@ -818,8 +818,8 @@
       "Iconname": "common_1_icon_xhsj_buff",
       "Iconpos": "-115,33",
       "Dollbuff": "10010",
-      "Coinid": "22,23",
-      "Buffeffect": "2,1",
+      "Coinid": "23",
+      "Buffeffect": "9",
       "Firsttimestoryid": [
         8027
       ],
@@ -862,8 +862,8 @@
       "Iconname": "common_1_icon_xhsj_buff",
       "Iconpos": "-115,33",
       "Dollbuff": "10010",
-      "Coinid": "22,23",
-      "Buffeffect": "2,1",
+      "Coinid": "23",
+      "Buffeffect": "11",
       "Firsttimestoryid": [
         8027
       ],

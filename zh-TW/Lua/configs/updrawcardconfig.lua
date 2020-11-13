@@ -43,7 +43,7 @@ local UpDrawCardConfig = {
 		[[<color=#F8E698>SSR</color> 南達科他]],
 		[[<color=#05E6E6>CV:</color>田中 理惠]],
 	},
-	[12] = {12,"activity_1_menu_bg_ztd_20200702","-302,24","activity_1_title_ztd_20200702",'','','','',"477,66","116,-36","activity_1_pic_ztd_20200702","activity_1_pic2_ztd_20200702","10010,krs10010_0201","10011,krs10011_0101","457,-125",
+	[12] = {12,"activity_1_menu_bg_ztd_20200702","-168,15","activity_1_title_ztd_20201023",'','','','',"477,66","267,-36","activity_1_pic_ztd_20200702","activity_1_pic2_ztd_20200702","10010,krs10010_0201","10011,krs10011_0101","457,-125",
 		[[<color=#F8E698>SSR</color> 中途島]],
 		[[<color=#05E6E6>CV:</color>大西 沙織]],
 	},

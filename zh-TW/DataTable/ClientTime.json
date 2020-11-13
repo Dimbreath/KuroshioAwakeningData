@@ -1897,6 +1897,15 @@
       "Server": 1,
       "Serverarg": null
     },
+    "guide_teamchoose": {
+      "Cuid": "guide_teamchoose",
+      "Name": "guide_teamchoose",
+      "Clienttimetype": 0,
+      "Parameter": null,
+      "Parameter2": null,
+      "Server": 1,
+      "Serverarg": null
+    },
     "guide_chooseboat1_190": {
       "Cuid": "guide_chooseboat1_190",
       "Name": "guide_chooseboat1_190",
@@ -2017,6 +2026,15 @@
     "guide_area_201": {
       "Cuid": "guide_area_201",
       "Name": "guide_area_201",
+      "Clienttimetype": 0,
+      "Parameter": null,
+      "Parameter2": null,
+      "Server": 1,
+      "Serverarg": null
+    },
+    "guide_area2": {
+      "Cuid": "guide_area2",
+      "Name": "guide_area2",
       "Clienttimetype": 0,
       "Parameter": null,
       "Parameter2": null,
@@ -3673,6 +3691,24 @@
     "CLIENT_TIME_WIFI_3G4G_27": {
       "Cuid": "CLIENT_TIME_WIFI_3G4G_27",
       "Name": "CLIENT_TIME_WIFI_3G4G_27",
+      "Clienttimetype": 0,
+      "Parameter": null,
+      "Parameter2": null,
+      "Server": 1,
+      "Serverarg": null
+    },
+    "gift_click": {
+      "Cuid": "gift_click",
+      "Name": "gift_click",
+      "Clienttimetype": 0,
+      "Parameter": null,
+      "Parameter2": null,
+      "Server": 1,
+      "Serverarg": null
+    },
+    "gift_tips": {
+      "Cuid": "gift_tips",
+      "Name": "gift_tips",
       "Clienttimetype": 0,
       "Parameter": null,
       "Parameter2": null,

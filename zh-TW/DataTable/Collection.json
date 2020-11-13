@@ -269,7 +269,7 @@
       "Boatid": 60380,
       "Boatid2": 60381,
       "Number": 34,
-      "Open": 0,
+      "Open": 1,
       "Source": "73"
     },
     "60340": {
@@ -885,7 +885,7 @@
       "Boatid": 50090,
       "Boatid2": 50091,
       "Number": 111,
-      "Open": 0,
+      "Open": 1,
       "Source": "72,73"
     },
     "50120": {
@@ -901,7 +901,7 @@
       "Boatid": 50400,
       "Boatid2": 50401,
       "Number": 113,
-      "Open": 0,
+      "Open": 1,
       "Source": "72"
     },
     "50050": {
@@ -1149,7 +1149,7 @@
       "Boatid": 10010,
       "Boatid2": 10011,
       "Number": 144,
-      "Open": 0,
+      "Open": 1,
       "Source": "3"
     }
   }
