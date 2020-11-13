@@ -1,2 +1,2 @@
-# DarkBoomGPGameData
-Repository containing the game data for 黑潮：深海覺醒 (I don't know proper english name sorry.)
+# KuroshioAwakeningGameData
+Repository containing the game data for Kuroshio Awakening.
