@@ -1280,6 +1280,26 @@
         "Name": "威爾士親王"
       }
     },
+    "60140": {
+      "Cuid": 60140,
+      "Dollid": 60140,
+      "Arousecondition": "1;2",
+      "Arouseconditionvalue": "1;0",
+      "Precondi": [
+        "10301,1"
+      ],
+      "Ghostitem": "1,144009,100;1,145601,200",
+      "Ghostid": 60141,
+      "Frontghost": "7173",
+      "Afterghost": "7073",
+      "Ghostwords": null,
+      "Awakeitem": null,
+      "Awakeid": 0,
+      "Awakewords": null,
+      "LangStringTable": {
+        "Name": "南達科他"
+      }
+    },
     "60160": {
       "Cuid": 60160,
       "Dollid": 60160,

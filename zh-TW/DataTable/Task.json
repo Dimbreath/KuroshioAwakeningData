@@ -94,9 +94,9 @@
       "Taskcompleteconditiontype": 28,
       "Taskcompleteconditionpara": "1",
       "Taskcompleteconditionnum": 1,
-      "Taskreward": "1,240016,2",
+      "Taskreward": "1,240044,6;1,240045,2",
       "Taskcompletetrigger": 0,
-      "Debug": 1,
+      "Debug": 0,
       "Sourceid": 3000,
       "Actionreward": null,
       "Actionrewardmax": null,
@@ -177,7 +177,7 @@
       "Taskcompleteconditionnum": 1,
       "Taskreward": "1,240044,6;1,240045,2",
       "Taskcompletetrigger": 0,
-      "Debug": 0,
+      "Debug": 1,
       "Sourceid": 15,
       "Actionreward": null,
       "Actionrewardmax": null,
@@ -361,9 +361,9 @@
       "Taskacessconditiontype": 0,
       "Taskacessconditionpara": "0",
       "Taskacessconditionnum": 0,
-      "Taskcompleteconditiontype": 11,
-      "Taskcompleteconditionpara": "12007",
-      "Taskcompleteconditionnum": 5,
+      "Taskcompleteconditiontype": 72,
+      "Taskcompleteconditionpara": "0",
+      "Taskcompleteconditionnum": 10,
       "Taskreward": "1,1,60;1,240044,10;1,240045,5",
       "Taskcompletetrigger": 0,
       "Debug": 0,
@@ -375,7 +375,7 @@
       "Weight": 60,
       "LangStringTable": {
         "Taskname": "每週彙報：演習",
-        "Taskdesc": "累計完成5次每日演習任務"
+        "Taskdesc": "累計完成10次演習訓練"
       }
     },
     "11009": {

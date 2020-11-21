@@ -6,7 +6,7 @@
       "Type": "1",
       "Title": null,
       "BannerR": null,
-      "Weight": 1,
+      "Weight": 13,
       "Precondi": [
         "10101,1"
       ],
@@ -99,7 +99,7 @@
       "Type": "4",
       "Title": "activity_1_totle_list_btt_icon8",
       "BannerR": "activity_1_menu_b_pic_00002",
-      "Weight": 3,
+      "Weight": 6,
       "Precondi": [
         "10101,1"
       ],
@@ -130,7 +130,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon9",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -192,7 +192,7 @@
       "Type": "98",
       "Title": "activity_1_totle_list_btt_icon54",
       "BannerR": null,
-      "Weight": 1,
+      "Weight": 5,
       "Precondi": [
         "10101,1"
       ],
@@ -316,7 +316,7 @@
       "Type": "10",
       "Title": "activity_1_totle_list_btt_icon5",
       "BannerR": null,
-      "Weight": 10,
+      "Weight": 14,
       "Precondi": [
         "10101,1"
       ],
@@ -347,16 +347,16 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon10",
       "BannerR": null,
-      "Weight": 6,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
       "Opentype": 1,
       "Sptime": null,
-      "Show": "2020-12-24 10:00:00",
-      "Start": "2020-12-24 10:00:00",
-      "End": "2021-01-06 23:59:59",
-      "Disappear": "2021-01-06 23:59:59",
+      "Show": "2021-12-31 10:00:00",
+      "Start": "2021-12-31 10:00:00",
+      "End": "2021-12-31 23:59:59",
+      "Disappear": "2021-12-31 23:59:59",
       "Recommend": 2,
       "Banner": "main_1_function_icon_banner_pic_rh_20200507",
       "Compensate": false,
@@ -409,7 +409,7 @@
       "Type": "12",
       "Title": "activity_1_totle_list_btt_icon12",
       "BannerR": "activity_1_pic02_20191022",
-      "Weight": 4,
+      "Weight": 7,
       "Precondi": [
         "10101,5"
       ],
@@ -440,7 +440,7 @@
       "Type": "13",
       "Title": "activity_1_totle_list_btt_icon8",
       "BannerR": "activity_1_bg_20191022",
-      "Weight": 3,
+      "Weight": 6,
       "Precondi": [
         "10101,1"
       ],
@@ -502,7 +502,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon20",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -533,16 +533,16 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon10",
       "BannerR": null,
-      "Weight": 6,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
       "Opentype": 1,
       "Sptime": null,
-      "Show": "2020-12-10 10:00:00",
-      "Start": "2020-12-10 10:00:00",
-      "End": "2020-12-23 23:59:59",
-      "Disappear": "2020-12-23 23:59:59",
+      "Show": "2021-12-31 10:00:00",
+      "Start": "2021-12-31 10:00:00",
+      "End": "2021-12-31 23:59:59",
+      "Disappear": "2021-12-31 23:59:59",
       "Recommend": 2,
       "Banner": "main_1_function_icon_banner_pic_xh_20200501",
       "Compensate": false,
@@ -564,7 +564,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon16",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -595,7 +595,7 @@
       "Type": "16",
       "Title": "activity_1_totle_list_btt_icon22",
       "BannerR": "activity_1_pic02_20191022",
-      "Weight": 9,
+      "Weight": 10,
       "Precondi": [
         "10101,5"
       ],
@@ -626,7 +626,7 @@
       "Type": "17",
       "Title": "activity_1_totle_list_btt_icon14",
       "BannerR": "activity_1_bg_20191022",
-      "Weight": 8,
+      "Weight": 9,
       "Precondi": [
         "10101,1"
       ],
@@ -657,7 +657,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon21",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -688,7 +688,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon21",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -781,7 +781,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon26",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -812,7 +812,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon27",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -843,7 +843,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon28",
       "BannerR": null,
-      "Weight": 7,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -874,7 +874,7 @@
       "Type": "20",
       "Title": "activity_1_totle_list_btt_icon51",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 8,
       "Precondi": [
         "10101,1"
       ],
@@ -905,7 +905,7 @@
       "Type": "31",
       "Title": "activity_1_totle_list_btt_icon14",
       "BannerR": null,
-      "Weight": 3,
+      "Weight": 5,
       "Precondi": [
         "10101,1"
       ],
@@ -936,7 +936,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon32",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -967,7 +967,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon32",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -998,7 +998,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon32",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -1029,7 +1029,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon30",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -1060,7 +1060,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon30",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -1091,7 +1091,7 @@
       "Type": "15",
       "Title": "activity_1_totle_list_btt_icon30",
       "BannerR": null,
-      "Weight": 4,
+      "Weight": 1,
       "Precondi": [
         "10101,1"
       ],
@@ -1122,7 +1122,7 @@
       "Type": "23",
       "Title": "activity_1_totle_list_btt_icon31",
       "BannerR": null,
-      "Weight": 7,
+      "Weight": 8,
       "Precondi": [
         "10101,1"
       ],
@@ -1153,7 +1153,7 @@
       "Type": "19",
       "Title": "activity_1_totle_list_btt_icon32",
       "BannerR": null,
-      "Weight": 3,
+      "Weight": 2,
       "Precondi": [
         "10101,1"
       ],
@@ -1184,7 +1184,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon36",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -1215,7 +1215,7 @@
       "Type": "18",
       "Title": "activity_1_totle_list_btt_icon5",
       "BannerR": null,
-      "Weight": 20,
+      "Weight": 14,
       "Precondi": [
         "10101,1"
       ],
@@ -1246,7 +1246,7 @@
       "Type": "18",
       "Title": "activity_1_totle_list_btt_icon5",
       "BannerR": null,
-      "Weight": 10,
+      "Weight": 14,
       "Precondi": [
         "10101,1"
       ],
@@ -1308,16 +1308,16 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon39",
       "BannerR": null,
-      "Weight": 5,
+      "Weight": 3,
       "Precondi": [
         "10101,1"
       ],
       "Opentype": 1,
       "Sptime": null,
-      "Show": "2020-06-24 10:00:00",
-      "Start": "2020-06-24 10:00:00",
-      "End": "2020-07-07 23:59:59",
-      "Disappear": "2020-07-07 23:59:59",
+      "Show": "2020-11-26 10:00:00",
+      "Start": "2020-11-26 10:00:00",
+      "End": "2020-12-09 23:59:59",
+      "Disappear": "2020-12-09 23:59:59",
       "Recommend": 0,
       "Banner": null,
       "Compensate": false,
@@ -1370,7 +1370,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon44",
       "BannerR": null,
-      "Weight": 6,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
@@ -1401,7 +1401,7 @@
       "Type": "25",
       "Title": "activity_1_totle_list_btt_icon41",
       "BannerR": "activity_1_bg_hcdh_202000716",
-      "Weight": 7,
+      "Weight": 8,
       "Precondi": [
         "10101,1"
       ],
@@ -1432,7 +1432,7 @@
       "Type": "19",
       "Title": "activity_1_totle_list_btt_icon40",
       "BannerR": null,
-      "Weight": 3,
+      "Weight": 2,
       "Precondi": [
         "10101,1"
       ],
@@ -1463,7 +1463,7 @@
       "Type": "26",
       "Title": null,
       "BannerR": null,
-      "Weight": 3,
+      "Weight": 8,
       "Precondi": [
         "10101,1"
       ],
@@ -1494,7 +1494,7 @@
       "Type": "19",
       "Title": "activity_1_totle_list_btt_icon21",
       "BannerR": null,
-      "Weight": 3,
+      "Weight": 2,
       "Precondi": [
         "10101,1"
       ],
@@ -1525,16 +1525,16 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon48",
       "BannerR": null,
-      "Weight": 6,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
       "Opentype": 1,
       "Sptime": null,
-      "Show": "2020-11-26 10:00:00",
-      "Start": "2020-11-26 10:00:00",
-      "End": "2020-12-09 23:59:59",
-      "Disappear": "2020-12-09 23:59:59",
+      "Show": "2021-12-31 10:00:00",
+      "Start": "2021-12-31 10:00:00",
+      "End": "2021-12-31 23:59:59",
+      "Disappear": "2021-12-31 23:59:59",
       "Recommend": 0,
       "Banner": null,
       "Compensate": false,
@@ -1556,16 +1556,16 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon49",
       "BannerR": null,
-      "Weight": 6,
+      "Weight": 4,
       "Precondi": [
         "10101,1"
       ],
       "Opentype": 1,
       "Sptime": null,
-      "Show": "2021-01-07 10:00:00",
-      "Start": "2021-01-07 10:00:00",
-      "End": "2021-01-20 23:59:59",
-      "Disappear": "2021-01-20 23:59:59",
+      "Show": "2021-12-31 10:00:00",
+      "Start": "2021-12-31 10:00:00",
+      "End": "2021-12-31 23:59:59",
+      "Disappear": "2021-12-31 23:59:59",
       "Recommend": 0,
       "Banner": null,
       "Compensate": false,
@@ -1587,7 +1587,7 @@
       "Type": "5",
       "Title": "activity_1_totle_list_btt_icon52",
       "BannerR": null,
-      "Weight": 1,
+      "Weight": 3,
       "Precondi": [
         "10101,1"
       ],
@@ -1618,7 +1618,7 @@
       "Type": "99",
       "Title": "activity_1_totle_list_btt_icon53",
       "BannerR": null,
-      "Weight": 2,
+      "Weight": 5,
       "Precondi": [
         "10101,1"
       ],
@@ -1649,7 +1649,7 @@
       "Type": "21",
       "Title": "activity_1_totle_list_btt_icon35",
       "BannerR": "activity_1_bg_20191022",
-      "Weight": 7,
+      "Weight": 8,
       "Precondi": [
         "10101,1"
       ],

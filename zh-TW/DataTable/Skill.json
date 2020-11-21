@@ -19032,10 +19032,105 @@
       "Icon": "skill_1_icon_3005",
       "Upgradecost": "0",
       "Consumenum": 0,
-      "Coin": null,
+      "Coin": "0",
       "LangStringTable": {
         "Skillname": "絕境的一擊",
         "Desc": "對距離最近的3名敵軍發動攻擊，造成<color=#00ffff>{0}%</color>砲擊傷害。自身每損失25%耐久，該技能額外提升<color=#00ffff>{1}%</color>傷害，至多提升<color=#00ffff>{2}%</color>"
+      }
+    },
+    "2583001921748994": {
+      "Cuid": 2583001921748994,
+      "Id": 601402,
+      "Level": 2,
+      "Lvmax": 4,
+      "Type": "skill_type_3",
+      "Value1": "295",
+      "Value2": "50",
+      "Value3": "150",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60140,90011,60141",
+      "Consumenum": 0,
+      "Coin": "1,2,16000",
+      "LangStringTable": {
+        "Skillname": "絕境的一擊",
+        "Desc": null
+      }
+    },
+    "2583001921748995": {
+      "Cuid": 2583001921748995,
+      "Id": 601402,
+      "Level": 3,
+      "Lvmax": 4,
+      "Type": "skill_type_3",
+      "Value1": "370",
+      "Value2": "60",
+      "Value3": "180",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60140,90011,60141",
+      "Consumenum": 0,
+      "Coin": "1,2,33000",
+      "LangStringTable": {
+        "Skillname": "絕境的一擊",
+        "Desc": null
+      }
+    },
+    "2583001921748996": {
+      "Cuid": 2583001921748996,
+      "Id": 601402,
+      "Level": 4,
+      "Lvmax": 4,
+      "Type": "skill_type_3",
+      "Value1": "445",
+      "Value2": "70",
+      "Value3": "210",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60140,90011,60141",
+      "Consumenum": 0,
+      "Coin": "1,2,49000",
+      "LangStringTable": {
+        "Skillname": "絕境的一擊",
+        "Desc": null
+      }
+    },
+    "2583006216716289": {
+      "Cuid": 2583006216716289,
+      "Id": 601403,
+      "Level": 1,
+      "Lvmax": 1,
+      "Type": "skill_type_2",
+      "Value1": "235",
+      "Value2": "40",
+      "Value3": "80",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60140,90011,60141",
+      "Consumenum": 0,
+      "Coin": "1,2,28000",
+      "LangStringTable": {
+        "Skillname": "劣勢反擊",
+        "Desc": "對距離最近的2名敵軍發動攻擊，造成<color=#00ffff>{0}%</color>砲擊傷害。自身每損失25%耐久，該技能額外提升<color=#00ffff>{1}%</color>傷害，至多提升<color=#00ffff>{2}%</color>"
+      }
+    },
+    "2583010511683585": {
+      "Cuid": 2583010511683585,
+      "Id": 601404,
+      "Level": 1,
+      "Lvmax": 1,
+      "Type": "skill_type_2",
+      "Value1": "100",
+      "Value2": "8",
+      "Value3": null,
+      "Value4": null,
+      "Icon": "skill_1_icon_6008",
+      "Upgradecost": "60140,90011,60141",
+      "Consumenum": 0,
+      "Coin": "1,2,28000",
+      "LangStringTable": {
+        "Skillname": "意志守護",
+        "Desc": "為自身與我方最前排的1名友軍提升<color=#00ffff>{0}%</color>護甲屬性，持續<color=#00ffff>{1}</color>秒"
       }
     },
     "2583040576454657": {
@@ -19070,10 +19165,105 @@
       "Icon": "skill_1_icon_3005",
       "Upgradecost": "0",
       "Consumenum": 0,
-      "Coin": null,
+      "Coin": "0",
       "LangStringTable": {
         "Skillname": "絕境的一擊",
         "Desc": "對距離最近的3名敵軍發動攻擊，造成<color=#00ffff>{0}%</color>砲擊傷害。自身每損失25%耐久，該技能額外提升<color=#00ffff>{1}%</color>傷害，至多提升<color=#00ffff>{2}%</color>"
+      }
+    },
+    "2583044871421954": {
+      "Cuid": 2583044871421954,
+      "Id": 601412,
+      "Level": 2,
+      "Lvmax": 4,
+      "Type": "skill_type_3",
+      "Value1": "295",
+      "Value2": "50",
+      "Value3": "150",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60141,90011,60140",
+      "Consumenum": 0,
+      "Coin": "1,2,16000",
+      "LangStringTable": {
+        "Skillname": "絕境的一擊",
+        "Desc": null
+      }
+    },
+    "2583044871421955": {
+      "Cuid": 2583044871421955,
+      "Id": 601412,
+      "Level": 3,
+      "Lvmax": 4,
+      "Type": "skill_type_3",
+      "Value1": "370",
+      "Value2": "60",
+      "Value3": "180",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60141,90011,60140",
+      "Consumenum": 0,
+      "Coin": "1,2,33000",
+      "LangStringTable": {
+        "Skillname": "絕境的一擊",
+        "Desc": null
+      }
+    },
+    "2583044871421956": {
+      "Cuid": 2583044871421956,
+      "Id": 601412,
+      "Level": 4,
+      "Lvmax": 4,
+      "Type": "skill_type_3",
+      "Value1": "445",
+      "Value2": "70",
+      "Value3": "210",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60141,90011,60140",
+      "Consumenum": 0,
+      "Coin": "1,2,49000",
+      "LangStringTable": {
+        "Skillname": "絕境的一擊",
+        "Desc": null
+      }
+    },
+    "2583049166389249": {
+      "Cuid": 2583049166389249,
+      "Id": 601413,
+      "Level": 1,
+      "Lvmax": 1,
+      "Type": "skill_type_2",
+      "Value1": "235",
+      "Value2": "40",
+      "Value3": "80",
+      "Value4": null,
+      "Icon": "skill_1_icon_3005",
+      "Upgradecost": "60141,90011,60140",
+      "Consumenum": 0,
+      "Coin": "1,2,28000",
+      "LangStringTable": {
+        "Skillname": "劣勢反擊",
+        "Desc": "對最近2名敵軍發動攻擊，造成<color=#00ffff>{0}%</color>砲擊傷害。自身每損失25%耐久，該技能額外提升<color=#00ffff>{1}%</color>傷害，至多提升<color=#00ffff>{2}%</color>"
+      }
+    },
+    "2583053461356545": {
+      "Cuid": 2583053461356545,
+      "Id": 601414,
+      "Level": 1,
+      "Lvmax": 1,
+      "Type": "skill_type_2",
+      "Value1": "100",
+      "Value2": "8",
+      "Value3": null,
+      "Value4": null,
+      "Icon": "skill_1_icon_6008",
+      "Upgradecost": "60141,90011,60140",
+      "Consumenum": 0,
+      "Coin": "1,2,28000",
+      "LangStringTable": {
+        "Skillname": "意志守護",
+        "Desc": "為自身與我方最前排的1名友軍提升<color=#00ffff>{0}%</color>護甲屬性，持續<color=#00ffff>{1}</color>秒"
       }
     },
     "2583856620240897": {
