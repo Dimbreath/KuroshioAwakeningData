@@ -3,1172 +3,1042 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
-      "LangStringTable": {
-        "Front": "漆黑",
-        "Adj": "不語",
-        "Behind": "之主"
-      }
+      "Front": "漆黑",
+      "Adj": "不語",
+      "Behind": "之主",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
-      "LangStringTable": {
-        "Front": "閃耀",
-        "Adj": "強襲",
-        "Behind": "之徒"
-      }
+      "Front": "閃耀",
+      "Adj": "強襲",
+      "Behind": "之徒",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
-      "LangStringTable": {
-        "Front": "狂妄",
-        "Adj": "幽寂",
-        "Behind": "戰士"
-      }
+      "Front": "狂妄",
+      "Adj": "幽寂",
+      "Behind": "戰士",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
-      "LangStringTable": {
-        "Front": "無限",
-        "Adj": "百戰",
-        "Behind": "竹傘"
-      }
+      "Front": "無限",
+      "Adj": "百戰",
+      "Behind": "竹傘",
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
-      "LangStringTable": {
-        "Front": "出雲",
-        "Adj": "業火",
-        "Behind": "之刃"
-      }
+      "Front": "出雲",
+      "Adj": "業火",
+      "Behind": "之刃",
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
-      "LangStringTable": {
-        "Front": "幽暗",
-        "Adj": "一方",
-        "Behind": "之子"
-      }
+      "Front": "幽暗",
+      "Adj": "一方",
+      "Behind": "之子",
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
-      "LangStringTable": {
-        "Front": "絕望",
-        "Adj": "追憶",
-        "Behind": "災厄"
-      }
+      "Front": "絕望",
+      "Adj": "追憶",
+      "Behind": "災厄",
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
-      "LangStringTable": {
-        "Front": "深淵",
-        "Adj": "舊夢",
-        "Behind": "使徒"
-      }
+      "Front": "深淵",
+      "Adj": "舊夢",
+      "Behind": "使徒",
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
-      "LangStringTable": {
-        "Front": "狂亂",
-        "Adj": "七面",
-        "Behind": "使者"
-      }
+      "Front": "狂亂",
+      "Adj": "七面",
+      "Behind": "使者",
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
-      "LangStringTable": {
-        "Front": "狂傲",
-        "Adj": "八方",
-        "Behind": "禦行"
-      }
+      "Front": "狂傲",
+      "Adj": "八方",
+      "Behind": "禦行",
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
-      "LangStringTable": {
-        "Front": "桀驁",
-        "Adj": "易碎",
-        "Behind": "狩獵者"
-      }
+      "Front": "桀驁",
+      "Adj": "易碎",
+      "Behind": "狩獵者",
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
-      "LangStringTable": {
-        "Front": "無盡",
-        "Adj": "純粹",
-        "Behind": "住人"
-      }
+      "Front": "無盡",
+      "Adj": "純粹",
+      "Behind": "住人",
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Id": 13,
-      "LangStringTable": {
-        "Front": "鋒利",
-        "Adj": "淩亂",
-        "Behind": "物語"
-      }
+      "Front": "鋒利",
+      "Adj": "淩亂",
+      "Behind": "物語",
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Id": 14,
-      "LangStringTable": {
-        "Front": "緋紅",
-        "Adj": "四面",
-        "Behind": "之淵"
-      }
+      "Front": "緋紅",
+      "Adj": "四面",
+      "Behind": "之淵",
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Id": 15,
-      "LangStringTable": {
-        "Front": "冷漠",
-        "Adj": "不留",
-        "Behind": "旅人"
-      }
+      "Front": "冷漠",
+      "Adj": "不留",
+      "Behind": "旅人",
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Id": 16,
-      "LangStringTable": {
-        "Front": "白夜",
-        "Adj": "絕命",
-        "Behind": "之座"
-      }
+      "Front": "白夜",
+      "Adj": "絕命",
+      "Behind": "之座",
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Id": 17,
-      "LangStringTable": {
-        "Front": "神聖",
-        "Adj": "追放",
-        "Behind": "火眼"
-      }
+      "Front": "神聖",
+      "Adj": "追放",
+      "Behind": "火眼",
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Id": 18,
-      "LangStringTable": {
-        "Front": "詭譎",
-        "Adj": "假面",
-        "Behind": "風語"
-      }
+      "Front": "詭譎",
+      "Adj": "假面",
+      "Behind": "風語",
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
       "Id": 19,
-      "LangStringTable": {
-        "Front": "不眠",
-        "Adj": "無象",
-        "Behind": "行者"
-      }
+      "Front": "不眠",
+      "Adj": "無象",
+      "Behind": "行者",
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
       "Id": 20,
-      "LangStringTable": {
-        "Front": "光輝",
-        "Adj": "禍世",
-        "Behind": "之殤"
-      }
+      "Front": "光輝",
+      "Adj": "禍世",
+      "Behind": "之殤",
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
       "Id": 21,
-      "LangStringTable": {
-        "Front": "冰封",
-        "Adj": "綺麗",
-        "Behind": "寒潭"
-      }
+      "Front": "冰封",
+      "Adj": "綺麗",
+      "Behind": "寒潭",
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
       "Id": 22,
-      "LangStringTable": {
-        "Front": "黃昏",
-        "Adj": "百華",
-        "Behind": "之絆"
-      }
+      "Front": "黃昏",
+      "Adj": "百華",
+      "Behind": "之絆",
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
       "Id": 23,
-      "LangStringTable": {
-        "Front": "萊耶",
-        "Adj": "澄心",
-        "Behind": "聖域"
-      }
+      "Front": "萊耶",
+      "Adj": "澄心",
+      "Behind": "聖域",
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
       "Id": 24,
-      "LangStringTable": {
-        "Front": "盲目",
-        "Adj": "淵博",
-        "Behind": "審判者"
-      }
+      "Front": "盲目",
+      "Adj": "淵博",
+      "Behind": "審判者",
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
       "Id": 25,
-      "LangStringTable": {
-        "Front": "弭暗",
-        "Adj": "光暗",
-        "Behind": "神樂"
-      }
+      "Front": "弭暗",
+      "Adj": "光暗",
+      "Behind": "神樂",
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
       "Id": 26,
-      "LangStringTable": {
-        "Front": "鐵血",
-        "Adj": "樂園",
-        "Behind": "御座"
-      }
+      "Front": "鐵血",
+      "Adj": "樂園",
+      "Behind": "御座",
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
       "Id": 27,
-      "LangStringTable": {
-        "Front": "極北",
-        "Adj": "夢境",
-        "Behind": "毒牙"
-      }
+      "Front": "極北",
+      "Adj": "夢境",
+      "Behind": "毒牙",
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
       "Id": 28,
-      "LangStringTable": {
-        "Front": "暗墮",
-        "Adj": "無望",
-        "Behind": "劫火"
-      }
+      "Front": "暗墮",
+      "Adj": "無望",
+      "Behind": "劫火",
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
       "Id": 29,
-      "LangStringTable": {
-        "Front": "繚亂",
-        "Adj": "悠久",
-        "Behind": "青淵"
-      }
+      "Front": "繚亂",
+      "Adj": "悠久",
+      "Behind": "青淵",
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
       "Id": 30,
-      "LangStringTable": {
-        "Front": "殘破",
-        "Adj": "青藤",
-        "Behind": "之物"
-      }
+      "Front": "殘破",
+      "Adj": "青藤",
+      "Behind": "之物",
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
       "Id": 31,
-      "LangStringTable": {
-        "Front": "風暴",
-        "Adj": "不破",
-        "Behind": "碎片"
-      }
+      "Front": "風暴",
+      "Adj": "不破",
+      "Behind": "碎片",
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
       "Id": 32,
-      "LangStringTable": {
-        "Front": "臨界",
-        "Adj": "斂光",
-        "Behind": "巫女"
-      }
+      "Front": "臨界",
+      "Adj": "斂光",
+      "Behind": "巫女",
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
       "Id": 33,
-      "LangStringTable": {
-        "Front": "輪回",
-        "Adj": "七罪",
-        "Behind": "神官"
-      }
+      "Front": "輪回",
+      "Adj": "七罪",
+      "Behind": "神官",
+      "Nazo": 0
     },
     "34": {
       "Cuid": 34,
       "Id": 34,
-      "LangStringTable": {
-        "Front": "漆黑的",
-        "Adj": "玲瓏",
-        "Behind": "容器"
-      }
+      "Front": "漆黑的",
+      "Adj": "玲瓏",
+      "Behind": "容器",
+      "Nazo": 0
     },
     "35": {
       "Cuid": 35,
       "Id": 35,
-      "LangStringTable": {
-        "Front": "閃耀的",
-        "Adj": "晴方",
-        "Behind": "碎銀"
-      }
+      "Front": "閃耀的",
+      "Adj": "晴方",
+      "Behind": "碎銀",
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
       "Id": 36,
-      "LangStringTable": {
-        "Front": "狂妄的",
-        "Adj": "貪婪",
-        "Behind": "幻影"
-      }
+      "Front": "狂妄的",
+      "Adj": "貪婪",
+      "Behind": "幻影",
+      "Nazo": 0
     },
     "37": {
       "Cuid": 37,
       "Id": 37,
-      "LangStringTable": {
-        "Front": "無限的",
-        "Adj": "懶惰",
-        "Behind": "守衛"
-      }
+      "Front": "無限的",
+      "Adj": "懶惰",
+      "Behind": "守衛",
+      "Nazo": 0
     },
     "38": {
       "Cuid": 38,
       "Id": 38,
-      "LangStringTable": {
-        "Front": "出雲的",
-        "Adj": "醉夢",
-        "Behind": "之理"
-      }
+      "Front": "出雲的",
+      "Adj": "醉夢",
+      "Behind": "之理",
+      "Nazo": 0
     },
     "39": {
       "Cuid": 39,
       "Id": 39,
-      "LangStringTable": {
-        "Front": "幽暗的",
-        "Adj": "放縱",
-        "Behind": "長風"
-      }
+      "Front": "幽暗的",
+      "Adj": "放縱",
+      "Behind": "長風",
+      "Nazo": 0
     },
     "40": {
       "Cuid": 40,
       "Id": 40,
-      "LangStringTable": {
-        "Front": "絕望的",
-        "Adj": "星辰",
-        "Behind": "之箭"
-      }
+      "Front": "絕望的",
+      "Adj": "星辰",
+      "Behind": "之箭",
+      "Nazo": 0
     },
     "41": {
       "Cuid": 41,
       "Id": 41,
-      "LangStringTable": {
-        "Front": "深淵的",
-        "Adj": "蒼綠",
-        "Behind": "嚮導"
-      }
+      "Front": "深淵的",
+      "Adj": "蒼綠",
+      "Behind": "嚮導",
+      "Nazo": 0
     },
     "42": {
       "Cuid": 42,
       "Id": 42,
-      "LangStringTable": {
-        "Front": "狂亂的",
-        "Adj": "變幻",
-        "Behind": "侍衛"
-      }
+      "Front": "狂亂的",
+      "Adj": "變幻",
+      "Behind": "侍衛",
+      "Nazo": 0
     },
     "43": {
       "Cuid": 43,
       "Id": 43,
-      "LangStringTable": {
-        "Front": "狂傲的",
-        "Adj": "百目",
-        "Behind": "長者"
-      }
+      "Front": "狂傲的",
+      "Adj": "百目",
+      "Behind": "長者",
+      "Nazo": 0
     },
     "44": {
       "Cuid": 44,
       "Id": 44,
-      "LangStringTable": {
-        "Front": "桀驁的",
-        "Adj": "逆序",
-        "Behind": "之鏡"
-      }
+      "Front": "桀驁的",
+      "Adj": "逆序",
+      "Behind": "之鏡",
+      "Nazo": 0
     },
     "45": {
       "Cuid": 45,
       "Id": 45,
-      "LangStringTable": {
-        "Front": "無盡的",
-        "Adj": "逆往",
-        "Behind": "幽語"
-      }
+      "Front": "無盡的",
+      "Adj": "逆往",
+      "Behind": "幽語",
+      "Nazo": 0
     },
     "46": {
       "Cuid": 46,
       "Id": 46,
-      "LangStringTable": {
-        "Front": "鋒利的",
-        "Adj": "青嵐",
-        "Behind": "勇者"
-      }
+      "Front": "鋒利的",
+      "Adj": "青嵐",
+      "Behind": "勇者",
+      "Nazo": 0
     },
     "47": {
       "Cuid": 47,
       "Id": 47,
-      "LangStringTable": {
-        "Front": "緋紅的",
-        "Adj": "回溯",
-        "Behind": "流浪者"
-      }
+      "Front": "緋紅的",
+      "Adj": "回溯",
+      "Behind": "流浪者",
+      "Nazo": 0
     },
     "48": {
       "Cuid": 48,
       "Id": 48,
-      "LangStringTable": {
-        "Front": "冷漠的",
-        "Adj": "迴旋",
-        "Behind": "流放者"
-      }
+      "Front": "冷漠的",
+      "Adj": "迴旋",
+      "Behind": "流放者",
+      "Nazo": 0
     },
     "49": {
       "Cuid": 49,
       "Id": 49,
-      "LangStringTable": {
-        "Front": "白夜的",
-        "Adj": "變奏",
-        "Behind": "觀星者"
-      }
+      "Front": "白夜的",
+      "Adj": "變奏",
+      "Behind": "觀星者",
+      "Nazo": 0
     },
     "50": {
       "Cuid": 50,
       "Id": 50,
-      "LangStringTable": {
-        "Front": "神聖的",
-        "Adj": "獨白",
-        "Behind": "之翼"
-      }
+      "Front": "神聖的",
+      "Adj": "獨白",
+      "Behind": "之翼",
+      "Nazo": 0
     },
     "51": {
       "Cuid": 51,
       "Id": 51,
-      "LangStringTable": {
-        "Front": "詭譎的",
-        "Adj": "末世",
-        "Behind": "愚者"
-      }
+      "Front": "詭譎的",
+      "Adj": "末世",
+      "Behind": "愚者",
+      "Nazo": 0
     },
     "52": {
       "Cuid": 52,
       "Id": 52,
-      "LangStringTable": {
-        "Front": "不眠的",
-        "Adj": "孤獨",
-        "Behind": "之盾"
-      }
+      "Front": "不眠的",
+      "Adj": "孤獨",
+      "Behind": "之盾",
+      "Nazo": 0
     },
     "53": {
       "Cuid": 53,
       "Id": 53,
-      "LangStringTable": {
-        "Front": "光輝的",
-        "Adj": "孤傲",
-        "Behind": "屏障"
-      }
+      "Front": "光輝的",
+      "Adj": "孤傲",
+      "Behind": "屏障",
+      "Nazo": 0
     },
     "54": {
       "Cuid": 54,
       "Id": 54,
-      "LangStringTable": {
-        "Front": "冰封的",
-        "Adj": "光年",
-        "Behind": "先驅"
-      }
+      "Front": "冰封的",
+      "Adj": "光年",
+      "Behind": "先驅",
+      "Nazo": 0
     },
     "55": {
       "Cuid": 55,
       "Id": 55,
-      "LangStringTable": {
-        "Front": "黃昏的",
-        "Adj": "靈魂",
-        "Behind": "省者"
-      }
+      "Front": "黃昏的",
+      "Adj": "靈魂",
+      "Behind": "省者",
+      "Nazo": 0
     },
     "56": {
       "Cuid": 56,
       "Id": 56,
-      "LangStringTable": {
-        "Front": "萊耶的",
-        "Adj": "無言",
-        "Behind": "獄司"
-      }
+      "Front": "萊耶的",
+      "Adj": "無言",
+      "Behind": "獄司",
+      "Nazo": 0
     },
     "57": {
       "Cuid": 57,
       "Id": 57,
-      "LangStringTable": {
-        "Front": "盲目的",
-        "Adj": "守望",
-        "Behind": "先知"
-      }
+      "Front": "盲目的",
+      "Adj": "守望",
+      "Behind": "先知",
+      "Nazo": 0
     },
     "58": {
       "Cuid": 58,
       "Id": 58,
-      "LangStringTable": {
-        "Front": "弭暗的",
-        "Adj": "清霜",
-        "Behind": "師匠"
-      }
+      "Front": "弭暗的",
+      "Adj": "清霜",
+      "Behind": "師匠",
+      "Nazo": 0
     },
     "59": {
       "Cuid": 59,
       "Id": 59,
-      "LangStringTable": {
-        "Front": "鐵血的",
-        "Adj": "安寧",
-        "Behind": "奏者"
-      }
+      "Front": "鐵血的",
+      "Adj": "安寧",
+      "Behind": "奏者",
+      "Nazo": 0
     },
     "60": {
       "Cuid": 60,
       "Id": 60,
-      "LangStringTable": {
-        "Front": "極北的",
-        "Adj": "十字",
-        "Behind": "巨人"
-      }
+      "Front": "極北的",
+      "Adj": "十字",
+      "Behind": "巨人",
+      "Nazo": 0
     },
     "61": {
       "Cuid": 61,
       "Id": 61,
-      "LangStringTable": {
-        "Front": "暗墮的",
-        "Adj": "灼灼",
-        "Behind": "序曲"
-      }
+      "Front": "暗墮的",
+      "Adj": "灼灼",
+      "Behind": "序曲",
+      "Nazo": 0
     },
     "62": {
       "Cuid": 62,
       "Id": 62,
-      "LangStringTable": {
-        "Front": "繚亂的",
-        "Adj": "無前",
-        "Behind": "荒旅"
-      }
+      "Front": "繚亂的",
+      "Adj": "無前",
+      "Behind": "荒旅",
+      "Nazo": 0
     },
     "63": {
       "Cuid": 63,
       "Id": 63,
-      "LangStringTable": {
-        "Front": "殘破的",
-        "Adj": "真相",
-        "Behind": "之羽"
-      }
+      "Front": "殘破的",
+      "Adj": "真相",
+      "Behind": "之羽",
+      "Nazo": 0
     },
     "64": {
       "Cuid": 64,
       "Id": 64,
-      "LangStringTable": {
-        "Front": "風暴的",
-        "Adj": "破風",
-        "Behind": "先鋒"
-      }
+      "Front": "風暴的",
+      "Adj": "破風",
+      "Behind": "先鋒",
+      "Nazo": 0
     },
     "65": {
       "Cuid": 65,
       "Id": 65,
-      "LangStringTable": {
-        "Front": "臨界的",
-        "Adj": "厭世",
-        "Behind": "潮湧"
-      }
+      "Front": "臨界的",
+      "Adj": "厭世",
+      "Behind": "潮湧",
+      "Nazo": 0
     },
     "66": {
       "Cuid": 66,
       "Id": 66,
-      "LangStringTable": {
-        "Front": "漆黑．",
-        "Adj": "鋼羽",
-        "Behind": "歸人"
-      }
+      "Front": "漆黑．",
+      "Adj": "鋼羽",
+      "Behind": "歸人",
+      "Nazo": 0
     },
     "67": {
       "Cuid": 67,
       "Id": 67,
-      "LangStringTable": {
-        "Front": "閃耀．",
-        "Adj": "衰變",
-        "Behind": "之壁"
-      }
+      "Front": "閃耀．",
+      "Adj": "衰變",
+      "Behind": "之壁",
+      "Nazo": 0
     },
     "68": {
       "Cuid": 68,
       "Id": 68,
-      "LangStringTable": {
-        "Front": "狂妄．",
-        "Adj": "蒼藍",
-        "Behind": "之劍"
-      }
+      "Front": "狂妄．",
+      "Adj": "蒼藍",
+      "Behind": "之劍",
+      "Nazo": 0
     },
     "69": {
       "Cuid": 69,
       "Id": 69,
-      "LangStringTable": {
-        "Front": "無限．",
-        "Adj": "誓約",
-        "Behind": "之塚"
-      }
+      "Front": "無限．",
+      "Adj": "誓約",
+      "Behind": "之塚",
+      "Nazo": 0
     },
     "70": {
       "Cuid": 70,
       "Id": 70,
-      "LangStringTable": {
-        "Front": "出雲．",
-        "Adj": "完整",
-        "Behind": "之眼"
-      }
+      "Front": "出雲．",
+      "Adj": "完整",
+      "Behind": "之眼",
+      "Nazo": 0
     },
     "71": {
       "Cuid": 71,
       "Id": 71,
-      "LangStringTable": {
-        "Front": "幽暗．",
-        "Adj": "清冷",
-        "Behind": "灰燼"
-      }
+      "Front": "幽暗．",
+      "Adj": "清冷",
+      "Behind": "灰燼",
+      "Nazo": 0
     },
     "72": {
       "Cuid": 72,
       "Id": 72,
-      "LangStringTable": {
-        "Front": "絕望．",
-        "Adj": "莫測",
-        "Behind": "武士"
-      }
+      "Front": "絕望．",
+      "Adj": "莫測",
+      "Behind": "武士",
+      "Nazo": 0
     },
     "73": {
       "Cuid": 73,
       "Id": 73,
-      "LangStringTable": {
-        "Front": "深淵．",
-        "Adj": "沉睡",
-        "Behind": "小丑"
-      }
+      "Front": "深淵．",
+      "Adj": "沉睡",
+      "Behind": "小丑",
+      "Nazo": 0
     },
     "74": {
       "Cuid": 74,
       "Id": 74,
-      "LangStringTable": {
-        "Front": "狂亂．",
-        "Adj": "不染",
-        "Behind": "王者"
-      }
+      "Front": "狂亂．",
+      "Adj": "不染",
+      "Behind": "王者",
+      "Nazo": 0
     },
     "75": {
       "Cuid": 75,
       "Id": 75,
-      "LangStringTable": {
-        "Front": "狂傲．",
-        "Adj": "追光",
-        "Behind": "飛鳥"
-      }
+      "Front": "狂傲．",
+      "Adj": "追光",
+      "Behind": "飛鳥",
+      "Nazo": 0
     },
     "76": {
       "Cuid": 76,
       "Id": 76,
-      "LangStringTable": {
-        "Front": "桀驁．",
-        "Adj": "獨奏",
-        "Behind": "囚鳥"
-      }
+      "Front": "桀驁．",
+      "Adj": "獨奏",
+      "Behind": "囚鳥",
+      "Nazo": 0
     },
     "77": {
       "Cuid": 77,
       "Id": 77,
-      "LangStringTable": {
-        "Front": "無盡．",
-        "Adj": "封刀",
-        "Behind": "惑星"
-      }
+      "Front": "無盡．",
+      "Adj": "封刀",
+      "Behind": "惑星",
+      "Nazo": 0
     },
     "78": {
       "Cuid": 78,
       "Id": 78,
-      "LangStringTable": {
-        "Front": "鋒利．",
-        "Adj": "無心",
-        "Behind": "軌跡"
-      }
+      "Front": "鋒利．",
+      "Adj": "無心",
+      "Behind": "軌跡",
+      "Nazo": 0
     },
     "79": {
       "Cuid": 79,
       "Id": 79,
-      "LangStringTable": {
-        "Front": "緋紅．",
-        "Adj": "奇蹟",
-        "Behind": "傀儡"
-      }
+      "Front": "緋紅．",
+      "Adj": "奇蹟",
+      "Behind": "傀儡",
+      "Nazo": 0
     },
     "80": {
       "Cuid": 80,
       "Id": 80,
-      "LangStringTable": {
-        "Front": "冷漠．",
-        "Adj": "歲月",
-        "Behind": "過客"
-      }
+      "Front": "冷漠．",
+      "Adj": "歲月",
+      "Behind": "過客",
+      "Nazo": 0
     },
     "81": {
       "Cuid": 81,
       "Id": 81,
-      "LangStringTable": {
-        "Front": "白夜．",
-        "Adj": "上弦",
-        "Behind": "殘片"
-      }
+      "Front": "白夜．",
+      "Adj": "上弦",
+      "Behind": "殘片",
+      "Nazo": 0
     },
     "82": {
       "Cuid": 82,
       "Id": 82,
-      "LangStringTable": {
-        "Front": "神聖．",
-        "Adj": "無常",
-        "Behind": "花火"
-      }
+      "Front": "神聖．",
+      "Adj": "無常",
+      "Behind": "花火",
+      "Nazo": 0
     },
     "83": {
       "Cuid": 83,
       "Id": 83,
-      "LangStringTable": {
-        "Front": "詭譎．",
-        "Adj": "人形",
-        "Behind": "青空"
-      }
+      "Front": "詭譎．",
+      "Adj": "人形",
+      "Behind": "青空",
+      "Nazo": 0
     },
     "84": {
       "Cuid": 84,
       "Id": 84,
-      "LangStringTable": {
-        "Front": "不眠．",
-        "Adj": "妄想",
-        "Behind": "淨土"
-      }
+      "Front": "不眠．",
+      "Adj": "妄想",
+      "Behind": "淨土",
+      "Nazo": 0
     },
     "85": {
       "Cuid": 85,
       "Id": 85,
-      "LangStringTable": {
-        "Front": "光輝．",
-        "Adj": "無色",
-        "Behind": "泡沫"
-      }
+      "Front": "光輝．",
+      "Adj": "無色",
+      "Behind": "泡沫",
+      "Nazo": 0
     },
     "86": {
       "Cuid": 86,
       "Id": 86,
-      "LangStringTable": {
-        "Front": "冰封．",
-        "Adj": "墨染",
-        "Behind": "之淚"
-      }
+      "Front": "冰封．",
+      "Adj": "墨染",
+      "Behind": "之淚",
+      "Nazo": 0
     },
     "87": {
       "Cuid": 87,
       "Id": 87,
-      "LangStringTable": {
-        "Front": "黃昏．",
-        "Adj": "進化",
-        "Behind": "怪物"
-      }
+      "Front": "黃昏．",
+      "Adj": "進化",
+      "Behind": "怪物",
+      "Nazo": 0
     },
     "88": {
       "Cuid": 88,
       "Id": 88,
-      "LangStringTable": {
-        "Front": "萊耶．",
-        "Adj": "零度",
-        "Behind": "之音"
-      }
+      "Front": "萊耶．",
+      "Adj": "零度",
+      "Behind": "之音",
+      "Nazo": 0
     },
     "89": {
       "Cuid": 89,
       "Id": 89,
-      "LangStringTable": {
-        "Front": "盲目．",
-        "Adj": "行亂",
-        "Behind": "殘響"
-      }
+      "Front": "盲目．",
+      "Adj": "行亂",
+      "Behind": "殘響",
+      "Nazo": 0
     },
     "90": {
       "Cuid": 90,
       "Id": 90,
-      "LangStringTable": {
-        "Front": "弭暗．",
-        "Adj": "松煙",
-        "Behind": "之影"
-      }
+      "Front": "弭暗．",
+      "Adj": "松煙",
+      "Behind": "之影",
+      "Nazo": 0
     },
     "91": {
       "Cuid": 91,
       "Id": 91,
-      "LangStringTable": {
-        "Front": "鐵血．",
-        "Adj": "驚世",
-        "Behind": "彼方"
-      }
+      "Front": "鐵血．",
+      "Adj": "驚世",
+      "Behind": "彼方",
+      "Nazo": 0
     },
     "92": {
       "Cuid": 92,
       "Id": 92,
-      "LangStringTable": {
-        "Front": "極北．",
-        "Adj": "權禦",
-        "Behind": "黑羽"
-      }
+      "Front": "極北．",
+      "Adj": "權禦",
+      "Behind": "黑羽",
+      "Nazo": 0
     },
     "93": {
       "Cuid": 93,
       "Id": 93,
-      "LangStringTable": {
-        "Front": "暗墮．",
-        "Adj": "千年",
-        "Behind": "之煙"
-      }
+      "Front": "暗墮．",
+      "Adj": "千年",
+      "Behind": "之煙",
+      "Nazo": 0
     },
     "94": {
       "Cuid": 94,
       "Id": 94,
-      "LangStringTable": {
-        "Front": "繚亂．",
-        "Adj": "海色",
-        "Behind": "之斬"
-      }
+      "Front": "繚亂．",
+      "Adj": "海色",
+      "Behind": "之斬",
+      "Nazo": 0
     },
     "95": {
       "Cuid": 95,
       "Id": 95,
-      "LangStringTable": {
-        "Front": "殘破．",
-        "Adj": "原初",
-        "Behind": "之書"
-      }
+      "Front": "殘破．",
+      "Adj": "原初",
+      "Behind": "之書",
+      "Nazo": 0
     },
     "96": {
       "Cuid": 96,
       "Id": 96,
-      "LangStringTable": {
-        "Front": "風暴．",
-        "Adj": "命運",
-        "Behind": "殘篇"
-      }
+      "Front": "風暴．",
+      "Adj": "命運",
+      "Behind": "殘篇",
+      "Nazo": 0
     },
     "97": {
       "Cuid": 97,
       "Id": 97,
-      "LangStringTable": {
-        "Front": "臨界．",
-        "Adj": "空洞",
-        "Behind": "之光"
-      }
+      "Front": "臨界．",
+      "Adj": "空洞",
+      "Behind": "之光",
+      "Nazo": 0
     },
     "98": {
       "Cuid": 98,
       "Id": 98,
-      "LangStringTable": {
-        "Front": "灼熱的",
-        "Adj": "無奈",
-        "Behind": "之川"
-      }
+      "Front": "灼熱的",
+      "Adj": "無奈",
+      "Behind": "之川",
+      "Nazo": 0
     },
     "99": {
       "Cuid": 99,
       "Id": 99,
-      "LangStringTable": {
-        "Front": "冰冷的",
-        "Adj": "叛逆",
-        "Behind": "綱領"
-      }
+      "Front": "冰冷的",
+      "Adj": "叛逆",
+      "Behind": "綱領",
+      "Nazo": 0
     },
     "100": {
       "Cuid": 100,
       "Id": 100,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "碎月",
-        "Behind": "迷城"
-      }
+      "Front": "",
+      "Adj": "碎月",
+      "Behind": "迷城",
+      "Nazo": 0
     },
     "101": {
       "Cuid": 101,
       "Id": 101,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "寒蟬",
-        "Behind": "之王"
-      }
+      "Front": "",
+      "Adj": "寒蟬",
+      "Behind": "之王",
+      "Nazo": 0
     },
     "102": {
       "Cuid": 102,
       "Id": 102,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "荒蕪",
-        "Behind": "螢火"
-      }
+      "Front": "",
+      "Adj": "荒蕪",
+      "Behind": "螢火",
+      "Nazo": 0
     },
     "103": {
       "Cuid": 103,
       "Id": 103,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "雲川",
-        "Behind": "領主"
-      }
+      "Front": "",
+      "Adj": "雲川",
+      "Behind": "領主",
+      "Nazo": 0
     },
     "104": {
       "Cuid": 104,
       "Id": 104,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "冷酷",
-        "Behind": "紅蓮"
-      }
+      "Front": "",
+      "Adj": "冷酷",
+      "Behind": "紅蓮",
+      "Nazo": 0
     },
     "105": {
       "Cuid": 105,
       "Id": 105,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "夕顏",
-        "Behind": "之火"
-      }
+      "Front": "",
+      "Adj": "夕顏",
+      "Behind": "之火",
+      "Nazo": 0
     },
     "106": {
       "Cuid": 106,
       "Id": 106,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "黑曜",
-        "Behind": "之魘"
-      }
+      "Front": "",
+      "Adj": "黑曜",
+      "Behind": "之魘",
+      "Nazo": 0
     },
     "107": {
       "Cuid": 107,
       "Id": 107,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "深邃",
-        "Behind": "孤島"
-      }
+      "Front": "",
+      "Adj": "深邃",
+      "Behind": "孤島",
+      "Nazo": 0
     },
     "108": {
       "Cuid": 108,
       "Id": 108,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "不才",
-        "Behind": "舊劍"
-      }
+      "Front": "",
+      "Adj": "不才",
+      "Behind": "舊劍",
+      "Nazo": 0
     },
     "109": {
       "Cuid": 109,
       "Id": 109,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "失落",
-        "Behind": "之夢"
-      }
+      "Front": "",
+      "Adj": "失落",
+      "Behind": "之夢",
+      "Nazo": 0
     },
     "110": {
       "Cuid": 110,
       "Id": 110,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "超越",
-        "Behind": "之嶺"
-      }
+      "Front": "",
+      "Adj": "超越",
+      "Behind": "之嶺",
+      "Nazo": 0
     },
     "111": {
       "Cuid": 111,
       "Id": 111,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "無雙",
-        "Behind": "潛行者"
-      }
+      "Front": "",
+      "Adj": "無雙",
+      "Behind": "潛行者",
+      "Nazo": 0
     },
     "112": {
       "Cuid": 112,
       "Id": 112,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "陽炎",
-        "Behind": "覺醒者"
-      }
+      "Front": "",
+      "Adj": "陽炎",
+      "Behind": "覺醒者",
+      "Nazo": 0
     },
     "113": {
       "Cuid": 113,
       "Id": 113,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "空色",
-        "Behind": "之心"
-      }
+      "Front": "",
+      "Adj": "空色",
+      "Behind": "之心",
+      "Nazo": 0
     },
     "114": {
       "Cuid": 114,
       "Id": 114,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "靜默",
-        "Behind": "迴響"
-      }
+      "Front": "",
+      "Adj": "靜默",
+      "Behind": "迴響",
+      "Nazo": 0
     },
     "115": {
       "Cuid": 115,
       "Id": 115,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "炸裂",
-        "Behind": "之門"
-      }
+      "Front": "",
+      "Adj": "炸裂",
+      "Behind": "之門",
+      "Nazo": 0
     },
     "116": {
       "Cuid": 116,
       "Id": 116,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "冠世",
-        "Behind": "亡靈"
-      }
+      "Front": "",
+      "Adj": "冠世",
+      "Behind": "亡靈",
+      "Nazo": 0
     },
     "117": {
       "Cuid": 117,
       "Id": 117,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "銀翼",
-        "Behind": "執行者"
-      }
+      "Front": "",
+      "Adj": "銀翼",
+      "Behind": "執行者",
+      "Nazo": 0
     },
     "118": {
       "Cuid": 118,
       "Id": 118,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "神代",
-        "Behind": "序言"
-      }
+      "Front": "",
+      "Adj": "神代",
+      "Behind": "序言",
+      "Nazo": 0
     },
     "119": {
       "Cuid": 119,
       "Id": 119,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "薔薇",
-        "Behind": "之印"
-      }
+      "Front": "",
+      "Adj": "薔薇",
+      "Behind": "之印",
+      "Nazo": 0
     },
     "120": {
       "Cuid": 120,
       "Id": 120,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "黑鋒",
-        "Behind": "之利刃"
-      }
+      "Front": "",
+      "Adj": "黑鋒",
+      "Behind": "之利刃",
+      "Nazo": 0
     },
     "121": {
       "Cuid": 121,
       "Id": 121,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "亂世",
-        "Behind": "御影"
-      }
+      "Front": "",
+      "Adj": "亂世",
+      "Behind": "御影",
+      "Nazo": 0
     },
     "122": {
       "Cuid": 122,
       "Id": 122,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "偽物",
-        "Behind": "之歌"
-      }
+      "Front": "",
+      "Adj": "偽物",
+      "Behind": "之歌",
+      "Nazo": 0
     },
     "123": {
       "Cuid": 123,
       "Id": 123,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "夜行",
-        "Behind": "暗影"
-      }
+      "Front": "",
+      "Adj": "夜行",
+      "Behind": "暗影",
+      "Nazo": 0
     },
     "124": {
       "Cuid": 124,
       "Id": 124,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "無名",
-        "Behind": "哀歌"
-      }
+      "Front": "",
+      "Adj": "無名",
+      "Behind": "哀歌",
+      "Nazo": 0
     },
     "125": {
       "Cuid": 125,
       "Id": 125,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "勇氣",
-        "Behind": "獵人"
-      }
+      "Front": "",
+      "Adj": "勇氣",
+      "Behind": "獵人",
+      "Nazo": 0
     },
     "126": {
       "Cuid": 126,
       "Id": 126,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "萬物",
-        "Behind": "監察者"
-      }
+      "Front": "",
+      "Adj": "萬物",
+      "Behind": "監察者",
+      "Nazo": 0
     },
     "127": {
       "Cuid": 127,
       "Id": 127,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "八重",
-        "Behind": "窺探者"
-      }
+      "Front": "",
+      "Adj": "八重",
+      "Behind": "窺探者",
+      "Nazo": 0
     },
     "128": {
       "Cuid": 128,
       "Id": 128,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "崩壞",
-        "Behind": "亡語"
-      }
+      "Front": "",
+      "Adj": "崩壞",
+      "Behind": "亡語",
+      "Nazo": 0
     },
     "129": {
       "Cuid": 129,
       "Id": 129,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "孑然",
-        "Behind": "之燼"
-      }
+      "Front": "",
+      "Adj": "孑然",
+      "Behind": "之燼",
+      "Nazo": 0
     },
     "130": {
       "Cuid": 130,
       "Id": 130,
-      "LangStringTable": {
-        "Front": null,
-        "Adj": "漫長",
-        "Behind": "之證"
-      }
+      "Front": "",
+      "Adj": "漫長",
+      "Behind": "之證",
+      "Nazo": 0
     }
   }
 }

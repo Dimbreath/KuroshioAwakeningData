@@ -5,840 +5,960 @@
       "Quality": 2,
       "Level": 1,
       "Exp": 10,
-      "Cost": 530
+      "Cost": 530,
+      "Nazo": 0
     },
     "8589934594": {
       "Cuid": 8589934594,
       "Quality": 2,
       "Level": 2,
       "Exp": 10,
-      "Cost": 1570
+      "Cost": 1570,
+      "Nazo": 0
     },
     "8589934595": {
       "Cuid": 8589934595,
       "Quality": 2,
       "Level": 3,
       "Exp": 15,
-      "Cost": 2630
+      "Cost": 2630,
+      "Nazo": 0
     },
     "8589934596": {
       "Cuid": 8589934596,
       "Quality": 2,
       "Level": 4,
       "Exp": 25,
-      "Cost": 3680
+      "Cost": 3680,
+      "Nazo": 0
     },
     "8589934597": {
       "Cuid": 8589934597,
       "Quality": 2,
       "Level": 5,
       "Exp": 20,
-      "Cost": 4730
+      "Cost": 4730,
+      "Nazo": 0
     },
     "8589934598": {
       "Cuid": 8589934598,
       "Quality": 2,
       "Level": 6,
       "Exp": 40,
-      "Cost": 5780
+      "Cost": 5780,
+      "Nazo": 0
     },
     "8589934599": {
       "Cuid": 8589934599,
       "Quality": 2,
       "Level": 7,
       "Exp": 35,
-      "Cost": 6840
+      "Cost": 6840,
+      "Nazo": 0
     },
     "8589934600": {
       "Cuid": 8589934600,
       "Quality": 2,
       "Level": 8,
       "Exp": 45,
-      "Cost": 7880
+      "Cost": 7880,
+      "Nazo": 0
     },
     "8589934601": {
       "Cuid": 8589934601,
       "Quality": 2,
       "Level": 9,
       "Exp": 50,
-      "Cost": 8940
+      "Cost": 8940,
+      "Nazo": 0
     },
     "8589934602": {
       "Cuid": 8589934602,
       "Quality": 2,
       "Level": 10,
       "Exp": 60,
-      "Cost": 9990
+      "Cost": 9990,
+      "Nazo": 0
     },
     "8589934603": {
       "Cuid": 8589934603,
       "Quality": 2,
       "Level": 11,
       "Exp": 60,
-      "Cost": 11040
+      "Cost": 11040,
+      "Nazo": 0
     },
     "8589934604": {
       "Cuid": 8589934604,
       "Quality": 2,
       "Level": 12,
       "Exp": 65,
-      "Cost": 12090
+      "Cost": 12090,
+      "Nazo": 0
     },
     "8589934605": {
       "Cuid": 8589934605,
       "Quality": 2,
       "Level": 13,
       "Exp": 80,
-      "Cost": 13140
+      "Cost": 13140,
+      "Nazo": 0
     },
     "8589934606": {
       "Cuid": 8589934606,
       "Quality": 2,
       "Level": 14,
       "Exp": 75,
-      "Cost": 14200
+      "Cost": 14200,
+      "Nazo": 0
     },
     "8589934607": {
       "Cuid": 8589934607,
       "Quality": 2,
       "Level": 15,
       "Exp": 90,
-      "Cost": 15240
+      "Cost": 15240,
+      "Nazo": 0
     },
     "8589934608": {
       "Cuid": 8589934608,
       "Quality": 2,
       "Level": 16,
       "Exp": 90,
-      "Cost": 16300
+      "Cost": 16300,
+      "Nazo": 0
     },
     "8589934609": {
       "Cuid": 8589934609,
       "Quality": 2,
       "Level": 17,
       "Exp": 100,
-      "Cost": 17350
+      "Cost": 17350,
+      "Nazo": 0
     },
     "8589934610": {
       "Cuid": 8589934610,
       "Quality": 2,
       "Level": 18,
       "Exp": 105,
-      "Cost": 18400
+      "Cost": 18400,
+      "Nazo": 0
     },
     "8589934611": {
       "Cuid": 8589934611,
       "Quality": 2,
       "Level": 19,
       "Exp": 110,
-      "Cost": 19440
+      "Cost": 19440,
+      "Nazo": 0
     },
     "8589934612": {
       "Cuid": 8589934612,
       "Quality": 2,
       "Level": 20,
       "Exp": 115,
-      "Cost": 20510
+      "Cost": 20510,
+      "Nazo": 0
     },
     "8589934613": {
       "Cuid": 8589934613,
       "Quality": 2,
       "Level": 21,
       "Exp": 125,
-      "Cost": 21550
+      "Cost": 21550,
+      "Nazo": 0
     },
     "8589934614": {
       "Cuid": 8589934614,
       "Quality": 2,
       "Level": 22,
       "Exp": 125,
-      "Cost": 22610
+      "Cost": 22610,
+      "Nazo": 0
     },
     "8589934615": {
       "Cuid": 8589934615,
       "Quality": 2,
       "Level": 23,
       "Exp": 130,
-      "Cost": 23650
+      "Cost": 23650,
+      "Nazo": 0
     },
     "8589934616": {
       "Cuid": 8589934616,
       "Quality": 2,
       "Level": 24,
       "Exp": 145,
-      "Cost": 24710
+      "Cost": 24710,
+      "Nazo": 0
     },
     "8589934617": {
       "Cuid": 8589934617,
       "Quality": 2,
       "Level": 25,
       "Exp": 145,
-      "Cost": 25760
+      "Cost": 25760,
+      "Nazo": 0
     },
     "8589934618": {
       "Cuid": 8589934618,
       "Quality": 2,
       "Level": 26,
       "Exp": 150,
-      "Cost": 26810
+      "Cost": 26810,
+      "Nazo": 0
     },
     "8589934619": {
       "Cuid": 8589934619,
       "Quality": 2,
       "Level": 27,
       "Exp": 160,
-      "Cost": 27860
+      "Cost": 27860,
+      "Nazo": 0
     },
     "8589934620": {
       "Cuid": 8589934620,
       "Quality": 2,
       "Level": 28,
       "Exp": 165,
-      "Cost": 28920
+      "Cost": 28920,
+      "Nazo": 0
     },
     "8589934621": {
       "Cuid": 8589934621,
       "Quality": 2,
       "Level": 29,
       "Exp": 165,
-      "Cost": 29960
+      "Cost": 29960,
+      "Nazo": 0
     },
     "8589934622": {
       "Cuid": 8589934622,
       "Quality": 2,
       "Level": 30,
       "Exp": 175,
-      "Cost": 31010
+      "Cost": 31010,
+      "Nazo": 0
     },
     "12884901889": {
       "Cuid": 12884901889,
       "Quality": 3,
       "Level": 1,
       "Exp": 10,
-      "Cost": 620
+      "Cost": 620,
+      "Nazo": 0
     },
     "12884901890": {
       "Cuid": 12884901890,
       "Quality": 3,
       "Level": 2,
       "Exp": 15,
-      "Cost": 1830
+      "Cost": 1830,
+      "Nazo": 0
     },
     "12884901891": {
       "Cuid": 12884901891,
       "Quality": 3,
       "Level": 3,
       "Exp": 15,
-      "Cost": 3070
+      "Cost": 3070,
+      "Nazo": 0
     },
     "12884901892": {
       "Cuid": 12884901892,
       "Quality": 3,
       "Level": 4,
       "Exp": 25,
-      "Cost": 4290
+      "Cost": 4290,
+      "Nazo": 0
     },
     "12884901893": {
       "Cuid": 12884901893,
       "Quality": 3,
       "Level": 5,
       "Exp": 30,
-      "Cost": 5520
+      "Cost": 5520,
+      "Nazo": 0
     },
     "12884901894": {
       "Cuid": 12884901894,
       "Quality": 3,
       "Level": 6,
       "Exp": 40,
-      "Cost": 6750
+      "Cost": 6750,
+      "Nazo": 0
     },
     "12884901895": {
       "Cuid": 12884901895,
       "Quality": 3,
       "Level": 7,
       "Exp": 45,
-      "Cost": 7970
+      "Cost": 7970,
+      "Nazo": 0
     },
     "12884901896": {
       "Cuid": 12884901896,
       "Quality": 3,
       "Level": 8,
       "Exp": 55,
-      "Cost": 9200
+      "Cost": 9200,
+      "Nazo": 0
     },
     "12884901897": {
       "Cuid": 12884901897,
       "Quality": 3,
       "Level": 9,
       "Exp": 55,
-      "Cost": 10430
+      "Cost": 10430,
+      "Nazo": 0
     },
     "12884901898": {
       "Cuid": 12884901898,
       "Quality": 3,
       "Level": 10,
       "Exp": 70,
-      "Cost": 11650
+      "Cost": 11650,
+      "Nazo": 0
     },
     "12884901899": {
       "Cuid": 12884901899,
       "Quality": 3,
       "Level": 11,
       "Exp": 70,
-      "Cost": 12880
+      "Cost": 12880,
+      "Nazo": 0
     },
     "12884901900": {
       "Cuid": 12884901900,
       "Quality": 3,
       "Level": 12,
       "Exp": 75,
-      "Cost": 14110
+      "Cost": 14110,
+      "Nazo": 0
     },
     "12884901901": {
       "Cuid": 12884901901,
       "Quality": 3,
       "Level": 13,
       "Exp": 95,
-      "Cost": 15330
+      "Cost": 15330,
+      "Nazo": 0
     },
     "12884901902": {
       "Cuid": 12884901902,
       "Quality": 3,
       "Level": 14,
       "Exp": 90,
-      "Cost": 16560
+      "Cost": 16560,
+      "Nazo": 0
     },
     "12884901903": {
       "Cuid": 12884901903,
       "Quality": 3,
       "Level": 15,
       "Exp": 105,
-      "Cost": 17790
+      "Cost": 17790,
+      "Nazo": 0
     },
     "12884901904": {
       "Cuid": 12884901904,
       "Quality": 3,
       "Level": 16,
       "Exp": 105,
-      "Cost": 19010
+      "Cost": 19010,
+      "Nazo": 0
     },
     "12884901905": {
       "Cuid": 12884901905,
       "Quality": 3,
       "Level": 17,
       "Exp": 110,
-      "Cost": 20240
+      "Cost": 20240,
+      "Nazo": 0
     },
     "12884901906": {
       "Cuid": 12884901906,
       "Quality": 3,
       "Level": 18,
       "Exp": 125,
-      "Cost": 21470
+      "Cost": 21470,
+      "Nazo": 0
     },
     "12884901907": {
       "Cuid": 12884901907,
       "Quality": 3,
       "Level": 19,
       "Exp": 130,
-      "Cost": 22680
+      "Cost": 22680,
+      "Nazo": 0
     },
     "12884901908": {
       "Cuid": 12884901908,
       "Quality": 3,
       "Level": 20,
       "Exp": 130,
-      "Cost": 23920
+      "Cost": 23920,
+      "Nazo": 0
     },
     "12884901909": {
       "Cuid": 12884901909,
       "Quality": 3,
       "Level": 21,
       "Exp": 150,
-      "Cost": 25150
+      "Cost": 25150,
+      "Nazo": 0
     },
     "12884901910": {
       "Cuid": 12884901910,
       "Quality": 3,
       "Level": 22,
       "Exp": 145,
-      "Cost": 26370
+      "Cost": 26370,
+      "Nazo": 0
     },
     "12884901911": {
       "Cuid": 12884901911,
       "Quality": 3,
       "Level": 23,
       "Exp": 155,
-      "Cost": 27600
+      "Cost": 27600,
+      "Nazo": 0
     },
     "12884901912": {
       "Cuid": 12884901912,
       "Quality": 3,
       "Level": 24,
       "Exp": 165,
-      "Cost": 28830
+      "Cost": 28830,
+      "Nazo": 0
     },
     "12884901913": {
       "Cuid": 12884901913,
       "Quality": 3,
       "Level": 25,
       "Exp": 170,
-      "Cost": 30050
+      "Cost": 30050,
+      "Nazo": 0
     },
     "12884901914": {
       "Cuid": 12884901914,
       "Quality": 3,
       "Level": 26,
       "Exp": 175,
-      "Cost": 31280
+      "Cost": 31280,
+      "Nazo": 0
     },
     "12884901915": {
       "Cuid": 12884901915,
       "Quality": 3,
       "Level": 27,
       "Exp": 190,
-      "Cost": 32500
+      "Cost": 32500,
+      "Nazo": 0
     },
     "12884901916": {
       "Cuid": 12884901916,
       "Quality": 3,
       "Level": 28,
       "Exp": 190,
-      "Cost": 33740
+      "Cost": 33740,
+      "Nazo": 0
     },
     "12884901917": {
       "Cuid": 12884901917,
       "Quality": 3,
       "Level": 29,
       "Exp": 195,
-      "Cost": 34960
+      "Cost": 34960,
+      "Nazo": 0
     },
     "12884901918": {
       "Cuid": 12884901918,
       "Quality": 3,
       "Level": 30,
       "Exp": 200,
-      "Cost": 36180
+      "Cost": 36180,
+      "Nazo": 0
     },
     "17179869185": {
       "Cuid": 17179869185,
       "Quality": 4,
       "Level": 1,
       "Exp": 10,
-      "Cost": 700
+      "Cost": 700,
+      "Nazo": 0
     },
     "17179869186": {
       "Cuid": 17179869186,
       "Quality": 4,
       "Level": 2,
       "Exp": 15,
-      "Cost": 2100
+      "Cost": 2100,
+      "Nazo": 0
     },
     "17179869187": {
       "Cuid": 17179869187,
       "Quality": 4,
       "Level": 3,
       "Exp": 15,
-      "Cost": 3510
+      "Cost": 3510,
+      "Nazo": 0
     },
     "17179869188": {
       "Cuid": 17179869188,
       "Quality": 4,
       "Level": 4,
       "Exp": 35,
-      "Cost": 4910
+      "Cost": 4910,
+      "Nazo": 0
     },
     "17179869189": {
       "Cuid": 17179869189,
       "Quality": 4,
       "Level": 5,
       "Exp": 30,
-      "Cost": 6300
+      "Cost": 6300,
+      "Nazo": 0
     },
     "17179869190": {
       "Cuid": 17179869190,
       "Quality": 4,
       "Level": 6,
       "Exp": 50,
-      "Cost": 7710
+      "Cost": 7710,
+      "Nazo": 0
     },
     "17179869191": {
       "Cuid": 17179869191,
       "Quality": 4,
       "Level": 7,
       "Exp": 45,
-      "Cost": 9110
+      "Cost": 9110,
+      "Nazo": 0
     },
     "17179869192": {
       "Cuid": 17179869192,
       "Quality": 4,
       "Level": 8,
       "Exp": 65,
-      "Cost": 10520
+      "Cost": 10520,
+      "Nazo": 0
     },
     "17179869193": {
       "Cuid": 17179869193,
       "Quality": 4,
       "Level": 9,
       "Exp": 65,
-      "Cost": 11920
+      "Cost": 11920,
+      "Nazo": 0
     },
     "17179869194": {
       "Cuid": 17179869194,
       "Quality": 4,
       "Level": 10,
       "Exp": 80,
-      "Cost": 13320
+      "Cost": 13320,
+      "Nazo": 0
     },
     "17179869195": {
       "Cuid": 17179869195,
       "Quality": 4,
       "Level": 11,
       "Exp": 80,
-      "Cost": 14720
+      "Cost": 14720,
+      "Nazo": 0
     },
     "17179869196": {
       "Cuid": 17179869196,
       "Quality": 4,
       "Level": 12,
       "Exp": 90,
-      "Cost": 16120
+      "Cost": 16120,
+      "Nazo": 0
     },
     "17179869197": {
       "Cuid": 17179869197,
       "Quality": 4,
       "Level": 13,
       "Exp": 100,
-      "Cost": 17520
+      "Cost": 17520,
+      "Nazo": 0
     },
     "17179869198": {
       "Cuid": 17179869198,
       "Quality": 4,
       "Level": 14,
       "Exp": 105,
-      "Cost": 18920
+      "Cost": 18920,
+      "Nazo": 0
     },
     "17179869199": {
       "Cuid": 17179869199,
       "Quality": 4,
       "Level": 15,
       "Exp": 120,
-      "Cost": 20330
+      "Cost": 20330,
+      "Nazo": 0
     },
     "17179869200": {
       "Cuid": 17179869200,
       "Quality": 4,
       "Level": 16,
       "Exp": 120,
-      "Cost": 21730
+      "Cost": 21730,
+      "Nazo": 0
     },
     "17179869201": {
       "Cuid": 17179869201,
       "Quality": 4,
       "Level": 17,
       "Exp": 130,
-      "Cost": 23130
+      "Cost": 23130,
+      "Nazo": 0
     },
     "17179869202": {
       "Cuid": 17179869202,
       "Quality": 4,
       "Level": 18,
       "Exp": 145,
-      "Cost": 24530
+      "Cost": 24530,
+      "Nazo": 0
     },
     "17179869203": {
       "Cuid": 17179869203,
       "Quality": 4,
       "Level": 19,
       "Exp": 140,
-      "Cost": 25930
+      "Cost": 25930,
+      "Nazo": 0
     },
     "17179869204": {
       "Cuid": 17179869204,
       "Quality": 4,
       "Level": 20,
       "Exp": 155,
-      "Cost": 27340
+      "Cost": 27340,
+      "Nazo": 0
     },
     "17179869205": {
       "Cuid": 17179869205,
       "Quality": 4,
       "Level": 21,
       "Exp": 165,
-      "Cost": 28740
+      "Cost": 28740,
+      "Nazo": 0
     },
     "17179869206": {
       "Cuid": 17179869206,
       "Quality": 4,
       "Level": 22,
       "Exp": 170,
-      "Cost": 30140
+      "Cost": 30140,
+      "Nazo": 0
     },
     "17179869207": {
       "Cuid": 17179869207,
       "Quality": 4,
       "Level": 23,
       "Exp": 175,
-      "Cost": 31540
+      "Cost": 31540,
+      "Nazo": 0
     },
     "17179869208": {
       "Cuid": 17179869208,
       "Quality": 4,
       "Level": 24,
       "Exp": 195,
-      "Cost": 32950
+      "Cost": 32950,
+      "Nazo": 0
     },
     "17179869209": {
       "Cuid": 17179869209,
       "Quality": 4,
       "Level": 25,
       "Exp": 190,
-      "Cost": 34340
+      "Cost": 34340,
+      "Nazo": 0
     },
     "17179869210": {
       "Cuid": 17179869210,
       "Quality": 4,
       "Level": 26,
       "Exp": 200,
-      "Cost": 35740
+      "Cost": 35740,
+      "Nazo": 0
     },
     "17179869211": {
       "Cuid": 17179869211,
       "Quality": 4,
       "Level": 27,
       "Exp": 215,
-      "Cost": 37160
+      "Cost": 37160,
+      "Nazo": 0
     },
     "17179869212": {
       "Cuid": 17179869212,
       "Quality": 4,
       "Level": 28,
       "Exp": 215,
-      "Cost": 38550
+      "Cost": 38550,
+      "Nazo": 0
     },
     "17179869213": {
       "Cuid": 17179869213,
       "Quality": 4,
       "Level": 29,
       "Exp": 225,
-      "Cost": 39950
+      "Cost": 39950,
+      "Nazo": 0
     },
     "17179869214": {
       "Cuid": 17179869214,
       "Quality": 4,
       "Level": 30,
       "Exp": 235,
-      "Cost": 41350
+      "Cost": 41350,
+      "Nazo": 0
     },
     "21474836481": {
       "Cuid": 21474836481,
       "Quality": 5,
       "Level": 1,
       "Exp": 10,
-      "Cost": 880
+      "Cost": 880,
+      "Nazo": 0
     },
     "21474836482": {
       "Cuid": 21474836482,
       "Quality": 5,
       "Level": 2,
       "Exp": 20,
-      "Cost": 2620
+      "Cost": 2620,
+      "Nazo": 0
     },
     "21474836483": {
       "Cuid": 21474836483,
       "Quality": 5,
       "Level": 3,
       "Exp": 20,
-      "Cost": 4390
+      "Cost": 4390,
+      "Nazo": 0
     },
     "21474836484": {
       "Cuid": 21474836484,
       "Quality": 5,
       "Level": 4,
       "Exp": 40,
-      "Cost": 6130
+      "Cost": 6130,
+      "Nazo": 0
     },
     "21474836485": {
       "Cuid": 21474836485,
       "Quality": 5,
       "Level": 5,
       "Exp": 40,
-      "Cost": 7880
+      "Cost": 7880,
+      "Nazo": 0
     },
     "21474836486": {
       "Cuid": 21474836486,
       "Quality": 5,
       "Level": 6,
       "Exp": 60,
-      "Cost": 9640
+      "Cost": 9640,
+      "Nazo": 0
     },
     "21474836487": {
       "Cuid": 21474836487,
       "Quality": 5,
       "Level": 7,
       "Exp": 60,
-      "Cost": 11390
+      "Cost": 11390,
+      "Nazo": 0
     },
     "21474836488": {
       "Cuid": 21474836488,
       "Quality": 5,
       "Level": 8,
       "Exp": 80,
-      "Cost": 13140
+      "Cost": 13140,
+      "Nazo": 0
     },
     "21474836489": {
       "Cuid": 21474836489,
       "Quality": 5,
       "Level": 9,
       "Exp": 80,
-      "Cost": 14900
+      "Cost": 14900,
+      "Nazo": 0
     },
     "21474836490": {
       "Cuid": 21474836490,
       "Quality": 5,
       "Level": 10,
       "Exp": 100,
-      "Cost": 16650
+      "Cost": 16650,
+      "Nazo": 0
     },
     "21474836491": {
       "Cuid": 21474836491,
       "Quality": 5,
       "Level": 11,
       "Exp": 100,
-      "Cost": 18400
+      "Cost": 18400,
+      "Nazo": 0
     },
     "21474836492": {
       "Cuid": 21474836492,
       "Quality": 5,
       "Level": 12,
       "Exp": 110,
-      "Cost": 20150
+      "Cost": 20150,
+      "Nazo": 0
     },
     "21474836493": {
       "Cuid": 21474836493,
       "Quality": 5,
       "Level": 13,
       "Exp": 130,
-      "Cost": 21900
+      "Cost": 21900,
+      "Nazo": 0
     },
     "21474836494": {
       "Cuid": 21474836494,
       "Quality": 5,
       "Level": 14,
       "Exp": 130,
-      "Cost": 23660
+      "Cost": 23660,
+      "Nazo": 0
     },
     "21474836495": {
       "Cuid": 21474836495,
       "Quality": 5,
       "Level": 15,
       "Exp": 150,
-      "Cost": 25410
+      "Cost": 25410,
+      "Nazo": 0
     },
     "21474836496": {
       "Cuid": 21474836496,
       "Quality": 5,
       "Level": 16,
       "Exp": 150,
-      "Cost": 27160
+      "Cost": 27160,
+      "Nazo": 0
     },
     "21474836497": {
       "Cuid": 21474836497,
       "Quality": 5,
       "Level": 17,
       "Exp": 160,
-      "Cost": 28910
+      "Cost": 28910,
+      "Nazo": 0
     },
     "21474836498": {
       "Cuid": 21474836498,
       "Quality": 5,
       "Level": 18,
       "Exp": 180,
-      "Cost": 30670
+      "Cost": 30670,
+      "Nazo": 0
     },
     "21474836499": {
       "Cuid": 21474836499,
       "Quality": 5,
       "Level": 19,
       "Exp": 180,
-      "Cost": 32410
+      "Cost": 32410,
+      "Nazo": 0
     },
     "21474836500": {
       "Cuid": 21474836500,
       "Quality": 5,
       "Level": 20,
       "Exp": 190,
-      "Cost": 34170
+      "Cost": 34170,
+      "Nazo": 0
     },
     "21474836501": {
       "Cuid": 21474836501,
       "Quality": 5,
       "Level": 21,
       "Exp": 210,
-      "Cost": 35930
+      "Cost": 35930,
+      "Nazo": 0
     },
     "21474836502": {
       "Cuid": 21474836502,
       "Quality": 5,
       "Level": 22,
       "Exp": 210,
-      "Cost": 37670
+      "Cost": 37670,
+      "Nazo": 0
     },
     "21474836503": {
       "Cuid": 21474836503,
       "Quality": 5,
       "Level": 23,
       "Exp": 220,
-      "Cost": 39430
+      "Cost": 39430,
+      "Nazo": 0
     },
     "21474836504": {
       "Cuid": 21474836504,
       "Quality": 5,
       "Level": 24,
       "Exp": 240,
-      "Cost": 41180
+      "Cost": 41180,
+      "Nazo": 0
     },
     "21474836505": {
       "Cuid": 21474836505,
       "Quality": 5,
       "Level": 25,
       "Exp": 240,
-      "Cost": 42930
+      "Cost": 42930,
+      "Nazo": 0
     },
     "21474836506": {
       "Cuid": 21474836506,
       "Quality": 5,
       "Level": 26,
       "Exp": 250,
-      "Cost": 44680
+      "Cost": 44680,
+      "Nazo": 0
     },
     "21474836507": {
       "Cuid": 21474836507,
       "Quality": 5,
       "Level": 27,
       "Exp": 270,
-      "Cost": 46440
+      "Cost": 46440,
+      "Nazo": 0
     },
     "21474836508": {
       "Cuid": 21474836508,
       "Quality": 5,
       "Level": 28,
       "Exp": 270,
-      "Cost": 48190
+      "Cost": 48190,
+      "Nazo": 0
     },
     "21474836509": {
       "Cuid": 21474836509,
       "Quality": 5,
       "Level": 29,
       "Exp": 280,
-      "Cost": 49940
+      "Cost": 49940,
+      "Nazo": 0
     },
     "21474836510": {
       "Cuid": 21474836510,
       "Quality": 5,
       "Level": 30,
       "Exp": 290,
-      "Cost": 51690
+      "Cost": 51690,
+      "Nazo": 0
     }
   }
 }

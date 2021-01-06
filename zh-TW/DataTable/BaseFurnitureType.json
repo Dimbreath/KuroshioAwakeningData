@@ -4,100 +4,89 @@
       "Cuid": 101,
       "Id": 101,
       "Filtratetype": 1,
+      "Desc": "內牆",
       "Icon": "house_furtype_head_101",
-      "LangStringTable": {
-        "Desc": "內牆"
-      }
+      "Nazo": 0
     },
     "102": {
       "Cuid": 102,
       "Id": 102,
       "Filtratetype": 1,
+      "Desc": "地板",
       "Icon": "house_furtype_head_102",
-      "LangStringTable": {
-        "Desc": "地板"
-      }
+      "Nazo": 0
     },
     "103": {
       "Cuid": 103,
       "Id": 103,
       "Filtratetype": 1,
+      "Desc": "壁紙",
       "Icon": "house_furtype_head_103",
-      "LangStringTable": {
-        "Desc": "壁紙"
-      }
+      "Nazo": 0
     },
     "200": {
       "Cuid": 200,
       "Id": 200,
       "Filtratetype": 2,
+      "Desc": "普通擺放",
       "Icon": "house_furtype_head_200",
-      "LangStringTable": {
-        "Desc": "普通擺放"
-      }
+      "Nazo": 0
     },
     "201": {
       "Cuid": 201,
       "Id": 201,
       "Filtratetype": 2,
+      "Desc": "椅子",
       "Icon": "house_furtype_head_201",
-      "LangStringTable": {
-        "Desc": "椅子"
-      }
+      "Nazo": 0
     },
     "202": {
       "Cuid": 202,
       "Id": 202,
       "Filtratetype": 2,
+      "Desc": "桌子",
       "Icon": "house_furtype_head_202",
-      "LangStringTable": {
-        "Desc": "桌子"
-      }
+      "Nazo": 0
     },
     "203": {
       "Cuid": 203,
       "Id": 203,
       "Filtratetype": 2,
+      "Desc": "櫃子",
       "Icon": "house_furtype_head_203",
-      "LangStringTable": {
-        "Desc": "櫃子"
-      }
+      "Nazo": 0
     },
     "204": {
       "Cuid": 204,
       "Id": 204,
       "Filtratetype": 2,
+      "Desc": "擺設裝飾",
       "Icon": "house_furtype_head_204",
-      "LangStringTable": {
-        "Desc": "擺設裝飾"
-      }
+      "Nazo": 0
     },
     "205": {
       "Cuid": 205,
       "Id": 205,
       "Filtratetype": 2,
+      "Desc": "地毯",
       "Icon": "house_furtype_head_205",
-      "LangStringTable": {
-        "Desc": "地毯"
-      }
+      "Nazo": 0
     },
     "206": {
       "Cuid": 206,
       "Id": 206,
       "Filtratetype": 2,
+      "Desc": "牆面裝飾",
       "Icon": "house_furtype_head_206",
-      "LangStringTable": {
-        "Desc": "牆面裝飾"
-      }
+      "Nazo": 0
     },
     "300": {
       "Cuid": 300,
       "Id": 300,
       "Filtratetype": 3,
-      "Icon": null,
-      "LangStringTable": {
-        "Desc": "特殊家具"
-      }
+      "Desc": "特殊家具",
+      "Icon": "",
+      "Nazo": 0
     }
   }
 }

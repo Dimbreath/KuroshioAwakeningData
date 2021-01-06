@@ -6,7 +6,8 @@ local UIView            = require"Modules/Activity/Monopoly/Form/UI/MonopolyUIVi
 local TopUI             = require"Modules/Activity/Monopoly/Form/UI/MonopolyTopUI"
 
 function MonopolyForm:LUA_OnInit(gameObject,userParamData)
-	self.super:LUA_OnInit(gameObject,userParamData)
+	self.injections = ParseInjections(gameObject)
+    self.uguiForm   = gameObject:GetComponent(typeof(CS.DarkBoom.LuaUGUIForm))
 	self:InjectComponent()
 	self:Init()
 end
@@ -16,7 +17,7 @@ function MonopolyForm:Init()
     self.model = self.manager:GetModel()
 	self.event = self.manager:GetEvent()
 
-    self.model.resMask = self:GetMask()
+    self.model.resMask = self.uguiForm:GetMask()
     self.mapView  = MapView.new(self.MapView)
     self.taskView = TaskView.new(self.TaskView)
     self.uiView   = UIView.new(self.UIView)
@@ -24,6 +25,7 @@ function MonopolyForm:Init()
 end
 
 function MonopolyForm:LUA_OnOpen(userData)
+    self.model:InitWorkState()
     self.uiView:UpdateData()
     self.taskView:UpdateData()
     self.mapView:UpdateData()
@@ -51,6 +53,10 @@ function MonopolyForm:LUA_OnClose()
     self.uiView   = nil
     self.mapView  = nil
     self.taskView = nil
+
+    self.injections = {}
+    self.injections = nil
+    self.uguiForm   = nil
 end
 
 return MonopolyForm

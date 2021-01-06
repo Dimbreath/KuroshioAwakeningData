@@ -3,1277 +3,1192 @@
     "1008": {
       "Cuid": 1008,
       "Id": 1008,
+      "Furniturename": "地毯",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1000001",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 240,
+      "Desc": "一張普普通通但還算舒適的地毯，簡約又實用。\n\n擺放在地板上，能提高房間的舒適度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "地毯",
-        "Desc": "一張普普通通但還算舒適的地毯，簡約又實用。\n\n擺放在地板上，能提高房間的舒適度。"
-      }
+      "Nazo": 0
     },
     "1031": {
       "Cuid": 1031,
       "Id": 1031,
+      "Furniturename": "椅子",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1000002",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 20,
+      "Desc": "一把普普通通但還算堅固的椅子，是厭戰最喜歡的椅子。擺放在房間裡，能提高房間的舒適度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "椅子",
-        "Desc": "一把普普通通但還算堅固的椅子，是厭戰最喜歡的椅子。擺放在房間裡，能提高房間的舒適度。"
-      }
+      "Nazo": 0
     },
     "1010": {
       "Cuid": 1010,
       "Id": 1010,
+      "Furniturename": "組合壁櫃",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1000003",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 35,
+      "Desc": "普普通通但是十分實用的組合壁櫃，能夠放置很多東西。\n\n請注意靠牆擺放，能夠提高房間的整潔度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "組合壁櫃",
-        "Desc": "普普通通但是十分實用的組合壁櫃，能夠放置很多東西。\n\n請注意靠牆擺放，能夠提高房間的整潔度。"
-      }
+      "Nazo": 0
     },
     "1011": {
       "Cuid": 1011,
       "Id": 1011,
+      "Furniturename": "擺飾臺",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1000004",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 10,
+      "Desc": "十分不起眼的擺臺，也就比沒有好那麼一點，最多也就放個相框和鮮花吧。\n\n擺放在房間裡，能提高房間的美觀度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "擺飾臺",
-        "Desc": "十分不起眼的擺臺，也就比沒有好那麼一點，最多也就放個相框和鮮花吧。\n\n擺放在房間裡，能提高房間的美觀度。"
-      }
+      "Nazo": 0
     },
     "1012": {
       "Cuid": 1012,
       "Id": 1012,
+      "Furniturename": "置物櫃",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1000005",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 15,
+      "Desc": "普普通通但是可以放不少東西的置物架，會讓亂糟糟的房間變得整齊。\n\n擺放在房間裡，能提高房間的整潔度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "置物櫃",
-        "Desc": "普普通通但是可以放不少東西的置物架，會讓亂糟糟的房間變得整齊。\n\n擺放在房間裡，能提高房間的整潔度。"
-      }
+      "Nazo": 0
     },
     "1013": {
       "Cuid": 1013,
       "Id": 1013,
+      "Furniturename": "工作臺",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1000006",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 30,
+      "Desc": "普普通通但是很好睡覺的工作臺，開玩笑的，工作臺請用來好好工作。\n\n擺放在房間裡，能提高房間的美觀度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "工作臺",
-        "Desc": "普普通通但是很好睡覺的工作臺，開玩笑的，工作臺請用來好好工作。\n\n擺放在房間裡，能提高房間的美觀度。"
-      }
+      "Nazo": 0
     },
     "1014": {
       "Cuid": 1014,
       "Id": 1014,
+      "Furniturename": "電視櫃",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1000007",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 70,
+      "Desc": "普普通通的電視櫃，也有一些居家小物件配套附送。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "電視櫃",
-        "Desc": "普普通通的電視櫃，也有一些居家小物件配套附送。"
-      }
+      "Nazo": 0
     },
     "1015": {
       "Cuid": 1015,
       "Id": 1015,
+      "Furniturename": "小桌子",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1000008",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 60,
+      "Desc": "普普通通但是放久了也許會長出貓來的小桌。\n\n擺放在房間裡，能提高房間的舒適度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "小桌子",
-        "Desc": "普普通通但是放久了也許會長出貓來的小桌。\n\n擺放在房間裡，能提高房間的舒適度。"
-      }
+      "Nazo": 0
     },
     "1016": {
       "Cuid": 1016,
       "Id": 1016,
+      "Furniturename": "牆柱掛飾",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1000009",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 5,
+      "Desc": "頂天立地的牆柱，還有實用的掛鉤設計，可用來分割房間的空間感。\n\n擺放在房間裡，能提高房間的安全度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "牆柱掛飾",
-        "Desc": "頂天立地的牆柱，還有實用的掛鉤設計，可用來分割房間的空間感。\n\n擺放在房間裡，能提高房間的安全度。"
-      }
+      "Nazo": 0
     },
     "1017": {
       "Cuid": 1017,
       "Id": 1017,
+      "Furniturename": "裝飾掛鐘",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1000011",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 20,
+      "Desc": "頂天立地的牆柱，可用來分割房間的空間感。\n\n擺放在房間裡，能提高房間的安全度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "裝飾掛鐘",
-        "Desc": "頂天立地的牆柱，可用來分割房間的空間感。\n\n擺放在房間裡，能提高房間的安全度。"
-      }
+      "Nazo": 0
     },
     "1018": {
       "Cuid": 1018,
       "Id": 1018,
+      "Furniturename": "裝飾掛畫",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1000010",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 60,
+      "Desc": "說不出來好在哪裡，但就是莫名地覺得好的幾何花紋壁畫。\n\n掛在牆壁上，能提高房間的美觀度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "裝飾掛畫",
-        "Desc": "說不出來好在哪裡，但就是莫名地覺得好的幾何花紋壁畫。\n\n掛在牆壁上，能提高房間的美觀度。"
-      }
+      "Nazo": 0
     },
     "1019": {
       "Cuid": 1019,
       "Id": 1019,
+      "Furniturename": "純色牆面",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 101,
       "Furnitureart": "basefurniture_1000012",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 320,
+      "Desc": "令人放鬆的米黃色壁紙，是能夠舒緩緊張心情的溫柔顏色。\n\n張貼在牆壁上，能提高房間的美觀度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "純色牆面",
-        "Desc": "令人放鬆的米黃色壁紙，是能夠舒緩緊張心情的溫柔顏色。\n\n張貼在牆壁上，能提高房間的美觀度。"
-      }
+      "Nazo": 0
     },
     "1020": {
       "Cuid": 1020,
       "Id": 1020,
+      "Furniturename": "木質地板",
       "Furnituresuit": 1,
       "Furniturequality": 2,
       "Furnituretype": 102,
       "Furnitureart": "basefurniture_1000013",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 320,
+      "Desc": "實用的木質地板，有著可以舒緩一整天疲憊的安心觸感。\n\n佈置在房間裡，能提高房間的舒適度。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "木質地板",
-        "Desc": "實用的木質地板，有著可以舒緩一整天疲憊的安心觸感。\n\n佈置在房間裡，能提高房間的舒適度。"
-      }
+      "Nazo": 0
     },
     "1001001": {
       "Cuid": 1001001,
       "Id": 1001001,
+      "Furniturename": "銀翼沙發",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1001001",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 200,
+      "Desc": "銀翼財團出品，簡約風格的沙發，常被人說色調不夠多變，仍然有非常高的銷量。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼沙發",
-        "Desc": "銀翼財團出品，簡約風格的沙發，常被人說色調不夠多變，仍然有非常高的銷量。"
-      }
+      "Nazo": 0
     },
     "1001002": {
       "Cuid": 1001002,
       "Id": 1001002,
+      "Furniturename": "銀翼地毯",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1001002",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 400,
+      "Desc": "銀翼財團出品的地毯，所印的幾何圖案聽說出自大師手筆，價格也飆升了好幾倍",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼地毯",
-        "Desc": "銀翼財團出品的地毯，所印的幾何圖案聽說出自大師手筆，價格也飆升了好幾倍"
-      }
+      "Nazo": 0
     },
     "1001003": {
       "Cuid": 1001003,
       "Id": 1001003,
+      "Furniturename": "銀翼長條地毯",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1001003",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 640,
+      "Desc": "銀翼財團出品的長條款地毯。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼長條地毯",
-        "Desc": "銀翼財團出品的長條款地毯。"
-      }
+      "Nazo": 0
     },
     "1001004": {
       "Cuid": 1001004,
       "Id": 1001004,
+      "Furniturename": "銀翼電視機",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1001004",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 50,
+      "Desc": "銀翼財團出品的嵌入式電視機，包含了視訊電話等多種功能。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼電視機",
-        "Desc": "銀翼財團出品的嵌入式電視機，包含了視訊電話等多種功能。"
-      }
+      "Nazo": 0
     },
     "1001005": {
       "Cuid": 1001005,
       "Id": 1001005,
+      "Furniturename": "銀翼收納櫃",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1001005",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 20,
+      "Desc": "銀翼財團出品的收納櫃，一反常態採用了木質材料。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼收納櫃",
-        "Desc": "銀翼財團出品的收納櫃，一反常態採用了木質材料。"
-      }
+      "Nazo": 0
     },
     "1001006": {
       "Cuid": 1001006,
       "Id": 1001006,
+      "Furniturename": "銀翼矮櫃",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1001006",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 30,
+      "Desc": "銀翼財團出品的矮櫃，一反常態採用了木質材料",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼矮櫃",
-        "Desc": "銀翼財團出品的矮櫃，一反常態採用了木質材料"
-      }
+      "Nazo": 0
     },
     "1001007": {
       "Cuid": 1001007,
       "Id": 1001007,
+      "Furniturename": "銀翼立櫃",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1001007",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "銀翼財團出品的立櫃，有非常多的空間。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼立櫃",
-        "Desc": "銀翼財團出品的立櫃，有非常多的空間。"
-      }
+      "Nazo": 0
     },
     "1001008": {
       "Cuid": 1001008,
       "Id": 1001008,
+      "Furniturename": "銀翼展示櫃",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1001008",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 20,
+      "Desc": "銀翼財團出品的立櫃，上層有用於展示的分格。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼展示櫃",
-        "Desc": "銀翼財團出品的立櫃，上層有用於展示的分格。"
-      }
+      "Nazo": 0
     },
     "1001009": {
       "Cuid": 1001009,
       "Id": 1001009,
+      "Furniturename": "銀翼書櫃",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1001009",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 30,
+      "Desc": "銀翼財團出品的立櫃，用來做書架或許不錯。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼書櫃",
-        "Desc": "銀翼財團出品的立櫃，用來做書架或許不錯。"
-      }
+      "Nazo": 0
     },
     "1001010": {
       "Cuid": 1001010,
       "Id": 1001010,
+      "Furniturename": "收納旅行箱",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1001010",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 80,
+      "Desc": "隨處可以買到的收納旅行箱，適合隨時來一場說走就走的旅行。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "收納旅行箱",
-        "Desc": "隨處可以買到的收納旅行箱，適合隨時來一場說走就走的旅行。"
-      }
+      "Nazo": 0
     },
     "1001011": {
       "Cuid": 1001011,
       "Id": 1001011,
+      "Furniturename": "木質椅子",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1001011",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "木質椅子，可以拿到任何地方使用，非常方便。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "木質椅子",
-        "Desc": "木質椅子，可以拿到任何地方使用，非常方便。"
-      }
+      "Nazo": 0
     },
     "1001012": {
       "Cuid": 1001012,
       "Id": 1001012,
+      "Furniturename": "銀翼桌子",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1001012",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 150,
+      "Desc": "銀翼財團出產的桌子，就連底下的空間都做成了可以收納物品的形式。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼桌子",
-        "Desc": "銀翼財團出產的桌子，就連底下的空間都做成了可以收納物品的形式。"
-      }
+      "Nazo": 0
     },
     "1001013": {
       "Cuid": 1001013,
       "Id": 1001013,
+      "Furniturename": "銀翼茶几",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1001013",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 210,
+      "Desc": "銀翼財團出產的茶几，中間部分做成了顯示器模式，方便隨時進入工作狀態。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼茶几",
-        "Desc": "銀翼財團出產的茶几，中間部分做成了顯示器模式，方便隨時進入工作狀態。"
-      }
+      "Nazo": 0
     },
     "1001014": {
       "Cuid": 1001014,
       "Id": 1001014,
+      "Furniturename": "銀翼地板",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 102,
       "Furnitureart": "basefurniture_1001014",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 640,
+      "Desc": "沒有任何裝飾平凡無奇的地板。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼地板",
-        "Desc": "沒有任何裝飾平凡無奇的地板。"
-      }
+      "Nazo": 0
     },
     "1001015": {
       "Cuid": 1001015,
       "Id": 1001015,
+      "Furniturename": "石磚壁紙",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 101,
       "Furnitureart": "basefurniture_1001015",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 640,
+      "Desc": "做了些許設計的壁紙，讓人經常懷疑自己家的牆出了問題。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "石磚壁紙",
-        "Desc": "做了些許設計的壁紙，讓人經常懷疑自己家的牆出了問題。"
-      }
+      "Nazo": 0
     },
     "1001016": {
       "Cuid": 1001016,
       "Id": 1001016,
+      "Furniturename": "銀翼海域地圖",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1001016",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 420,
+      "Desc": "銀翼財團的海域戰略地圖，能夠擁有的人並不多。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼海域地圖",
-        "Desc": "銀翼財團的海域戰略地圖，能夠擁有的人並不多。"
-      }
+      "Nazo": 0
     },
     "1001017": {
       "Cuid": 1001017,
       "Id": 1001017,
+      "Furniturename": "銀翼掛畫",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1001017",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 90,
+      "Desc": "銀翼財團出品的裝飾性掛畫。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼掛畫",
-        "Desc": "銀翼財團出品的裝飾性掛畫。"
-      }
+      "Nazo": 0
     },
     "1001018": {
       "Cuid": 1001018,
       "Id": 1001018,
+      "Furniturename": "銀翼告示板",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1001018",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 90,
+      "Desc": "銀翼財團出品的裝飾性掛畫。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼告示板",
-        "Desc": "銀翼財團出品的裝飾性掛畫。"
-      }
+      "Nazo": 0
     },
     "1001019": {
       "Cuid": 1001019,
       "Id": 1001019,
+      "Furniturename": "銀翼桌櫃",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1001019",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 80,
+      "Desc": "銀翼財團出品的桌櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "銀翼桌櫃",
-        "Desc": "銀翼財團出品的桌櫃。"
-      }
+      "Nazo": 0
     },
     "1001020": {
       "Cuid": 1001020,
       "Id": 1001020,
+      "Furniturename": "磚石壁紙",
       "Furnituresuit": 1001,
       "Furniturequality": 3,
       "Furnituretype": 103,
       "Furnitureart": "basefurniture_1001020",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 160,
+      "Desc": "復古風格的磚牆壁紙。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "磚石壁紙",
-        "Desc": "復古風格的磚牆壁紙。"
-      }
+      "Nazo": 0
     },
     "1002001": {
       "Cuid": 1002001,
       "Id": 1002001,
+      "Furniturename": "神代床舖三件組",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1002001",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 60,
+      "Desc": "神代會社中廣受好評的床舖三件組。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代床舖三件組",
-        "Desc": "神代會社中廣受好評的床舖三件組。"
-      }
+      "Nazo": 0
     },
     "1002002": {
       "Cuid": 1002002,
       "Id": 1002002,
+      "Furniturename": "神代復古矮櫃",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1002002",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 30,
+      "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的矮櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代復古矮櫃",
-        "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的矮櫃。"
-      }
+      "Nazo": 0
     },
     "1002003": {
       "Cuid": 1002003,
       "Id": 1002003,
+      "Furniturename": "神代復古立櫃",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1002003",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 30,
+      "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的立櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代復古立櫃",
-        "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的立櫃。"
-      }
+      "Nazo": 0
     },
     "1002004": {
       "Cuid": 1002004,
       "Id": 1002004,
+      "Furniturename": "神代坐墊",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1002004",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "神代會社中廣受好評的坐墊。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代坐墊",
-        "Desc": "神代會社中廣受好評的坐墊。"
-      }
+      "Nazo": 0
     },
     "1002005": {
       "Cuid": 1002005,
       "Id": 1002005,
+      "Furniturename": "神代暖桌",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1002005",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 360,
+      "Desc": "神代會社基本每家都會購買的暖桌，在冬天擁有著讓人不想出來的魔力。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代暖桌",
-        "Desc": "神代會社基本每家都會購買的暖桌，在冬天擁有著讓人不想出來的魔力。"
-      }
+      "Nazo": 0
     },
     "1002006": {
       "Cuid": 1002006,
       "Id": 1002006,
+      "Furniturename": "神代地毯",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1002006",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 150,
+      "Desc": "簡約的地毯，踩上去會很舒服。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代地毯",
-        "Desc": "簡約的地毯，踩上去會很舒服。"
-      }
+      "Nazo": 0
     },
     "1002007": {
       "Cuid": 1002007,
       "Id": 1002007,
+      "Furniturename": "神代掛畫",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1002007",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 90,
+      "Desc": "神代會社出品的掛畫系列之一。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代掛畫",
-        "Desc": "神代會社出品的掛畫系列之一。"
-      }
+      "Nazo": 0
     },
     "1002008": {
       "Cuid": 1002008,
       "Id": 1002008,
+      "Furniturename": "神代復古壁櫃",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1002008",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 120,
+      "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的大型壁櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代復古壁櫃",
-        "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的大型壁櫃。"
-      }
+      "Nazo": 0
     },
     "1002009": {
       "Cuid": 1002009,
       "Id": 1002009,
+      "Furniturename": "神代立櫃",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1002009",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 30,
+      "Desc": "神代會社推出的復古系列之一，裝飾性立櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代立櫃",
-        "Desc": "神代會社推出的復古系列之一，裝飾性立櫃。"
-      }
+      "Nazo": 0
     },
     "1002010": {
       "Cuid": 1002010,
       "Id": 1002010,
+      "Furniturename": "神代木桌",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1002010",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 60,
+      "Desc": "小巧且實用的木桌，基本家家必備。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代木桌",
-        "Desc": "小巧且實用的木桌，基本家家必備。"
-      }
+      "Nazo": 0
     },
     "1002011": {
       "Cuid": 1002011,
       "Id": 1002011,
+      "Furniturename": "留聲機組",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1002011",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 20,
+      "Desc": "神代會社推出的復古系列之一，留聲機和小立櫃很好地結合在了一起，可以優雅的享受音樂。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "留聲機組",
-        "Desc": "神代會社推出的復古系列之一，留聲機和小立櫃很好地結合在了一起，可以優雅的享受音樂。"
-      }
+      "Nazo": 0
     },
     "1002012": {
       "Cuid": 1002012,
       "Id": 1002012,
+      "Furniturename": "神代暖爐",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1002012",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "普普通通的神代暖爐。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代暖爐",
-        "Desc": "普普通通的神代暖爐。"
-      }
+      "Nazo": 0
     },
     "1002013": {
       "Cuid": 1002013,
       "Id": 1002013,
+      "Furniturename": "神代立櫥",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1002013",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的大型立櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代立櫥",
-        "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的大型立櫃。"
-      }
+      "Nazo": 0
     },
     "1002014": {
       "Cuid": 1002014,
       "Id": 1002014,
+      "Furniturename": "神代小立櫃",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1002014",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 20,
+      "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的小型立櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代小立櫃",
-        "Desc": "神代會社推出的復古系列之一，實用性和美觀並存的小型立櫃。"
-      }
+      "Nazo": 0
     },
     "1002015": {
       "Cuid": 1002015,
       "Id": 1002015,
+      "Furniturename": "神代矮箱",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1002015",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "實用性非常高的矮箱。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代矮箱",
-        "Desc": "實用性非常高的矮箱。"
-      }
+      "Nazo": 0
     },
     "1002016": {
       "Cuid": 1002016,
       "Id": 1002016,
+      "Furniturename": "神代地板",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 102,
       "Furnitureart": "basefurniture_1002016",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 640,
+      "Desc": "普普通通的地板。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代地板",
-        "Desc": "普普通通的地板。"
-      }
+      "Nazo": 0
     },
     "1002017": {
       "Cuid": 1002017,
       "Id": 1002017,
+      "Furniturename": "神代壁紙",
       "Furnituresuit": 1002,
       "Furniturequality": 3,
       "Furnituretype": 101,
       "Furnitureart": "basefurniture_1002017",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 640,
+      "Desc": "普普通通的壁紙。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "神代壁紙",
-        "Desc": "普普通通的壁紙。"
-      }
+      "Nazo": 0
     },
     "1003001": {
       "Cuid": 1003001,
       "Id": 1003001,
+      "Furniturename": "黑鋒電話組",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1003001",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 160,
+      "Desc": "黑鋒制式的電話桌，聽說是女皇正在使用的款式而在黑鋒重工中大肆流行。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒電話組",
-        "Desc": "黑鋒制式的電話桌，聽說是女皇正在使用的款式而在黑鋒重工中大肆流行。"
-      }
+      "Nazo": 0
     },
     "1003002": {
       "Cuid": 1003002,
       "Id": 1003002,
+      "Furniturename": "黑鋒壁櫃",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1003002",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 480,
+      "Desc": "黑鋒制式的組合壁櫃，相比起觀賞性，更注重功能性。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒壁櫃",
-        "Desc": "黑鋒制式的組合壁櫃，相比起觀賞性，更注重功能性。"
-      }
+      "Nazo": 0
     },
     "1003003": {
       "Cuid": 1003003,
       "Id": 1003003,
+      "Furniturename": "黑鋒立櫃",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1003003",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 80,
+      "Desc": "有著黑鋒設計師鍾愛元素的小型立櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒立櫃",
-        "Desc": "有著黑鋒設計師鍾愛元素的小型立櫃。"
-      }
+      "Nazo": 0
     },
     "1003004": {
       "Cuid": 1003004,
       "Id": 1003004,
+      "Furniturename": "黑鋒收納箱",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1003004",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 80,
+      "Desc": "便攜的收納箱，只是有些顯眼的裝飾物增加了它的重量。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒收納箱",
-        "Desc": "便攜的收納箱，只是有些顯眼的裝飾物增加了它的重量。"
-      }
+      "Nazo": 0
     },
     "1003005": {
       "Cuid": 1003005,
       "Id": 1003005,
+      "Furniturename": "黑鋒組合壁櫃",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1003005",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 480,
+      "Desc": "有著額外傳動結構的立櫃，已經收到很多使用者回報總會發出奇怪的聲音。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒組合壁櫃",
-        "Desc": "有著額外傳動結構的立櫃，已經收到很多使用者回報總會發出奇怪的聲音。"
-      }
+      "Nazo": 0
     },
     "1003006": {
       "Cuid": 1003006,
       "Id": 1003006,
+      "Furniturename": "黑鋒組合椅",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1003006",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 160,
+      "Desc": "與立櫃配套的組合椅子，放在其他地方會略顯奇怪。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒組合椅",
-        "Desc": "與立櫃配套的組合椅子，放在其他地方會略顯奇怪。"
-      }
+      "Nazo": 0
     },
     "1003007": {
       "Cuid": 1003007,
       "Id": 1003007,
+      "Furniturename": "黑鋒圓桌",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1003007",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 1000,
+      "Desc": "有著簡單裝飾的黑鋒制式圓桌，「放在上面的望遠鏡代表了我們女皇的高瞻遠矚！」by設計師",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒圓桌",
-        "Desc": "有著簡單裝飾的黑鋒制式圓桌，「放在上面的望遠鏡代表了我們女皇的高瞻遠矚！」by設計師"
-      }
+      "Nazo": 0
     },
     "1003008": {
       "Cuid": 1003008,
       "Id": 1003008,
+      "Furniturename": "黑鋒高腳椅",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1003008",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "黑鋒制式，與圓桌配套的高腳椅。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒高腳椅",
-        "Desc": "黑鋒制式，與圓桌配套的高腳椅。"
-      }
+      "Nazo": 0
     },
     "1003009": {
       "Cuid": 1003009,
       "Id": 1003009,
+      "Furniturename": "黑鋒沙發",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1003009",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 560,
+      "Desc": "暗紅色的黑鋒制式沙發，看起來既不會過於鮮豔也不會過於單調。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒沙發",
-        "Desc": "暗紅色的黑鋒制式沙發，看起來既不會過於鮮豔也不會過於單調。"
-      }
+      "Nazo": 0
     },
     "1003010": {
       "Cuid": 1003010,
       "Id": 1003010,
+      "Furniturename": "黑鋒茶几",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1003010",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 320,
+      "Desc": "黑鋒制式的茶几，附送黑鋒重工最新的民用煮水壺。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒茶几",
-        "Desc": "黑鋒制式的茶几，附送黑鋒重工最新的民用煮水壺。"
-      }
+      "Nazo": 0
     },
     "1003011": {
       "Cuid": 1003011,
       "Id": 1003011,
+      "Furniturename": "黑鋒立鐘",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1003011",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 80,
+      "Desc": "追加了很多新功能的立鐘，然而鐘的成分已經只剩一點了。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒立鐘",
-        "Desc": "追加了很多新功能的立鐘，然而鐘的成分已經只剩一點了。"
-      }
+      "Nazo": 0
     },
     "1003012": {
       "Cuid": 1003012,
       "Id": 1003012,
+      "Furniturename": "黑鋒掛畫",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1003012",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 160,
+      "Desc": "黑鋒制式的掛畫，雖然看起來是飛鏢靶但是並不能用來扔飛鏢。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒掛畫",
-        "Desc": "黑鋒制式的掛畫，雖然看起來是飛鏢靶但是並不能用來扔飛鏢。"
-      }
+      "Nazo": 0
     },
     "1003013": {
       "Cuid": 1003013,
       "Id": 1003013,
+      "Furniturename": "黑鋒空調",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1003013",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 800,
+      "Desc": "黑鋒重工的空氣調節系統，冷熱皆宜。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒空調",
-        "Desc": "黑鋒重工的空氣調節系統，冷熱皆宜。"
-      }
+      "Nazo": 0
     },
     "1003014": {
       "Cuid": 1003014,
       "Id": 1003014,
+      "Furniturename": "黑鋒加濕器",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1003014",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 80,
+      "Desc": "黑鋒重工的新式加濕器，甚至有通訊功能，當然，只限這棟樓中同樣加裝了這件家具的住戶。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒加濕器",
-        "Desc": "黑鋒重工的新式加濕器，甚至有通訊功能，當然，只限這棟樓中同樣加裝了這件家具的住戶。"
-      }
+      "Nazo": 0
     },
     "1003015": {
       "Cuid": 1003015,
       "Id": 1003015,
+      "Furniturename": "黑鋒地毯",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1003015",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 480,
+      "Desc": "黑鋒制式的地毯，較為親民的款式。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒地毯",
-        "Desc": "黑鋒制式的地毯，較為親民的款式。"
-      }
+      "Nazo": 0
     },
     "1003016": {
       "Cuid": 1003016,
       "Id": 1003016,
+      "Furniturename": "黑鋒高級地毯",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1003016",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 1400,
+      "Desc": "黑鋒制式的地毯，據傳被黑鋒重工軍部大量訂購。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒高級地毯",
-        "Desc": "黑鋒制式的地毯，據傳被黑鋒重工軍部大量訂購。"
-      }
+      "Nazo": 0
     },
     "1003017": {
       "Cuid": 1003017,
       "Id": 1003017,
+      "Furniturename": "冷酷地毯",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1003017",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 1800,
+      "Desc": "黑鋒制式的地毯，據設計師說設計思路是「冷酷無情」。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "冷酷地毯",
-        "Desc": "黑鋒制式的地毯，據設計師說設計思路是「冷酷無情」。"
-      }
+      "Nazo": 0
     },
     "1003018": {
       "Cuid": 1003018,
       "Id": 1003018,
+      "Furniturename": "黑鋒地板",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 102,
       "Furnitureart": "basefurniture_1003018",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 2560,
+      "Desc": "普普通通的地板。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒地板",
-        "Desc": "普普通通的地板。"
-      }
+      "Nazo": 0
     },
     "1003019": {
       "Cuid": 1003019,
       "Id": 1003019,
+      "Furniturename": "黑鋒壁紙",
       "Furnituresuit": 1003,
       "Furniturequality": 5,
       "Furnituretype": 101,
       "Furnitureart": "basefurniture_1003019",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 2560,
+      "Desc": "普普通通的壁紙。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "黑鋒壁紙",
-        "Desc": "普普通通的壁紙。"
-      }
+      "Nazo": 0
     },
     "1004001": {
       "Cuid": 1004001,
       "Id": 1004001,
+      "Furniturename": "薔薇立櫃",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1004001",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "薔薇頗受歡迎的立櫃款式。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇立櫃",
-        "Desc": "薔薇頗受歡迎的立櫃款式。"
-      }
+      "Nazo": 0
     },
     "1004002": {
       "Cuid": 1004002,
       "Id": 1004002,
+      "Furniturename": "薔薇羊毛地毯",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 205,
       "Furnitureart": "basefurniture_1004002",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 1260,
+      "Desc": "較為常見的地毯，由羊毛編織而成。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇羊毛地毯",
-        "Desc": "較為常見的地毯，由羊毛編織而成。"
-      }
+      "Nazo": 0
     },
     "1004003": {
       "Cuid": 1004003,
       "Id": 1004003,
+      "Furniturename": "薔薇椅子",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1004003",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 160,
+      "Desc": "薔薇帝國出品的多人椅，做工和舒適度都無可挑剔。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇椅子",
-        "Desc": "薔薇帝國出品的多人椅，做工和舒適度都無可挑剔。"
-      }
+      "Nazo": 0
     },
     "1004004": {
       "Cuid": 1004004,
       "Id": 1004004,
+      "Furniturename": "薔薇立櫥",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1004004",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "有著上鎖功能的薔薇立櫃，可以說是保險箱的升級版。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇立櫥",
-        "Desc": "有著上鎖功能的薔薇立櫃，可以說是保險箱的升級版。"
-      }
+      "Nazo": 0
     },
     "1004005": {
       "Cuid": 1004005,
       "Id": 1004005,
+      "Furniturename": "薔薇沙發",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1004005",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 300,
+      "Desc": "薔薇帝國頗受歡迎的沙發款式，可以將椅背下放變成一張舒適的單人床。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇沙發",
-        "Desc": "薔薇帝國頗受歡迎的沙發款式，可以將椅背下放變成一張舒適的單人床。"
-      }
+      "Nazo": 0
     },
     "1004006": {
       "Cuid": 1004006,
       "Id": 1004006,
+      "Furniturename": "薔薇書桌",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1004006",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 160,
+      "Desc": "優雅和實用並行，薔薇人民最喜歡的家具不過如此。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇書桌",
-        "Desc": "優雅和實用並行，薔薇人民最喜歡的家具不過如此。"
-      }
+      "Nazo": 0
     },
     "1004007": {
       "Cuid": 1004007,
       "Id": 1004007,
+      "Furniturename": "薔薇牆櫃",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1004007",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 500,
+      "Desc": "利用牆內空間的櫃子，做法上很有神代會社的風格。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇牆櫃",
-        "Desc": "利用牆內空間的櫃子，做法上很有神代會社的風格。"
-      }
+      "Nazo": 0
     },
     "1004008": {
       "Cuid": 1004008,
       "Id": 1004008,
+      "Furniturename": "薔薇衣架",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1004008",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 60,
+      "Desc": "以樹為原型的衣帽架，上面掛著的究竟是誰的帽子呢？",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇衣架",
-        "Desc": "以樹為原型的衣帽架，上面掛著的究竟是誰的帽子呢？"
-      }
+      "Nazo": 0
     },
     "1004009": {
       "Cuid": 1004009,
       "Id": 1004009,
+      "Furniturename": "薔薇掛畫",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 206,
       "Furnitureart": "basefurniture_1004009",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 240,
+      "Desc": "薔薇出品的掛畫套裝。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇掛畫",
-        "Desc": "薔薇出品的掛畫套裝。"
-      }
+      "Nazo": 0
     },
     "1004010": {
       "Cuid": 1004010,
       "Id": 1004010,
+      "Furniturename": "薔薇餐桌",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1004010",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 400,
+      "Desc": "下午茶時間自然需要上好的桌子來搭配。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇餐桌",
-        "Desc": "下午茶時間自然需要上好的桌子來搭配。"
-      }
+      "Nazo": 0
     },
     "1004011": {
       "Cuid": 1004011,
       "Id": 1004011,
+      "Furniturename": "薔薇立櫥",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 200,
       "Furnitureart": "basefurniture_1004011",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 160,
+      "Desc": "僅僅因為玻璃元素就大受歡迎的薔薇風格立櫃。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇立櫥",
-        "Desc": "僅僅因為玻璃元素就大受歡迎的薔薇風格立櫃。"
-      }
+      "Nazo": 0
     },
     "1004012": {
       "Cuid": 1004012,
       "Id": 1004012,
+      "Furniturename": "薔薇床頭櫃",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 203,
       "Furnitureart": "basefurniture_1004012",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 40,
+      "Desc": "優雅宮廷風格的床頭櫃，睡前看看都會讓人心情愉悅。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇床頭櫃",
-        "Desc": "優雅宮廷風格的床頭櫃，睡前看看都會讓人心情愉悅。"
-      }
+      "Nazo": 0
     },
     "1004013": {
       "Cuid": 1004013,
       "Id": 1004013,
+      "Furniturename": "薔薇書桌",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 202,
       "Furnitureart": "basefurniture_1004013",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 300,
+      "Desc": "薔薇風格的工作臺，繼承了他們一貫的優雅。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇書桌",
-        "Desc": "薔薇風格的工作臺，繼承了他們一貫的優雅。"
-      }
+      "Nazo": 0
     },
     "1004014": {
       "Cuid": 1004014,
       "Id": 1004014,
+      "Furniturename": "薔薇工作椅",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 201,
       "Furnitureart": "basefurniture_1004014",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 80,
+      "Desc": "與工作桌臺配套的椅子。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇工作椅",
-        "Desc": "與工作桌臺配套的椅子。"
-      }
+      "Nazo": 0
     },
     "1004015": {
       "Cuid": 1004015,
       "Id": 1004015,
+      "Furniturename": "薔薇地板",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 102,
       "Furnitureart": "basefurniture_1004015",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 1280,
+      "Desc": "普普通通的地板。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇地板",
-        "Desc": "普普通通的地板。"
-      }
+      "Nazo": 0
     },
     "1004016": {
       "Cuid": 1004016,
       "Id": 1004016,
+      "Furniturename": "薔薇壁紙",
       "Furnituresuit": 1004,
       "Furniturequality": 4,
       "Furnituretype": 101,
       "Furnitureart": "basefurniture_1004016",
-      "Furnitureinteract": null,
+      "Furnitureinteract": "",
       "Comfort": 1280,
+      "Desc": "普普通通的壁紙。",
       "Gainway": "36",
-      "LangStringTable": {
-        "Furniturename": "薔薇壁紙",
-        "Desc": "普普通通的壁紙。"
-      }
+      "Nazo": 0
     }
   }
 }

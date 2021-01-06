@@ -1,18 +1,19 @@
-local InitialAwardsConfig = {
-	[1] = {1,"2,90011,1",48,
-	},
+local InitialAwardsConfig = {}
 
+InitialAwardsConfig.Values = {
+	[1] = {1,"2,90011,1",48,0,},
 }
+
 function InitialAwardsConfig.GetConfig(key)
-	local Values = InitialAwardsConfig[key]
-	if not Values then
+	local tb = InitialAwardsConfig.Values[key]
+	if not tb then
 		print_error(key)
 		return nil
 	end
-	local Fields = {["id"] = 1,["rewards"] = 2,["countdown"] = 3,}
-	for k,v in pairs(Fields) do
-		Fields[k] = Values[v]
+	local config = {["id"] = 1,["rewards"] = 2,["countdown"] = 3,["nazo"] = 4,}
+	for k,v in pairs(config) do
+		config[k] = tb[v]
 	end
-	return Fields 
+	return config 
 end
 return InitialAwardsConfig

@@ -3,189 +3,172 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Name": "人偶升級",
       "Calctypecn": 1,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "人偶升級"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Name": "人偶強化",
       "Calctypecn": 1,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "人偶強化"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Name": "人偶突破",
       "Calctypecn": 1,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "人偶突破"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Name": "誓約絕對值",
       "Calctypecn": 3,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "誓約絕對值"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
+      "Name": "誓約buff",
       "Calctypecn": 2,
       "Calctypetw": 2,
       "Calctypeen": 2,
       "Calctypejp": 2,
-      "LangStringTable": {
-        "Name": "誓約buff"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
+      "Name": "裝備絕對值",
       "Calctypecn": 3,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "裝備絕對值"
-      }
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
+      "Name": "裝備buff",
       "Calctypecn": 2,
       "Calctypetw": 2,
       "Calctypeen": 2,
       "Calctypejp": 2,
-      "LangStringTable": {
-        "Name": "裝備buff"
-      }
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
+      "Name": "心情值絕對值",
       "Calctypecn": 3,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "心情值絕對值"
-      }
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
+      "Name": "心情值buff",
       "Calctypecn": 4,
       "Calctypetw": 2,
       "Calctypeen": 2,
       "Calctypejp": 2,
-      "LangStringTable": {
-        "Name": "心情值buff"
-      }
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
+      "Name": "羈絆絕對值",
       "Calctypecn": 3,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "羈絆絕對值"
-      }
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
+      "Name": "羈絆buff",
       "Calctypecn": 4,
       "Calctypetw": 2,
       "Calctypeen": 2,
       "Calctypejp": 2,
-      "LangStringTable": {
-        "Name": "羈絆buff"
-      }
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
+      "Name": "slg buff 絕對值",
       "Calctypecn": 3,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "slg buff 絕對值"
-      }
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Id": 13,
+      "Name": "slg buff 千分值",
       "Calctypecn": 4,
       "Calctypetw": 2,
       "Calctypeen": 2,
       "Calctypejp": 2,
-      "LangStringTable": {
-        "Name": "slg buff 千分值"
-      }
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Id": 14,
+      "Name": "技能絕對值",
       "Calctypecn": 3,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "技能絕對值"
-      }
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Id": 15,
+      "Name": "技能buff",
       "Calctypecn": 4,
       "Calctypetw": 2,
       "Calctypeen": 2,
       "Calctypejp": 2,
-      "LangStringTable": {
-        "Name": "技能buff"
-      }
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Id": 16,
+      "Name": "GM絕對值",
       "Calctypecn": 1,
       "Calctypetw": 1,
       "Calctypeen": 1,
       "Calctypejp": 1,
-      "LangStringTable": {
-        "Name": "GM絕對值"
-      }
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Id": 17,
+      "Name": "GM Buff",
       "Calctypecn": 2,
       "Calctypetw": 2,
       "Calctypeen": 2,
       "Calctypejp": 2,
-      "LangStringTable": {
-        "Name": "GM Buff"
-      }
+      "Nazo": 0
     }
   }
 }

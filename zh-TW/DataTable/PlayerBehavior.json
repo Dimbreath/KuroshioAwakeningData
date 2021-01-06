@@ -1,0 +1,103 @@
+{
+  "Rows": {
+    "1001001": {
+      "Cuid": 1001001,
+      "Id": 1001001,
+      "Module": 1,
+      "EffectiveTime": "1,59",
+      "Channel": "4,0,0,0,1",
+      "Describe": "通關任意閃擊港口",
+      "Reward": "1,32,50",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1001002": {
+      "Cuid": 1001002,
+      "Id": 1001002,
+      "Module": 1,
+      "EffectiveTime": "1,59",
+      "Channel": "8,3,5,1",
+      "Describe": "SSR品質",
+      "Reward": "1,32,100",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1001003": {
+      "Cuid": 1001003,
+      "Id": 1001003,
+      "Module": 1,
+      "EffectiveTime": "1,59",
+      "Channel": "8,3,4,1",
+      "Describe": "SR品質",
+      "Reward": "1,32,50",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1001004": {
+      "Cuid": 1001004,
+      "Id": 1001004,
+      "Module": 1,
+      "EffectiveTime": "1,59",
+      "Channel": "8,3,3,1",
+      "Describe": "R品質",
+      "Reward": "1,32,20",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1001005": {
+      "Cuid": 1001005,
+      "Id": 1001005,
+      "Module": 1,
+      "EffectiveTime": "1,59",
+      "Channel": "8,3,2,1",
+      "Describe": "N品質",
+      "Reward": "1,32,10",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1002001": {
+      "Cuid": 1002001,
+      "Id": 1002001,
+      "Module": 2,
+      "EffectiveTime": "1,61",
+      "Channel": "1,3",
+      "Describe": "每完成{0}次每日任務",
+      "Reward": "1,890001,50",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1002002": {
+      "Cuid": 1002002,
+      "Id": 1002002,
+      "Module": 2,
+      "EffectiveTime": "1,61",
+      "Channel": "3,0,0,0,2",
+      "Describe": "每通過{0}次利維坦深淵",
+      "Reward": "1,890001,50",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1002003": {
+      "Cuid": 1002003,
+      "Id": 1002003,
+      "Module": 2,
+      "EffectiveTime": "1,61",
+      "Channel": "11,3,100",
+      "Describe": "每消耗{0}點能源",
+      "Reward": "1,890001,100",
+      "Order": 0,
+      "Nazo": 0
+    },
+    "1002004": {
+      "Cuid": 1002004,
+      "Id": 1002004,
+      "Module": 2,
+      "EffectiveTime": "1,61",
+      "Channel": "12,0,5",
+      "Describe": "每進行{0}次招募",
+      "Reward": "1,890001,150",
+      "Order": 0,
+      "Nazo": 0
+    }
+  }
+}

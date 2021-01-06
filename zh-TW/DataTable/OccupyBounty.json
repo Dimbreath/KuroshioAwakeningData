@@ -5,6 +5,7 @@
       "Taskid": 1155,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 5,
       "Type": 1,
@@ -12,17 +13,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "1144": {
       "Cuid": 1144,
       "Taskid": 1144,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 4,
       "Type": 4,
@@ -30,17 +30,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "1133": {
       "Cuid": 1133,
       "Taskid": 1133,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 3,
       "Type": 2,
@@ -48,17 +47,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "1122": {
       "Cuid": 1122,
       "Taskid": 1122,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 2,
       "Type": 3,
@@ -66,17 +64,16 @@
       "Costtime": 240,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "1111": {
       "Cuid": 1111,
       "Taskid": 1111,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 1,
       "Type": 2,
@@ -84,17 +81,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "1255": {
       "Cuid": 1255,
       "Taskid": 1255,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 5,
       "Type": 1,
@@ -102,17 +98,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "1244": {
       "Cuid": 1244,
       "Taskid": 1244,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 4,
       "Type": 4,
@@ -120,17 +115,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "1233": {
       "Cuid": 1233,
       "Taskid": 1233,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 3,
       "Type": 2,
@@ -138,17 +132,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "1222": {
       "Cuid": 1222,
       "Taskid": 1222,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 2,
       "Type": 3,
@@ -156,17 +149,16 @@
       "Costtime": 240,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "1211": {
       "Cuid": 1211,
       "Taskid": 1211,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 1,
       "Type": 2,
@@ -174,17 +166,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "1355": {
       "Cuid": 1355,
       "Taskid": 1355,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 5,
       "Type": 1,
@@ -192,17 +183,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "1344": {
       "Cuid": 1344,
       "Taskid": 1344,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 4,
       "Type": 4,
@@ -210,17 +200,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "1333": {
       "Cuid": 1333,
       "Taskid": 1333,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 3,
       "Type": 2,
@@ -228,17 +217,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "1322": {
       "Cuid": 1322,
       "Taskid": 1322,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 2,
       "Type": 3,
@@ -246,17 +234,16 @@
       "Costtime": 240,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "1311": {
       "Cuid": 1311,
       "Taskid": 1311,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 1,
       "Type": 2,
@@ -264,17 +251,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "1455": {
       "Cuid": 1455,
       "Taskid": 1455,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 5,
       "Type": 1,
@@ -282,17 +268,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "1444": {
       "Cuid": 1444,
       "Taskid": 1444,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 4,
       "Type": 4,
@@ -300,17 +285,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "1433": {
       "Cuid": 1433,
       "Taskid": 1433,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 3,
       "Type": 2,
@@ -318,17 +302,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "1422": {
       "Cuid": 1422,
       "Taskid": 1422,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 2,
       "Type": 3,
@@ -336,17 +319,16 @@
       "Costtime": 240,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "1411": {
       "Cuid": 1411,
       "Taskid": 1411,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 1,
       "Type": 2,
@@ -354,17 +336,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "1555": {
       "Cuid": 1555,
       "Taskid": 1555,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 5,
       "Type": 1,
@@ -372,17 +353,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "1544": {
       "Cuid": 1544,
       "Taskid": 1544,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 4,
       "Type": 4,
@@ -390,17 +370,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "1533": {
       "Cuid": 1533,
       "Taskid": 1533,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 3,
       "Type": 2,
@@ -408,17 +387,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "1522": {
       "Cuid": 1522,
       "Taskid": 1522,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 2,
       "Type": 3,
@@ -426,17 +404,16 @@
       "Costtime": 240,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "1511": {
       "Cuid": 1511,
       "Taskid": 1511,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 1,
       "Type": 2,
@@ -444,17 +421,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "1655": {
       "Cuid": 1655,
       "Taskid": 1655,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 5,
       "Type": 1,
@@ -462,17 +438,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "1644": {
       "Cuid": 1644,
       "Taskid": 1644,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 4,
       "Type": 4,
@@ -480,17 +455,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "1633": {
       "Cuid": 1633,
       "Taskid": 1633,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 3,
       "Type": 2,
@@ -498,17 +472,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "1622": {
       "Cuid": 1622,
       "Taskid": 1622,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 2,
       "Type": 3,
@@ -516,17 +489,16 @@
       "Costtime": 240,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "1611": {
       "Cuid": 1611,
       "Taskid": 1611,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 1,
       "Type": 2,
@@ -534,17 +506,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "1755": {
       "Cuid": 1755,
       "Taskid": 1755,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 5,
       "Type": 1,
@@ -552,17 +523,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "1744": {
       "Cuid": 1744,
       "Taskid": 1744,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 4,
       "Type": 4,
@@ -570,17 +540,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "1733": {
       "Cuid": 1733,
       "Taskid": 1733,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 3,
       "Type": 2,
@@ -588,17 +557,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "1722": {
       "Cuid": 1722,
       "Taskid": 1722,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 2,
       "Type": 3,
@@ -606,17 +574,16 @@
       "Costtime": 240,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "1711": {
       "Cuid": 1711,
       "Taskid": 1711,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 1,
       "Type": 2,
@@ -624,17 +591,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "1855": {
       "Cuid": 1855,
       "Taskid": 1855,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 5,
       "Type": 1,
@@ -642,17 +608,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "1844": {
       "Cuid": 1844,
       "Taskid": 1844,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 4,
       "Type": 4,
@@ -660,17 +625,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "1833": {
       "Cuid": 1833,
       "Taskid": 1833,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 3,
       "Type": 2,
@@ -678,17 +642,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "1822": {
       "Cuid": 1822,
       "Taskid": 1822,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 2,
       "Type": 3,
@@ -696,17 +659,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "1811": {
       "Cuid": 1811,
       "Taskid": 1811,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 1,
       "Type": 2,
@@ -714,17 +676,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "1955": {
       "Cuid": 1955,
       "Taskid": 1955,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 5,
       "Type": 1,
@@ -732,17 +693,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "1944": {
       "Cuid": 1944,
       "Taskid": 1944,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 4,
       "Type": 4,
@@ -750,17 +710,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "1933": {
       "Cuid": 1933,
       "Taskid": 1933,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 3,
       "Type": 2,
@@ -768,17 +727,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "1922": {
       "Cuid": 1922,
       "Taskid": 1922,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 2,
       "Type": 3,
@@ -786,17 +744,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "1911": {
       "Cuid": 1911,
       "Taskid": 1911,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 1,
       "Type": 2,
@@ -804,17 +761,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "11055": {
       "Cuid": 11055,
       "Taskid": 11055,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 5,
       "Type": 1,
@@ -822,17 +778,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "11044": {
       "Cuid": 11044,
       "Taskid": 11044,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 4,
       "Type": 4,
@@ -840,17 +795,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "11033": {
       "Cuid": 11033,
       "Taskid": 11033,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 3,
       "Type": 2,
@@ -858,17 +812,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "11022": {
       "Cuid": 11022,
       "Taskid": 11022,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 2,
       "Type": 3,
@@ -876,17 +829,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "11011": {
       "Cuid": 11011,
       "Taskid": 11011,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 1,
       "Type": 2,
@@ -894,17 +846,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "11155": {
       "Cuid": 11155,
       "Taskid": 11155,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 5,
       "Type": 1,
@@ -912,17 +863,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "11144": {
       "Cuid": 11144,
       "Taskid": 11144,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 4,
       "Type": 4,
@@ -930,17 +880,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "11133": {
       "Cuid": 11133,
       "Taskid": 11133,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 3,
       "Type": 2,
@@ -948,17 +897,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "11122": {
       "Cuid": 11122,
       "Taskid": 11122,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 2,
       "Type": 3,
@@ -966,17 +914,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "11111": {
       "Cuid": 11111,
       "Taskid": 11111,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 1,
       "Type": 2,
@@ -984,17 +931,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "11255": {
       "Cuid": 11255,
       "Taskid": 11255,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 5,
       "Type": 1,
@@ -1002,17 +948,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "11244": {
       "Cuid": 11244,
       "Taskid": 11244,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 4,
       "Type": 4,
@@ -1020,17 +965,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "11233": {
       "Cuid": 11233,
       "Taskid": 11233,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 3,
       "Type": 2,
@@ -1038,17 +982,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "11222": {
       "Cuid": 11222,
       "Taskid": 11222,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 2,
       "Type": 3,
@@ -1056,17 +999,16 @@
       "Costtime": 240,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "11211": {
       "Cuid": 11211,
       "Taskid": 11211,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 1,
       "Type": 2,
@@ -1074,17 +1016,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "11355": {
       "Cuid": 11355,
       "Taskid": 11355,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 5,
       "Type": 1,
@@ -1092,17 +1033,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "11344": {
       "Cuid": 11344,
       "Taskid": 11344,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 4,
       "Type": 4,
@@ -1110,17 +1050,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "11333": {
       "Cuid": 11333,
       "Taskid": 11333,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 3,
       "Type": 2,
@@ -1128,17 +1067,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "11322": {
       "Cuid": 11322,
       "Taskid": 11322,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 2,
       "Type": 3,
@@ -1146,17 +1084,16 @@
       "Costtime": 240,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "11311": {
       "Cuid": 11311,
       "Taskid": 11311,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 1,
       "Type": 2,
@@ -1164,17 +1101,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "11455": {
       "Cuid": 11455,
       "Taskid": 11455,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 5,
       "Type": 1,
@@ -1182,17 +1118,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "11444": {
       "Cuid": 11444,
       "Taskid": 11444,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 4,
       "Type": 4,
@@ -1200,17 +1135,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "11433": {
       "Cuid": 11433,
       "Taskid": 11433,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 3,
       "Type": 2,
@@ -1218,17 +1152,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "11422": {
       "Cuid": 11422,
       "Taskid": 11422,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 2,
       "Type": 3,
@@ -1236,17 +1169,16 @@
       "Costtime": 240,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "11411": {
       "Cuid": 11411,
       "Taskid": 11411,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 1,
       "Type": 2,
@@ -1254,17 +1186,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "11555": {
       "Cuid": 11555,
       "Taskid": 11555,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 5,
       "Type": 1,
@@ -1272,17 +1203,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "11544": {
       "Cuid": 11544,
       "Taskid": 11544,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 4,
       "Type": 4,
@@ -1290,17 +1220,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "11533": {
       "Cuid": 11533,
       "Taskid": 11533,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 3,
       "Type": 2,
@@ -1308,17 +1237,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "11522": {
       "Cuid": 11522,
       "Taskid": 11522,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 2,
       "Type": 3,
@@ -1326,17 +1254,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "11511": {
       "Cuid": 11511,
       "Taskid": 11511,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 1,
       "Type": 2,
@@ -1344,17 +1271,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "11655": {
       "Cuid": 11655,
       "Taskid": 11655,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 5,
       "Type": 1,
@@ -1362,17 +1288,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "11644": {
       "Cuid": 11644,
       "Taskid": 11644,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 4,
       "Type": 4,
@@ -1380,17 +1305,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "11633": {
       "Cuid": 11633,
       "Taskid": 11633,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 3,
       "Type": 2,
@@ -1398,17 +1322,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "11622": {
       "Cuid": 11622,
       "Taskid": 11622,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 2,
       "Type": 3,
@@ -1416,17 +1339,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "11611": {
       "Cuid": 11611,
       "Taskid": 11611,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 1,
       "Type": 2,
@@ -1434,17 +1356,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "11755": {
       "Cuid": 11755,
       "Taskid": 11755,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 5,
       "Type": 1,
@@ -1452,17 +1373,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "11744": {
       "Cuid": 11744,
       "Taskid": 11744,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 4,
       "Type": 4,
@@ -1470,17 +1390,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "11733": {
       "Cuid": 11733,
       "Taskid": 11733,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 3,
       "Type": 2,
@@ -1488,17 +1407,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "11722": {
       "Cuid": 11722,
       "Taskid": 11722,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 2,
       "Type": 3,
@@ -1506,17 +1424,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "11711": {
       "Cuid": 11711,
       "Taskid": 11711,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 1,
       "Type": 2,
@@ -1524,17 +1441,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "11855": {
       "Cuid": 11855,
       "Taskid": 11855,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "商路巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 5,
       "Type": 1,
@@ -1542,17 +1458,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "11844": {
       "Cuid": 11844,
       "Taskid": 11844,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "港口巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 4,
       "Type": 4,
@@ -1560,17 +1475,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "11833": {
       "Cuid": 11833,
       "Taskid": 11833,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "遠洋巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 3,
       "Type": 2,
@@ -1578,17 +1492,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "11822": {
       "Cuid": 11822,
       "Taskid": 11822,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "科研巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 2,
       "Type": 3,
@@ -1596,17 +1509,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "11811": {
       "Cuid": 11811,
       "Taskid": 11811,
       "Tasktype": 0,
       "Limittime": 0,
+      "Taskname": "邊防巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 1,
       "Type": 2,
@@ -1614,17 +1526,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "101": {
       "Cuid": 101,
       "Taskid": 101,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 5,
       "Type": 1,
@@ -1632,17 +1543,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "102": {
       "Cuid": 102,
       "Taskid": 102,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 4,
       "Type": 4,
@@ -1650,17 +1560,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "103": {
       "Cuid": 103,
       "Taskid": 103,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 3,
       "Type": 2,
@@ -1668,17 +1577,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "104": {
       "Cuid": 104,
       "Taskid": 104,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 2,
       "Type": 3,
@@ -1686,17 +1594,16 @@
       "Costtime": 240,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "105": {
       "Cuid": 105,
       "Taskid": 105,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅰ(初級)",
       "Difficulty": 1,
       "Quality": 1,
       "Type": 2,
@@ -1704,17 +1611,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 760,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(初級)"
-      }
+      "Nazo": 0
     },
     "106": {
       "Cuid": 106,
       "Taskid": 106,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 5,
       "Type": 1,
@@ -1722,17 +1628,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "107": {
       "Cuid": 107,
       "Taskid": 107,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 4,
       "Type": 4,
@@ -1740,17 +1645,16 @@
       "Costtime": 480,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "108": {
       "Cuid": 108,
       "Taskid": 108,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 3,
       "Type": 2,
@@ -1758,17 +1662,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "109": {
       "Cuid": 109,
       "Taskid": 109,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 2,
       "Type": 3,
@@ -1776,17 +1679,16 @@
       "Costtime": 240,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "110": {
       "Cuid": 110,
       "Taskid": 110,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅱ(初級)",
       "Difficulty": 2,
       "Quality": 1,
       "Type": 2,
@@ -1794,17 +1696,16 @@
       "Costtime": 360,
       "Limitlevel": "1,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 940,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(初級)"
-      }
+      "Nazo": 0
     },
     "111": {
       "Cuid": 111,
       "Taskid": 111,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 5,
       "Type": 1,
@@ -1812,17 +1713,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "112": {
       "Cuid": 112,
       "Taskid": 112,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 4,
       "Type": 4,
@@ -1830,17 +1730,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "113": {
       "Cuid": 113,
       "Taskid": 113,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 3,
       "Type": 2,
@@ -1848,17 +1747,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "114": {
       "Cuid": 114,
       "Taskid": 114,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 2,
       "Type": 3,
@@ -1866,17 +1764,16 @@
       "Costtime": 240,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "115": {
       "Cuid": 115,
       "Taskid": 115,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅲ(初級)",
       "Difficulty": 3,
       "Quality": 1,
       "Type": 2,
@@ -1884,17 +1781,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1100,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(初級)"
-      }
+      "Nazo": 0
     },
     "116": {
       "Cuid": 116,
       "Taskid": 116,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 5,
       "Type": 1,
@@ -1902,17 +1798,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "117": {
       "Cuid": 117,
       "Taskid": 117,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 4,
       "Type": 4,
@@ -1920,17 +1815,16 @@
       "Costtime": 480,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "118": {
       "Cuid": 118,
       "Taskid": 118,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 3,
       "Type": 2,
@@ -1938,17 +1832,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "119": {
       "Cuid": 119,
       "Taskid": 119,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 2,
       "Type": 3,
@@ -1956,17 +1849,16 @@
       "Costtime": 240,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "120": {
       "Cuid": 120,
       "Taskid": 120,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅳ(初級)",
       "Difficulty": 4,
       "Quality": 1,
       "Type": 2,
@@ -1974,17 +1866,16 @@
       "Costtime": 360,
       "Limitlevel": "2,5",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1260,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅳ(初級)"
-      }
+      "Nazo": 0
     },
     "121": {
       "Cuid": 121,
       "Taskid": 121,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 5,
       "Type": 1,
@@ -1992,17 +1883,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "122": {
       "Cuid": 122,
       "Taskid": 122,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 4,
       "Type": 4,
@@ -2010,17 +1900,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "123": {
       "Cuid": 123,
       "Taskid": 123,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 3,
       "Type": 2,
@@ -2028,17 +1917,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "124": {
       "Cuid": 124,
       "Taskid": 124,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 2,
       "Type": 3,
@@ -2046,17 +1934,16 @@
       "Costtime": 240,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "125": {
       "Cuid": 125,
       "Taskid": 125,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅴ(初級)",
       "Difficulty": 5,
       "Quality": 1,
       "Type": 2,
@@ -2064,17 +1951,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1420,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅴ(初級)"
-      }
+      "Nazo": 0
     },
     "126": {
       "Cuid": 126,
       "Taskid": 126,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 5,
       "Type": 1,
@@ -2082,17 +1968,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "127": {
       "Cuid": 127,
       "Taskid": 127,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 4,
       "Type": 4,
@@ -2100,17 +1985,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "128": {
       "Cuid": 128,
       "Taskid": 128,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 3,
       "Type": 2,
@@ -2118,17 +2002,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "129": {
       "Cuid": 129,
       "Taskid": 129,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 2,
       "Type": 3,
@@ -2136,17 +2019,16 @@
       "Costtime": 240,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "130": {
       "Cuid": 130,
       "Taskid": 130,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅰ(中級)",
       "Difficulty": 6,
       "Quality": 1,
       "Type": 2,
@@ -2154,17 +2036,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1580,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(中級)"
-      }
+      "Nazo": 0
     },
     "131": {
       "Cuid": 131,
       "Taskid": 131,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 5,
       "Type": 1,
@@ -2172,17 +2053,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "132": {
       "Cuid": 132,
       "Taskid": 132,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 4,
       "Type": 4,
@@ -2190,17 +2070,16 @@
       "Costtime": 480,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "133": {
       "Cuid": 133,
       "Taskid": 133,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 3,
       "Type": 2,
@@ -2208,17 +2087,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "134": {
       "Cuid": 134,
       "Taskid": 134,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 2,
       "Type": 3,
@@ -2226,17 +2104,16 @@
       "Costtime": 240,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "135": {
       "Cuid": 135,
       "Taskid": 135,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅱ(中級)",
       "Difficulty": 7,
       "Quality": 1,
       "Type": 2,
@@ -2244,17 +2121,16 @@
       "Costtime": 360,
       "Limitlevel": "2,10",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1740,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(中級)"
-      }
+      "Nazo": 0
     },
     "136": {
       "Cuid": 136,
       "Taskid": 136,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 5,
       "Type": 1,
@@ -2262,17 +2138,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "137": {
       "Cuid": 137,
       "Taskid": 137,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 4,
       "Type": 4,
@@ -2280,17 +2155,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "138": {
       "Cuid": 138,
       "Taskid": 138,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 3,
       "Type": 2,
@@ -2298,17 +2172,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "139": {
       "Cuid": 139,
       "Taskid": 139,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 2,
       "Type": 3,
@@ -2316,17 +2189,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "140": {
       "Cuid": 140,
       "Taskid": 140,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅲ(中級)",
       "Difficulty": 8,
       "Quality": 1,
       "Type": 2,
@@ -2334,17 +2206,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 1900,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(中級)"
-      }
+      "Nazo": 0
     },
     "141": {
       "Cuid": 141,
       "Taskid": 141,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 5,
       "Type": 1,
@@ -2352,17 +2223,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "142": {
       "Cuid": 142,
       "Taskid": 142,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 4,
       "Type": 4,
@@ -2370,17 +2240,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "143": {
       "Cuid": 143,
       "Taskid": 143,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 3,
       "Type": 2,
@@ -2388,17 +2257,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "144": {
       "Cuid": 144,
       "Taskid": 144,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 2,
       "Type": 3,
@@ -2406,17 +2274,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "145": {
       "Cuid": 145,
       "Taskid": 145,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅳ(中級)",
       "Difficulty": 9,
       "Quality": 1,
       "Type": 2,
@@ -2424,17 +2291,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2080,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅳ(中級)"
-      }
+      "Nazo": 0
     },
     "146": {
       "Cuid": 146,
       "Taskid": 146,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 5,
       "Type": 1,
@@ -2442,17 +2308,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "147": {
       "Cuid": 147,
       "Taskid": 147,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 4,
       "Type": 4,
@@ -2460,17 +2325,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "148": {
       "Cuid": 148,
       "Taskid": 148,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 3,
       "Type": 2,
@@ -2478,17 +2342,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "149": {
       "Cuid": 149,
       "Taskid": 149,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 2,
       "Type": 3,
@@ -2496,17 +2359,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "150": {
       "Cuid": 150,
       "Taskid": 150,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅴ(中級)",
       "Difficulty": 10,
       "Quality": 1,
       "Type": 2,
@@ -2514,17 +2376,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2260,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅴ(中級)"
-      }
+      "Nazo": 0
     },
     "151": {
       "Cuid": 151,
       "Taskid": 151,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 5,
       "Type": 1,
@@ -2532,17 +2393,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "152": {
       "Cuid": 152,
       "Taskid": 152,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 4,
       "Type": 4,
@@ -2550,17 +2410,16 @@
       "Costtime": 480,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "153": {
       "Cuid": 153,
       "Taskid": 153,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 3,
       "Type": 2,
@@ -2568,17 +2427,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "154": {
       "Cuid": 154,
       "Taskid": 154,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 2,
       "Type": 3,
@@ -2586,17 +2444,16 @@
       "Costtime": 240,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "155": {
       "Cuid": 155,
       "Taskid": 155,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅰ(高級)",
       "Difficulty": 11,
       "Quality": 1,
       "Type": 2,
@@ -2604,17 +2461,16 @@
       "Costtime": 360,
       "Limitlevel": "3,20",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2440,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(高級)"
-      }
+      "Nazo": 0
     },
     "156": {
       "Cuid": 156,
       "Taskid": 156,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 5,
       "Type": 1,
@@ -2622,17 +2478,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "157": {
       "Cuid": 157,
       "Taskid": 157,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 4,
       "Type": 4,
@@ -2640,17 +2495,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "158": {
       "Cuid": 158,
       "Taskid": 158,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 3,
       "Type": 2,
@@ -2658,17 +2512,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "159": {
       "Cuid": 159,
       "Taskid": 159,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 2,
       "Type": 3,
@@ -2676,17 +2529,16 @@
       "Costtime": 240,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "160": {
       "Cuid": 160,
       "Taskid": 160,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅱ(高級)",
       "Difficulty": 12,
       "Quality": 1,
       "Type": 2,
@@ -2694,17 +2546,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2620,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(高級)"
-      }
+      "Nazo": 0
     },
     "161": {
       "Cuid": 161,
       "Taskid": 161,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 5,
       "Type": 1,
@@ -2712,17 +2563,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "162": {
       "Cuid": 162,
       "Taskid": 162,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 4,
       "Type": 4,
@@ -2730,17 +2580,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "163": {
       "Cuid": 163,
       "Taskid": 163,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 3,
       "Type": 2,
@@ -2748,17 +2597,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "164": {
       "Cuid": 164,
       "Taskid": 164,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 2,
       "Type": 3,
@@ -2766,17 +2614,16 @@
       "Costtime": 240,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "165": {
       "Cuid": 165,
       "Taskid": 165,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅲ(高級)",
       "Difficulty": 13,
       "Quality": 1,
       "Type": 2,
@@ -2784,17 +2631,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2800,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(高級)"
-      }
+      "Nazo": 0
     },
     "166": {
       "Cuid": 166,
       "Taskid": 166,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 5,
       "Type": 1,
@@ -2802,17 +2648,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "167": {
       "Cuid": 167,
       "Taskid": 167,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 4,
       "Type": 4,
@@ -2820,17 +2665,16 @@
       "Costtime": 480,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "168": {
       "Cuid": 168,
       "Taskid": 168,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 3,
       "Type": 2,
@@ -2838,17 +2682,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "169": {
       "Cuid": 169,
       "Taskid": 169,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 2,
       "Type": 3,
@@ -2856,17 +2699,16 @@
       "Costtime": 240,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "170": {
       "Cuid": 170,
       "Taskid": 170,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅳ(高級)",
       "Difficulty": 14,
       "Quality": 1,
       "Type": 2,
@@ -2874,17 +2716,16 @@
       "Costtime": 360,
       "Limitlevel": "4,30",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 2980,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅳ(高級)"
-      }
+      "Nazo": 0
     },
     "171": {
       "Cuid": 171,
       "Taskid": 171,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 5,
       "Type": 1,
@@ -2892,17 +2733,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "172": {
       "Cuid": 172,
       "Taskid": 172,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 4,
       "Type": 4,
@@ -2910,17 +2750,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "173": {
       "Cuid": 173,
       "Taskid": 173,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 3,
       "Type": 2,
@@ -2928,17 +2767,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "174": {
       "Cuid": 174,
       "Taskid": 174,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 2,
       "Type": 3,
@@ -2946,17 +2784,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "175": {
       "Cuid": 175,
       "Taskid": 175,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅴ(高級)",
       "Difficulty": 15,
       "Quality": 1,
       "Type": 2,
@@ -2964,17 +2801,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3160,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅴ(高級)"
-      }
+      "Nazo": 0
     },
     "176": {
       "Cuid": 176,
       "Taskid": 176,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 5,
       "Type": 1,
@@ -2982,17 +2818,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "177": {
       "Cuid": 177,
       "Taskid": 177,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 4,
       "Type": 4,
@@ -3000,17 +2835,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "178": {
       "Cuid": 178,
       "Taskid": 178,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 3,
       "Type": 2,
@@ -3018,17 +2852,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "179": {
       "Cuid": 179,
       "Taskid": 179,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 2,
       "Type": 3,
@@ -3036,17 +2869,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "180": {
       "Cuid": 180,
       "Taskid": 180,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅰ(頂級)",
       "Difficulty": 16,
       "Quality": 1,
       "Type": 2,
@@ -3054,17 +2886,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3340,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅰ(頂級)"
-      }
+      "Nazo": 0
     },
     "181": {
       "Cuid": 181,
       "Taskid": 181,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 5,
       "Type": 1,
@@ -3072,17 +2903,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "182": {
       "Cuid": 182,
       "Taskid": 182,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 4,
       "Type": 4,
@@ -3090,17 +2920,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "183": {
       "Cuid": 183,
       "Taskid": 183,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 3,
       "Type": 2,
@@ -3108,17 +2937,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "184": {
       "Cuid": 184,
       "Taskid": 184,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 2,
       "Type": 3,
@@ -3126,17 +2954,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "185": {
       "Cuid": 185,
       "Taskid": 185,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅱ(頂級)",
       "Difficulty": 17,
       "Quality": 1,
       "Type": 2,
@@ -3144,17 +2971,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3520,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅱ(頂級)"
-      }
+      "Nazo": 0
     },
     "186": {
       "Cuid": 186,
       "Taskid": 186,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "商路巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 5,
       "Type": 1,
@@ -3162,17 +2988,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "商路巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "187": {
       "Cuid": 187,
       "Taskid": 187,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "港口巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 4,
       "Type": 4,
@@ -3180,17 +3005,16 @@
       "Costtime": 480,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "港口巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "188": {
       "Cuid": 188,
       "Taskid": 188,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "遠洋巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 3,
       "Type": 2,
@@ -3198,17 +3022,16 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "遠洋巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "189": {
       "Cuid": 189,
       "Taskid": 189,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "科研巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 2,
       "Type": 3,
@@ -3216,17 +3039,16 @@
       "Costtime": 240,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "科研巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     },
     "190": {
       "Cuid": 190,
       "Taskid": 190,
       "Tasktype": 1,
       "Limittime": 5,
+      "Taskname": "邊防巡航Ⅲ(頂級)",
       "Difficulty": 18,
       "Quality": 1,
       "Type": 2,
@@ -3234,11 +3056,9 @@
       "Costtime": 360,
       "Limitlevel": "5,40",
       "Limitstar": "1,1",
-      "Limitquality": null,
+      "Limitquality": "",
       "Exp": 3700,
-      "LangStringTable": {
-        "Taskname": "邊防巡航Ⅲ(頂級)"
-      }
+      "Nazo": 0
     }
   }
 }

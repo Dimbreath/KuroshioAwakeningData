@@ -1,0 +1,56 @@
+{
+  "Rows": {
+    "40": {
+      "Cuid": 40,
+      "Id": 40,
+      "Background": "activity_1_ND_bg_20200412",
+      "Drawing": "activity_1_ND_pic_20200412",
+      "Coordinate1": "-240,-95",
+      "Title": "activity_1_ZYQX_title_20200412",
+      "Coordinate2": "318,228",
+      "Color": "71ADFF",
+      "Reward": "1,2,3,4,5,6,7",
+      "Default": "Ndayslogin_texture",
+      "Nazo": 0
+    },
+    "52": {
+      "Cuid": 52,
+      "Id": 52,
+      "Background": "activity_1_menu_bg_xhzy_20200723",
+      "Drawing": "activity_1_pic_xhzy_20200723",
+      "Coordinate1": "-240,-95",
+      "Title": "activity_1_title_xhzy_20200723",
+      "Coordinate2": "318,228",
+      "Color": "71ADFF",
+      "Reward": "8,9,10,11,12,13,14",
+      "Default": "Ndayslogin_texture_01",
+      "Nazo": 0
+    },
+    "54": {
+      "Cuid": 54,
+      "Id": 54,
+      "Background": "activity_1_menu_bg_yclj_20200723",
+      "Drawing": "activity_1_pic_yclj_20200914",
+      "Coordinate1": "-240,-95",
+      "Title": "activity_1_title_yclj_20200723",
+      "Coordinate2": "318,228",
+      "Color": "71ADFF",
+      "Reward": "15,16,17,18,19,20,21",
+      "Default": "Ndayslogin_texture_02",
+      "Nazo": 0
+    },
+    "71": {
+      "Cuid": 71,
+      "Id": 71,
+      "Background": "activity_1_ND_bg_20201214",
+      "Drawing": "activity_1_ND_pic_20201214",
+      "Coordinate1": "-167,-73",
+      "Title": "activity_1_ND_title_20201214",
+      "Coordinate2": "420,142",
+      "Color": "FFFFFF",
+      "Reward": "22,23,24,25,26,27,28",
+      "Default": "Ndayslogin_texture_03",
+      "Nazo": 0
+    }
+  }
+}

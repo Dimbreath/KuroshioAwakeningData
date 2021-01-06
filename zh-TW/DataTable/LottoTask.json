@@ -1,0 +1,156 @@
+{
+  "Rows": {
+    "1": {
+      "Cuid": 1,
+      "Groupid": 1,
+      "Taskid": 40101,
+      "Weight": 40,
+      "Integral": 120,
+      "Refresh": ""
+    },
+    "2": {
+      "Cuid": 2,
+      "Groupid": 1,
+      "Taskid": 40102,
+      "Weight": 30,
+      "Integral": 30,
+      "Refresh": ""
+    },
+    "3": {
+      "Cuid": 3,
+      "Groupid": 1,
+      "Taskid": 40103,
+      "Weight": 30,
+      "Integral": 10,
+      "Refresh": ""
+    },
+    "4": {
+      "Cuid": 4,
+      "Groupid": 2,
+      "Taskid": 40104,
+      "Weight": 40,
+      "Integral": 10,
+      "Refresh": ""
+    },
+    "5": {
+      "Cuid": 5,
+      "Groupid": 2,
+      "Taskid": 40105,
+      "Weight": 30,
+      "Integral": 20,
+      "Refresh": ""
+    },
+    "6": {
+      "Cuid": 6,
+      "Groupid": 2,
+      "Taskid": 40106,
+      "Weight": 20,
+      "Integral": 30,
+      "Refresh": ""
+    },
+    "7": {
+      "Cuid": 7,
+      "Groupid": 2,
+      "Taskid": 40107,
+      "Weight": 15,
+      "Integral": 40,
+      "Refresh": ""
+    },
+    "8": {
+      "Cuid": 8,
+      "Groupid": 2,
+      "Taskid": 40108,
+      "Weight": 100,
+      "Integral": 12,
+      "Refresh": ""
+    },
+    "9": {
+      "Cuid": 9,
+      "Groupid": 2,
+      "Taskid": 40109,
+      "Weight": 50,
+      "Integral": 18,
+      "Refresh": ""
+    },
+    "10": {
+      "Cuid": 10,
+      "Groupid": 2,
+      "Taskid": 40110,
+      "Weight": 30,
+      "Integral": 24,
+      "Refresh": ""
+    },
+    "11": {
+      "Cuid": 11,
+      "Groupid": 2,
+      "Taskid": 40111,
+      "Weight": 20,
+      "Integral": 30,
+      "Refresh": ""
+    },
+    "12": {
+      "Cuid": 12,
+      "Groupid": 3,
+      "Taskid": 40112,
+      "Weight": 100,
+      "Integral": 6,
+      "Refresh": ""
+    },
+    "13": {
+      "Cuid": 13,
+      "Groupid": 3,
+      "Taskid": 40113,
+      "Weight": 50,
+      "Integral": 12,
+      "Refresh": ""
+    },
+    "14": {
+      "Cuid": 14,
+      "Groupid": 3,
+      "Taskid": 40114,
+      "Weight": 30,
+      "Integral": 18,
+      "Refresh": ""
+    },
+    "15": {
+      "Cuid": 15,
+      "Groupid": 3,
+      "Taskid": 40115,
+      "Weight": 20,
+      "Integral": 24,
+      "Refresh": ""
+    },
+    "16": {
+      "Cuid": 16,
+      "Groupid": 3,
+      "Taskid": 40116,
+      "Weight": 100,
+      "Integral": 4,
+      "Refresh": ""
+    },
+    "17": {
+      "Cuid": 17,
+      "Groupid": 3,
+      "Taskid": 40117,
+      "Weight": 50,
+      "Integral": 6,
+      "Refresh": ""
+    },
+    "18": {
+      "Cuid": 18,
+      "Groupid": 3,
+      "Taskid": 40118,
+      "Weight": 30,
+      "Integral": 8,
+      "Refresh": ""
+    },
+    "19": {
+      "Cuid": 19,
+      "Groupid": 3,
+      "Taskid": 40119,
+      "Weight": 20,
+      "Integral": 10,
+      "Refresh": ""
+    }
+  }
+}

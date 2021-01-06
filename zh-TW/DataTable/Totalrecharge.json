@@ -5,49 +5,56 @@
       "Id": 1,
       "Num": 199,
       "Reward": "1,260001,12;1,260002,12",
-      "Describe": "commodity_totalrecharge_lv1"
+      "Describe": "commodity_totalrecharge_lv1",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
       "Num": 699,
       "Reward": "1,135000,2000;1,260002,12",
-      "Describe": "commodity_totalrecharge_lv2"
+      "Describe": "commodity_totalrecharge_lv2",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
       "Num": 1999,
       "Reward": "1,240042,5;1,260002,24",
-      "Describe": "commodity_totalrecharge_lv3"
+      "Describe": "commodity_totalrecharge_lv3",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
       "Num": 3599,
       "Reward": "2,90010,1;1,260002,24",
-      "Describe": "commodity_totalrecharge_lv4"
+      "Describe": "commodity_totalrecharge_lv4",
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
       "Num": 5299,
       "Reward": "1,145002,1800;1,145001,600",
-      "Describe": "commodity_totalrecharge_lv5"
+      "Describe": "commodity_totalrecharge_lv5",
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
       "Num": 8299,
       "Reward": "1,250017,5;1,240203,5",
-      "Describe": "commodity_totalrecharge_lv6"
+      "Describe": "commodity_totalrecharge_lv6",
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
       "Num": 12299,
       "Reward": "2,90011,3;1,240206,10",
-      "Describe": "commodity_totalrecharge_lv7"
+      "Describe": "commodity_totalrecharge_lv7",
+      "Nazo": 0
     }
   }
 }

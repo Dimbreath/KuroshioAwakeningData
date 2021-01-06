@@ -1,22 +1,15 @@
 local AcSupplicateModel = class("AcSupplicateModel")
-local TaskConfig = require"Configs/TaskConfig"
 local GlobalConfigConfig = require"Configs/GlobalConfigConfig"
-local LottoTaskConfig = require"Configs/LottoTaskConfig"
 local ActivityConfig = require"Configs/ActivityConfig"
 local LottoRewardConfig = require"Configs/LottoRewardConfig"
 local ItemConfig = require"Configs/ItemConfig"
+local PlayerBehaviorConfig = require"Configs/PlayerBehaviorConfig"
 function AcSupplicateModel:ctor()
     self:InitEnum()
     self:InitData()
 end
 
 function AcSupplicateModel:InitEnum()
-    self.taskStatus =
-    {
-        Not = 0,
-        Can = 1,
-        Complete = 2,
-    }
     self.rewardStatus =
     {
         Not = 0,
@@ -26,13 +19,13 @@ end
 
 function AcSupplicateModel:InitData()
     self.tagId = 0
-    self.serverTaskList = {}
     self.serverRewardList = {}
+    self.deepBehaviorList = nil
+    self.strokeBehaviorList = nil
     self.countDown = 0
 end
 
 function AcSupplicateModel:ResetData()
-    self.serverTaskList = {}
     self.serverRewardList = {}
     self.countDown = 0
 end
@@ -40,16 +33,48 @@ end
 function AcSupplicateModel:SetTagId(tagId)
     self.tagId = tagId
     self:UpdateActivityConfig(tagId)
+    self:ParseBehaviorConfig()
 end
 
 function AcSupplicateModel:GetTagId()
     return self.tagId
 end
 
+function AcSupplicateModel:ParseBehaviorConfig()
+    self.deepBehaviorList = {}
+    self.strokeBehaviorList = {}
+    local effective_time = "1,"..self.tagId
+    for k,v in pairs(PlayerBehaviorConfig) do
+        if type(k) == "number" then
+            local config = PlayerBehaviorConfig.GetConfig(k)
+            if config.effective_time == effective_time then
+                local channel = string.split(config.channel,",")
+                local behavior = {}
+                behavior.desc = config.describe
+                local scoreReward = string.split(config.reward,";")[1]
+                behavior.getScore = string.split(scoreReward,",")[3]
+                if channel[1] == "4" then
+                    table.insert(self.deepBehaviorList,behavior)
+                elseif channel[1] == "8" then
+                    table.insert(self.strokeBehaviorList,behavior)
+                else
+                    print_error("PlayerBehaviorConfig has other behavior, channel: "..channel[1])
+                end
+            end
+        end
+    end
+end
+
+function AcSupplicateModel:GetDeepBehaviorList()
+    return self.deepBehaviorList
+end
+
+function AcSupplicateModel:GetStrokeBehaviorList()
+    return self.strokeBehaviorList
+end
+
 function AcSupplicateModel:InitInfos(serverData)
     self:ResetData()
-    -- 初始化任务数据
-    self:UpdateTaskList(serverData.taskList)
     self:UpdateRewardList(serverData.activityInfo.info)
     self.countDown = serverData.activityInfo.countDown
 end
@@ -63,41 +88,10 @@ function AcSupplicateModel:UpdateActivityConfig(tagId)
     end
 end
 
-function AcSupplicateModel:UpdateTaskData(task)
-    if self.serverTaskList[task.group] == nil then
-        self.serverTaskList[task.group] = {}
-    end
-    self.serverTaskList[task.group].task_id = task.task_id
-    self.serverTaskList[task.group].group = task.group
-    self.serverTaskList[task.group].progress = task.progress
-    self.serverTaskList[task.group].status = task.status
-end
-
-function AcSupplicateModel:UpdateTaskList(taskList)
-    for i,v in ipairs(taskList) do
-        self:UpdateTaskData(v)
-    end
-end
-
 function AcSupplicateModel:UpdateRewardList(rewardList)
     for i,v in ipairs(rewardList) do
         self.serverRewardList[v.id] = v.status
     end
-end
-
-function AcSupplicateModel:GetTaskConfig(task_id)
-    return TaskConfig.GetConfig(tonumber(task_id))
-end
-
-function AcSupplicateModel:GetTaskScore(group,task_id)
-    for i,v in ipairs(LottoTaskConfig) do
-        local config = LottoTaskConfig.GetConfig(i)
-        if config.groupid == group and config.taskid == task_id then
-            return config.integral
-        end
-    end
-    print_error("can`t find groupid:"..group.." taskid:"..task_id.." in config LottoTaskConfig")
-    return 0
 end
 
 function AcSupplicateModel:GetShowRewardList()
@@ -116,7 +110,7 @@ function AcSupplicateModel:GetRewardStatus(id)
 end
 
 function AcSupplicateModel:GetScoreName()
-    local itemId = tonumber(self.activityConfig.parameter_3)
+    local itemId = self:GetScoreItemId()
     local config = ItemConfig.GetConfig(itemId)
     if config == nil then
         return ""
@@ -125,13 +119,17 @@ function AcSupplicateModel:GetScoreName()
 end
 
 function AcSupplicateModel:GetCurScore()
-    local itemId = tonumber(self.activityConfig.parameter_3)
+    local itemId = self:GetScoreItemId()
     local itemModel = GameEntry.PlayerData.Items:GetItemById(itemId)
     local num = 0
     if itemModel ~= nil then
         num = itemModel.num
     end
     return num
+end
+
+function AcSupplicateModel:GetScoreItemId()
+    return tonumber(self.activityConfig.parameter_3)
 end
 
 function AcSupplicateModel:GetCostScore()
@@ -154,12 +152,9 @@ function AcSupplicateModel:CanSupplicate()
 end
 
 function AcSupplicateModel:HaveRedPoint()
-    for k,v in pairs(self.serverTaskList) do
-        if v.status == self.taskStatus.Can then
-            return true
-        end
+    if self.activityConfig == nil then
+        return false
     end
-
     return self:CanSupplicate()
 end
 

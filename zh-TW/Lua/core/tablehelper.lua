@@ -36,6 +36,13 @@ function table.merges(dest, src)
     end
 end
 
+function table.addrange(dest, src)
+    for k,v in pairs(src) do
+        print(v)
+        table.insert(dest,v)
+    end
+end
+
 function table.insertto(dest, src, begin)
     begin = CheckInt(begin)
     if begin <= 0 then
@@ -126,6 +133,20 @@ function table.unique(t, bArray)
         end
     end
     return n
+end
+
+function table.deep_copy(orig)
+    local copy
+    if type(orig) == "table" then
+        copy = {}
+        for orig_key, orig_value in next, orig, nil do
+            copy[deep_copy(orig_key)] = deep_copy(orig_value)
+        end
+        setmetatable(copy, deep_copy(getmetatable(orig)))
+    else
+        copy = orig
+    end
+    return copy
 end
 
 function TableHasValue(tab,value, counting)

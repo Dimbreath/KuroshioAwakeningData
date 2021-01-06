@@ -24,10 +24,10 @@ function AcSupplicateRewardItem:Init()
 end
 
 
-function AcSupplicateRewardItem:SetData(reward,status)
+function AcSupplicateRewardItem:SetData(reward,status,mask)
     local datas = DarkBoomUtility.ParseRewardString(reward)
 	if datas and datas.Count > 0 then 
-		self.itemCell:RefreshData(datas[0],1024)
+		self.itemCell:RefreshData(datas[0],mask)
 		DarkBoomUtility.AddItemDetail(self.itemCell.gameObject,datas[0]);
     end
     self.imgHasGet.gameObject:SetActive(status == 1)

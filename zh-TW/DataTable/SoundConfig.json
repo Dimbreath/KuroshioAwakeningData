@@ -3,352 +3,434 @@
     "Click": {
       "Cuid": "Click",
       "Key": "Click",
-      "Value": "001_click"
+      "Value": "001_click",
+      "Nazo": 0
     },
     "Close": {
       "Cuid": "Close",
       "Key": "Close",
-      "Value": "002_close"
+      "Value": "002_close",
+      "Nazo": 0
     },
     "Switch": {
       "Cuid": "Switch",
       "Key": "Switch",
-      "Value": "003_switch"
+      "Value": "003_switch",
+      "Nazo": 0
     },
     "Add": {
       "Cuid": "Add",
       "Key": "Add",
-      "Value": "004_add"
+      "Value": "004_add",
+      "Nazo": 0
     },
     "Lock": {
       "Cuid": "Lock",
       "Key": "Lock",
-      "Value": "005_lock"
+      "Value": "005_lock",
+      "Nazo": 0
     },
     "TipHard": {
       "Cuid": "TipHard",
       "Key": "TipHard",
-      "Value": "006_tips"
+      "Value": "006_tips",
+      "Nazo": 0
     },
     "Congratulate": {
       "Cuid": "Congratulate",
       "Key": "Congratulate",
-      "Value": "007_congratulate"
+      "Value": "007_congratulate",
+      "Nazo": 0
     },
     "Notice": {
       "Cuid": "Notice",
       "Key": "Notice",
-      "Value": "008_notice"
+      "Value": "008_notice",
+      "Nazo": 0
     },
     "Message": {
       "Cuid": "Message",
       "Key": "Message",
-      "Value": "009_message"
+      "Value": "009_message",
+      "Nazo": 0
     },
     "Open": {
       "Cuid": "Open",
       "Key": "Open",
-      "Value": "010_open"
+      "Value": "010_open",
+      "Nazo": 0
     },
     "Gacha": {
       "Cuid": "Gacha",
       "Key": "Gacha",
-      "Value": "011_gacha"
+      "Value": "011_gacha",
+      "Nazo": 0
     },
     "Up": {
       "Cuid": "Up",
       "Key": "Up",
-      "Value": "012_up"
+      "Value": "012_up",
+      "Nazo": 0
     },
     "Rotate": {
       "Cuid": "Rotate",
       "Key": "Rotate",
-      "Value": "013_rotate"
+      "Value": "013_rotate",
+      "Nazo": 0
     },
     "Equip": {
       "Cuid": "Equip",
       "Key": "Equip",
-      "Value": "014_equip"
+      "Value": "014_equip",
+      "Nazo": 0
     },
     "Mapzoom": {
       "Cuid": "Mapzoom",
       "Key": "Mapzoom",
-      "Value": "015_mapzoom"
+      "Value": "015_mapzoom",
+      "Nazo": 0
     },
     "Shop": {
       "Cuid": "Shop",
       "Key": "Shop",
-      "Value": "015_shop"
+      "Value": "015_shop",
+      "Nazo": 0
     },
     "Fight": {
       "Cuid": "Fight",
       "Key": "Fight",
-      "Value": "016_fight"
+      "Value": "016_fight",
+      "Nazo": 0
     },
     "Setoff": {
       "Cuid": "Setoff",
       "Key": "Setoff",
-      "Value": "016_setoff"
+      "Value": "016_setoff",
+      "Nazo": 0
     },
     "Map": {
       "Cuid": "Map",
       "Key": "Map",
-      "Value": "017_map"
+      "Value": "017_map",
+      "Nazo": 0
     },
     "SlgAreaUnlock": {
       "Cuid": "SlgAreaUnlock",
       "Key": "SlgAreaUnlock",
-      "Value": "017_slgareaunlock"
+      "Value": "017_slgareaunlock",
+      "Nazo": 0
     },
     "SlgRadar": {
       "Cuid": "SlgRadar",
       "Key": "SlgRadar",
-      "Value": "018_slgradar"
+      "Value": "018_slgradar",
+      "Nazo": 0
     },
     "SlgBattle": {
       "Cuid": "SlgBattle",
       "Key": "SlgBattle",
-      "Value": "019_slgbattle"
+      "Value": "019_slgbattle",
+      "Nazo": 0
     },
     "SlgWarn": {
       "Cuid": "SlgWarn",
       "Key": "SlgWarn",
-      "Value": "020_slgwarn"
+      "Value": "020_slgwarn",
+      "Nazo": 0
     },
     "Round": {
       "Cuid": "Round",
       "Key": "Round",
-      "Value": "021_round"
+      "Value": "021_round",
+      "Nazo": 0
     },
     "Win": {
       "Cuid": "Win",
       "Key": "Win",
-      "Value": "022_win"
+      "Value": "022_win",
+      "Nazo": 0
     },
     "Lose": {
       "Cuid": "Lose",
       "Key": "Lose",
-      "Value": "023_lose"
+      "Value": "023_lose",
+      "Nazo": 0
     },
     "Marry": {
       "Cuid": "Marry",
       "Key": "Marry",
-      "Value": "024_marry"
+      "Value": "024_marry",
+      "Nazo": 0
     },
     "SLGAttack": {
       "Cuid": "SLGAttack",
       "Key": "SLGAttack",
-      "Value": "025_slgattack"
+      "Value": "025_slgattack",
+      "Nazo": 0
     },
     "SLGAppear": {
       "Cuid": "SLGAppear",
       "Key": "SLGAppear",
-      "Value": "026_slgappear"
+      "Value": "026_slgappear",
+      "Nazo": 0
     },
     "SLGAreaUnlock": {
       "Cuid": "SLGAreaUnlock",
       "Key": "SLGAreaUnlock",
-      "Value": "027_slgareaunlock"
+      "Value": "027_slgareaunlock",
+      "Nazo": 0
     },
     "Breakthrough": {
       "Cuid": "Breakthrough",
       "Key": "Breakthrough",
-      "Value": "028_breakthrough"
+      "Value": "028_breakthrough",
+      "Nazo": 0
+    },
+    "Christmasclick": {
+      "Cuid": "Christmasclick",
+      "Key": "Christmasclick",
+      "Value": "058_Christmasclick",
+      "Nazo": 0
+    },
+    "Christmastouch": {
+      "Cuid": "Christmastouch",
+      "Key": "Christmastouch",
+      "Value": "059_Christmastouch",
+      "Nazo": 0
     },
     "Darken": {
       "Cuid": "Darken",
       "Key": "Darken",
-      "Value": "029_darken"
+      "Value": "029_darken",
+      "Nazo": 0
     },
     "BattleWin": {
       "Cuid": "BattleWin",
       "Key": "BattleWin",
-      "Value": "030_battlewin"
+      "Value": "030_battlewin",
+      "Nazo": 0
     },
     "LvUse": {
       "Cuid": "LvUse",
       "Key": "LvUse",
-      "Value": "031_lv_use"
+      "Value": "031_lv_use",
+      "Nazo": 0
     },
     "slgwarntip": {
       "Cuid": "slgwarntip",
       "Key": "slgwarntip",
-      "Value": "031_slgwarntip"
+      "Value": "031_slgwarntip",
+      "Nazo": 0
     },
     "Tips": {
       "Cuid": "Tips",
       "Key": "Tips",
-      "Value": "032_tips"
+      "Value": "032_tips",
+      "Nazo": 0
     },
     "Depth": {
       "Cuid": "Depth",
       "Key": "Depth",
-      "Value": "033_depth"
+      "Value": "033_depth",
+      "Nazo": 0
     },
     "Depth1": {
       "Cuid": "Depth1",
       "Key": "Depth1",
-      "Value": "033_depth_1"
+      "Value": "033_depth_1",
+      "Nazo": 0
     },
     "LevHabour": {
       "Cuid": "LevHabour",
       "Key": "LevHabour",
-      "Value": "034_levhabour"
+      "Value": "034_levhabour",
+      "Nazo": 0
     },
     "Load": {
       "Cuid": "Load",
       "Key": "Load",
-      "Value": "035_load"
+      "Value": "035_load",
+      "Nazo": 0
     },
     "UnLoad": {
       "Cuid": "UnLoad",
       "Key": "UnLoad",
-      "Value": "036_unload"
+      "Value": "036_unload",
+      "Nazo": 0
     },
     "Player1": {
       "Cuid": "Player1",
       "Key": "Player1",
-      "Value": "037_player1"
+      "Value": "037_player1",
+      "Nazo": 0
     },
     "Player2": {
       "Cuid": "Player2",
       "Key": "Player2",
-      "Value": "038_player2"
+      "Value": "038_player2",
+      "Nazo": 0
     },
     "Boss": {
       "Cuid": "Boss",
       "Key": "Boss",
-      "Value": "039_boss"
+      "Value": "039_boss",
+      "Nazo": 0
     },
     "StoryMap": {
       "Cuid": "StoryMap",
       "Key": "StoryMap",
-      "Value": "040_storymap"
+      "Value": "040_storymap",
+      "Nazo": 0
     },
     "BattleEnd": {
       "Cuid": "BattleEnd",
       "Key": "BattleEnd",
-      "Value": "041_battleend"
+      "Value": "041_battleend",
+      "Nazo": 0
     },
     "LevelUp": {
       "Cuid": "LevelUp",
       "Key": "LevelUp",
-      "Value": "042_levelup"
+      "Value": "042_levelup",
+      "Nazo": 0
     },
     "SLG1": {
       "Cuid": "SLG1",
       "Key": "SLG1",
-      "Value": "043_slg1"
+      "Value": "043_slg1",
+      "Nazo": 0
     },
     "SLG3": {
       "Cuid": "SLG3",
       "Key": "SLG3",
-      "Value": "045_slg3"
+      "Value": "045_slg3",
+      "Nazo": 0
     },
     "SLG4": {
       "Cuid": "SLG4",
       "Key": "SLG4",
-      "Value": "046_slg4"
+      "Value": "046_slg4",
+      "Nazo": 0
     },
     "SLG5": {
       "Cuid": "SLG5",
       "Key": "SLG5",
-      "Value": "047_slg5"
+      "Value": "047_slg5",
+      "Nazo": 0
     },
     "SLG6": {
       "Cuid": "SLG6",
       "Key": "SLG6",
-      "Value": "048_slg6"
+      "Value": "048_slg6",
+      "Nazo": 0
     },
     "SLG8": {
       "Cuid": "SLG8",
       "Key": "SLG8",
-      "Value": "050_slg8"
+      "Value": "050_slg8",
+      "Nazo": 0
     },
     "SLG9": {
       "Cuid": "SLG9",
       "Key": "SLG9",
-      "Value": "051_slg9"
+      "Value": "051_slg9",
+      "Nazo": 0
     },
     "SLG10": {
       "Cuid": "SLG10",
       "Key": "SLG10",
-      "Value": "052_slg10"
+      "Value": "052_slg10",
+      "Nazo": 0
     },
     "IDCard1": {
       "Cuid": "IDCard1",
       "Key": "IDCard1",
-      "Value": "053_idcard1"
+      "Value": "053_idcard1",
+      "Nazo": 0
     },
     "IDCard2": {
       "Cuid": "IDCard2",
       "Key": "IDCard2",
-      "Value": "054_idcard2"
+      "Value": "054_idcard2",
+      "Nazo": 0
     },
     "SSRget": {
       "Cuid": "SSRget",
       "Key": "SSRget",
-      "Value": "055_ssrget"
+      "Value": "055_ssrget",
+      "Nazo": 0
     },
     "OccupyTip": {
       "Cuid": "OccupyTip",
       "Key": "OccupyTip",
-      "Value": "057_occupy_tip"
+      "Value": "057_occupy_tip",
+      "Nazo": 0
     },
     "ACF": {
       "Cuid": "ACF",
       "Key": "ACF",
-      "Value": "Darkboom_adx2"
+      "Value": "Darkboom_adx2",
+      "Nazo": 0
     },
     "LobbyBgm": {
       "Cuid": "LobbyBgm",
       "Key": "LobbyBgm",
-      "Value": "lobby_main"
+      "Value": "lobby_main",
+      "Nazo": 0
     },
     "LoginBgm": {
       "Cuid": "LoginBgm",
       "Key": "LoginBgm",
-      "Value": "login_main"
+      "Value": "login_main",
+      "Nazo": 0
     },
     "SLGBgm": {
       "Cuid": "SLGBgm",
       "Key": "SLGBgm",
-      "Value": "slg_main"
+      "Value": "slg_main",
+      "Nazo": 0
     },
     "WorldMapBgm": {
       "Cuid": "WorldMapBgm",
       "Key": "WorldMapBgm",
-      "Value": "worldmap_main"
+      "Value": "worldmap_main",
+      "Nazo": 0
     },
     "StoryMapBgm": {
       "Cuid": "StoryMapBgm",
       "Key": "StoryMapBgm",
-      "Value": "strorymap_main"
+      "Value": "storymap_main",
+      "Nazo": 0
     },
     "UISECuesheet": {
       "Cuid": "UISECuesheet",
       "Key": "UISECuesheet",
-      "Value": "UISE"
+      "Value": "UISE",
+      "Nazo": 0
     },
     "StorySECuesheet": {
       "Cuid": "StorySECuesheet",
       "Key": "StorySECuesheet",
-      "Value": "StorySE"
+      "Value": "StorySE",
+      "Nazo": 0
     },
     "BattleSECuesheet": {
       "Cuid": "BattleSECuesheet",
       "Key": "BattleSECuesheet",
-      "Value": "BattleSE"
+      "Value": "BattleSE",
+      "Nazo": 0
     },
     "Battlevictory": {
       "Cuid": "Battlevictory",
       "Key": "Battlevictory",
-      "Value": "victory"
+      "Value": "victory",
+      "Nazo": 0
     },
     "Battledefeat": {
       "Cuid": "Battledefeat",
       "Key": "Battledefeat",
-      "Value": "defeat"
+      "Value": "defeat",
+      "Nazo": 0
     }
   }
 }

@@ -23,7 +23,6 @@ function MonopolyUIView:InjectComponent()
 	self.SpecifyStep     = self.injections.SpecifyStep
 	self.ExchangeShopBtn = self.injections.ExchangeShopBtn
 	self.SelectDiceView  = self.injections.SelectDiceView
-	self.TimeImage       = self.injections.TimeImage
 	self.Anim            = self.injections.Anim
 	self.DiceBgGrey      = self.injections.DiceBgGrey
 	self.DiceBgNormal    = self.injections.DiceBgNormal
@@ -84,12 +83,6 @@ function MonopolyUIView:UpdateData()
 	self.SpecifyStepBtn:UpdateBtn()
 	self.DoubleDiceBtn:UpdateBtn()
 	self:UpdateItems()
-
-	local assetPath = self.model:GetTimeImgPath()
-	LuaBridge.LoadAysnc4Lua(assetPath,typeof(CS.UnityEngine.Sprite),
-		function(assetName, asset, userData)
-			self.TimeImage.sprite = asset;
-		end,self.model.resMask)
 end
 
 function MonopolyUIView:OnDiceBtnClick ()

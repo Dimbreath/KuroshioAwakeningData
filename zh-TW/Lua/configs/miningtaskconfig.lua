@@ -1,34 +1,24 @@
-local MiningTaskConfig = {
-	[1] = {1,2,1,"0","30501,30502,30503,30504,30505,30506,30507,30508,30509,30510",
-		[[高級任務]],
-	},
-	[2] = {2,1,2,"0","30001,30002,30003",
-		[[每日任務]],
-	},
-	[3] = {3,1,3,"1","30101,30102,30103",
-		[[第一週]],
-	},
-	[4] = {4,1,3,"2","30201,30202,30203",
-		[[第二週]],
-	},
-	[5] = {5,1,3,"3","30301,30302,30303",
-		[[第三週]],
-	},
-	[6] = {6,1,3,"4","30401,30402,30403",
-		[[第四週]],
-	},
+local MiningTaskConfig = {}
 
+MiningTaskConfig.Values = {
+	[1] = {1,[[高級任務]],2,1,"0","30501,30502,30503,30504,30505,30506,30507,30508,30509,30510",0,},
+	[2] = {2,[[每日任務]],1,2,"0","30001,30002,30003",0,},
+	[3] = {3,[[第一週]],1,3,"1","30101,30102,30103",0,},
+	[4] = {4,[[第二週]],1,3,"2","30201,30202,30203",0,},
+	[5] = {5,[[第三週]],1,3,"3","30301,30302,30303",0,},
+	[6] = {6,[[第四週]],1,3,"4","30401,30402,30403",0,},
 }
+
 function MiningTaskConfig.GetConfig(key)
-	local Values = MiningTaskConfig[key]
-	if not Values then
+	local tb = MiningTaskConfig.Values[key]
+	if not tb then
 		print_error(key)
 		return nil
 	end
-	local Fields = {["id"] = 1,["paytask"] = 2,["type"] = 3,["parameter"] = 4,["task"] = 5,["name"] = 6,}
-	for k,v in pairs(Fields) do
-		Fields[k] = Values[v]
+	local config = {["id"] = 1,["name"] = 2,["paytask"] = 3,["type"] = 4,["parameter"] = 5,["task"] = 6,["nazo"] = 7,}
+	for k,v in pairs(config) do
+		config[k] = tb[v]
 	end
-	return Fields 
+	return config 
 end
 return MiningTaskConfig

@@ -10,14 +10,15 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "170301",
       "Eventinfo": [
         198,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "170302": {
       "Cuid": 170302,
@@ -29,11 +30,12 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": "3,11703,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "170302",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170303": {
       "Cuid": 170303,
@@ -45,13 +47,14 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": "3,11703,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "170303",
       "Eventinfo": [
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "170304": {
       "Cuid": 170304,
@@ -63,11 +66,12 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": "3,11703,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170304",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170305": {
       "Cuid": 170305,
@@ -79,11 +83,12 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": "3,11703,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170305",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170306": {
       "Cuid": 170306,
@@ -95,11 +100,12 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": "3,11703,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170306",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170307": {
       "Cuid": 170307,
@@ -111,11 +117,12 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": "3,11703,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170307",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170308": {
       "Cuid": 170308,
@@ -127,13 +134,14 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": "3,11703,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "2,1,10,10",
       "Battleart": "170308",
       "Eventinfo": [
         102
-      ]
+      ],
+      "Nazo": 0
     },
     "170309": {
       "Cuid": 170309,
@@ -145,11 +153,12 @@
       "Exp": 2500,
       "Cost": 20,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "170309",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170601": {
       "Cuid": 170601,
@@ -161,13 +170,14 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "170601",
       "Eventinfo": [
         198
-      ]
+      ],
+      "Nazo": 0
     },
     "170602": {
       "Cuid": 170602,
@@ -179,11 +189,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "170602",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170603": {
       "Cuid": 170603,
@@ -195,11 +206,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "170603",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170604": {
       "Cuid": 170604,
@@ -211,13 +223,14 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170604",
       "Eventinfo": [
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "170605": {
       "Cuid": 170605,
@@ -229,11 +242,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170605",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170606": {
       "Cuid": 170606,
@@ -245,13 +259,14 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "4",
       "Battleart": "170606",
       "Eventinfo": [
         104
-      ]
+      ],
+      "Nazo": 0
     },
     "170607": {
       "Cuid": 170607,
@@ -263,14 +278,15 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "3,1,1",
       "Battleart": "170607",
       "Eventinfo": [
         103,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "170608": {
       "Cuid": 170608,
@@ -282,11 +298,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170608",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170609": {
       "Cuid": 170609,
@@ -298,13 +315,14 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11706,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "2,1,15,15",
       "Battleart": "170609",
       "Eventinfo": [
         102
-      ]
+      ],
+      "Nazo": 0
     },
     "170610": {
       "Cuid": 170610,
@@ -316,11 +334,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "170610",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170801": {
       "Cuid": 170801,
@@ -332,13 +351,14 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "170801",
       "Eventinfo": [
         198
-      ]
+      ],
+      "Nazo": 0
     },
     "170802": {
       "Cuid": 170802,
@@ -350,11 +370,12 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "170802",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170803": {
       "Cuid": 170803,
@@ -366,11 +387,12 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "170803",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170804": {
       "Cuid": 170804,
@@ -382,11 +404,12 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "170804",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170805": {
       "Cuid": 170805,
@@ -398,49 +421,52 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "7,100,20,30",
       "Battleart": "170805",
       "Eventinfo": [
         107
-      ]
+      ],
+      "Nazo": 0
     },
     "170806": {
       "Cuid": 170806,
       "Strongholdid": 170806,
       "Harbourid": 1708,
-      "Neighborid": "170803,170809,170810",
+      "Neighborid": "170804,170809,170810",
       "Battleid": 170806,
       "Lordexp": 2000,
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170806",
       "Eventinfo": [
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "170807": {
       "Cuid": 170807,
       "Strongholdid": 170807,
       "Harbourid": 1708,
-      "Neighborid": "170804",
+      "Neighborid": "170803",
       "Battleid": 170807,
       "Lordexp": 2000,
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "6,5",
       "Battleart": "170807",
       "Eventinfo": [
         106
-      ]
+      ],
+      "Nazo": 0
     },
     "170808": {
       "Cuid": 170808,
@@ -452,11 +478,12 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170808",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170809": {
       "Cuid": 170809,
@@ -468,11 +495,12 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "170809",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "170810": {
       "Cuid": 170810,
@@ -484,14 +512,15 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11708,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "3,2,2",
       "Battleart": "170810",
       "Eventinfo": [
         103,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "170811": {
       "Cuid": 170811,
@@ -503,11 +532,12 @@
       "Exp": 8000,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "170811",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180201": {
       "Cuid": 180201,
@@ -519,29 +549,31 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "180201",
       "Eventinfo": [
         198
-      ]
+      ],
+      "Nazo": 0
     },
     "180202": {
       "Cuid": 180202,
       "Strongholdid": 180202,
       "Harbourid": 1802,
-      "Neighborid": "180203,180204",
+      "Neighborid": "180201,180203,180204",
       "Battleid": 180202,
       "Lordexp": 1500,
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11802,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180202",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180203": {
       "Cuid": 180203,
@@ -553,11 +585,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11802,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180203",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180204": {
       "Cuid": 180204,
@@ -569,11 +602,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11802,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180204",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180205": {
       "Cuid": 180205,
@@ -585,11 +619,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11802,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180205",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180206": {
       "Cuid": 180206,
@@ -601,11 +636,12 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "180206",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180207": {
       "Cuid": 180207,
@@ -617,13 +653,14 @@
       "Exp": 5100,
       "Cost": 30,
       "Friendlyexp": 5,
-      "Drop": "3,11802,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "1,180207",
       "Battleart": "180207",
       "Eventinfo": [
         101
-      ]
+      ],
+      "Nazo": 0
     },
     "180301": {
       "Cuid": 180301,
@@ -635,13 +672,14 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "180301",
       "Eventinfo": [
         198
-      ]
+      ],
+      "Nazo": 0
     },
     "180302": {
       "Cuid": 180302,
@@ -653,11 +691,12 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11803,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180302",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180303": {
       "Cuid": 180303,
@@ -669,11 +708,12 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11803,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180303",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180304": {
       "Cuid": 180304,
@@ -685,11 +725,12 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11803,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180304",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180305": {
       "Cuid": 180305,
@@ -701,13 +742,14 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11803,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "7,100,20,30",
       "Battleart": "180305",
       "Eventinfo": [
         107
-      ]
+      ],
+      "Nazo": 0
     },
     "180306": {
       "Cuid": 180306,
@@ -719,11 +761,12 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11803,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180306",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180307": {
       "Cuid": 180307,
@@ -735,13 +778,14 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11803,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "2,1,15,15",
       "Battleart": "180307",
       "Eventinfo": [
         102
-      ]
+      ],
+      "Nazo": 0
     },
     "180308": {
       "Cuid": 180308,
@@ -753,13 +797,14 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": "3,11803,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "3,1,3",
       "Battleart": "180308",
       "Eventinfo": [
         103
-      ]
+      ],
+      "Nazo": 0
     },
     "180309": {
       "Cuid": 180309,
@@ -771,11 +816,12 @@
       "Exp": 7400,
       "Cost": 40,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "180309",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180401": {
       "Cuid": 180401,
@@ -787,14 +833,15 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "180401",
       "Eventinfo": [
         198,
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180402": {
       "Cuid": 180402,
@@ -806,13 +853,14 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180402",
       "Eventinfo": [
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180403": {
       "Cuid": 180403,
@@ -824,13 +872,14 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180403",
       "Eventinfo": [
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180404": {
       "Cuid": 180404,
@@ -842,11 +891,12 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180404",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180405": {
       "Cuid": 180405,
@@ -858,11 +908,12 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180405",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180406": {
       "Cuid": 180406,
@@ -874,11 +925,12 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180406",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180407": {
       "Cuid": 180407,
@@ -890,11 +942,12 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180407",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180408": {
       "Cuid": 180408,
@@ -906,11 +959,12 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "180408",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180409": {
       "Cuid": 180409,
@@ -922,13 +976,14 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "5,3,180407",
       "Battleart": "180409",
       "Eventinfo": [
         105
-      ]
+      ],
+      "Nazo": 0
     },
     "180410": {
       "Cuid": 180410,
@@ -940,13 +995,14 @@
       "Exp": 10000,
       "Cost": 50,
       "Friendlyexp": 5,
-      "Drop": "3,11804,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "1,180410",
       "Battleart": "180410",
       "Eventinfo": [
         101
-      ]
+      ],
+      "Nazo": 0
     },
     "180501": {
       "Cuid": 180501,
@@ -958,31 +1014,33 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "180501",
       "Eventinfo": [
         198
-      ]
+      ],
+      "Nazo": 0
     },
     "180502": {
       "Cuid": 180502,
       "Strongholdid": 180502,
       "Harbourid": 1805,
-      "Neighborid": "180503,180504",
+      "Neighborid": "180501,180503,180504",
       "Battleid": 180502,
       "Lordexp": 3000,
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180502",
       "Eventinfo": [
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180503": {
       "Cuid": 180503,
@@ -994,13 +1052,14 @@
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180503",
       "Eventinfo": [
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180504": {
       "Cuid": 180504,
@@ -1012,14 +1071,15 @@
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180504",
       "Eventinfo": [
         202,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180505": {
       "Cuid": 180505,
@@ -1031,13 +1091,14 @@
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180505",
       "Eventinfo": [
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180506": {
       "Cuid": 180506,
@@ -1049,11 +1110,12 @@
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180506",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180507": {
       "Cuid": 180507,
@@ -1065,14 +1127,15 @@
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "3,2,4",
       "Battleart": "180507",
       "Eventinfo": [
         103,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180508": {
       "Cuid": 180508,
@@ -1084,14 +1147,15 @@
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "2,2,10,10",
       "Battleart": "180508",
       "Eventinfo": [
         102,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180509": {
       "Cuid": 180509,
@@ -1103,43 +1167,46 @@
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180509",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180510": {
       "Cuid": 180510,
       "Strongholdid": 180510,
       "Harbourid": 1805,
-      "Neighborid": "180506,180509,180511",
+      "Neighborid": "180506,180509",
       "Battleid": 180510,
       "Lordexp": 3000,
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11805,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180510",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180511": {
       "Cuid": 180511,
       "Strongholdid": 180511,
       "Harbourid": 1805,
-      "Neighborid": "180509,180510",
+      "Neighborid": "180509",
       "Battleid": 180511,
       "Lordexp": 3000,
       "Exp": 12900,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "180511",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180601": {
       "Cuid": 180601,
@@ -1151,14 +1218,15 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "180601",
       "Eventinfo": [
         198,
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180602": {
       "Cuid": 180602,
@@ -1170,13 +1238,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180602",
       "Eventinfo": [
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180603": {
       "Cuid": 180603,
@@ -1188,13 +1257,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180603",
       "Eventinfo": [
         202
-      ]
+      ],
+      "Nazo": 0
     },
     "180604": {
       "Cuid": 180604,
@@ -1206,14 +1276,15 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
-      "Status": null,
+      "Status": "",
       "Battleart": "180604",
       "Eventinfo": [
         202,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180605": {
       "Cuid": 180605,
@@ -1225,11 +1296,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180605",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180606": {
       "Cuid": 180606,
@@ -1241,13 +1313,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180606",
       "Eventinfo": [
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180607": {
       "Cuid": 180607,
@@ -1259,13 +1332,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "3,2,5",
       "Battleart": "180607",
       "Eventinfo": [
         103
-      ]
+      ],
+      "Nazo": 0
     },
     "180608": {
       "Cuid": 180608,
@@ -1277,13 +1351,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "2,2,10,10",
       "Battleart": "180608",
       "Eventinfo": [
         102
-      ]
+      ],
+      "Nazo": 0
     },
     "180609": {
       "Cuid": 180609,
@@ -1295,11 +1370,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180609",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180610": {
       "Cuid": 180610,
@@ -1311,11 +1387,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180610",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180611": {
       "Cuid": 180611,
@@ -1327,13 +1404,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11806,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "5,3,180610",
       "Battleart": "180611",
       "Eventinfo": [
         105
-      ]
+      ],
+      "Nazo": 0
     },
     "180612": {
       "Cuid": 180612,
@@ -1345,11 +1423,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "180612",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180701": {
       "Cuid": 180701,
@@ -1361,13 +1440,14 @@
       "Exp": 0,
       "Cost": 0,
       "Friendlyexp": 0,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 1,
       "Status": "99",
       "Battleart": "180701",
       "Eventinfo": [
         198
-      ]
+      ],
+      "Nazo": 0
     },
     "180702": {
       "Cuid": 180702,
@@ -1379,13 +1459,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
       "Status": "5,5,180704",
       "Battleart": "180702",
       "Eventinfo": [
         105
-      ]
+      ],
+      "Nazo": 0
     },
     "180703": {
       "Cuid": 180703,
@@ -1397,13 +1478,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 2,
       "Status": "5,5,180705",
       "Battleart": "180703",
       "Eventinfo": [
         105
-      ]
+      ],
+      "Nazo": 0
     },
     "180704": {
       "Cuid": 180704,
@@ -1415,11 +1497,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180704",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180705": {
       "Cuid": 180705,
@@ -1431,11 +1514,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180705",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180706": {
       "Cuid": 180706,
@@ -1447,13 +1531,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "6,5",
       "Battleart": "180706",
       "Eventinfo": [
         106
-      ]
+      ],
+      "Nazo": 0
     },
     "180707": {
       "Cuid": 180707,
@@ -1465,13 +1550,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180707",
       "Eventinfo": [
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180708": {
       "Cuid": 180708,
@@ -1483,13 +1569,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180708",
       "Eventinfo": [
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180709": {
       "Cuid": 180709,
@@ -1501,13 +1588,14 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
       "Status": "6,5",
       "Battleart": "180709",
       "Eventinfo": [
         106
-      ]
+      ],
+      "Nazo": 0
     },
     "180710": {
       "Cuid": 180710,
@@ -1519,14 +1607,15 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "2,2,15,15",
       "Battleart": "180710",
       "Eventinfo": [
         102,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180711": {
       "Cuid": 180711,
@@ -1538,11 +1627,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180711",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180712": {
       "Cuid": 180712,
@@ -1554,11 +1644,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 3,
-      "Status": null,
+      "Status": "",
       "Battleart": "180712",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     },
     "180713": {
       "Cuid": 180713,
@@ -1570,14 +1661,15 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": "3,11807,1;3,10004,1",
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "3,2,6",
       "Battleart": "180713",
       "Eventinfo": [
         103,
         204
-      ]
+      ],
+      "Nazo": 0
     },
     "180714": {
       "Cuid": 180714,
@@ -1589,11 +1681,12 @@
       "Exp": 13800,
       "Cost": 60,
       "Friendlyexp": 5,
-      "Drop": null,
+      "Drop": "",
       "Initialstatus": 4,
       "Status": "98",
       "Battleart": "180714",
-      "Eventinfo": null
+      "Eventinfo": [],
+      "Nazo": 0
     }
   }
 }

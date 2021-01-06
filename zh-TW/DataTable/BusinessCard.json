@@ -6,8 +6,9 @@
       "IconI": "socialcontact_1_nc_ncskin_l_3",
       "IconM": "socialcontact_1_nc_ncskin_m_3",
       "IconS": "socialcontact_1_nc_ncskin_s_3",
-      "Frame": null,
-      "Background": 0
+      "Frame": "",
+      "Background": 0,
+      "Nazo": 0
     },
     "690002": {
       "Cuid": 690002,
@@ -16,7 +17,8 @@
       "IconM": "socialcontact_1_nc_ncskin_m_1",
       "IconS": "socialcontact_1_nc_ncskin_s_1",
       "Frame": "card690002",
-      "Background": 1
+      "Background": 1,
+      "Nazo": 0
     }
   }
 }

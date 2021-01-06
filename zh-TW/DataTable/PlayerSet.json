@@ -5,245 +5,280 @@
       "Id": 1,
       "Key": "Setting.FPS",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
       "Key": "Setting.BattleVideo",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
       "Key": "Setting.Music",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
       "Key": "Setting.SE",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
       "Key": "Setting.Voice",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
       "Key": "Setting.Push",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
       "Key": "Setting.Expedition",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
       "Key": "Setting.GaCha",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
       "Key": "Setting.SelfDiscipline",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
       "Key": "Setting.Research",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
       "Key": "Setting.Lang",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
       "Key": "Character_IsSpine",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Id": 13,
       "Key": "{0}_help_id_{1}",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Id": 14,
       "Key": "StoryAuto",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Id": 15,
       "Key": "VERSION",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Id": 16,
       "Key": "user_id",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Id": 17,
       "Key": "display_uid",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Id": 18,
       "Key": "_accountCustomIDKey",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
       "Id": 19,
       "Key": "_accountCustomPWDKey",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
       "Id": 20,
       "Key": "_serverIDKey",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
       "Id": 21,
       "Key": "SOFTGUIDELIST{0}",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
       "Id": 22,
       "Key": "ALBUM_SORT_KEY",
       "Type": 1,
-      "IsReset": 1
+      "IsReset": 1,
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
       "Id": 23,
       "Key": "DOCK_SORT_TYPE",
       "Type": 1,
-      "IsReset": 1
+      "IsReset": 1,
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
       "Id": 24,
       "Key": "DOCK_FILTER_TYPE",
       "Type": 1,
-      "IsReset": 1
+      "IsReset": 1,
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
       "Id": 25,
       "Key": "DarkBoomCG_{0}",
       "Type": 2,
-      "IsReset": 1
+      "IsReset": 1,
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
       "Id": 26,
       "Key": "BATTLE_SPEED_TYPE",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
       "Id": 27,
       "Key": "BATTLE_OPERA_TYPE",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
       "Id": 28,
       "Key": "Setting.BattleVideoDailyList",
       "Type": 2,
-      "IsReset": 1
+      "IsReset": 1,
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
       "Id": 29,
       "Key": "BATTLE_QUALITY",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
       "Id": 30,
       "Key": "BattleShaderModel3",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
       "Id": 31,
       "Key": "BattleRecommondQuality",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
       "Id": 32,
       "Key": "BattleQualityInitRecord",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
       "Id": 33,
       "Key": "activity_battlematerial",
       "Type": 2,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
       "Id": 36,
       "Key": "SlgRoadTip",
       "Type": 2,
-      "IsReset": 1
+      "IsReset": 1,
+      "Nazo": 0
     },
     "37": {
       "Cuid": 37,
       "Id": 37,
       "Key": "CharacterUnLock",
       "Type": 1,
-      "IsReset": 0
+      "IsReset": 0,
+      "Nazo": 0
     }
   }
 }

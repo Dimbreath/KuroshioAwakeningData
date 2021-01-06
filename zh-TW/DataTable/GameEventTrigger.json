@@ -3,1029 +3,950 @@
     "3001": {
       "Cuid": 3001,
       "Triggerid": 3001,
+      "Triggername": "序章演習",
       "Triggertype": 0,
       "Triggerparm": "7001;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "2005",
-      "LangStringTable": {
-        "Triggername": "序章演習"
-      }
+      "Nazo": 0
     },
     "3002": {
       "Cuid": 3002,
       "Triggerid": 3002,
+      "Triggername": "序章演習戰後",
       "Triggertype": 1,
       "Triggerparm": "7001;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "2006",
-      "LangStringTable": {
-        "Triggername": "序章演習戰後"
-      }
+      "Nazo": 0
     },
     "4001": {
       "Cuid": 4001,
       "Triggerid": 4001,
+      "Triggername": "銀翼財團支線1\n",
       "Triggertype": 0,
       "Triggerparm": "8001;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4001",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線1"
-      }
+      "Nazo": 0
     },
     "4002": {
       "Cuid": 4002,
       "Triggerid": 4002,
+      "Triggername": "銀翼財團支線2\n",
       "Triggertype": 0,
       "Triggerparm": "8002;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4002",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線2"
-      }
+      "Nazo": 0
     },
     "4003": {
       "Cuid": 4003,
       "Triggerid": 4003,
+      "Triggername": "銀翼財團支線3\n",
       "Triggertype": 0,
       "Triggerparm": "8003;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4003",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線3"
-      }
+      "Nazo": 0
     },
     "4004": {
       "Cuid": 4004,
       "Triggerid": 4004,
+      "Triggername": "銀翼財團支線4\n",
       "Triggertype": 0,
       "Triggerparm": "8004;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4004",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線4"
-      }
+      "Nazo": 0
     },
     "4005": {
       "Cuid": 4005,
       "Triggerid": 4005,
+      "Triggername": "銀翼財團支線5\n",
       "Triggertype": 0,
       "Triggerparm": "8005;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4005",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線5"
-      }
+      "Nazo": 0
     },
     "4006": {
       "Cuid": 4006,
       "Triggerid": 4006,
+      "Triggername": "銀翼財團支線6\n",
       "Triggertype": 0,
       "Triggerparm": "8006;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4006",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線6"
-      }
+      "Nazo": 0
     },
     "4007": {
       "Cuid": 4007,
       "Triggerid": 4007,
+      "Triggername": "銀翼財團支線7\n",
       "Triggertype": 0,
       "Triggerparm": "8007;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4007",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線7"
-      }
+      "Nazo": 0
     },
     "4008": {
       "Cuid": 4008,
       "Triggerid": 4008,
+      "Triggername": "銀翼財團支線8\n",
       "Triggertype": 0,
       "Triggerparm": "8008;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4008",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線8"
-      }
+      "Nazo": 0
     },
     "4009": {
       "Cuid": 4009,
       "Triggerid": 4009,
+      "Triggername": "銀翼財團支線9\n",
       "Triggertype": 0,
       "Triggerparm": "8009;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4009",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線9"
-      }
+      "Nazo": 0
     },
     "4010": {
       "Cuid": 4010,
       "Triggerid": 4010,
+      "Triggername": "銀翼財團支線10\n",
       "Triggertype": 0,
       "Triggerparm": "8010;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4010",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線10"
-      }
+      "Nazo": 0
     },
     "4011": {
       "Cuid": 4011,
       "Triggerid": 4011,
+      "Triggername": "銀翼財團支線11\n",
       "Triggertype": 0,
       "Triggerparm": "8011;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4011",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線11"
-      }
+      "Nazo": 0
     },
     "4012": {
       "Cuid": 4012,
       "Triggerid": 4012,
+      "Triggername": "銀翼財團支線12\n",
       "Triggertype": 0,
       "Triggerparm": "8012;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4012",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線12"
-      }
+      "Nazo": 0
     },
     "4013": {
       "Cuid": 4013,
       "Triggerid": 4013,
+      "Triggername": "銀翼財團支線13\n",
       "Triggertype": 0,
       "Triggerparm": "8013;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4013",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線13"
-      }
+      "Nazo": 0
     },
     "4015": {
       "Cuid": 4015,
       "Triggerid": 4015,
+      "Triggername": "銀翼財團支線15\n",
       "Triggertype": 0,
       "Triggerparm": "8014;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4015",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線15"
-      }
+      "Nazo": 0
     },
     "4016": {
       "Cuid": 4016,
       "Triggerid": 4016,
+      "Triggername": "銀翼財團支線16\n",
       "Triggertype": 0,
       "Triggerparm": "8015;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4016",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線16"
-      }
+      "Nazo": 0
     },
     "4017": {
       "Cuid": 4017,
       "Triggerid": 4017,
+      "Triggername": "銀翼財團支線17\n",
       "Triggertype": 0,
       "Triggerparm": "8016;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4017",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線17"
-      }
+      "Nazo": 0
     },
     "4018": {
       "Cuid": 4018,
       "Triggerid": 4018,
+      "Triggername": "銀翼財團支線18\n",
       "Triggertype": 0,
       "Triggerparm": "8017;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4018",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線18"
-      }
+      "Nazo": 0
     },
     "4019": {
       "Cuid": 4019,
       "Triggerid": 4019,
+      "Triggername": "銀翼財團支線19\n",
       "Triggertype": 0,
       "Triggerparm": "8018;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4019",
-      "LangStringTable": {
-        "Triggername": "銀翼財團支線19"
-      }
+      "Nazo": 0
     },
     "4020": {
       "Cuid": 4020,
       "Triggerid": 4020,
+      "Triggername": "偶像騷動事件（一）",
       "Triggertype": 0,
       "Triggerparm": "7002;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4020",
-      "LangStringTable": {
-        "Triggername": "偶像騷動事件（一）"
-      }
+      "Nazo": 0
     },
     "4021": {
       "Cuid": 4021,
       "Triggerid": 4021,
+      "Triggername": "偶像騷動事件（二）",
       "Triggertype": 0,
       "Triggerparm": "7003;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4021",
-      "LangStringTable": {
-        "Triggername": "偶像騷動事件（二）"
-      }
+      "Nazo": 0
     },
     "4022": {
       "Cuid": 4022,
       "Triggerid": 4022,
+      "Triggername": "偶像騷動事件（三）",
       "Triggertype": 0,
       "Triggerparm": "7004;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4022",
-      "LangStringTable": {
-        "Triggername": "偶像騷動事件（三）"
-      }
+      "Nazo": 0
     },
     "4023": {
       "Cuid": 4023,
       "Triggerid": 4023,
+      "Triggername": "偶像騷動事件（四）",
       "Triggertype": 0,
       "Triggerparm": "7005;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4023",
-      "LangStringTable": {
-        "Triggername": "偶像騷動事件（四）"
-      }
+      "Nazo": 0
     },
     "4024": {
       "Cuid": 4024,
       "Triggerid": 4024,
+      "Triggername": "偶像騷動事件（五）",
       "Triggertype": 0,
       "Triggerparm": "7006;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4024",
-      "LangStringTable": {
-        "Triggername": "偶像騷動事件（五）"
-      }
+      "Nazo": 0
     },
     "4025": {
       "Cuid": 4025,
       "Triggerid": 4025,
+      "Triggername": "夏夜百物語（一）",
       "Triggertype": 0,
       "Triggerparm": "7007;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4025",
-      "LangStringTable": {
-        "Triggername": "夏夜百物語（一）"
-      }
+      "Nazo": 0
     },
     "4026": {
       "Cuid": 4026,
       "Triggerid": 4026,
+      "Triggername": "夏夜百物語（二）",
       "Triggertype": 0,
       "Triggerparm": "7008;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4026",
-      "LangStringTable": {
-        "Triggername": "夏夜百物語（二）"
-      }
+      "Nazo": 0
     },
     "4027": {
       "Cuid": 4027,
       "Triggerid": 4027,
+      "Triggername": "夏夜百物語（三）",
       "Triggertype": 0,
       "Triggerparm": "7009;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4027",
-      "LangStringTable": {
-        "Triggername": "夏夜百物語（三）"
-      }
+      "Nazo": 0
     },
     "4028": {
       "Cuid": 4028,
       "Triggerid": 4028,
+      "Triggername": "夏夜百物語（四）",
       "Triggertype": 0,
       "Triggerparm": "7010;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4028",
-      "LangStringTable": {
-        "Triggername": "夏夜百物語（四）"
-      }
+      "Nazo": 0
     },
     "4029": {
       "Cuid": 4029,
       "Triggerid": 4029,
+      "Triggername": "夏夜百物語（五）戰後",
       "Triggertype": 1,
       "Triggerparm": "7010;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4029",
-      "LangStringTable": {
-        "Triggername": "夏夜百物語（五）戰後"
-      }
+      "Nazo": 0
     },
     "4030": {
       "Cuid": 4030,
       "Triggerid": 4030,
+      "Triggername": "欺詐師",
       "Triggertype": 0,
       "Triggerparm": "7011;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4044",
-      "LangStringTable": {
-        "Triggername": "欺詐師"
-      }
+      "Nazo": 0
     },
     "4031": {
       "Cuid": 4031,
       "Triggerid": 4031,
+      "Triggername": "掩耳",
       "Triggertype": 0,
       "Triggerparm": "7012;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4045",
-      "LangStringTable": {
-        "Triggername": "掩耳"
-      }
+      "Nazo": 0
     },
     "4032": {
       "Cuid": 4032,
       "Triggerid": 4032,
+      "Triggername": "前輩",
       "Triggertype": 0,
       "Triggerparm": "7013;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4046",
-      "LangStringTable": {
-        "Triggername": "前輩"
-      }
+      "Nazo": 0
     },
     "4033": {
       "Cuid": 4033,
       "Triggerid": 4033,
+      "Triggername": "不速之客（上）",
       "Triggertype": 0,
       "Triggerparm": "7014;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4041",
-      "LangStringTable": {
-        "Triggername": "不速之客（上）"
-      }
+      "Nazo": 0
     },
     "4034": {
       "Cuid": 4034,
       "Triggerid": 4034,
+      "Triggername": "不速之客（中）",
       "Triggertype": 0,
       "Triggerparm": "7015;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4042",
-      "LangStringTable": {
-        "Triggername": "不速之客（中）"
-      }
+      "Nazo": 0
     },
     "4035": {
       "Cuid": 4035,
       "Triggerid": 4035,
+      "Triggername": "不速之客（下）",
       "Triggertype": 0,
       "Triggerparm": "7016;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4043",
-      "LangStringTable": {
-        "Triggername": "不速之客（下）"
-      }
+      "Nazo": 0
     },
     "4036": {
       "Cuid": 4036,
       "Triggerid": 4036,
+      "Triggername": "不速之客（下）戰後",
       "Triggertype": 1,
       "Triggerparm": "7016;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4047",
-      "LangStringTable": {
-        "Triggername": "不速之客（下）戰後"
-      }
+      "Nazo": 0
     },
     "4037": {
       "Cuid": 4037,
       "Triggerid": 4037,
+      "Triggername": "某伯爵的回憶錄（上）",
       "Triggertype": 0,
       "Triggerparm": "7017;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4048",
-      "LangStringTable": {
-        "Triggername": "某伯爵的回憶錄（上）"
-      }
+      "Nazo": 0
     },
     "4038": {
       "Cuid": 4038,
       "Triggerid": 4038,
+      "Triggername": "某伯爵的回憶錄（中）",
       "Triggertype": 0,
       "Triggerparm": "7018;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4049",
-      "LangStringTable": {
-        "Triggername": "某伯爵的回憶錄（中）"
-      }
+      "Nazo": 0
     },
     "4039": {
       "Cuid": 4039,
       "Triggerid": 4039,
+      "Triggername": "某伯爵的回憶錄（下）戰後",
       "Triggertype": 1,
       "Triggerparm": "7018;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "4050",
-      "LangStringTable": {
-        "Triggername": "某伯爵的回憶錄（下）戰後"
-      }
+      "Nazo": 0
     },
     "6001": {
       "Cuid": 6001,
       "Triggerid": 6001,
+      "Triggername": "開場戰鬥劇情1",
       "Triggertype": 700,
       "Triggerparm": "1234567",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "6001",
-      "LangStringTable": {
-        "Triggername": "開場戰鬥劇情1"
-      }
+      "Nazo": 0
     },
     "6002": {
       "Cuid": 6002,
       "Triggerid": 6002,
+      "Triggername": "開場戰鬥劇情2",
       "Triggertype": 701,
       "Triggerparm": "1234567;9999900;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "6002",
-      "LangStringTable": {
-        "Triggername": "開場戰鬥劇情2"
-      }
+      "Nazo": 0
     },
     "6003": {
       "Cuid": 6003,
       "Triggerid": 6003,
+      "Triggername": "開場戰鬥劇情3",
       "Triggertype": 702,
       "Triggerparm": "1234567;1",
-      "Triggerconditionsrelation": null,
-      "Triggerconditions": null,
+      "Triggerconditionsrelation": "",
+      "Triggerconditions": "",
       "Resulttype": 0,
       "Resultparm": "6003",
-      "LangStringTable": {
-        "Triggername": "開場戰鬥劇情3"
-      }
+      "Nazo": 0
     },
     "70001": {
       "Cuid": 70001,
       "Triggerid": 70001,
+      "Triggername": "新手引導-觸發招募引導組",
       "Triggertype": 100,
       "Triggerparm": "100;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":2,\"relation\":\"<\",\"value\":\"70\"}",
       "Resulttype": 1,
       "Resultparm": "70",
-      "LangStringTable": {
-        "Triggername": "新手引導-觸發招募引導組"
-      }
+      "Nazo": 0
     },
     "70002": {
       "Cuid": 70002,
       "Triggerid": 70002,
+      "Triggername": "新手引導-招募第一步完成",
       "Triggertype": 102,
       "Triggerparm": "main_1_function_icon_recruit",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7010\"}",
       "Resulttype": 3,
       "Resultparm": "7010",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第一步完成"
-      }
+      "Nazo": 0
     },
     "70003": {
       "Cuid": 70003,
       "Triggerid": 70003,
+      "Triggername": "新手引導-招募第二步觸發",
       "Triggertype": 100,
       "Triggerparm": "500;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7020\"}",
       "Resulttype": 2,
       "Resultparm": "7020",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第二步觸發"
-      }
+      "Nazo": 0
     },
     "70004": {
       "Cuid": 70004,
       "Triggerid": 70004,
+      "Triggername": "新手引導-招募第二步完成",
       "Triggertype": 102,
       "Triggerparm": "2",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7020\"}",
       "Resulttype": 3,
       "Resultparm": "7020",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第二步完成"
-      }
+      "Nazo": 0
     },
     "70005": {
       "Cuid": 70005,
       "Triggerid": 70005,
+      "Triggername": "新手引導-招募第三步觸發",
       "Triggertype": 300,
       "Triggerparm": "7020",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7030\"}",
       "Resulttype": 2,
       "Resultparm": "7030",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第三步觸發"
-      }
+      "Nazo": 0
     },
     "70006": {
       "Cuid": 70006,
       "Triggerid": 70006,
+      "Triggername": "新手引導-招募第三步完成",
       "Triggertype": 102,
       "Triggerparm": "Recruit",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7030\"}",
       "Resulttype": 3,
       "Resultparm": "7030",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第三步完成"
-      }
+      "Nazo": 0
     },
     "70007": {
       "Cuid": 70007,
       "Triggerid": 70007,
+      "Triggername": "新手引導-招募第四步觸發",
       "Triggertype": 100,
       "Triggerparm": "1;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7040\"}",
       "Resulttype": 2,
       "Resultparm": "7040",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第四步觸發"
-      }
+      "Nazo": 0
     },
     "70008": {
       "Cuid": 70008,
       "Triggerid": 70008,
+      "Triggername": "新手引導-招募第四步完成",
       "Triggertype": 102,
       "Triggerparm": "Confirm",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7040\"}",
       "Resulttype": 3,
       "Resultparm": "7040",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第四步完成"
-      }
+      "Nazo": 0
     },
     "70009": {
       "Cuid": 70009,
       "Triggerid": 70009,
+      "Triggername": "新手引導-招募第五步觸發",
       "Triggertype": 105,
       "Triggerparm": "1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7050\"}",
       "Resulttype": 2,
       "Resultparm": "7050",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第五步觸發"
-      }
+      "Nazo": 0
     },
     "70010": {
       "Cuid": 70010,
       "Triggerid": 70010,
+      "Triggername": "新手引導-招募第五步完成",
       "Triggertype": 102,
       "Triggerparm": "0",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7050\"}",
       "Resulttype": 3,
       "Resultparm": "7050",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第五步完成"
-      }
+      "Nazo": 0
     },
     "70011": {
       "Cuid": 70011,
       "Triggerid": 70011,
+      "Triggername": "新手引導-招募第六步觸發",
       "Triggertype": 100,
       "Triggerparm": "1;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7060\"}",
       "Resulttype": 2,
       "Resultparm": "7060",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第六步觸發"
-      }
+      "Nazo": 0
     },
     "70012": {
       "Cuid": 70012,
       "Triggerid": 70012,
+      "Triggername": "新手引導-招募第六步完成",
       "Triggertype": 102,
       "Triggerparm": "Confirm",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7060\"}",
       "Resulttype": 3,
       "Resultparm": "7060",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第六步完成"
-      }
+      "Nazo": 0
     },
     "70013": {
       "Cuid": 70013,
       "Triggerid": 70013,
+      "Triggername": "新手引導-招募第七步觸發",
       "Triggertype": 300,
       "Triggerparm": "7060",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7070\"}",
       "Resulttype": 2,
       "Resultparm": "7070",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第七步觸發"
-      }
+      "Nazo": 0
     },
     "70014": {
       "Cuid": 70014,
       "Triggerid": 70014,
+      "Triggername": "新手引導-招募第七步完成",
       "Triggertype": 102,
       "Triggerparm": "0",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7070\"}",
       "Resulttype": 3,
       "Resultparm": "7070",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第七步完成"
-      }
+      "Nazo": 0
     },
     "70015": {
       "Cuid": 70015,
       "Triggerid": 70015,
+      "Triggername": "新手引導-招募第八步觸發",
       "Triggertype": 101,
       "Triggerparm": "530;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7080\"}",
       "Resulttype": 2,
       "Resultparm": "7080",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第八步觸發"
-      }
+      "Nazo": 0
     },
     "70016": {
       "Cuid": 70016,
       "Triggerid": 70016,
+      "Triggername": "新手引導-招募第八步完成",
       "Triggertype": 102,
       "Triggerparm": "arrow",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"7080\"}",
       "Resulttype": 3,
       "Resultparm": "7080",
-      "LangStringTable": {
-        "Triggername": "新手引導-招募第八步完成"
-      }
+      "Nazo": 0
     },
     "80001": {
       "Cuid": 80001,
       "Triggerid": 80001,
+      "Triggername": "新手引導-觸發編隊引導組",
       "Triggertype": 100,
       "Triggerparm": "100;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":2,\"relation\":\"=\",\"value\":\"70\"}",
       "Resulttype": 1,
       "Resultparm": "80",
-      "LangStringTable": {
-        "Triggername": "新手引導-觸發編隊引導組"
-      }
+      "Nazo": 0
     },
     "80002": {
       "Cuid": 80002,
       "Triggerid": 80002,
+      "Triggername": "新手引導-編隊第一步完成",
       "Triggertype": 102,
       "Triggerparm": "main_1_function_icon_formation",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8010\"}",
       "Resulttype": 3,
       "Resultparm": "8010",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第一步完成"
-      }
+      "Nazo": 0
     },
     "80003": {
       "Cuid": 80003,
       "Triggerid": 80003,
+      "Triggername": "新手引導-編隊第二步觸發",
       "Triggertype": 100,
       "Triggerparm": "1100;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8020\"}",
       "Resulttype": 2,
       "Resultparm": "8020",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第二步觸發"
-      }
+      "Nazo": 0
     },
     "80004": {
       "Cuid": 80004,
       "Triggerid": 80004,
+      "Triggername": "新手引導-編隊第二步完成",
       "Triggertype": 102,
       "Triggerparm": "2",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8020\"}",
       "Resulttype": 3,
       "Resultparm": "8020",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第二步完成"
-      }
+      "Nazo": 0
     },
     "80005": {
       "Cuid": 80005,
       "Triggerid": 80005,
+      "Triggername": "新手引導-編隊第三步觸發",
       "Triggertype": 100,
       "Triggerparm": "210;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8030\"}",
       "Resulttype": 2,
       "Resultparm": "8030",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第三步觸發"
-      }
+      "Nazo": 0
     },
     "80006": {
       "Cuid": 80006,
       "Triggerid": 80006,
+      "Triggername": "新手引導-編隊第三步完成",
       "Triggertype": 201,
       "Triggerparm": "50030;40130;20020",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8030\"}",
       "Resulttype": 3,
       "Resultparm": "8030",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第三步完成"
-      }
+      "Nazo": 0
     },
     "80007": {
       "Cuid": 80007,
       "Triggerid": 80007,
+      "Triggername": "新手引導-編隊第四步觸發",
       "Triggertype": 300,
       "Triggerparm": "8030",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8040\"}",
       "Resulttype": 2,
       "Resultparm": "8040",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第四步觸發"
-      }
+      "Nazo": 0
     },
     "80008": {
       "Cuid": 80008,
       "Triggerid": 80008,
+      "Triggername": "新手引導-編隊第四步完成",
       "Triggertype": 102,
       "Triggerparm": "BtnOk",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8040\"}",
       "Resulttype": 3,
       "Resultparm": "8040",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第四步完成"
-      }
+      "Nazo": 0
     },
     "80009": {
       "Cuid": 80009,
       "Triggerid": 80009,
+      "Triggername": "新手引導-編隊第五步觸發",
       "Triggertype": 100,
       "Triggerparm": "1100;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8050\"}",
       "Resulttype": 2,
       "Resultparm": "8050",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第五步觸發"
-      }
+      "Nazo": 0
     },
     "80010": {
       "Cuid": 80010,
       "Triggerid": 80010,
+      "Triggername": "新手引導-編隊第五步完成",
       "Triggertype": 102,
       "Triggerparm": "arrow",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"8050\"}",
       "Resulttype": 3,
       "Resultparm": "8050",
-      "LangStringTable": {
-        "Triggername": "新手引導-編隊第五步完成"
-      }
+      "Nazo": 0
     },
     "90001": {
       "Cuid": 90001,
       "Triggerid": 90001,
+      "Triggername": "新手引導-觸發大地圖引導組",
       "Triggertype": 100,
       "Triggerparm": "100;1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":2,\"relation\":\"=\",\"value\":\"80\"}",
       "Resulttype": 1,
       "Resultparm": "90",
-      "LangStringTable": {
-        "Triggername": "新手引導-觸發大地圖引導組"
-      }
+      "Nazo": 0
     },
     "90002": {
       "Cuid": 90002,
       "Triggerid": 90002,
+      "Triggername": "新手引導-大地圖第一步完成",
       "Triggertype": 102,
       "Triggerparm": "main_1_function_icon_combat",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9010\"}",
       "Resulttype": 3,
       "Resultparm": "9010",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第一步完成"
-      }
+      "Nazo": 0
     },
     "90003": {
       "Cuid": 90003,
       "Triggerid": 90003,
+      "Triggername": "新手引導-大地圖第二步觸發",
       "Triggertype": 100,
       "Triggerparm": "400;0",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9020\"}",
       "Resulttype": 2,
       "Resultparm": "9020",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第二步觸發"
-      }
+      "Nazo": 0
     },
     "90004": {
       "Cuid": 90004,
       "Triggerid": 90004,
+      "Triggername": "新手引導-大地圖第二步完成",
       "Triggertype": 102,
       "Triggerparm": "7",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9020\"}",
       "Resulttype": 3,
       "Resultparm": "9020",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第二步完成"
-      }
+      "Nazo": 0
     },
     "90005": {
       "Cuid": 90005,
       "Triggerid": 90005,
+      "Triggername": "新手引導-大地圖第三步觸發",
       "Triggertype": 400,
       "Triggerparm": "0",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9030\"}",
       "Resulttype": 2,
       "Resultparm": "9030",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第三步觸發"
-      }
+      "Nazo": 0
     },
     "90006": {
       "Cuid": 90006,
       "Triggerid": 90006,
+      "Triggername": "新手引導-大地圖第三步完成",
       "Triggertype": 102,
       "Triggerparm": "id:7001   TagPos:1   ",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9030\"}",
       "Resulttype": 3,
       "Resultparm": "9030",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第三步完成"
-      }
+      "Nazo": 0
     },
     "90007": {
       "Cuid": 90007,
       "Triggerid": 90007,
+      "Triggername": "新手引導-大地圖第四步觸發",
       "Triggertype": 400,
       "Triggerparm": "1",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9040\"}",
       "Resulttype": 2,
       "Resultparm": "9040",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第四步觸發"
-      }
+      "Nazo": 0
     },
     "90008": {
       "Cuid": 90008,
       "Triggerid": 90008,
+      "Triggername": "新手引導-大地圖第四步完成",
       "Triggertype": 102,
       "Triggerparm": "map_1_stage_info_button_r_01",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9040\"}",
       "Resulttype": 3,
       "Resultparm": "9040",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第四步完成"
-      }
+      "Nazo": 0
     },
     "90009": {
       "Cuid": 90009,
       "Triggerid": 90009,
+      "Triggername": "新手引導-大地圖第五步觸發",
       "Triggertype": 100,
       "Triggerparm": "402;0",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9050\"}",
       "Resulttype": 2,
       "Resultparm": "9050",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第五步觸發"
-      }
+      "Nazo": 0
     },
     "90010": {
       "Cuid": 90010,
       "Triggerid": 90010,
+      "Triggername": "新手引導-大地圖第五步完成",
       "Triggertype": 102,
       "Triggerparm": "button_Start_SLG",
-      "Triggerconditionsrelation": null,
+      "Triggerconditionsrelation": "",
       "Triggerconditions": "{\"type\":3,\"relation\":\"=\",\"value\":\"9050\"}",
       "Resulttype": 3,
       "Resultparm": "9050",
-      "LangStringTable": {
-        "Triggername": "新手引導-大地圖第五步完成"
-      }
+      "Nazo": 0
     }
   }
 }

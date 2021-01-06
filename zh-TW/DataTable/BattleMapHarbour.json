@@ -6,27 +6,26 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第三港",
       "Completereward": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 0,
       "Tagfixpos": "{ \"x\":0,\"y\":0}",
-      "Originalmapsize": "3300,1392",
+      "Originalmapsize": "3300,1500",
       "Expandlimit": 130,
       "Startlimit": 90,
       "Distortlimit": 90,
       "Resourcefolder": "1703",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第三港"
-      }
+      "Nazo": 0
     },
     "1706": {
       "Cuid": 1706,
@@ -34,13 +33,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第六港",
       "Completereward": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 0,
@@ -52,9 +52,7 @@
       "Resourcefolder": "1706",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第六港"
-      }
+      "Nazo": 0
     },
     "1708": {
       "Cuid": 1708,
@@ -62,13 +60,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第八港",
       "Completereward": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 0,
@@ -80,9 +79,7 @@
       "Resourcefolder": "1708",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第八港"
-      }
+      "Nazo": 0
     },
     "1802": {
       "Cuid": 1802,
@@ -90,13 +87,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第十一港",
       "Completereward": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 1,
@@ -108,9 +106,7 @@
       "Resourcefolder": "1802",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第十一港"
-      }
+      "Nazo": 0
     },
     "1803": {
       "Cuid": 1803,
@@ -118,13 +114,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第十二港",
       "Completereward": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 1,
@@ -136,9 +133,7 @@
       "Resourcefolder": "1803",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第十二港"
-      }
+      "Nazo": 0
     },
     "1804": {
       "Cuid": 1804,
@@ -146,13 +141,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第十三港",
       "Completereward": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240007,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 1,
@@ -164,9 +160,7 @@
       "Resourcefolder": "1804",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第十三港"
-      }
+      "Nazo": 0
     },
     "1805": {
       "Cuid": 1805,
@@ -174,13 +168,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第十四港",
       "Completereward": [
-        "1,2,10000",
-        "1,240021,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240021,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 1,
@@ -192,9 +187,7 @@
       "Resourcefolder": "1805",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第十四港"
-      }
+      "Nazo": 0
     },
     "1806": {
       "Cuid": 1806,
@@ -202,13 +195,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第十五港",
       "Completereward": [
-        "1,2,10000",
-        "1,240021,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240021,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 0,
@@ -220,9 +214,7 @@
       "Resourcefolder": "1806",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第十五港"
-      }
+      "Nazo": 0
     },
     "1807": {
       "Cuid": 1807,
@@ -230,13 +222,14 @@
       "Level": 1,
       "Limit": 0,
       "Partynum": 3,
+      "Harbournamedesc": "大漁祭-第十六港",
       "Completereward": [
-        "1,2,10000",
-        "1,240021,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Completerewardshow": [
-        "1,2,10000",
-        "1,240021,1"
+        "1,2,100000",
+        "1,135000,500"
       ],
       "Bgm": "slg_main",
       "Tagpos": 1,
@@ -248,9 +241,7 @@
       "Resourcefolder": "1807",
       "Resourcetype": 2,
       "Helpid": 0,
-      "LangStringTable": {
-        "Harbournamedesc": "大漁祭-第十六港"
-      }
+      "Nazo": 0
     }
   }
 }

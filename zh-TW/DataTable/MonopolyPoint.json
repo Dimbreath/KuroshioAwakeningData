@@ -5,26 +5,24 @@
       "Floorid": 1,
       "Gridid": 1,
       "Eventtype": 0,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 1,
       "Mapasset": "activity_1_tycoon_checkerboard_0",
+      "Desc": "",
       "Story": "8102",
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Nazo": 0
     },
     "4294967298": {
       "Cuid": 4294967298,
       "Floorid": 1,
       "Gridid": 2,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 2,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967299": {
       "Cuid": 4294967299,
@@ -34,23 +32,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 3,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967300": {
       "Cuid": 4294967300,
       "Floorid": 1,
       "Gridid": 4,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 4,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967301": {
       "Cuid": 4294967301,
@@ -60,10 +56,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 5,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967302": {
       "Cuid": 4294967302,
@@ -73,10 +68,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 6,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967303": {
       "Cuid": 4294967303,
@@ -86,23 +80,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 12,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967304": {
       "Cuid": 4294967304,
       "Floorid": 1,
       "Gridid": 8,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 18,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967305": {
       "Cuid": 4294967305,
@@ -112,23 +104,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 24,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967306": {
       "Cuid": 4294967306,
       "Floorid": 1,
       "Gridid": 10,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 23,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967307": {
       "Cuid": 4294967307,
@@ -138,10 +128,9 @@
       "Eventcontent": "1,2,40000",
       "Mapid": 22,
       "Mapasset": "activity_1_tycoon_checkerboard_4",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "從海岸上撿的破舊探測儀竟然有了強烈反應……！發現了%s"
-      }
+      "Desc": "從海岸上撿的破舊探測儀竟然有了強烈反應……！發現了%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967308": {
       "Cuid": 4294967308,
@@ -151,10 +140,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 28,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967309": {
       "Cuid": 4294967309,
@@ -164,23 +152,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 34,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967310": {
       "Cuid": 4294967310,
       "Floorid": 1,
       "Gridid": 14,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 33,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967311": {
       "Cuid": 4294967311,
@@ -190,10 +176,9 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 32,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967312": {
       "Cuid": 4294967312,
@@ -203,10 +188,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 31,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967313": {
       "Cuid": 4294967313,
@@ -216,23 +200,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 25,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967314": {
       "Cuid": 4294967314,
       "Floorid": 1,
       "Gridid": 18,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 19,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967315": {
       "Cuid": 4294967315,
@@ -242,36 +224,33 @@
       "Eventcontent": "1,3,50",
       "Mapid": 13,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "4294967316": {
       "Cuid": 4294967316,
       "Floorid": 1,
       "Gridid": 20,
       "Eventtype": 5,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 7,
       "Mapasset": "activity_1_tycoon_checkerboard_5",
+      "Desc": "收下朱諾贏得的物資並愉快的進入下一層",
       "Story": "8103",
-      "LangStringTable": {
-        "Desc": "收下朱諾贏得的物資並愉快地進入下一層"
-      }
+      "Nazo": 0
     },
     "8589934593": {
       "Cuid": 8589934593,
       "Floorid": 2,
       "Gridid": 1,
       "Eventtype": 0,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 1,
       "Mapasset": "activity_1_tycoon_checkerboard_0",
+      "Desc": "",
       "Story": "8104,8105",
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Nazo": 0
     },
     "8589934594": {
       "Cuid": 8589934594,
@@ -281,10 +260,9 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 2,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934595": {
       "Cuid": 8589934595,
@@ -294,23 +272,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 3,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934596": {
       "Cuid": 8589934596,
       "Floorid": 2,
       "Gridid": 4,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 4,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934597": {
       "Cuid": 8589934597,
@@ -320,10 +296,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 5,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934598": {
       "Cuid": 8589934598,
@@ -333,36 +308,33 @@
       "Eventcontent": "1,3,50",
       "Mapid": 6,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934599": {
       "Cuid": 8589934599,
       "Floorid": 2,
       "Gridid": 7,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 12,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934600": {
       "Cuid": 8589934600,
       "Floorid": 2,
       "Gridid": 8,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 18,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934601": {
       "Cuid": 8589934601,
@@ -372,36 +344,33 @@
       "Eventcontent": "1,3,50",
       "Mapid": 24,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934602": {
       "Cuid": 8589934602,
       "Floorid": 2,
       "Gridid": 10,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 30,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934603": {
       "Cuid": 8589934603,
       "Floorid": 2,
       "Gridid": 11,
       "Eventtype": 4,
-      "Eventcontent": "1,240206,10",
+      "Eventcontent": "1,145001,10",
       "Mapid": 36,
       "Mapasset": "activity_1_tycoon_checkerboard_4",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "打遊戲隨機遇到的隊友居然是大和，組隊獲勝後被贈送了%s"
-      }
+      "Desc": "玩遊戲隨機的隊友居然是大和，組隊獲勝後被贈送了%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934604": {
       "Cuid": 8589934604,
@@ -411,36 +380,33 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 35,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934605": {
       "Cuid": 8589934605,
       "Floorid": 2,
       "Gridid": 13,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 34,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934606": {
       "Cuid": 8589934606,
       "Floorid": 2,
       "Gridid": 14,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 33,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934607": {
       "Cuid": 8589934607,
@@ -450,23 +416,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 32,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934608": {
       "Cuid": 8589934608,
       "Floorid": 2,
       "Gridid": 16,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 31,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934609": {
       "Cuid": 8589934609,
@@ -476,10 +440,9 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 25,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934610": {
       "Cuid": 8589934610,
@@ -489,23 +452,21 @@
       "Eventcontent": "1,3,50",
       "Mapid": 19,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934611": {
       "Cuid": 8589934611,
       "Floorid": 2,
       "Gridid": 19,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 13,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934612": {
       "Cuid": 8589934612,
@@ -515,23 +476,21 @@
       "Eventcontent": "1,3,50",
       "Mapid": 7,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934613": {
       "Cuid": 8589934613,
       "Floorid": 2,
       "Gridid": 21,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 8,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934614": {
       "Cuid": 8589934614,
@@ -541,49 +500,45 @@
       "Eventcontent": "1,135000,200",
       "Mapid": 15,
       "Mapasset": "activity_1_tycoon_checkerboard_4",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "從海灘垃圾裡撿來的探測器竟然能用，還幫你找到了%s"
-      }
+      "Desc": "從海灘垃圾裡撿來的探測器竟然能用，還幫你找到了%s",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934615": {
       "Cuid": 8589934615,
       "Floorid": 2,
       "Gridid": 23,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 22,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "8589934616": {
       "Cuid": 8589934616,
       "Floorid": 2,
       "Gridid": 24,
       "Eventtype": 5,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 29,
       "Mapasset": "activity_1_tycoon_checkerboard_6",
+      "Desc": "收下朱比特贏得的物資並愉快的進入下一層",
       "Story": "8106",
-      "LangStringTable": {
-        "Desc": "收下朱比特贏得的物資並愉快地進入下一層"
-      }
+      "Nazo": 0
     },
     "12884901889": {
       "Cuid": 12884901889,
       "Floorid": 3,
       "Gridid": 1,
       "Eventtype": 0,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 1,
       "Mapasset": "activity_1_tycoon_checkerboard_0",
+      "Desc": "",
       "Story": "8107,8108",
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Nazo": 0
     },
     "12884901890": {
       "Cuid": 12884901890,
@@ -593,36 +548,33 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 2,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901891": {
       "Cuid": 12884901891,
       "Floorid": 3,
       "Gridid": 3,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 3,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901892": {
       "Cuid": 12884901892,
       "Floorid": 3,
       "Gridid": 4,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 4,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901893": {
       "Cuid": 12884901893,
@@ -632,10 +584,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 5,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901894": {
       "Cuid": 12884901894,
@@ -645,10 +596,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 12,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901895": {
       "Cuid": 12884901895,
@@ -658,23 +608,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 13,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901896": {
       "Cuid": 12884901896,
       "Floorid": 3,
       "Gridid": 8,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 14,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901897": {
       "Cuid": 12884901897,
@@ -684,49 +632,45 @@
       "Eventcontent": "1,3,50",
       "Mapid": 21,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901898": {
       "Cuid": 12884901898,
       "Floorid": 3,
       "Gridid": 10,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 20,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901899": {
       "Cuid": 12884901899,
       "Floorid": 3,
       "Gridid": 11,
       "Eventtype": 4,
-      "Eventcontent": "1,240210,10",
+      "Eventcontent": "1,145001,10",
       "Mapid": 19,
       "Mapasset": "activity_1_tycoon_checkerboard_4",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "居然被一支銀翼的機械兵運輸隊誤認成物資收件人，莫名其妙獲得了%s"
-      }
+      "Desc": "居然被運輸隊誤認成物資收件人，莫名其妙獲得了%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901900": {
       "Cuid": 12884901900,
       "Floorid": 3,
       "Gridid": 12,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 26,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901901": {
       "Cuid": 12884901901,
@@ -736,49 +680,45 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 33,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901902": {
       "Cuid": 12884901902,
       "Floorid": 3,
       "Gridid": 14,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 34,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901903": {
       "Cuid": 12884901903,
       "Floorid": 3,
       "Gridid": 15,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 35,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901904": {
       "Cuid": 12884901904,
       "Floorid": 3,
       "Gridid": 16,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 42,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901905": {
       "Cuid": 12884901905,
@@ -788,23 +728,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 41,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901906": {
       "Cuid": 12884901906,
       "Floorid": 3,
       "Gridid": 18,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 40,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901907": {
       "Cuid": 12884901907,
@@ -814,10 +752,9 @@
       "Eventcontent": "1,3,50",
       "Mapid": 47,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901908": {
       "Cuid": 12884901908,
@@ -827,23 +764,21 @@
       "Eventcontent": "1,3,50",
       "Mapid": 46,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901909": {
       "Cuid": 12884901909,
       "Floorid": 3,
       "Gridid": 21,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 45,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901910": {
       "Cuid": 12884901910,
@@ -853,23 +788,21 @@
       "Eventcontent": "1,240205,1",
       "Mapid": 44,
       "Mapasset": "activity_1_tycoon_checkerboard_4",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在海上巡航時遇到了神秘的空投……！獲得了%s"
-      }
+      "Desc": "在海上巡航時遇到了神秘的空投……！獲得了%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901911": {
       "Cuid": 12884901911,
       "Floorid": 3,
       "Gridid": 23,
       "Eventtype": 1,
-      "Eventcontent": null,
+      "Eventcontent": "1,2,10000",
       "Mapid": 43,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901912": {
       "Cuid": 12884901912,
@@ -879,36 +812,33 @@
       "Eventcontent": "1,3,50",
       "Mapid": 36,
       "Mapasset": "activity_1_tycoon_checkerboard_3",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s"
-      }
+      "Desc": "在基地附近截獲了一支小型機械兵運輸隊，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901913": {
       "Cuid": 12884901913,
       "Floorid": 3,
       "Gridid": 25,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 29,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901914": {
       "Cuid": 12884901914,
       "Floorid": 3,
       "Gridid": 26,
       "Eventtype": 2,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 22,
       "Mapasset": "activity_1_tycoon_checkerboard_2",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": null
-      }
+      "Desc": "",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901915": {
       "Cuid": 12884901915,
@@ -918,23 +848,21 @@
       "Eventcontent": "1,2,10000",
       "Mapid": 15,
       "Mapasset": "activity_1_tycoon_checkerboard_1",
-      "Story": null,
-      "LangStringTable": {
-        "Desc": "在神代會社的集市上抽中了一等簽，獲得%s"
-      }
+      "Desc": "在神代會社的集市上抽中了一等簽，獲得%s",
+      "Story": "",
+      "Nazo": 0
     },
     "12884901916": {
       "Cuid": 12884901916,
       "Floorid": 3,
       "Gridid": 28,
       "Eventtype": 5,
-      "Eventcontent": null,
+      "Eventcontent": "",
       "Mapid": 8,
       "Mapasset": "activity_1_tycoon_checkerboard_5",
+      "Desc": "收下親潮贏得的物資並愉快的再次挑戰",
       "Story": "8109,8110",
-      "LangStringTable": {
-        "Desc": "收下親潮贏得的物資並愉快地再次挑戰"
-      }
+      "Nazo": 0
     }
   }
 }

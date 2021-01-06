@@ -19,7 +19,8 @@
       "Continent6": 2,
       "Landtag": 0,
       "Harbourtag": 0,
-      "Menulist": 1
+      "Menulist": 1,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -40,7 +41,8 @@
       "Continent6": 1,
       "Landtag": 1,
       "Harbourtag": 0,
-      "Menulist": 1
+      "Menulist": 1,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -61,7 +63,8 @@
       "Continent6": 1,
       "Landtag": 0,
       "Harbourtag": 1,
-      "Menulist": 1
+      "Menulist": 1,
+      "Nazo": 0
     }
   }
 }

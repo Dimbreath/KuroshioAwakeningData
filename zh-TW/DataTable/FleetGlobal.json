@@ -3,74 +3,65 @@
     "join_fleet_lv": {
       "Cuid": "join_fleet_lv",
       "Key": "join_fleet_lv",
-      "LangStringTable": {
-        "Value": "1",
-        "Remarks": "大艦隊功能開啟時的指揮官等級"
-      }
+      "Value": "1",
+      "Remarks": "大艦隊功能開啟時的指揮官等級",
+      "Nazo": 0
     },
     "set_up_fleet": {
       "Cuid": "set_up_fleet",
       "Key": "set_up_fleet",
-      "LangStringTable": {
-        "Value": "3;0",
-        "Remarks": "創立艦隊的條件，允許存在多個（指揮官等級，戒備值）"
-      }
+      "Value": "3;0",
+      "Remarks": "創立艦隊的條件，允許存在多個（指揮官等級，戒備值）",
+      "Nazo": 0
     },
     "set_up_consume": {
       "Cuid": "set_up_consume",
       "Key": "set_up_consume",
-      "LangStringTable": {
-        "Value": "1,1,500",
-        "Remarks": "創立艦隊的消耗（消耗基本形式）"
-      }
+      "Value": "1,1,500",
+      "Remarks": "創立艦隊的消耗（消耗基本形式）",
+      "Nazo": 0
     },
     "fleet_tag": {
       "Cuid": "fleet_tag",
       "Key": "fleet_tag",
-      "LangStringTable": {
-        "Value": "考據黨;肝爆;話癆;蘿莉控;萌新;顏即王道;氪爆;鹹魚",
-        "Remarks": "艦隊Tag配置，最長4個字，最多8個TAG"
-      }
+      "Value": "考據黨;肝爆;話癆;蘿莉控;萌新;顏即王道;氪爆;鹹魚",
+      "Remarks": "艦隊Tag配置，最長4個字，最多8個TAG",
+      "Nazo": 0
     },
     "fleet_info_max": {
       "Cuid": "fleet_info_max",
       "Key": "fleet_info_max",
-      "LangStringTable": {
-        "Value": "50",
-        "Remarks": "單個艦隊的申請資訊最大儲存數"
-      }
+      "Value": "50",
+      "Remarks": "單個艦隊的申請資訊最大儲存數",
+      "Nazo": 0
     },
     "fleet_member_max": {
       "Cuid": "fleet_member_max",
       "Key": "fleet_member_max",
-      "LangStringTable": {
-        "Value": "30",
-        "Remarks": "單個艦隊可容納的成員數量"
-      }
+      "Value": "30",
+      "Remarks": "單個艦隊可容納的成員數量",
+      "Nazo": 0
     },
     "fleet_fresh_cd": {
       "Cuid": "fleet_fresh_cd",
       "Key": "fleet_fresh_cd",
-      "LangStringTable": {
-        "Value": "3",
-        "Remarks": "艦隊列表更新CD（單位為秒）"
-      }
+      "Value": "3",
+      "Remarks": "艦隊列表更新CD（單位為秒）",
+      "Nazo": 0
     },
     "fleetBossAlter": {
       "Cuid": "fleetBossAlter",
       "Key": "fleetBossAlter",
-      "LangStringTable": {
-        "Value": "15",
-        "Remarks": "司令AFK時間，單位為天（工會進入【流轉】狀態的前置條件）"
-      }
+      "Value": "15",
+      "Remarks": "司令AFK時間，單位為天（工會進入【流轉】狀態的前置條件）",
+      "Nazo": 0
     },
     "transferPowerCd": {
       "Cuid": "transferPowerCd",
       "Key": "transferPowerCd",
-      "LangStringTable": {
-        "Value": "72",
-        "Remarks": "會長轉移行為CD（會長身份不滿X小時時，不可轉移給下一人"
-      }
+      "Value": "72",
+      "Remarks": "會長轉移行為CD（會長身份不滿X小時時，不可轉移給下一人",
+      "Nazo": 0
     }
   }
 }

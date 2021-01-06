@@ -5,6 +5,7 @@
       "Id": 1001,
       "Roomtype": 1,
       "Weight": 1,
+      "Roomname": "宿舍一號",
       "Roomlocation": "17.5,81.8",
       "Smallroomlocation": "196,-798",
       "Floorarea": 1009,
@@ -16,17 +17,16 @@
       "Wallpaperarea1": 1007,
       "Wallpaperarea2": 1008,
       "Unlock": 1,
-      "Precondi": null,
-      "Cost": null,
-      "LangStringTable": {
-        "Roomname": "宿舍一號"
-      }
+      "Precondi": [],
+      "Cost": "",
+      "Nazo": 0
     },
     "1002": {
       "Cuid": 1002,
       "Id": 1002,
       "Roomtype": 1,
       "Weight": 3,
+      "Roomname": "宿舍二號",
       "Roomlocation": "-8,37.6",
       "Smallroomlocation": "-57,-1236",
       "Floorarea": 1001,
@@ -42,15 +42,14 @@
         "10101,20"
       ],
       "Cost": "1,1,500",
-      "LangStringTable": {
-        "Roomname": "宿舍二號"
-      }
+      "Nazo": 0
     },
     "1003": {
       "Cuid": 1003,
       "Id": 1003,
       "Roomtype": 1,
       "Weight": 4,
+      "Roomname": "宿舍三號",
       "Roomlocation": "-27,6",
       "Smallroomlocation": "-248,-1545",
       "Floorarea": 1001,
@@ -66,15 +65,14 @@
         "10101,30"
       ],
       "Cost": "1,1,750",
-      "LangStringTable": {
-        "Roomname": "宿舍三號"
-      }
+      "Nazo": 0
     },
     "1004": {
       "Cuid": 1004,
       "Id": 1004,
       "Roomtype": 1,
       "Weight": 5,
+      "Roomname": "宿舍四號",
       "Roomlocation": "21,-2.5",
       "Smallroomlocation": "228,-1633",
       "Floorarea": 1001,
@@ -90,15 +88,14 @@
         "10101,40"
       ],
       "Cost": "1,1,750",
-      "LangStringTable": {
-        "Roomname": "宿舍四號"
-      }
+      "Nazo": 0
     },
     "1005": {
       "Cuid": 1005,
       "Id": 1005,
       "Roomtype": 1,
       "Weight": 6,
+      "Roomname": "宿舍五號",
       "Roomlocation": "-25,-32",
       "Smallroomlocation": "-231,-1925",
       "Floorarea": 1001,
@@ -114,15 +111,14 @@
         "10101,50"
       ],
       "Cost": "1,1,1000",
-      "LangStringTable": {
-        "Roomname": "宿舍五號"
-      }
+      "Nazo": 0
     },
     "1006": {
       "Cuid": 1006,
       "Id": 1006,
       "Roomtype": 1,
       "Weight": 7,
+      "Roomname": "宿舍六號",
       "Roomlocation": "6,-50",
       "Smallroomlocation": "79,-2105",
       "Floorarea": 1001,
@@ -138,15 +134,14 @@
         "10101,50"
       ],
       "Cost": "1,1,1000",
-      "LangStringTable": {
-        "Roomname": "宿舍六號"
-      }
+      "Nazo": 0
     },
     "1007": {
       "Cuid": 1007,
       "Id": 1007,
       "Roomtype": 1,
       "Weight": 8,
+      "Roomname": "宿舍七號",
       "Roomlocation": "38,-43",
       "Smallroomlocation": "401,-2034",
       "Floorarea": 1001,
@@ -162,15 +157,14 @@
         "10101,50"
       ],
       "Cost": "1,1,1000",
-      "LangStringTable": {
-        "Roomname": "宿舍七號"
-      }
+      "Nazo": 0
     },
     "1008": {
       "Cuid": 1008,
       "Id": 1008,
       "Roomtype": 1,
       "Weight": 9,
+      "Roomname": "宿舍八號",
       "Roomlocation": "-29,-110",
       "Smallroomlocation": "-268,-2709",
       "Floorarea": 1001,
@@ -186,15 +180,14 @@
         "10101,50"
       ],
       "Cost": "1,1,1000",
-      "LangStringTable": {
-        "Roomname": "宿舍八號"
-      }
+      "Nazo": 0
     },
     "1009": {
       "Cuid": 1009,
       "Id": 1009,
       "Roomtype": 1,
       "Weight": 10,
+      "Roomname": "宿舍九號",
       "Roomlocation": "30,-104",
       "Smallroomlocation": "321,-2641",
       "Floorarea": 1001,
@@ -210,15 +203,14 @@
         "10101,50"
       ],
       "Cost": "1,1,1000",
-      "LangStringTable": {
-        "Roomname": "宿舍九號"
-      }
+      "Nazo": 0
     },
     "2001": {
       "Cuid": 2001,
       "Id": 2001,
       "Roomtype": 2,
       "Weight": 2,
+      "Roomname": "裝備製作室",
       "Roomlocation": "-31,61",
       "Smallroomlocation": "-284,-1004",
       "Floorarea": 2001,
@@ -230,11 +222,9 @@
       "Wallpaperarea1": 2007,
       "Wallpaperarea2": 2008,
       "Unlock": 1,
-      "Precondi": null,
-      "Cost": null,
-      "LangStringTable": {
-        "Roomname": "裝備製作室"
-      }
+      "Precondi": [],
+      "Cost": "",
+      "Nazo": 0
     }
   }
 }

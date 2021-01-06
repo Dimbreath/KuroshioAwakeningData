@@ -14,12 +14,13 @@
         2
       ],
       "Reward": "1,24,20;1,2,20;4,25,10",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 1,
-      "Defaultid2": "3,3005001,1;3,3000000,16;3,10004,6",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005001,1;13,3000000,16;13,10004,6",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5002": {
       "Cuid": 5002,
@@ -30,14 +31,15 @@
       "Areaid": 5,
       "Fight": 1,
       "Mainid": 5005,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 10,
-      "Defaultid2": "3,3005002,1;3,3000000,33;3,10004,8",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005002,1;13,3000000,33;13,10004,8",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5003": {
       "Cuid": 5003,
@@ -48,14 +50,15 @@
       "Areaid": 5,
       "Fight": 1,
       "Mainid": 5007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
       "Onereward": "1,24,2000;1,2,1000",
       "Prioritylevel": 2,
-      "Defaultid2": "3,3005003,1;3,3000000,16;3,10004,6",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005003,1;13,3000000,16;13,10004,6",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5004": {
       "Cuid": 5004,
@@ -66,14 +69,15 @@
       "Areaid": 5,
       "Fight": 1,
       "Mainid": 5007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 3,
-      "Defaultid2": "3,3005004,1;3,3000000,16;3,10004,6",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005004,1;13,3000000,16;13,10004,6",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5005": {
       "Cuid": 5005,
@@ -89,12 +93,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 9,
-      "Defaultid2": "3,3005005,1;3,3000000,33;3,10004,8",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005005,1;13,3000000,33;13,10004,8",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5006": {
       "Cuid": 5006,
@@ -105,14 +110,15 @@
       "Areaid": 5,
       "Fight": 1,
       "Mainid": 5007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 5,
-      "Defaultid2": "3,3005006,1;3,3000000,16;3,10004,6",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005006,1;13,3000000,16;13,10004,6",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5007": {
       "Cuid": 5007,
@@ -128,12 +134,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 4,
-      "Defaultid2": "3,3005007,1;3,3000000,16;3,10004,6",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005007,1;13,3000000,16;13,10004,6",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5008": {
       "Cuid": 5008,
@@ -144,14 +151,15 @@
       "Areaid": 5,
       "Fight": 1,
       "Mainid": 5005,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 6,
-      "Defaultid2": "3,3005008,1;3,3000000,33;3,10004,8",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005008,1;13,3000000,33;13,10004,8",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5009": {
       "Cuid": 5009,
@@ -162,14 +170,15 @@
       "Areaid": 5,
       "Fight": 1,
       "Mainid": 5005,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 7,
-      "Defaultid2": "3,3005009,1;3,3000000,33;3,10004,8",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005009,1;13,3000000,33;13,10004,8",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "5010": {
       "Cuid": 5010,
@@ -180,14 +189,15 @@
       "Areaid": 5,
       "Fight": 1,
       "Mainid": 5005,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 8,
-      "Defaultid2": "3,3005010,1;3,3000000,33;3,10004,8",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3005010,1;13,3000000,33;13,10004,8",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7001": {
       "Cuid": 7001,
@@ -198,14 +208,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7005,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 13,
-      "Defaultid2": "3,3007001,1;3,3000000,100;3,10004,13",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007001,1;13,3000000,100;13,10004,13",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7002": {
       "Cuid": 7002,
@@ -216,14 +227,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7005,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 17,
-      "Defaultid2": "3,3007002,1;3,3000000,100;3,10004,13",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007002,1;13,3000000,100;13,10004,13",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7003": {
       "Cuid": 7003,
@@ -234,14 +246,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7005,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 21,
-      "Defaultid2": "3,3007003,1;3,3000000,100;3,10004,13",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007003,1;13,3000000,100;13,10004,13",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7004": {
       "Cuid": 7004,
@@ -252,14 +265,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7008,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 29,
-      "Defaultid2": "3,3007004,1;3,3000000,150;3,10004,18",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007004,1;13,3000000,150;13,10004,18",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7005": {
       "Cuid": 7005,
@@ -275,12 +289,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 25,
-      "Defaultid2": "3,3007005,1;3,3000000,100;3,10004,13",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007005,1;13,3000000,100;13,10004,13",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7006": {
       "Cuid": 7006,
@@ -291,14 +306,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 45,
-      "Defaultid2": "3,3007006,1;3,3000000,216;3,10004,23",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007006,1;13,3000000,216;13,10004,23",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7007": {
       "Cuid": 7007,
@@ -309,14 +325,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7008,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 33,
-      "Defaultid2": "3,3007007,1;3,3000000,150;3,10004,18",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007007,1;13,3000000,150;13,10004,18",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7008": {
       "Cuid": 7008,
@@ -332,12 +349,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 37,
-      "Defaultid2": "3,3007008,1;3,3000000,150;3,10004,18",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007008,1;13,3000000,150;13,10004,18",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7009": {
       "Cuid": 7009,
@@ -348,14 +366,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 41,
-      "Defaultid2": "3,3007009,1;3,3000000,216;3,10004,23",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007009,1;13,3000000,216;13,10004,23",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7010": {
       "Cuid": 7010,
@@ -371,12 +390,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 57,
-      "Defaultid2": "3,3007010,1;3,3000000,216;3,10004,23",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007010,1;13,3000000,216;13,10004,23",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7011": {
       "Cuid": 7011,
@@ -387,14 +407,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 53,
-      "Defaultid2": "3,3007011,1;3,3000000,216;3,10004,23",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007011,1;13,3000000,216;13,10004,23",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7012": {
       "Cuid": 7012,
@@ -405,14 +426,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7008,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 49,
-      "Defaultid2": "3,3007012,1;3,3000000,150;3,10004,18",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007012,1;13,3000000,150;13,10004,18",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7013": {
       "Cuid": 7013,
@@ -423,14 +445,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 65,
-      "Defaultid2": "3,3007013,1;3,3000000,283;3,10004,29",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007013,1;13,3000000,283;13,10004,29",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7014": {
       "Cuid": 7014,
@@ -441,14 +464,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 61,
-      "Defaultid2": "3,3007014,1;3,3000000,216;3,10004,23",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007014,1;13,3000000,216;13,10004,23",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7015": {
       "Cuid": 7015,
@@ -459,14 +483,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 77,
-      "Defaultid2": "3,3007015,1;3,3000000,283;3,10004,29",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007015,1;13,3000000,283;13,10004,29",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7016": {
       "Cuid": 7016,
@@ -477,14 +502,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 69,
-      "Defaultid2": "3,3007016,1;3,3000000,283;3,10004,29",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007016,1;13,3000000,283;13,10004,29",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7017": {
       "Cuid": 7017,
@@ -495,14 +521,15 @@
       "Areaid": 7,
       "Fight": 1,
       "Mainid": 7018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 81,
-      "Defaultid2": "3,3007017,1;3,3000000,283;3,10004,29",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007017,1;13,3000000,283;13,10004,29",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "7018": {
       "Cuid": 7018,
@@ -518,12 +545,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 73,
-      "Defaultid2": "3,3007018,1;3,3000000,283;3,10004,29",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3007018,1;13,3000000,283;13,10004,29",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8001": {
       "Cuid": 8001,
@@ -534,14 +562,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8002,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 14,
-      "Defaultid2": "3,3008001,1;3,3000000,83;3,10004,12",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008001,1;13,3000000,83;13,10004,12",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8002": {
       "Cuid": 8002,
@@ -557,12 +586,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 22,
-      "Defaultid2": "3,3008002,1;3,3000000,83;3,10004,12",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008002,1;13,3000000,83;13,10004,12",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8003": {
       "Cuid": 8003,
@@ -573,14 +603,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8002,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 18,
-      "Defaultid2": "3,3008003,1;3,3000000,83;3,10004,12",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008003,1;13,3000000,83;13,10004,12",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8004": {
       "Cuid": 8004,
@@ -591,14 +622,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 46,
-      "Defaultid2": "3,3008004,1;3,3000000,200;3,10004,22",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008004,1;13,3000000,200;13,10004,22",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8005": {
       "Cuid": 8005,
@@ -609,14 +641,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8002,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 26,
-      "Defaultid2": "3,3008005,1;3,3000000,83;3,10004,12",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008005,1;13,3000000,83;13,10004,12",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8006": {
       "Cuid": 8006,
@@ -627,14 +660,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 30,
-      "Defaultid2": "3,3008006,1;3,3000000,116;3,10004,15",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008006,1;13,3000000,116;13,10004,15",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8007": {
       "Cuid": 8007,
@@ -650,12 +684,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 50,
-      "Defaultid2": "3,3008007,1;3,3000000,200;3,10004,22",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008007,1;13,3000000,200;13,10004,22",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8008": {
       "Cuid": 8008,
@@ -666,14 +701,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 54,
-      "Defaultid2": "3,3008008,1;3,3000000,200;3,10004,22",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008008,1;13,3000000,200;13,10004,22",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8009": {
       "Cuid": 8009,
@@ -684,14 +720,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 58,
-      "Defaultid2": "3,3008009,1;3,3000000,300;3,10004,30",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008009,1;13,3000000,300;13,10004,30",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8010": {
       "Cuid": 8010,
@@ -707,12 +744,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 34,
-      "Defaultid2": "3,3008010,1;3,3000000,116;3,10004,15",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008010,1;13,3000000,116;13,10004,15",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8011": {
       "Cuid": 8011,
@@ -723,14 +761,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 38,
-      "Defaultid2": "3,3008011,1;3,3000000,116;3,10004,15",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008011,1;13,3000000,116;13,10004,15",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8012": {
       "Cuid": 8012,
@@ -741,14 +780,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 70,
-      "Defaultid2": "3,3008012,1;3,3000000,200;3,10004,22",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008012,1;13,3000000,200;13,10004,22",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8013": {
       "Cuid": 8013,
@@ -759,14 +799,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 78,
-      "Defaultid2": "3,3008013,1;3,3000000,200;3,10004,22",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008013,1;13,3000000,200;13,10004,22",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8014": {
       "Cuid": 8014,
@@ -782,12 +823,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 74,
-      "Defaultid2": "3,3008014,1;3,3000000,300;3,10004,30",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008014,1;13,3000000,300;13,10004,30",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8015": {
       "Cuid": 8015,
@@ -798,14 +840,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 42,
-      "Defaultid2": "3,3008015,1;3,3000000,116;3,10004,15",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008015,1;13,3000000,116;13,10004,15",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8016": {
       "Cuid": 8016,
@@ -816,14 +859,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 66,
-      "Defaultid2": "3,3008016,1;3,3000000,300;3,10004,30",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008016,1;13,3000000,300;13,10004,30",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8017": {
       "Cuid": 8017,
@@ -834,14 +878,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 82,
-      "Defaultid2": "3,3008017,1;3,3000000,300;3,10004,30",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008017,1;13,3000000,300;13,10004,30",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "8018": {
       "Cuid": 8018,
@@ -852,14 +897,15 @@
       "Areaid": 8,
       "Fight": 1,
       "Mainid": 8014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 62,
-      "Defaultid2": "3,3008018,1;3,3000000,300;3,10004,30",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3008018,1;13,3000000,300;13,10004,30",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9001": {
       "Cuid": 9001,
@@ -870,14 +916,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9003,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 11,
-      "Defaultid2": "3,3009001,1;3,3000000,66;3,10004,11",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009001,1;13,3000000,66;13,10004,11",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9002": {
       "Cuid": 9002,
@@ -888,14 +935,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9003,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 15,
-      "Defaultid2": "3,3009002,1;3,3000000,66;3,10004,11",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009002,1;13,3000000,66;13,10004,11",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9003": {
       "Cuid": 9003,
@@ -911,12 +959,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 19,
-      "Defaultid2": "3,3009003,1;3,3000000,66;3,10004,11",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009003,1;13,3000000,66;13,10004,11",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9004": {
       "Cuid": 9004,
@@ -927,14 +976,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9003,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 23,
-      "Defaultid2": "3,3009004,1;3,3000000,66;3,10004,11",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009004,1;13,3000000,66;13,10004,11",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9005": {
       "Cuid": 9005,
@@ -945,14 +995,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9012,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 43,
-      "Defaultid2": "3,3009005,1;3,3000000,233;3,10004,25",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009005,1;13,3000000,233;13,10004,25",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9006": {
       "Cuid": 9006,
@@ -963,14 +1014,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 27,
-      "Defaultid2": "3,3009006,1;3,3000000,166;3,10004,19",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009006,1;13,3000000,166;13,10004,19",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9007": {
       "Cuid": 9007,
@@ -981,14 +1033,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 47,
-      "Defaultid2": "3,3009007,1;3,3000000,266;3,10004,27",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009007,1;13,3000000,266;13,10004,27",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9008": {
       "Cuid": 9008,
@@ -999,14 +1052,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 31,
-      "Defaultid2": "3,3009008,1;3,3000000,166;3,10004,19",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009008,1;13,3000000,166;13,10004,19",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9009": {
       "Cuid": 9009,
@@ -1017,14 +1071,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 35,
-      "Defaultid2": "3,3009009,1;3,3000000,166;3,10004,19",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009009,1;13,3000000,166;13,10004,19",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9010": {
       "Cuid": 9010,
@@ -1035,14 +1090,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9012,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 51,
-      "Defaultid2": "3,3009010,1;3,3000000,233;3,10004,25",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009010,1;13,3000000,233;13,10004,25",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9011": {
       "Cuid": 9011,
@@ -1053,14 +1109,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9012,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 67,
-      "Defaultid2": "3,3009011,1;3,3000000,233;3,10004,25",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009011,1;13,3000000,233;13,10004,25",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9012": {
       "Cuid": 9012,
@@ -1076,12 +1133,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 59,
-      "Defaultid2": "3,3009012,1;3,3000000,233;3,10004,25",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009012,1;13,3000000,233;13,10004,25",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9013": {
       "Cuid": 9013,
@@ -1092,14 +1150,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9012,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 63,
-      "Defaultid2": "3,3009013,1;3,3000000,233;3,10004,25",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009013,1;13,3000000,233;13,10004,25",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9014": {
       "Cuid": 9014,
@@ -1115,12 +1174,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 39,
-      "Defaultid2": "3,3009014,1;3,3000000,166;3,10004,19",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009014,1;13,3000000,166;13,10004,19",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9015": {
       "Cuid": 9015,
@@ -1131,14 +1191,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 55,
-      "Defaultid2": "3,3009015,1;3,3000000,266;3,10004,27",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009015,1;13,3000000,266;13,10004,27",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9016": {
       "Cuid": 9016,
@@ -1149,14 +1210,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 75,
-      "Defaultid2": "3,3009016,1;3,3000000,266;3,10004,27",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009016,1;13,3000000,266;13,10004,27",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9017": {
       "Cuid": 9017,
@@ -1167,14 +1229,15 @@
       "Areaid": 9,
       "Fight": 1,
       "Mainid": 9018,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 79,
-      "Defaultid2": "3,3009017,1;3,3000000,266;3,10004,27",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009017,1;13,3000000,266;13,10004,27",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "9018": {
       "Cuid": 9018,
@@ -1190,12 +1253,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 71,
-      "Defaultid2": "3,3009018,1;3,3000000,266;3,10004,27",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3009018,1;13,3000000,266;13,10004,27",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6001": {
       "Cuid": 6001,
@@ -1206,14 +1270,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6002,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 12,
-      "Defaultid2": "3,3006001,1;3,3000000,50;3,10004,9",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006001,1;13,3000000,50;13,10004,9",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6002": {
       "Cuid": 6002,
@@ -1229,12 +1294,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 16,
-      "Defaultid2": "3,3006002,1;3,3000000,50;3,10004,9",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006002,1;13,3000000,50;13,10004,9",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6003": {
       "Cuid": 6003,
@@ -1245,14 +1311,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 28,
-      "Defaultid2": "3,3006003,1;3,3000000,133;3,10004,16",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006003,1;13,3000000,133;13,10004,16",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6004": {
       "Cuid": 6004,
@@ -1263,14 +1330,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6002,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 20,
-      "Defaultid2": "3,3006004,1;3,3000000,50;3,10004,9",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006004,1;13,3000000,50;13,10004,9",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6005": {
       "Cuid": 6005,
@@ -1281,14 +1349,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6002,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 24,
-      "Defaultid2": "3,3006005,1;3,3000000,50;3,10004,9",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006005,1;13,3000000,50;13,10004,9",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6006": {
       "Cuid": 6006,
@@ -1299,14 +1368,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 32,
-      "Defaultid2": "3,3006006,1;3,3000000,133;3,10004,16",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006006,1;13,3000000,133;13,10004,16",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6007": {
       "Cuid": 6007,
@@ -1322,12 +1392,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 36,
-      "Defaultid2": "3,3006007,1;3,3000000,133;3,10004,16",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006007,1;13,3000000,133;13,10004,16",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6008": {
       "Cuid": 6008,
@@ -1338,14 +1409,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6007,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 40,
-      "Defaultid2": "3,3006008,1;3,3000000,133;3,10004,16",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006008,1;13,3000000,133;13,10004,16",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6009": {
       "Cuid": 6009,
@@ -1356,14 +1428,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 44,
-      "Defaultid2": "3,3006009,1;3,3000000,183;3,10004,20",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006009,1;13,3000000,183;13,10004,20",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6010": {
       "Cuid": 6010,
@@ -1379,12 +1452,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 60,
-      "Defaultid2": "3,3006010,1;3,3000000,250;3,10004,26",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006010,1;13,3000000,250;13,10004,26",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6011": {
       "Cuid": 6011,
@@ -1395,14 +1469,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 68,
-      "Defaultid2": "3,3006011,1;3,3000000,250;3,10004,26",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006011,1;13,3000000,250;13,10004,26",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6012": {
       "Cuid": 6012,
@@ -1413,14 +1488,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 64,
-      "Defaultid2": "3,3006012,1;3,3000000,183;3,10004,20",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006012,1;13,3000000,183;13,10004,20",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6013": {
       "Cuid": 6013,
@@ -1431,14 +1507,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 56,
-      "Defaultid2": "3,3006013,1;3,3000000,183;3,10004,20",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006013,1;13,3000000,183;13,10004,20",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6014": {
       "Cuid": 6014,
@@ -1454,12 +1531,13 @@
         2
       ],
       "Reward": "1,24,5;1,2,5",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 48,
-      "Defaultid2": "3,3006014,1;3,3000000,183;3,10004,20",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006014,1;13,3000000,183;13,10004,20",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6015": {
       "Cuid": 6015,
@@ -1470,14 +1548,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6014,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 52,
-      "Defaultid2": "3,3006015,1;3,3000000,183;3,10004,20",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006015,1;13,3000000,183;13,10004,20",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6016": {
       "Cuid": 6016,
@@ -1488,14 +1567,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 76,
-      "Defaultid2": "3,3006016,1;3,3000000,250;3,10004,26",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006016,1;13,3000000,250;13,10004,26",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6017": {
       "Cuid": 6017,
@@ -1506,14 +1586,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 72,
-      "Defaultid2": "3,3006017,1;3,3000000,250;3,10004,26",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006017,1;13,3000000,250;13,10004,26",
+      "Minimumtime2": 10,
+      "Nazo": 0
     },
     "6018": {
       "Cuid": 6018,
@@ -1524,14 +1605,15 @@
       "Areaid": 6,
       "Fight": 1,
       "Mainid": 6010,
-      "Operatetype": null,
+      "Operatetype": [],
       "Reward": "1,24,1;1,2,1",
-      "Defaultid": null,
+      "Defaultid": "",
       "Minimumtime": 0,
-      "Onereward": null,
+      "Onereward": "",
       "Prioritylevel": 80,
-      "Defaultid2": "3,3006018,1;3,3000000,250;3,10004,26",
-      "Minimumtime2": 10
+      "Defaultid2": "3,3006018,1;13,3000000,250;13,10004,26",
+      "Minimumtime2": 10,
+      "Nazo": 0
     }
   }
 }

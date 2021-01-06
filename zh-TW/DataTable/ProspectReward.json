@@ -3,502 +3,602 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
-      "RewardProportion": 20
+      "RewardProportion": 20,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
-      "RewardProportion": 20
+      "RewardProportion": 20,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
-      "RewardProportion": 20
+      "RewardProportion": 20,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
-      "RewardProportion": 20
+      "RewardProportion": 20,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
-      "RewardProportion": 20
+      "RewardProportion": 20,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
-      "RewardProportion": 15
+      "RewardProportion": 15,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
-      "RewardProportion": 15
+      "RewardProportion": 15,
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
-      "RewardProportion": 15
+      "RewardProportion": 15,
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
-      "RewardProportion": 15
+      "RewardProportion": 15,
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
-      "RewardProportion": 15
+      "RewardProportion": 15,
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Id": 13,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Id": 14,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Id": 15,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Id": 16,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Id": 17,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Id": 18,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
       "Id": 19,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
       "Id": 20,
-      "RewardProportion": 10
+      "RewardProportion": 10,
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
       "Id": 21,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
       "Id": 22,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
       "Id": 23,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
       "Id": 24,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
       "Id": 25,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
       "Id": 26,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
       "Id": 27,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
       "Id": 28,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
       "Id": 29,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
       "Id": 30,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
       "Id": 31,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
       "Id": 32,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
       "Id": 33,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "34": {
       "Cuid": 34,
       "Id": 34,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "35": {
       "Cuid": 35,
       "Id": 35,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
       "Id": 36,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "37": {
       "Cuid": 37,
       "Id": 37,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "38": {
       "Cuid": 38,
       "Id": 38,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "39": {
       "Cuid": 39,
       "Id": 39,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "40": {
       "Cuid": 40,
       "Id": 40,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "41": {
       "Cuid": 41,
       "Id": 41,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "42": {
       "Cuid": 42,
       "Id": 42,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "43": {
       "Cuid": 43,
       "Id": 43,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "44": {
       "Cuid": 44,
       "Id": 44,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "45": {
       "Cuid": 45,
       "Id": 45,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "46": {
       "Cuid": 46,
       "Id": 46,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "47": {
       "Cuid": 47,
       "Id": 47,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "48": {
       "Cuid": 48,
       "Id": 48,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "49": {
       "Cuid": 49,
       "Id": 49,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "50": {
       "Cuid": 50,
       "Id": 50,
-      "RewardProportion": 5
+      "RewardProportion": 5,
+      "Nazo": 0
     },
     "51": {
       "Cuid": 51,
       "Id": 51,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "52": {
       "Cuid": 52,
       "Id": 52,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "53": {
       "Cuid": 53,
       "Id": 53,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "54": {
       "Cuid": 54,
       "Id": 54,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "55": {
       "Cuid": 55,
       "Id": 55,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "56": {
       "Cuid": 56,
       "Id": 56,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "57": {
       "Cuid": 57,
       "Id": 57,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "58": {
       "Cuid": 58,
       "Id": 58,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "59": {
       "Cuid": 59,
       "Id": 59,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "60": {
       "Cuid": 60,
       "Id": 60,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "61": {
       "Cuid": 61,
       "Id": 61,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "62": {
       "Cuid": 62,
       "Id": 62,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "63": {
       "Cuid": 63,
       "Id": 63,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "64": {
       "Cuid": 64,
       "Id": 64,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "65": {
       "Cuid": 65,
       "Id": 65,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "66": {
       "Cuid": 66,
       "Id": 66,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "67": {
       "Cuid": 67,
       "Id": 67,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "68": {
       "Cuid": 68,
       "Id": 68,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "69": {
       "Cuid": 69,
       "Id": 69,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "70": {
       "Cuid": 70,
       "Id": 70,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "71": {
       "Cuid": 71,
       "Id": 71,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "72": {
       "Cuid": 72,
       "Id": 72,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "73": {
       "Cuid": 73,
       "Id": 73,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "74": {
       "Cuid": 74,
       "Id": 74,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "75": {
       "Cuid": 75,
       "Id": 75,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "76": {
       "Cuid": 76,
       "Id": 76,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "77": {
       "Cuid": 77,
       "Id": 77,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "78": {
       "Cuid": 78,
       "Id": 78,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "79": {
       "Cuid": 79,
       "Id": 79,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "80": {
       "Cuid": 80,
       "Id": 80,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "81": {
       "Cuid": 81,
       "Id": 81,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "82": {
       "Cuid": 82,
       "Id": 82,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "83": {
       "Cuid": 83,
       "Id": 83,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "84": {
       "Cuid": 84,
       "Id": 84,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "85": {
       "Cuid": 85,
       "Id": 85,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "86": {
       "Cuid": 86,
       "Id": 86,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "87": {
       "Cuid": 87,
       "Id": 87,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "88": {
       "Cuid": 88,
       "Id": 88,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "89": {
       "Cuid": 89,
       "Id": 89,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "90": {
       "Cuid": 90,
       "Id": 90,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "91": {
       "Cuid": 91,
       "Id": 91,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "92": {
       "Cuid": 92,
       "Id": 92,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "93": {
       "Cuid": 93,
       "Id": 93,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "94": {
       "Cuid": 94,
       "Id": 94,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "95": {
       "Cuid": 95,
       "Id": 95,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "96": {
       "Cuid": 96,
       "Id": 96,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "97": {
       "Cuid": 97,
       "Id": 97,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "98": {
       "Cuid": 98,
       "Id": 98,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "99": {
       "Cuid": 99,
       "Id": 99,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     },
     "100": {
       "Cuid": 100,
       "Id": 100,
-      "RewardProportion": 0
+      "RewardProportion": 0,
+      "Nazo": 0
     }
   }
 }

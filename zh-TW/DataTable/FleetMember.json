@@ -3,42 +3,38 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Title": "司令",
       "Membermax": 1,
       "Admininfo": 1,
       "Adminmember": 1,
-      "LangStringTable": {
-        "Title": "司令"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Title": "副司令",
       "Membermax": 2,
       "Admininfo": 0,
       "Adminmember": 1,
-      "LangStringTable": {
-        "Title": "副司令"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Title": "精英",
       "Membermax": 5,
       "Admininfo": 0,
       "Adminmember": 0,
-      "LangStringTable": {
-        "Title": "精英"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Title": "普通成員",
       "Membermax": 29,
       "Admininfo": 0,
       "Adminmember": 0,
-      "LangStringTable": {
-        "Title": "普通成員"
-      }
+      "Nazo": 0
     }
   }
 }

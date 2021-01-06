@@ -1,247 +1,5 @@
 {
   "Rows": {
-    "10001": {
-      "Cuid": 10001,
-      "Id": 10001,
-      "Platformid": 91,
-      "Rmbqty": 30,
-      "Rmb": 6,
-      "Coinqty": 70,
-      "Icon": "trading_1_dia_icon_1",
-      "Firstextra": 70,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item001",
-      "Commodity": "0",
-      "Item": "1,9,70",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 70,
-      "LangStringTable": {
-        "Productname": "獲取70黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得極少量黑鑽"
-      }
-    },
-    "10002": {
-      "Cuid": 10002,
-      "Id": 10002,
-      "Platformid": 91,
-      "Rmbqty": 120,
-      "Rmb": 25,
-      "Coinqty": 280,
-      "Icon": "trading_1_dia_icon_1",
-      "Firstextra": 280,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item002",
-      "Commodity": "0",
-      "Item": "1,9,280",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 280,
-      "LangStringTable": {
-        "Productname": "獲取280黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得少量黑鑽"
-      }
-    },
-    "10003": {
-      "Cuid": 10003,
-      "Id": 10003,
-      "Platformid": 91,
-      "Rmbqty": 360,
-      "Rmb": 78,
-      "Coinqty": 840,
-      "Icon": "trading_1_dia_icon_2",
-      "Firstextra": 840,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item003",
-      "Commodity": "0",
-      "Item": "1,9,840",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 840,
-      "LangStringTable": {
-        "Productname": "獲取840黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得小份黑鑽"
-      }
-    },
-    "10004": {
-      "Cuid": 10004,
-      "Id": 10004,
-      "Platformid": 91,
-      "Rmbqty": 450,
-      "Rmb": 98,
-      "Coinqty": 1050,
-      "Icon": "trading_1_dia_icon_2",
-      "Firstextra": 1050,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item004",
-      "Commodity": "0",
-      "Item": "1,9,1050",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 1050,
-      "LangStringTable": {
-        "Productname": "獲取1050黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽"
-      }
-    },
-    "10005": {
-      "Cuid": 10005,
-      "Id": 10005,
-      "Platformid": 91,
-      "Rmbqty": 720,
-      "Rmb": 158,
-      "Coinqty": 1700,
-      "Icon": "trading_1_dia_icon_3",
-      "Firstextra": 1700,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item005",
-      "Commodity": "0",
-      "Item": "1,9,1700",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 1700,
-      "LangStringTable": {
-        "Productname": "獲取1700黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽"
-      }
-    },
-    "10006": {
-      "Cuid": 10006,
-      "Id": 10006,
-      "Platformid": 91,
-      "Rmbqty": 1190,
-      "Rmb": 258,
-      "Coinqty": 2900,
-      "Icon": "trading_1_dia_icon_4",
-      "Firstextra": 2900,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item006",
-      "Commodity": "0",
-      "Item": "1,9,2900",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 2900,
-      "LangStringTable": {
-        "Productname": "獲取2900黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽"
-      }
-    },
-    "10007": {
-      "Cuid": 10007,
-      "Id": 10007,
-      "Platformid": 91,
-      "Rmbqty": 1490,
-      "Rmb": 328,
-      "Coinqty": 3700,
-      "Icon": "trading_1_dia_icon_4",
-      "Firstextra": 3700,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item007",
-      "Commodity": "0",
-      "Item": "1,9,3700",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 3700,
-      "LangStringTable": {
-        "Productname": "獲取3700黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽"
-      }
-    },
-    "10008": {
-      "Cuid": 10008,
-      "Id": 10008,
-      "Platformid": 91,
-      "Rmbqty": 2390,
-      "Rmb": 518,
-      "Coinqty": 6000,
-      "Icon": "trading_1_dia_icon_4",
-      "Firstextra": 6000,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item008",
-      "Commodity": "0",
-      "Item": "1,9,6000",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 6000,
-      "LangStringTable": {
-        "Productname": "獲取6000黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽"
-      }
-    },
-    "10009": {
-      "Cuid": 10009,
-      "Id": 10009,
-      "Platformid": 91,
-      "Rmbqty": 2990,
-      "Rmb": 648,
-      "Coinqty": 7700,
-      "Icon": "trading_1_dia_icon_4",
-      "Firstextra": 7700,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item009",
-      "Commodity": "0",
-      "Item": "1,9,7700",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 7700,
-      "LangStringTable": {
-        "Productname": "獲取7700黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽"
-      }
-    },
-    "110": {
-      "Cuid": 110,
-      "Id": 110,
-      "Platformid": 91,
-      "Rmbqty": 1690,
-      "Rmb": 328,
-      "Coinqty": 0,
-      "Icon": "item_1_iconitem_251001",
-      "Firstextra": 0,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboomios.gp010",
-      "Commodity": "0",
-      "Item": "1,250086,1",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 3380,
-      "LangStringTable": {
-        "Productname": "SSR自選限定禮包",
-        "Description": "斯諾普特派補給，可自選一位SSR人偶"
-      }
-    },
-    "210": {
-      "Cuid": 210,
-      "Id": 210,
-      "Platformid": 92,
-      "Rmbqty": 1690,
-      "Rmb": 328,
-      "Coinqty": 0,
-      "Icon": "item_1_iconitem_251001",
-      "Firstextra": 0,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboomgp.gp010",
-      "Commodity": "0",
-      "Item": "1,250086,1",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 3380,
-      "LangStringTable": {
-        "Productname": "SSR自選限定禮包",
-        "Description": "斯諾普特派補給，可自選一位SSR人偶"
-      }
-    },
     "101": {
       "Cuid": 101,
       "Id": 101,
@@ -252,17 +10,17 @@
       "Icon": "item_1_iconitem_250024",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手招募禮包",
+      "Description": "斯諾普特派補給，可獲得10張徵召合約",
       "Productid": "com.komoe.darkboomios.gp001",
       "Commodity": "0",
       "Item": "1,250077,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 66,
-      "LangStringTable": {
-        "Productname": "新手招募禮包",
-        "Description": "斯諾普特派補給，可獲得10張徵召合約"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "102": {
       "Cuid": 102,
@@ -274,17 +32,17 @@
       "Icon": "item_1_iconitem_250028",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手初始禮包",
+      "Description": "斯諾普特派補給，可獲得大量bp、經驗",
       "Productid": "com.komoe.darkboomios.gp002",
       "Commodity": "0",
       "Item": "1,250078,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 200,
-      "LangStringTable": {
-        "Productname": "新手初始禮包",
-        "Description": "斯諾普特派補給，可獲得大量bp、經驗"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "103": {
       "Cuid": 103,
@@ -296,17 +54,17 @@
       "Icon": "item_1_iconitem_250028",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手進階禮包",
+      "Description": "斯諾普特派補給，可獲得A型人偶、突破材料",
       "Productid": "com.komoe.darkboomios.gp003",
       "Commodity": "0",
       "Item": "1,250079,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 380,
-      "LangStringTable": {
-        "Productname": "新手進階禮包",
-        "Description": "斯諾普特派補給，可獲得A型人偶、突破材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "104": {
       "Cuid": 104,
@@ -318,17 +76,17 @@
       "Icon": "item_1_iconitem_250028",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手高級禮包",
+      "Description": "斯諾普特派補給，可獲得深海化相關材料",
       "Productid": "com.komoe.darkboomios.gp004",
       "Commodity": "0",
       "Item": "1,250080,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 980,
-      "LangStringTable": {
-        "Productname": "新手高級禮包",
-        "Description": "斯諾普特派補給，可獲得深海化相關材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "105": {
       "Cuid": 105,
@@ -340,17 +98,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "高級深海限定禮包",
+      "Description": "斯諾普特派補給，可獲得徵召合約、深海化材料",
       "Productid": "com.komoe.darkboomios.gp005",
       "Commodity": "0",
       "Item": "1,250081,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 780,
-      "LangStringTable": {
-        "Productname": "高級深海限定禮包",
-        "Description": "斯諾普特派補給，可獲得徵召合約、深海化材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "106": {
       "Cuid": 106,
@@ -362,17 +120,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "改造限定禮包",
+      "Description": "斯諾普特派補給，可獲得鑽石、強化材料",
       "Productid": "com.komoe.darkboomios.gp006",
       "Commodity": "0",
       "Item": "1,250082,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 980,
-      "LangStringTable": {
-        "Productname": "改造限定禮包",
-        "Description": "斯諾普特派補給，可獲得鑽石、強化材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "107": {
       "Cuid": 107,
@@ -384,17 +142,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "裝備限定禮包",
+      "Description": "斯諾普特派補給，可獲得大量鑽石、稀有套裝、大量BP",
       "Productid": "com.komoe.darkboomios.gp007",
       "Commodity": "0",
       "Item": "1,250083,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 3380,
-      "LangStringTable": {
-        "Productname": "裝備限定禮包",
-        "Description": "斯諾普特派補給，可獲得大量鑽石、稀有套裝、大量BP"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "108": {
       "Cuid": 108,
@@ -406,17 +164,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "高級技能限定禮包",
+      "Description": "斯諾普特派補給，可獲得S型人偶、突破材料",
       "Productid": "com.komoe.darkboomios.gp008",
       "Commodity": "0",
       "Item": "1,250084,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 1780,
-      "LangStringTable": {
-        "Productname": "高級技能限定禮包",
-        "Description": "斯諾普特派補給，可獲得S型人偶、突破材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "109": {
       "Cuid": 109,
@@ -428,17 +186,39 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "高級培養限定禮包",
+      "Description": "斯諾普特派補給，可獲得大量提升實力材料",
       "Productid": "com.komoe.darkboomios.gp009",
       "Commodity": "0",
       "Item": "1,250085,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 6580,
-      "LangStringTable": {
-        "Productname": "高級培養限定禮包",
-        "Description": "斯諾普特派補給，可獲得大量提升實力材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "110": {
+      "Cuid": 110,
+      "Id": 110,
+      "Platformid": 91,
+      "Rmbqty": 1690,
+      "Rmb": 328,
+      "Coinqty": 0,
+      "Icon": "item_1_iconitem_251001",
+      "Firstextra": 0,
+      "Extra": 0,
+      "Productname": "SSR自選限定禮包",
+      "Description": "斯諾普特派補給，可自選一位SSR人偶",
+      "Productid": "com.komoe.darkboomios.gp010",
+      "Commodity": "0",
+      "Item": "1,250086,1",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 3380,
+      "Backtype": 0,
+      "Nazo": 0
     },
     "201": {
       "Cuid": 201,
@@ -450,17 +230,17 @@
       "Icon": "item_1_iconitem_250024",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手招募禮包",
+      "Description": "斯諾普特派補給，可獲得10張徵召合約",
       "Productid": "com.komoe.darkboomgp.gp001",
       "Commodity": "0",
       "Item": "1,250077,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 66,
-      "LangStringTable": {
-        "Productname": "新手招募禮包",
-        "Description": "斯諾普特派補給，可獲得10張徵召合約"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "202": {
       "Cuid": 202,
@@ -472,17 +252,17 @@
       "Icon": "item_1_iconitem_250028",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手初始禮包",
+      "Description": "斯諾普特派補給，可獲得大量bp、經驗",
       "Productid": "com.komoe.darkboomgp.gp002",
       "Commodity": "0",
       "Item": "1,250078,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 200,
-      "LangStringTable": {
-        "Productname": "新手初始禮包",
-        "Description": "斯諾普特派補給，可獲得大量bp、經驗"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "203": {
       "Cuid": 203,
@@ -494,17 +274,17 @@
       "Icon": "item_1_iconitem_250028",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手進階禮包",
+      "Description": "斯諾普特派補給，可獲得A型人偶、突破材料",
       "Productid": "com.komoe.darkboomgp.gp003",
       "Commodity": "0",
       "Item": "1,250079,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 380,
-      "LangStringTable": {
-        "Productname": "新手進階禮包",
-        "Description": "斯諾普特派補給，可獲得A型人偶、突破材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "204": {
       "Cuid": 204,
@@ -516,17 +296,17 @@
       "Icon": "item_1_iconitem_250028",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "新手高級禮包",
+      "Description": "斯諾普特派補給，可獲得深海化相關材料",
       "Productid": "com.komoe.darkboomgp.gp004",
       "Commodity": "0",
       "Item": "1,250080,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 980,
-      "LangStringTable": {
-        "Productname": "新手高級禮包",
-        "Description": "斯諾普特派補給，可獲得深海化相關材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "205": {
       "Cuid": 205,
@@ -538,17 +318,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "高級深海限定禮包",
+      "Description": "斯諾普特派補給，可獲得徵召合約、深海化材料",
       "Productid": "com.komoe.darkboomgp.gp005",
       "Commodity": "0",
       "Item": "1,250081,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 780,
-      "LangStringTable": {
-        "Productname": "高級深海限定禮包",
-        "Description": "斯諾普特派補給，可獲得徵召合約、深海化材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "206": {
       "Cuid": 206,
@@ -560,17 +340,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "改造限定禮包",
+      "Description": "斯諾普特派補給，可獲得鑽石、強化材料",
       "Productid": "com.komoe.darkboomgp.gp006",
       "Commodity": "0",
       "Item": "1,250082,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 980,
-      "LangStringTable": {
-        "Productname": "改造限定禮包",
-        "Description": "斯諾普特派補給，可獲得鑽石、強化材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "207": {
       "Cuid": 207,
@@ -582,17 +362,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "裝備限定禮包",
+      "Description": "斯諾普特派補給，可獲得大量鑽石、稀有套裝、大量BP",
       "Productid": "com.komoe.darkboomgp.gp007",
       "Commodity": "0",
       "Item": "1,250083,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 3380,
-      "LangStringTable": {
-        "Productname": "裝備限定禮包",
-        "Description": "斯諾普特派補給，可獲得大量鑽石、稀有套裝、大量BP"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "208": {
       "Cuid": 208,
@@ -604,17 +384,17 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "高級技能限定禮包",
+      "Description": "斯諾普特派補給，可獲得S型人偶、突破材料",
       "Productid": "com.komoe.darkboomgp.gp008",
       "Commodity": "0",
       "Item": "1,250084,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 1780,
-      "LangStringTable": {
-        "Productname": "高級技能限定禮包",
-        "Description": "斯諾普特派補給，可獲得S型人偶、突破材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "209": {
       "Cuid": 209,
@@ -626,17 +406,39 @@
       "Icon": "item_1_iconitem_251001",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "高級培養限定禮包",
+      "Description": "斯諾普特派補給，可獲得大量提升實力材料",
       "Productid": "com.komoe.darkboomgp.gp009",
       "Commodity": "0",
       "Item": "1,250085,1",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 6580,
-      "LangStringTable": {
-        "Productname": "高級培養限定禮包",
-        "Description": "斯諾普特派補給，可獲得大量提升實力材料"
-      }
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "210": {
+      "Cuid": 210,
+      "Id": 210,
+      "Platformid": 92,
+      "Rmbqty": 1690,
+      "Rmb": 328,
+      "Coinqty": 0,
+      "Icon": "item_1_iconitem_251001",
+      "Firstextra": 0,
+      "Extra": 0,
+      "Productname": "SSR自選限定禮包",
+      "Description": "斯諾普特派補給，可自選一位SSR人偶",
+      "Productid": "com.komoe.darkboomgp.gp010",
+      "Commodity": "0",
+      "Item": "1,250086,1",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 3380,
+      "Backtype": 0,
+      "Nazo": 0
     },
     "1007": {
       "Cuid": 1007,
@@ -648,17 +450,17 @@
       "Icon": "trading_1_dia_icon_4",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "月度補給合同",
+      "Description": "簽署月度合同獲得30天額外補給",
       "Productid": "com.komoe.darkboomios.item007",
       "Commodity": "107",
       "Item": "1,9,460",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 460,
-      "LangStringTable": {
-        "Productname": "月度補給合同",
-        "Description": "簽署月度合同獲得30天額外補給"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "2007": {
       "Cuid": 2007,
@@ -670,17 +472,17 @@
       "Icon": "trading_1_dia_icon_4",
       "Firstextra": 0,
       "Extra": 0,
+      "Productname": "月度補給合同",
+      "Description": "簽署月度合同獲得30天額外補給",
       "Productid": "com.komoe.darkboomgp.item007",
       "Commodity": "107",
       "Item": "1,9,460",
       "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
+      "Firstgift": "",
+      "Gift": "",
       "Paynum": 460,
-      "LangStringTable": {
-        "Productname": "月度補給合同",
-        "Description": "簽署月度合同獲得30天額外補給"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "1001": {
       "Cuid": 1001,
@@ -692,39 +494,17 @@
       "Icon": "trading_1_dia_icon_1",
       "Firstextra": 66,
       "Extra": 0,
+      "Productname": "獲取66黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得極少量黑鑽",
       "Productid": "com.komoe.darkboomios.item001",
       "Commodity": "101",
       "Item": "1,9,66",
       "Pay": 1,
       "Firstgift": "1,1,66",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 66,
-      "LangStringTable": {
-        "Productname": "獲取66黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得極少量黑鑽"
-      }
-    },
-    "10010": {
-      "Cuid": 10010,
-      "Id": 10010,
-      "Platformid": 91,
-      "Rmbqty": 210,
-      "Rmb": 45,
-      "Coinqty": 0,
-      "Icon": "trading_1_dia_icon_4",
-      "Firstextra": 0,
-      "Extra": 0,
-      "Productid": "com.komoe.darkboommc.item010",
-      "Commodity": "0",
-      "Item": "1,250013,1",
-      "Pay": 1,
-      "Firstgift": null,
-      "Gift": null,
-      "Paynum": 460,
-      "LangStringTable": {
-        "Productname": "月度補給合同",
-        "Description": "簽署月度合同獲得30天額外補給"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "1002": {
       "Cuid": 1002,
@@ -736,17 +516,17 @@
       "Icon": "trading_1_dia_icon_1",
       "Firstextra": 340,
       "Extra": 0,
+      "Productname": "獲取340黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得少量黑鑽",
       "Productid": "com.komoe.darkboomios.item002",
       "Commodity": "102",
       "Item": "1,9,340",
       "Pay": 1,
       "Firstgift": "1,1,340",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 340,
-      "LangStringTable": {
-        "Productname": "獲取340黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得少量黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "1003": {
       "Cuid": 1003,
@@ -758,17 +538,17 @@
       "Icon": "trading_1_dia_icon_2",
       "Firstextra": 900,
       "Extra": 0,
+      "Productname": "獲取900黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得小份黑鑽",
       "Productid": "com.komoe.darkboomios.item003",
       "Commodity": "103",
       "Item": "1,9,900",
       "Pay": 1,
       "Firstgift": "1,1,900",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 900,
-      "LangStringTable": {
-        "Productname": "獲取900黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得小份黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "1004": {
       "Cuid": 1004,
@@ -780,17 +560,17 @@
       "Icon": "trading_1_dia_icon_2",
       "Firstextra": 1460,
       "Extra": 0,
+      "Productname": "獲取1460黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽",
       "Productid": "com.komoe.darkboomios.item004",
       "Commodity": "104",
       "Item": "1,9,1460",
       "Pay": 1,
       "Firstgift": "1,1,1460",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 1460,
-      "LangStringTable": {
-        "Productname": "獲取1460黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "1005": {
       "Cuid": 1005,
@@ -802,17 +582,17 @@
       "Icon": "trading_1_dia_icon_3",
       "Firstextra": 3780,
       "Extra": 0,
+      "Productname": "獲取3780黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽",
       "Productid": "com.komoe.darkboomios.item005",
       "Commodity": "105",
       "Item": "1,9,3780",
       "Pay": 1,
       "Firstgift": "1,1,3780",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 3780,
-      "LangStringTable": {
-        "Productname": "獲取3780黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "1006": {
       "Cuid": 1006,
@@ -824,17 +604,17 @@
       "Icon": "trading_1_dia_icon_4",
       "Firstextra": 7530,
       "Extra": 0,
+      "Productname": "獲取7530黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽",
       "Productid": "com.komoe.darkboomios.item006",
       "Commodity": "106",
       "Item": "1,9,7530",
       "Pay": 1,
       "Firstgift": "1,1,7530",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 7530,
-      "LangStringTable": {
-        "Productname": "獲取7530黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "2001": {
       "Cuid": 2001,
@@ -846,17 +626,17 @@
       "Icon": "trading_1_dia_icon_1",
       "Firstextra": 66,
       "Extra": 0,
+      "Productname": "獲取66黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得極少量黑鑽",
       "Productid": "com.komoe.darkboomgp.item001",
       "Commodity": "101",
       "Item": "1,9,66",
       "Pay": 1,
       "Firstgift": "1,1,66",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 66,
-      "LangStringTable": {
-        "Productname": "獲取66黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得極少量黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "2002": {
       "Cuid": 2002,
@@ -868,17 +648,17 @@
       "Icon": "trading_1_dia_icon_1",
       "Firstextra": 340,
       "Extra": 0,
+      "Productname": "獲取340黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得少量黑鑽",
       "Productid": "com.komoe.darkboomgp.item002",
       "Commodity": "102",
       "Item": "1,9,340",
       "Pay": 1,
       "Firstgift": "1,1,340",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 340,
-      "LangStringTable": {
-        "Productname": "獲取340黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得少量黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "2003": {
       "Cuid": 2003,
@@ -890,17 +670,17 @@
       "Icon": "trading_1_dia_icon_2",
       "Firstextra": 900,
       "Extra": 0,
+      "Productname": "獲取900黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得小份黑鑽",
       "Productid": "com.komoe.darkboomgp.item003",
       "Commodity": "103",
       "Item": "1,9,900",
       "Pay": 1,
       "Firstgift": "1,1,900",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 900,
-      "LangStringTable": {
-        "Productname": "獲取900黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得小份黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "2004": {
       "Cuid": 2004,
@@ -912,17 +692,17 @@
       "Icon": "trading_1_dia_icon_2",
       "Firstextra": 1460,
       "Extra": 0,
+      "Productname": "獲取1460黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽",
       "Productid": "com.komoe.darkboomgp.item004",
       "Commodity": "104",
       "Item": "1,9,1460",
       "Pay": 1,
       "Firstgift": "1,1,1460",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 1460,
-      "LangStringTable": {
-        "Productname": "獲取1460黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "2005": {
       "Cuid": 2005,
@@ -934,17 +714,17 @@
       "Icon": "trading_1_dia_icon_3",
       "Firstextra": 3780,
       "Extra": 0,
+      "Productname": "獲取3780黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽",
       "Productid": "com.komoe.darkboomgp.item005",
       "Commodity": "105",
       "Item": "1,9,3780",
       "Pay": 1,
       "Firstgift": "1,1,3780",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 3780,
-      "LangStringTable": {
-        "Productname": "獲取3780黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
     },
     "2006": {
       "Cuid": 2006,
@@ -956,17 +736,237 @@
       "Icon": "trading_1_dia_icon_4",
       "Firstextra": 7530,
       "Extra": 0,
+      "Productname": "獲取7530黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽",
       "Productid": "com.komoe.darkboomgp.item006",
       "Commodity": "106",
       "Item": "1,9,7530",
       "Pay": 1,
       "Firstgift": "1,1,7530",
-      "Gift": null,
+      "Gift": "",
       "Paynum": 7530,
-      "LangStringTable": {
-        "Productname": "獲取7530黑鑽",
-        "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽"
-      }
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10001": {
+      "Cuid": 10001,
+      "Id": 10001,
+      "Platformid": 91,
+      "Rmbqty": 30,
+      "Rmb": 6,
+      "Coinqty": 70,
+      "Icon": "trading_1_dia_icon_1",
+      "Firstextra": 70,
+      "Extra": 0,
+      "Productname": "獲取70黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得極少量黑鑽",
+      "Productid": "com.komoe.darkboommc.item001",
+      "Commodity": "0",
+      "Item": "1,9,70",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 70,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10002": {
+      "Cuid": 10002,
+      "Id": 10002,
+      "Platformid": 91,
+      "Rmbqty": 120,
+      "Rmb": 25,
+      "Coinqty": 280,
+      "Icon": "trading_1_dia_icon_1",
+      "Firstextra": 280,
+      "Extra": 0,
+      "Productname": "獲取280黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得少量黑鑽",
+      "Productid": "com.komoe.darkboommc.item002",
+      "Commodity": "0",
+      "Item": "1,9,280",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 280,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10003": {
+      "Cuid": 10003,
+      "Id": 10003,
+      "Platformid": 91,
+      "Rmbqty": 360,
+      "Rmb": 78,
+      "Coinqty": 840,
+      "Icon": "trading_1_dia_icon_2",
+      "Firstextra": 840,
+      "Extra": 0,
+      "Productname": "獲取840黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得小份黑鑽",
+      "Productid": "com.komoe.darkboommc.item003",
+      "Commodity": "0",
+      "Item": "1,9,840",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 840,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10004": {
+      "Cuid": 10004,
+      "Id": 10004,
+      "Platformid": 91,
+      "Rmbqty": 450,
+      "Rmb": 98,
+      "Coinqty": 1050,
+      "Icon": "trading_1_dia_icon_2",
+      "Firstextra": 1050,
+      "Extra": 0,
+      "Productname": "獲取1050黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽",
+      "Productid": "com.komoe.darkboommc.item004",
+      "Commodity": "0",
+      "Item": "1,9,1050",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 1050,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10005": {
+      "Cuid": 10005,
+      "Id": 10005,
+      "Platformid": 91,
+      "Rmbqty": 720,
+      "Rmb": 158,
+      "Coinqty": 1700,
+      "Icon": "trading_1_dia_icon_3",
+      "Firstextra": 1700,
+      "Extra": 0,
+      "Productname": "獲取1700黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大份黑鑽",
+      "Productid": "com.komoe.darkboommc.item005",
+      "Commodity": "0",
+      "Item": "1,9,1700",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 1700,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10006": {
+      "Cuid": 10006,
+      "Id": 10006,
+      "Platformid": 91,
+      "Rmbqty": 1190,
+      "Rmb": 258,
+      "Coinqty": 2900,
+      "Icon": "trading_1_dia_icon_4",
+      "Firstextra": 2900,
+      "Extra": 0,
+      "Productname": "獲取2900黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽",
+      "Productid": "com.komoe.darkboommc.item006",
+      "Commodity": "0",
+      "Item": "1,9,2900",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 2900,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10007": {
+      "Cuid": 10007,
+      "Id": 10007,
+      "Platformid": 91,
+      "Rmbqty": 1490,
+      "Rmb": 328,
+      "Coinqty": 3700,
+      "Icon": "trading_1_dia_icon_4",
+      "Firstextra": 3700,
+      "Extra": 0,
+      "Productname": "獲取3700黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得大量黑鑽",
+      "Productid": "com.komoe.darkboommc.item007",
+      "Commodity": "0",
+      "Item": "1,9,3700",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 3700,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10008": {
+      "Cuid": 10008,
+      "Id": 10008,
+      "Platformid": 91,
+      "Rmbqty": 2390,
+      "Rmb": 518,
+      "Coinqty": 6000,
+      "Icon": "trading_1_dia_icon_4",
+      "Firstextra": 6000,
+      "Extra": 0,
+      "Productname": "獲取6000黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽",
+      "Productid": "com.komoe.darkboommc.item008",
+      "Commodity": "0",
+      "Item": "1,9,6000",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 6000,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10009": {
+      "Cuid": 10009,
+      "Id": 10009,
+      "Platformid": 91,
+      "Rmbqty": 2990,
+      "Rmb": 648,
+      "Coinqty": 7700,
+      "Icon": "trading_1_dia_icon_4",
+      "Firstextra": 7700,
+      "Extra": 0,
+      "Productname": "獲取7700黑鑽",
+      "Description": "黑泥和礦物融合凝結而成，獲得超大量黑鑽",
+      "Productid": "com.komoe.darkboommc.item009",
+      "Commodity": "0",
+      "Item": "1,9,7700",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 7700,
+      "Backtype": 0,
+      "Nazo": 0
+    },
+    "10010": {
+      "Cuid": 10010,
+      "Id": 10010,
+      "Platformid": 91,
+      "Rmbqty": 210,
+      "Rmb": 45,
+      "Coinqty": 0,
+      "Icon": "trading_1_dia_icon_4",
+      "Firstextra": 0,
+      "Extra": 0,
+      "Productname": "月度補給合同",
+      "Description": "簽署月度合同獲得30天額外補給",
+      "Productid": "com.komoe.darkboommc.item010",
+      "Commodity": "0",
+      "Item": "1,250013,1",
+      "Pay": 1,
+      "Firstgift": "",
+      "Gift": "",
+      "Paynum": 460,
+      "Backtype": 0,
+      "Nazo": 0
     }
   }
 }

@@ -3,6 +3,7 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Name": "推薦1號",
       "Floorareaid": "1020",
       "Floorarealoc": "0",
       "Carpetareaid": "1008;1008",
@@ -11,17 +12,15 @@
       "Furniturearealoc": "5,5;4,15;1,15;0,15;15,0;13,1;12,5",
       "Wallareaid": "1019",
       "Wallarealoc": "0",
-      "Wallpicturearea1Id": null,
-      "Wallpicturearea1Loc": null,
-      "Wallpicturearea2Id": null,
-      "Wallpicturearea2Loc": null,
-      "Wallpaperarea1Id": null,
-      "Wallpaperarea1Loc": null,
-      "Wallpaperarea2Id": null,
-      "Wallpaperarea2Loc": null,
-      "LangStringTable": {
-        "Name": "推薦1號"
-      }
+      "Wallpicturearea1Id": "",
+      "Wallpicturearea1Loc": "",
+      "Wallpicturearea2Id": "",
+      "Wallpicturearea2Loc": "",
+      "Wallpaperarea1Id": "",
+      "Wallpaperarea1Loc": "",
+      "Wallpaperarea2Id": "",
+      "Wallpaperarea2Loc": "",
+      "Nazo": 0
     }
   }
 }

@@ -4,61 +4,71 @@
       "Cuid": 1,
       "Fetterslevel": 1,
       "Exptonextlevel": 500,
-      "Attrcoefficient": 1000
+      "Attrcoefficient": 1000,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Fetterslevel": 2,
       "Exptonextlevel": 700,
-      "Attrcoefficient": 1100
+      "Attrcoefficient": 1100,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Fetterslevel": 3,
       "Exptonextlevel": 900,
-      "Attrcoefficient": 1200
+      "Attrcoefficient": 1200,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Fetterslevel": 4,
       "Exptonextlevel": 1100,
-      "Attrcoefficient": 1300
+      "Attrcoefficient": 1300,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Fetterslevel": 5,
       "Exptonextlevel": 1300,
-      "Attrcoefficient": 1400
+      "Attrcoefficient": 1400,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Fetterslevel": 6,
       "Exptonextlevel": 1500,
-      "Attrcoefficient": 1500
+      "Attrcoefficient": 1500,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Fetterslevel": 7,
       "Exptonextlevel": 2500,
-      "Attrcoefficient": 1600
+      "Attrcoefficient": 1600,
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Fetterslevel": 8,
       "Exptonextlevel": 3000,
-      "Attrcoefficient": 1700
+      "Attrcoefficient": 1700,
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Fetterslevel": 9,
       "Exptonextlevel": 3500,
-      "Attrcoefficient": 1800
+      "Attrcoefficient": 1800,
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Fetterslevel": 10,
       "Exptonextlevel": 0,
-      "Attrcoefficient": 2000
+      "Attrcoefficient": 2000,
+      "Nazo": 0
     }
   }
 }

@@ -12,7 +12,8 @@
       "Srcardexptonextlevel": 190,
       "Srcardbptonextlevel": 30,
       "Ssrcardexptonextlevel": 190,
-      "Ssrcardbptonextlevel": 30
+      "Ssrcardbptonextlevel": 30,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -26,7 +27,8 @@
       "Srcardexptonextlevel": 240,
       "Srcardbptonextlevel": 30,
       "Ssrcardexptonextlevel": 240,
-      "Ssrcardbptonextlevel": 30
+      "Ssrcardbptonextlevel": 30,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -40,7 +42,8 @@
       "Srcardexptonextlevel": 310,
       "Srcardbptonextlevel": 50,
       "Ssrcardexptonextlevel": 310,
-      "Ssrcardbptonextlevel": 50
+      "Ssrcardbptonextlevel": 50,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
@@ -54,7 +57,8 @@
       "Srcardexptonextlevel": 390,
       "Srcardbptonextlevel": 70,
       "Ssrcardexptonextlevel": 390,
-      "Ssrcardbptonextlevel": 70
+      "Ssrcardbptonextlevel": 70,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
@@ -68,7 +72,8 @@
       "Srcardexptonextlevel": 490,
       "Srcardbptonextlevel": 90,
       "Ssrcardexptonextlevel": 490,
-      "Ssrcardbptonextlevel": 90
+      "Ssrcardbptonextlevel": 90,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
@@ -82,7 +87,8 @@
       "Srcardexptonextlevel": 600,
       "Srcardbptonextlevel": 120,
       "Ssrcardexptonextlevel": 600,
-      "Ssrcardbptonextlevel": 120
+      "Ssrcardbptonextlevel": 120,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
@@ -96,7 +102,8 @@
       "Srcardexptonextlevel": 740,
       "Srcardbptonextlevel": 160,
       "Ssrcardexptonextlevel": 740,
-      "Ssrcardbptonextlevel": 160
+      "Ssrcardbptonextlevel": 160,
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
@@ -110,7 +117,8 @@
       "Srcardexptonextlevel": 890,
       "Srcardbptonextlevel": 210,
       "Ssrcardexptonextlevel": 890,
-      "Ssrcardbptonextlevel": 210
+      "Ssrcardbptonextlevel": 210,
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
@@ -124,7 +132,8 @@
       "Srcardexptonextlevel": 1070,
       "Srcardbptonextlevel": 260,
       "Ssrcardexptonextlevel": 1070,
-      "Ssrcardbptonextlevel": 260
+      "Ssrcardbptonextlevel": 260,
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
@@ -138,7 +147,8 @@
       "Srcardexptonextlevel": 1280,
       "Srcardbptonextlevel": 330,
       "Ssrcardexptonextlevel": 1280,
-      "Ssrcardbptonextlevel": 330
+      "Ssrcardbptonextlevel": 330,
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
@@ -152,7 +162,8 @@
       "Srcardexptonextlevel": 1510,
       "Srcardbptonextlevel": 400,
       "Ssrcardexptonextlevel": 1510,
-      "Ssrcardbptonextlevel": 400
+      "Ssrcardbptonextlevel": 400,
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
@@ -166,7 +177,8 @@
       "Srcardexptonextlevel": 1770,
       "Srcardbptonextlevel": 490,
       "Ssrcardexptonextlevel": 1770,
-      "Ssrcardbptonextlevel": 490
+      "Ssrcardbptonextlevel": 490,
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
@@ -180,7 +192,8 @@
       "Srcardexptonextlevel": 2070,
       "Srcardbptonextlevel": 600,
       "Ssrcardexptonextlevel": 2070,
-      "Ssrcardbptonextlevel": 600
+      "Ssrcardbptonextlevel": 600,
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
@@ -194,7 +207,8 @@
       "Srcardexptonextlevel": 2400,
       "Srcardbptonextlevel": 710,
       "Ssrcardexptonextlevel": 2400,
-      "Ssrcardbptonextlevel": 710
+      "Ssrcardbptonextlevel": 710,
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
@@ -208,7 +222,8 @@
       "Srcardexptonextlevel": 2770,
       "Srcardbptonextlevel": 850,
       "Ssrcardexptonextlevel": 2770,
-      "Ssrcardbptonextlevel": 850
+      "Ssrcardbptonextlevel": 850,
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
@@ -222,7 +237,8 @@
       "Srcardexptonextlevel": 3180,
       "Srcardbptonextlevel": 1000,
       "Ssrcardexptonextlevel": 3180,
-      "Ssrcardbptonextlevel": 1000
+      "Ssrcardbptonextlevel": 1000,
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
@@ -236,7 +252,8 @@
       "Srcardexptonextlevel": 3630,
       "Srcardbptonextlevel": 1180,
       "Ssrcardexptonextlevel": 3630,
-      "Ssrcardbptonextlevel": 1180
+      "Ssrcardbptonextlevel": 1180,
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
@@ -250,7 +267,8 @@
       "Srcardexptonextlevel": 4130,
       "Srcardbptonextlevel": 1370,
       "Ssrcardexptonextlevel": 4130,
-      "Ssrcardbptonextlevel": 1370
+      "Ssrcardbptonextlevel": 1370,
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
@@ -264,7 +282,8 @@
       "Srcardexptonextlevel": 4680,
       "Srcardbptonextlevel": 1590,
       "Ssrcardexptonextlevel": 4680,
-      "Ssrcardbptonextlevel": 1590
+      "Ssrcardbptonextlevel": 1590,
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
@@ -278,7 +297,8 @@
       "Srcardexptonextlevel": 5290,
       "Srcardbptonextlevel": 1830,
       "Ssrcardexptonextlevel": 5290,
-      "Ssrcardbptonextlevel": 1830
+      "Ssrcardbptonextlevel": 1830,
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
@@ -292,7 +312,8 @@
       "Srcardexptonextlevel": 5950,
       "Srcardbptonextlevel": 2100,
       "Ssrcardexptonextlevel": 5950,
-      "Ssrcardbptonextlevel": 2100
+      "Ssrcardbptonextlevel": 2100,
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
@@ -306,7 +327,8 @@
       "Srcardexptonextlevel": 6680,
       "Srcardbptonextlevel": 2400,
       "Ssrcardexptonextlevel": 6680,
-      "Ssrcardbptonextlevel": 2400
+      "Ssrcardbptonextlevel": 2400,
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
@@ -320,7 +342,8 @@
       "Srcardexptonextlevel": 7470,
       "Srcardbptonextlevel": 2740,
       "Ssrcardexptonextlevel": 7470,
-      "Ssrcardbptonextlevel": 2740
+      "Ssrcardbptonextlevel": 2740,
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
@@ -334,7 +357,8 @@
       "Srcardexptonextlevel": 8330,
       "Srcardbptonextlevel": 3100,
       "Ssrcardexptonextlevel": 8330,
-      "Ssrcardbptonextlevel": 3100
+      "Ssrcardbptonextlevel": 3100,
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
@@ -348,7 +372,8 @@
       "Srcardexptonextlevel": 9260,
       "Srcardbptonextlevel": 3500,
       "Ssrcardexptonextlevel": 9260,
-      "Ssrcardbptonextlevel": 3500
+      "Ssrcardbptonextlevel": 3500,
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
@@ -362,7 +387,8 @@
       "Srcardexptonextlevel": 10270,
       "Srcardbptonextlevel": 3940,
       "Ssrcardexptonextlevel": 10270,
-      "Ssrcardbptonextlevel": 3940
+      "Ssrcardbptonextlevel": 3940,
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
@@ -376,7 +402,8 @@
       "Srcardexptonextlevel": 11370,
       "Srcardbptonextlevel": 4420,
       "Ssrcardexptonextlevel": 11370,
-      "Ssrcardbptonextlevel": 4420
+      "Ssrcardbptonextlevel": 4420,
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
@@ -390,7 +417,8 @@
       "Srcardexptonextlevel": 12540,
       "Srcardbptonextlevel": 4950,
       "Ssrcardexptonextlevel": 12540,
-      "Ssrcardbptonextlevel": 4950
+      "Ssrcardbptonextlevel": 4950,
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
@@ -404,7 +432,8 @@
       "Srcardexptonextlevel": 13810,
       "Srcardbptonextlevel": 5520,
       "Ssrcardexptonextlevel": 13810,
-      "Ssrcardbptonextlevel": 5520
+      "Ssrcardbptonextlevel": 5520,
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
@@ -418,7 +447,8 @@
       "Srcardexptonextlevel": 15180,
       "Srcardbptonextlevel": 6130,
       "Ssrcardexptonextlevel": 15180,
-      "Ssrcardbptonextlevel": 6130
+      "Ssrcardbptonextlevel": 6130,
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
@@ -432,7 +462,8 @@
       "Srcardexptonextlevel": 16650,
       "Srcardbptonextlevel": 6800,
       "Ssrcardexptonextlevel": 16650,
-      "Ssrcardbptonextlevel": 6800
+      "Ssrcardbptonextlevel": 6800,
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
@@ -446,7 +477,8 @@
       "Srcardexptonextlevel": 18220,
       "Srcardbptonextlevel": 7530,
       "Ssrcardexptonextlevel": 18220,
-      "Ssrcardbptonextlevel": 7530
+      "Ssrcardbptonextlevel": 7530,
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
@@ -460,7 +492,8 @@
       "Srcardexptonextlevel": 19900,
       "Srcardbptonextlevel": 8310,
       "Ssrcardexptonextlevel": 19900,
-      "Ssrcardbptonextlevel": 8310
+      "Ssrcardbptonextlevel": 8310,
+      "Nazo": 0
     },
     "34": {
       "Cuid": 34,
@@ -474,7 +507,8 @@
       "Srcardexptonextlevel": 21700,
       "Srcardbptonextlevel": 9150,
       "Ssrcardexptonextlevel": 21700,
-      "Ssrcardbptonextlevel": 9150
+      "Ssrcardbptonextlevel": 9150,
+      "Nazo": 0
     },
     "35": {
       "Cuid": 35,
@@ -488,7 +522,8 @@
       "Srcardexptonextlevel": 23620,
       "Srcardbptonextlevel": 10060,
       "Ssrcardexptonextlevel": 23620,
-      "Ssrcardbptonextlevel": 10060
+      "Ssrcardbptonextlevel": 10060,
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
@@ -502,7 +537,8 @@
       "Srcardexptonextlevel": 25670,
       "Srcardbptonextlevel": 11030,
       "Ssrcardexptonextlevel": 25670,
-      "Ssrcardbptonextlevel": 11030
+      "Ssrcardbptonextlevel": 11030,
+      "Nazo": 0
     },
     "37": {
       "Cuid": 37,
@@ -516,7 +552,8 @@
       "Srcardexptonextlevel": 27850,
       "Srcardbptonextlevel": 12080,
       "Ssrcardexptonextlevel": 27850,
-      "Ssrcardbptonextlevel": 12080
+      "Ssrcardbptonextlevel": 12080,
+      "Nazo": 0
     },
     "38": {
       "Cuid": 38,
@@ -530,7 +567,8 @@
       "Srcardexptonextlevel": 30170,
       "Srcardbptonextlevel": 13190,
       "Ssrcardexptonextlevel": 30170,
-      "Ssrcardbptonextlevel": 13190
+      "Ssrcardbptonextlevel": 13190,
+      "Nazo": 0
     },
     "39": {
       "Cuid": 39,
@@ -544,7 +582,8 @@
       "Srcardexptonextlevel": 32640,
       "Srcardbptonextlevel": 14390,
       "Ssrcardexptonextlevel": 32640,
-      "Ssrcardbptonextlevel": 14390
+      "Ssrcardbptonextlevel": 14390,
+      "Nazo": 0
     },
     "40": {
       "Cuid": 40,
@@ -558,7 +597,8 @@
       "Srcardexptonextlevel": 35250,
       "Srcardbptonextlevel": 15660,
       "Ssrcardexptonextlevel": 35250,
-      "Ssrcardbptonextlevel": 15660
+      "Ssrcardbptonextlevel": 15660,
+      "Nazo": 0
     },
     "41": {
       "Cuid": 41,
@@ -572,7 +612,8 @@
       "Srcardexptonextlevel": 38030,
       "Srcardbptonextlevel": 17020,
       "Ssrcardexptonextlevel": 38030,
-      "Ssrcardbptonextlevel": 17020
+      "Ssrcardbptonextlevel": 17020,
+      "Nazo": 0
     },
     "42": {
       "Cuid": 42,
@@ -586,7 +627,8 @@
       "Srcardexptonextlevel": 40960,
       "Srcardbptonextlevel": 18470,
       "Ssrcardexptonextlevel": 40960,
-      "Ssrcardbptonextlevel": 18470
+      "Ssrcardbptonextlevel": 18470,
+      "Nazo": 0
     },
     "43": {
       "Cuid": 43,
@@ -600,7 +642,8 @@
       "Srcardexptonextlevel": 44070,
       "Srcardbptonextlevel": 20010,
       "Ssrcardexptonextlevel": 44070,
-      "Ssrcardbptonextlevel": 20010
+      "Ssrcardbptonextlevel": 20010,
+      "Nazo": 0
     },
     "44": {
       "Cuid": 44,
@@ -614,7 +657,8 @@
       "Srcardexptonextlevel": 47350,
       "Srcardbptonextlevel": 21640,
       "Ssrcardexptonextlevel": 47350,
-      "Ssrcardbptonextlevel": 21640
+      "Ssrcardbptonextlevel": 21640,
+      "Nazo": 0
     },
     "45": {
       "Cuid": 45,
@@ -628,7 +672,8 @@
       "Srcardexptonextlevel": 50820,
       "Srcardbptonextlevel": 23370,
       "Ssrcardexptonextlevel": 50820,
-      "Ssrcardbptonextlevel": 23370
+      "Ssrcardbptonextlevel": 23370,
+      "Nazo": 0
     },
     "46": {
       "Cuid": 46,
@@ -642,7 +687,8 @@
       "Srcardexptonextlevel": 54470,
       "Srcardbptonextlevel": 25210,
       "Ssrcardexptonextlevel": 54470,
-      "Ssrcardbptonextlevel": 25210
+      "Ssrcardbptonextlevel": 25210,
+      "Nazo": 0
     },
     "47": {
       "Cuid": 47,
@@ -656,7 +702,8 @@
       "Srcardexptonextlevel": 58330,
       "Srcardbptonextlevel": 27160,
       "Ssrcardexptonextlevel": 58330,
-      "Ssrcardbptonextlevel": 27160
+      "Ssrcardbptonextlevel": 27160,
+      "Nazo": 0
     },
     "48": {
       "Cuid": 48,
@@ -670,7 +717,8 @@
       "Srcardexptonextlevel": 62380,
       "Srcardbptonextlevel": 29220,
       "Ssrcardexptonextlevel": 62380,
-      "Ssrcardbptonextlevel": 29220
+      "Ssrcardbptonextlevel": 29220,
+      "Nazo": 0
     },
     "49": {
       "Cuid": 49,
@@ -684,7 +732,8 @@
       "Srcardexptonextlevel": 66650,
       "Srcardbptonextlevel": 31390,
       "Ssrcardexptonextlevel": 66650,
-      "Ssrcardbptonextlevel": 31390
+      "Ssrcardbptonextlevel": 31390,
+      "Nazo": 0
     },
     "50": {
       "Cuid": 50,
@@ -698,7 +747,8 @@
       "Srcardexptonextlevel": 71140,
       "Srcardbptonextlevel": 33680,
       "Ssrcardexptonextlevel": 71140,
-      "Ssrcardbptonextlevel": 33680
+      "Ssrcardbptonextlevel": 33680,
+      "Nazo": 0
     },
     "51": {
       "Cuid": 51,
@@ -712,7 +762,8 @@
       "Srcardexptonextlevel": 75850,
       "Srcardbptonextlevel": 36100,
       "Ssrcardexptonextlevel": 75850,
-      "Ssrcardbptonextlevel": 36100
+      "Ssrcardbptonextlevel": 36100,
+      "Nazo": 0
     },
     "52": {
       "Cuid": 52,
@@ -726,7 +777,8 @@
       "Srcardexptonextlevel": 80800,
       "Srcardbptonextlevel": 38650,
       "Ssrcardexptonextlevel": 80800,
-      "Ssrcardbptonextlevel": 38650
+      "Ssrcardbptonextlevel": 38650,
+      "Nazo": 0
     },
     "53": {
       "Cuid": 53,
@@ -740,7 +792,8 @@
       "Srcardexptonextlevel": 85990,
       "Srcardbptonextlevel": 41340,
       "Ssrcardexptonextlevel": 85990,
-      "Ssrcardbptonextlevel": 41340
+      "Ssrcardbptonextlevel": 41340,
+      "Nazo": 0
     },
     "54": {
       "Cuid": 54,
@@ -754,7 +807,8 @@
       "Srcardexptonextlevel": 91430,
       "Srcardbptonextlevel": 44160,
       "Ssrcardexptonextlevel": 91430,
-      "Ssrcardbptonextlevel": 44160
+      "Ssrcardbptonextlevel": 44160,
+      "Nazo": 0
     },
     "55": {
       "Cuid": 55,
@@ -768,7 +822,8 @@
       "Srcardexptonextlevel": 97130,
       "Srcardbptonextlevel": 47130,
       "Ssrcardexptonextlevel": 97130,
-      "Ssrcardbptonextlevel": 47130
+      "Ssrcardbptonextlevel": 47130,
+      "Nazo": 0
     },
     "56": {
       "Cuid": 56,
@@ -782,7 +837,8 @@
       "Srcardexptonextlevel": 103100,
       "Srcardbptonextlevel": 50250,
       "Ssrcardexptonextlevel": 103100,
-      "Ssrcardbptonextlevel": 50250
+      "Ssrcardbptonextlevel": 50250,
+      "Nazo": 0
     },
     "57": {
       "Cuid": 57,
@@ -796,7 +852,8 @@
       "Srcardexptonextlevel": 109330,
       "Srcardbptonextlevel": 53520,
       "Ssrcardexptonextlevel": 109330,
-      "Ssrcardbptonextlevel": 53520
+      "Ssrcardbptonextlevel": 53520,
+      "Nazo": 0
     },
     "58": {
       "Cuid": 58,
@@ -810,7 +867,8 @@
       "Srcardexptonextlevel": 115860,
       "Srcardbptonextlevel": 56950,
       "Ssrcardexptonextlevel": 115860,
-      "Ssrcardbptonextlevel": 56950
+      "Ssrcardbptonextlevel": 56950,
+      "Nazo": 0
     },
     "59": {
       "Cuid": 59,
@@ -824,7 +882,8 @@
       "Srcardexptonextlevel": 122670,
       "Srcardbptonextlevel": 60540,
       "Ssrcardexptonextlevel": 122670,
-      "Ssrcardbptonextlevel": 60540
+      "Ssrcardbptonextlevel": 60540,
+      "Nazo": 0
     },
     "60": {
       "Cuid": 60,
@@ -838,7 +897,8 @@
       "Srcardexptonextlevel": 129780,
       "Srcardbptonextlevel": 64310,
       "Ssrcardexptonextlevel": 129780,
-      "Ssrcardbptonextlevel": 64310
+      "Ssrcardbptonextlevel": 64310,
+      "Nazo": 0
     },
     "61": {
       "Cuid": 61,
@@ -852,7 +912,8 @@
       "Srcardexptonextlevel": 137210,
       "Srcardbptonextlevel": 68240,
       "Ssrcardexptonextlevel": 137210,
-      "Ssrcardbptonextlevel": 68240
+      "Ssrcardbptonextlevel": 68240,
+      "Nazo": 0
     },
     "62": {
       "Cuid": 62,
@@ -866,7 +927,8 @@
       "Srcardexptonextlevel": 144950,
       "Srcardbptonextlevel": 72360,
       "Ssrcardexptonextlevel": 144950,
-      "Ssrcardbptonextlevel": 72360
+      "Ssrcardbptonextlevel": 72360,
+      "Nazo": 0
     },
     "63": {
       "Cuid": 63,
@@ -880,7 +942,8 @@
       "Srcardexptonextlevel": 153020,
       "Srcardbptonextlevel": 76660,
       "Ssrcardexptonextlevel": 153020,
-      "Ssrcardbptonextlevel": 76660
+      "Ssrcardbptonextlevel": 76660,
+      "Nazo": 0
     },
     "64": {
       "Cuid": 64,
@@ -894,7 +957,8 @@
       "Srcardexptonextlevel": 161420,
       "Srcardbptonextlevel": 81160,
       "Ssrcardexptonextlevel": 161420,
-      "Ssrcardbptonextlevel": 81160
+      "Ssrcardbptonextlevel": 81160,
+      "Nazo": 0
     },
     "65": {
       "Cuid": 65,
@@ -908,7 +972,8 @@
       "Srcardexptonextlevel": 170170,
       "Srcardbptonextlevel": 85850,
       "Ssrcardexptonextlevel": 170170,
-      "Ssrcardbptonextlevel": 85850
+      "Ssrcardbptonextlevel": 85850,
+      "Nazo": 0
     },
     "66": {
       "Cuid": 66,
@@ -922,7 +987,8 @@
       "Srcardexptonextlevel": 179280,
       "Srcardbptonextlevel": 90750,
       "Ssrcardexptonextlevel": 179280,
-      "Ssrcardbptonextlevel": 90750
+      "Ssrcardbptonextlevel": 90750,
+      "Nazo": 0
     },
     "67": {
       "Cuid": 67,
@@ -936,7 +1002,8 @@
       "Srcardexptonextlevel": 188750,
       "Srcardbptonextlevel": 95850,
       "Ssrcardexptonextlevel": 188750,
-      "Ssrcardbptonextlevel": 95850
+      "Ssrcardbptonextlevel": 95850,
+      "Nazo": 0
     },
     "68": {
       "Cuid": 68,
@@ -950,7 +1017,8 @@
       "Srcardexptonextlevel": 198590,
       "Srcardbptonextlevel": 101160,
       "Ssrcardexptonextlevel": 198590,
-      "Ssrcardbptonextlevel": 101160
+      "Ssrcardbptonextlevel": 101160,
+      "Nazo": 0
     },
     "69": {
       "Cuid": 69,
@@ -964,7 +1032,8 @@
       "Srcardexptonextlevel": 208830,
       "Srcardbptonextlevel": 106700,
       "Ssrcardexptonextlevel": 208830,
-      "Ssrcardbptonextlevel": 106700
+      "Ssrcardbptonextlevel": 106700,
+      "Nazo": 0
     },
     "70": {
       "Cuid": 70,
@@ -978,7 +1047,8 @@
       "Srcardexptonextlevel": 219450,
       "Srcardbptonextlevel": 112460,
       "Ssrcardexptonextlevel": 219450,
-      "Ssrcardbptonextlevel": 112460
+      "Ssrcardbptonextlevel": 112460,
+      "Nazo": 0
     },
     "71": {
       "Cuid": 71,
@@ -992,7 +1062,8 @@
       "Srcardexptonextlevel": 230480,
       "Srcardbptonextlevel": 118460,
       "Ssrcardexptonextlevel": 230480,
-      "Ssrcardbptonextlevel": 118460
+      "Ssrcardbptonextlevel": 118460,
+      "Nazo": 0
     },
     "72": {
       "Cuid": 72,
@@ -1006,7 +1077,8 @@
       "Srcardexptonextlevel": 241930,
       "Srcardbptonextlevel": 124690,
       "Ssrcardexptonextlevel": 241930,
-      "Ssrcardbptonextlevel": 124690
+      "Ssrcardbptonextlevel": 124690,
+      "Nazo": 0
     },
     "73": {
       "Cuid": 73,
@@ -1020,7 +1092,8 @@
       "Srcardexptonextlevel": 253800,
       "Srcardbptonextlevel": 131170,
       "Ssrcardexptonextlevel": 253800,
-      "Ssrcardbptonextlevel": 131170
+      "Ssrcardbptonextlevel": 131170,
+      "Nazo": 0
     },
     "74": {
       "Cuid": 74,
@@ -1034,7 +1107,8 @@
       "Srcardexptonextlevel": 266110,
       "Srcardbptonextlevel": 137900,
       "Ssrcardexptonextlevel": 266110,
-      "Ssrcardbptonextlevel": 137900
+      "Ssrcardbptonextlevel": 137900,
+      "Nazo": 0
     },
     "75": {
       "Cuid": 75,
@@ -1048,7 +1122,8 @@
       "Srcardexptonextlevel": 278860,
       "Srcardbptonextlevel": 144890,
       "Ssrcardexptonextlevel": 278860,
-      "Ssrcardbptonextlevel": 144890
+      "Ssrcardbptonextlevel": 144890,
+      "Nazo": 0
     },
     "76": {
       "Cuid": 76,
@@ -1062,7 +1137,8 @@
       "Srcardexptonextlevel": 292070,
       "Srcardbptonextlevel": 152150,
       "Ssrcardexptonextlevel": 292070,
-      "Ssrcardbptonextlevel": 152150
+      "Ssrcardbptonextlevel": 152150,
+      "Nazo": 0
     },
     "77": {
       "Cuid": 77,
@@ -1076,7 +1152,8 @@
       "Srcardexptonextlevel": 305760,
       "Srcardbptonextlevel": 159670,
       "Ssrcardexptonextlevel": 305760,
-      "Ssrcardbptonextlevel": 159670
+      "Ssrcardbptonextlevel": 159670,
+      "Nazo": 0
     },
     "78": {
       "Cuid": 78,
@@ -1090,7 +1167,8 @@
       "Srcardexptonextlevel": 319920,
       "Srcardbptonextlevel": 167470,
       "Ssrcardexptonextlevel": 319920,
-      "Ssrcardbptonextlevel": 167470
+      "Ssrcardbptonextlevel": 167470,
+      "Nazo": 0
     },
     "79": {
       "Cuid": 79,
@@ -1104,7 +1182,8 @@
       "Srcardexptonextlevel": 334570,
       "Srcardbptonextlevel": 175560,
       "Ssrcardexptonextlevel": 334570,
-      "Ssrcardbptonextlevel": 175560
+      "Ssrcardbptonextlevel": 175560,
+      "Nazo": 0
     },
     "80": {
       "Cuid": 80,
@@ -1118,7 +1197,8 @@
       "Srcardexptonextlevel": 349730,
       "Srcardbptonextlevel": 183940,
       "Ssrcardexptonextlevel": 349730,
-      "Ssrcardbptonextlevel": 183940
+      "Ssrcardbptonextlevel": 183940,
+      "Nazo": 0
     },
     "81": {
       "Cuid": 81,
@@ -1132,7 +1212,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "82": {
       "Cuid": 82,
@@ -1146,7 +1227,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "83": {
       "Cuid": 83,
@@ -1160,7 +1242,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "84": {
       "Cuid": 84,
@@ -1174,7 +1257,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "85": {
       "Cuid": 85,
@@ -1188,7 +1272,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "86": {
       "Cuid": 86,
@@ -1202,7 +1287,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "87": {
       "Cuid": 87,
@@ -1216,7 +1302,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "88": {
       "Cuid": 88,
@@ -1230,7 +1317,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "89": {
       "Cuid": 89,
@@ -1244,7 +1332,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "90": {
       "Cuid": 90,
@@ -1258,7 +1347,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "91": {
       "Cuid": 91,
@@ -1272,7 +1362,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "92": {
       "Cuid": 92,
@@ -1286,7 +1377,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "93": {
       "Cuid": 93,
@@ -1300,7 +1392,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "94": {
       "Cuid": 94,
@@ -1314,7 +1407,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "95": {
       "Cuid": 95,
@@ -1328,7 +1422,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "96": {
       "Cuid": 96,
@@ -1342,7 +1437,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "97": {
       "Cuid": 97,
@@ -1356,7 +1452,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "98": {
       "Cuid": 98,
@@ -1370,7 +1467,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "99": {
       "Cuid": 99,
@@ -1384,7 +1482,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     },
     "100": {
       "Cuid": 100,
@@ -1398,7 +1497,8 @@
       "Srcardexptonextlevel": 287650,
       "Srcardbptonextlevel": 181380,
       "Ssrcardexptonextlevel": 287650,
-      "Ssrcardbptonextlevel": 181380
+      "Ssrcardbptonextlevel": 181380,
+      "Nazo": 0
     }
   }
 }

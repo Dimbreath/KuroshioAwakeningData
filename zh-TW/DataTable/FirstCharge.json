@@ -11,11 +11,12 @@
       "Overview": "activity_1_rc_pic_r_0012",
       "Normalpic": "activity_1_rc_pic_r_0013",
       "Specialpic": "activity_1_rc_pic_r_0014",
-      "Normalvideopic": null,
-      "Specialvideopic": null,
-      "Video": null,
+      "Normalvideopic": "",
+      "Specialvideopic": "",
+      "Video": "",
       "Normalvoice": "40070,krs40070_0201",
-      "Specialvoice": "40071,krs40071_0101"
+      "Specialvoice": "40071,krs40071_0101",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -29,10 +30,11 @@
       "Normalpic": "activity_1_rc_pic_r_0007",
       "Specialpic": "activity_1_rc_pic_r_0008",
       "Normalvideopic": "activity_1_bg_vedio7",
-      "Specialvideopic": null,
+      "Specialvideopic": "",
       "Video": "xili_1",
       "Normalvoice": "50340,krs50340_0201",
-      "Specialvoice": "50341,krs50341_0101"
+      "Specialvoice": "50341,krs50341_0101",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -43,13 +45,14 @@
       "Titlepic": "activity_1_rc_tab_icon_2",
       "Cost": 7299,
       "Overview": "activity_1_rc_pic_r_0003",
-      "Normalpic": null,
-      "Specialpic": null,
-      "Normalvideopic": null,
-      "Specialvideopic": null,
-      "Video": null,
-      "Normalvoice": null,
-      "Specialvoice": null
+      "Normalpic": "",
+      "Specialpic": "",
+      "Normalvideopic": "",
+      "Specialvideopic": "",
+      "Video": "",
+      "Normalvoice": "",
+      "Specialvoice": "",
+      "Nazo": 0
     }
   }
 }

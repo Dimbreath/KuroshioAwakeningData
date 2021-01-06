@@ -1,19 +1,19 @@
-local WorldStoryChapterConfig = {
-	[1] = {1,"The winter of false god",2,"1,8,45",
-		[[第一章-偽神之冬]],
-	},
+local WorldStoryChapterConfig = {}
 
+WorldStoryChapterConfig.Values = {
+	[1] = {1,[[第一章-偽神之冬]],"The winter of false god",2,"1,8,45",0,},
 }
+
 function WorldStoryChapterConfig.GetConfig(key)
-	local Values = WorldStoryChapterConfig[key]
-	if not Values then
+	local tb = WorldStoryChapterConfig.Values[key]
+	if not tb then
 		print_error(key)
 		return nil
 	end
-	local Fields = {["id"] = 1,["chapterenname"] = 2,["order"] = 3,["coinnum"] = 4,["chaptername"] = 5,}
-	for k,v in pairs(Fields) do
-		Fields[k] = Values[v]
+	local config = {["id"] = 1,["chaptername"] = 2,["chapterenname"] = 3,["order"] = 4,["coinnum"] = 5,["nazo"] = 6,}
+	for k,v in pairs(config) do
+		config[k] = tb[v]
 	end
-	return Fields 
+	return config 
 end
 return WorldStoryChapterConfig

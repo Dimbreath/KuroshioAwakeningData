@@ -1,8 +1,9 @@
-local ActivityBase = require"Modules/Activity/ActivityBase"
-local ActivityMonopolyEntry  = class("ActivityMonopolyEntry", ActivityBase)
+local ActivityMonopolyEntry  = class("ActivityMonopolyEntry")
 
 function ActivityMonopolyEntry:OnInit(gameObject,mask)
-	self.super:OnInit(gameObject,mask)
+    self.mask = mask
+	self.gameObject = gameObject
+	self.injections = ParseInjections(gameObject)
 	self:InjectComponent()
 	self:Init(mask)
 end
@@ -32,7 +33,7 @@ function ActivityMonopolyEntry:Init(mask)
 end
 
 function ActivityMonopolyEntry:OnOpen(tagId)
-	self.super:OnOpen(tagId)
+	self.tagId = tagId
 	self.model.tagId = tagId
     self.model:UpdateActivityConfig()
 	local config    = self.model.activityConfig
@@ -49,11 +50,18 @@ end
 
 function ActivityMonopolyEntry:OnRelease()
 	self.BtnGo.onClick:RemoveAllListeners()
-    self.BtnGo.onClick:Invoke()
+	self.BtnGo.onClick:Invoke()
+
+	self.injections = {}
+	self.injections = nil
+	self.gameObject = nil
+	self.manager    = nil
+	self.model      = nil
+	self.event      = nil
 end
 
 function ActivityMonopolyEntry:SetActive(show)
-    self.super:SetActive(show)
+	self.gameObject:SetActive(show);
 end
 
 return ActivityMonopolyEntry

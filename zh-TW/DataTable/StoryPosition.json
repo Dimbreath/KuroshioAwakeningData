@@ -3,3707 +3,3530 @@
     "301104": {
       "Cuid": 301104,
       "Tachieshowid": 301104,
+      "Boatid": "獨角怪魚",
       "Scale": 1.0,
       "Leftleft": "-1000,-43",
       "Left": "-563,-43",
       "Middle": "0,-43",
       "Right": "500,-43",
       "Rightright": "937,-43",
-      "LangStringTable": {
-        "Boatid": "獨角怪魚"
-      }
+      "Nazo": 0
     },
     "301105": {
       "Cuid": 301105,
       "Tachieshowid": 301105,
+      "Boatid": "巨砲怪魚",
       "Scale": 1.0,
       "Leftleft": "-1000,-70",
       "Left": "-563,-70",
       "Middle": "0,-70",
       "Right": "500,-70",
       "Rightright": "937,-70",
-      "LangStringTable": {
-        "Boatid": "巨砲怪魚"
-      }
+      "Nazo": 0
     },
     "301201": {
       "Cuid": 301201,
       "Tachieshowid": 301201,
+      "Boatid": "巨蝕骨魚",
       "Scale": 0.65,
       "Leftleft": "-650,50",
       "Left": "-366,50",
       "Middle": "40,50",
       "Right": "325,50",
       "Rightright": "609,50",
-      "LangStringTable": {
-        "Boatid": "巨蝕骨魚"
-      }
+      "Nazo": 0
     },
     "301202": {
       "Cuid": 301202,
       "Tachieshowid": 301202,
+      "Boatid": "深海龍魚",
       "Scale": 0.65,
       "Leftleft": "-650,50",
       "Left": "-366,50",
       "Middle": "40,50",
       "Right": "325,50",
       "Rightright": "609,50",
-      "LangStringTable": {
-        "Boatid": "深海龍魚"
-      }
+      "Nazo": 0
     },
     "301203": {
       "Cuid": 301203,
       "Tachieshowid": 301203,
+      "Boatid": "異變爪魚",
       "Scale": 0.6,
       "Leftleft": "-600,73",
       "Left": "-338,73",
       "Middle": "80,73",
       "Right": "300,73",
       "Rightright": "562,73",
-      "LangStringTable": {
-        "Boatid": "異變爪魚"
-      }
+      "Nazo": 0
     },
     "910001": {
       "Cuid": 910001,
       "Tachieshowid": 910001,
+      "Boatid": "指揮官-男",
       "Scale": 0.67,
       "Leftleft": "-670,-520",
       "Left": "-377,-520",
       "Middle": "-25,-520",
       "Right": "335,-520",
       "Rightright": "628,-520",
-      "LangStringTable": {
-        "Boatid": "指揮官-男"
-      }
+      "Nazo": 0
     },
     "910002": {
       "Cuid": 910002,
       "Tachieshowid": 910002,
+      "Boatid": "指揮官-女",
       "Scale": 0.58,
       "Leftleft": "-580,-140",
       "Left": "-327,-140",
       "Middle": "0,-140",
       "Right": "290,-140",
       "Rightright": "543,-140",
-      "LangStringTable": {
-        "Boatid": "指揮官-女"
-      }
+      "Nazo": 0
     },
     "920001": {
       "Cuid": 920001,
       "Tachieshowid": 920001,
+      "Boatid": "梅絲忒",
       "Scale": 0.44,
       "Leftleft": "-440,-38",
       "Left": "-248,-38",
       "Middle": "-6,-38",
       "Right": "282,-38",
       "Rightright": "412,-38",
-      "LangStringTable": {
-        "Boatid": "梅絲忒"
-      }
+      "Nazo": 0
     },
     "920002": {
       "Cuid": 920002,
       "Tachieshowid": 920002,
+      "Boatid": "漁村-老人",
       "Scale": 0.43,
       "Leftleft": "-430,50",
       "Left": "-242,50",
       "Middle": "30,50",
       "Right": "215,50",
       "Rightright": "403,50",
-      "LangStringTable": {
-        "Boatid": "漁村-老人"
-      }
+      "Nazo": 0
     },
     "920003": {
       "Cuid": 920003,
       "Tachieshowid": 920003,
+      "Boatid": "漁村-大叔",
       "Scale": 0.45,
       "Leftleft": "-430,53",
       "Left": "-242,53",
       "Middle": "40,53",
       "Right": "215,53",
       "Rightright": "501,53",
-      "LangStringTable": {
-        "Boatid": "漁村-大叔"
-      }
+      "Nazo": 0
     },
     "920004": {
       "Cuid": 920004,
       "Tachieshowid": 920004,
+      "Boatid": "漁村-青年女子",
       "Scale": 0.43,
       "Leftleft": "-430,0",
       "Left": "-242,0",
       "Middle": "29,0",
       "Right": "215,0",
       "Rightright": "403,0",
-      "LangStringTable": {
-        "Boatid": "漁村-青年女子"
-      }
+      "Nazo": 0
     },
     "920005": {
       "Cuid": 920005,
       "Tachieshowid": 920005,
+      "Boatid": "漁村-大媽",
       "Scale": 0.4,
       "Leftleft": "-400,17",
       "Left": "-225,17",
       "Middle": "0,17",
       "Right": "200,17",
       "Rightright": "375,17",
-      "LangStringTable": {
-        "Boatid": "漁村-大媽"
-      }
+      "Nazo": 0
     },
     "920006": {
       "Cuid": 920006,
       "Tachieshowid": 920006,
+      "Boatid": "漁村-小女孩",
       "Scale": 0.46,
       "Leftleft": "-460,19",
       "Left": "-259,19",
       "Middle": "0,19",
       "Right": "230,19",
       "Rightright": "431,19",
-      "LangStringTable": {
-        "Boatid": "漁村-小女孩"
-      }
+      "Nazo": 0
     },
     "920007": {
       "Cuid": 920007,
       "Tachieshowid": 920007,
+      "Boatid": "漁村-小男孩",
       "Scale": 0.48,
       "Leftleft": "-480,0",
       "Left": "-270,0",
       "Middle": "0,0",
       "Right": "240,0",
       "Rightright": "450,0",
-      "LangStringTable": {
-        "Boatid": "漁村-小男孩"
-      }
+      "Nazo": 0
     },
     "920008": {
       "Cuid": 920008,
       "Tachieshowid": 920008,
+      "Boatid": "城市-兒童",
       "Scale": 0.48,
       "Leftleft": "-480,70",
       "Left": "-270,70",
       "Middle": "0,70",
       "Right": "240,70",
       "Rightright": "450,70",
-      "LangStringTable": {
-        "Boatid": "城市-兒童"
-      }
+      "Nazo": 0
     },
     "920009": {
       "Cuid": 920009,
       "Tachieshowid": 920009,
+      "Boatid": "指揮官-斯科特",
       "Scale": 0.51,
       "Leftleft": "-510,-70",
       "Left": "-287,-70",
       "Middle": "58,-70",
       "Right": "255,-70",
       "Rightright": "478,-70",
-      "LangStringTable": {
-        "Boatid": "指揮官-斯科特"
-      }
+      "Nazo": 0
     },
     "920010": {
       "Cuid": 920010,
       "Tachieshowid": 920010,
+      "Boatid": "指揮官-沙利文",
       "Scale": 0.51,
       "Leftleft": "-510,-30",
       "Left": "-287,-30",
       "Middle": "27,-30",
       "Right": "255,-30",
       "Rightright": "478,-30",
-      "LangStringTable": {
-        "Boatid": "指揮官-沙利文"
-      }
+      "Nazo": 0
     },
     "920011": {
       "Cuid": 920011,
       "Tachieshowid": 920011,
+      "Boatid": "大衛",
       "Scale": 0.5,
       "Leftleft": "-500,-50",
       "Left": "-282,-50",
       "Middle": "-20,-50",
       "Right": "250,-50",
       "Rightright": "468,-50",
-      "LangStringTable": {
-        "Boatid": "大衛"
-      }
+      "Nazo": 0
     },
     "920012": {
       "Cuid": 920012,
       "Tachieshowid": 920012,
+      "Boatid": "實驗員",
       "Scale": 0.55,
       "Leftleft": "-500,-110",
       "Left": "-282,-110",
       "Middle": "11,-110",
       "Right": "250,-110",
       "Rightright": "468,-110",
-      "LangStringTable": {
-        "Boatid": "實驗員"
-      }
+      "Nazo": 0
     },
     "920013": {
       "Cuid": 920013,
       "Tachieshowid": 920013,
+      "Boatid": "薔薇指揮官",
       "Scale": 0.53,
       "Leftleft": "-530,-127",
       "Left": "-299,-127",
       "Middle": "-50,-127",
       "Right": "265,-127",
       "Rightright": "496,-127",
-      "LangStringTable": {
-        "Boatid": "薔薇指揮官"
-      }
+      "Nazo": 0
     },
     "920014": {
       "Cuid": 920014,
       "Tachieshowid": 920014,
+      "Boatid": "黑鋒女指揮官",
       "Scale": 0.46,
       "Leftleft": "-460,30",
       "Left": "-259,30",
       "Middle": "0,30",
       "Right": "230,30",
       "Rightright": "431,30",
-      "LangStringTable": {
-        "Boatid": "黑鋒女指揮官"
-      }
+      "Nazo": 0
     },
     "920015": {
       "Cuid": 920015,
       "Tachieshowid": 920015,
+      "Boatid": "銀翼NPC學院長",
       "Scale": 0.52,
       "Leftleft": "-450,-70",
       "Left": "-254,-70",
       "Middle": "20,-70",
       "Right": "225,-70",
       "Rightright": "421,-70",
-      "LangStringTable": {
-        "Boatid": "銀翼NPC學院長"
-      }
+      "Nazo": 0
     },
     "920016": {
       "Cuid": 920016,
       "Tachieshowid": 920016,
+      "Boatid": "神代指揮官",
       "Scale": 0.49,
       "Leftleft": "-490,-90",
       "Left": "-276,-90",
       "Middle": "100,-90",
       "Right": "245,-90",
       "Rightright": "459,-90",
-      "LangStringTable": {
-        "Boatid": "神代指揮官"
-      }
+      "Nazo": 0
     },
     "920017": {
       "Cuid": 920017,
       "Tachieshowid": 920017,
+      "Boatid": "神代神官",
       "Scale": 0.55,
       "Leftleft": "-550,-10",
       "Left": "-310,-10",
       "Middle": "0,-10",
       "Right": "275,-10",
       "Rightright": "515,-10",
-      "LangStringTable": {
-        "Boatid": "神代神官"
-      }
+      "Nazo": 0
     },
     "920018": {
       "Cuid": 920018,
       "Tachieshowid": 920018,
+      "Boatid": "神代高階神官",
       "Scale": 0.55,
       "Leftleft": "-550,-10",
       "Left": "-310,-10",
       "Middle": "0,-10",
       "Right": "275,-10",
       "Rightright": "515,-10",
-      "LangStringTable": {
-        "Boatid": "神代高階神官"
-      }
+      "Nazo": 0
     },
     "920019": {
       "Cuid": 920019,
       "Tachieshowid": 920019,
+      "Boatid": "大漁祭大叔",
       "Scale": 0.49,
       "Leftleft": "-490,25",
       "Left": "-256,25",
       "Middle": "35,25",
       "Right": "325,25",
       "Rightright": "459,25",
-      "LangStringTable": {
-        "Boatid": "大漁祭大叔"
-      }
+      "Nazo": 0
     },
     "920020": {
       "Cuid": 920020,
       "Tachieshowid": 920020,
+      "Boatid": "大漁祭小孩",
       "Scale": 0.45,
       "Leftleft": "-450,27",
       "Left": "-254,27",
       "Middle": "-10,27",
       "Right": "225,27",
       "Rightright": "421,27",
-      "LangStringTable": {
-        "Boatid": "大漁祭小孩"
-      }
+      "Nazo": 0
     },
     "920021": {
       "Cuid": 920021,
       "Tachieshowid": 920021,
+      "Boatid": "城市npc-男",
       "Scale": 0.54,
       "Leftleft": "-540,-147",
       "Left": "-304,-147",
       "Middle": "0,-147 ",
       "Right": "270,-147",
       "Rightright": "506,-147",
-      "LangStringTable": {
-        "Boatid": "城市npc-男"
-      }
+      "Nazo": 0
     },
     "920022": {
       "Cuid": 920022,
       "Tachieshowid": 920022,
+      "Boatid": "城市npc-女",
       "Scale": 0.5,
       "Leftleft": "-500,-117",
       "Left": "-282,-117",
       "Middle": " -10,-117",
       "Right": "250,-117",
       "Rightright": "468,-117",
-      "LangStringTable": {
-        "Boatid": "城市npc-女"
-      }
+      "Nazo": 0
     },
     "920023": {
       "Cuid": 920023,
       "Tachieshowid": 920023,
+      "Boatid": "政客",
       "Scale": 0.46,
       "Leftleft": "-460,-67",
       "Left": "-259,-67",
       "Middle": "0,-67",
       "Right": "230,-67",
       "Rightright": "431,-67",
-      "LangStringTable": {
-        "Boatid": "政客"
-      }
+      "Nazo": 0
     },
     "920024": {
       "Cuid": 920024,
       "Tachieshowid": 920024,
+      "Boatid": "神秘人F",
       "Scale": 0.64,
       "Leftleft": "-640,-144",
       "Left": "-360,-144",
       "Middle": " 0,-144",
       "Right": "320,-144",
       "Rightright": "600,-144",
-      "LangStringTable": {
-        "Boatid": "神秘人F"
-      }
+      "Nazo": 0
     },
     "920026": {
       "Cuid": 920026,
       "Tachieshowid": 920026,
+      "Boatid": "女後勤官",
       "Scale": 0.55,
       "Leftleft": "-416,-109",
       "Left": "-277,-109",
       "Middle": "36,-109",
       "Right": "275,-109",
       "Rightright": "468,-109",
-      "LangStringTable": {
-        "Boatid": "女後勤官"
-      }
+      "Nazo": 0
     },
     "1002000": {
       "Cuid": 1002000,
       "Tachieshowid": 1002000,
+      "Boatid": "翔鶴",
       "Scale": 0.5,
       "Leftleft": "-500,-3",
       "Left": "-282,-3",
       "Middle": "20,-3",
       "Right": "250,-3",
       "Rightright": "468,-3",
-      "LangStringTable": {
-        "Boatid": "翔鶴"
-      }
+      "Nazo": 0
     },
     "1002100": {
       "Cuid": 1002100,
       "Tachieshowid": 1002100,
+      "Boatid": "翔鶴s",
       "Scale": 0.58,
       "Leftleft": "-580,-60",
       "Left": "-327,-60",
       "Middle": "0,-60",
       "Right": "290,-60",
       "Rightright": "543,-60",
-      "LangStringTable": {
-        "Boatid": "翔鶴s"
-      }
+      "Nazo": 0
     },
     "1003000": {
       "Cuid": 1003000,
       "Tachieshowid": 1003000,
+      "Boatid": "瑞鶴",
       "Scale": 0.5,
       "Leftleft": "-500,-90",
       "Left": "-282,-90",
       "Middle": "50,-90",
       "Right": "250,-90",
       "Rightright": "468,-90",
-      "LangStringTable": {
-        "Boatid": "瑞鶴"
-      }
+      "Nazo": 0
     },
     "1003100": {
       "Cuid": 1003100,
       "Tachieshowid": 1003100,
+      "Boatid": "瑞鶴s",
       "Scale": 0.6,
       "Leftleft": "-600,-50",
       "Left": "-338,-50",
       "Middle": "0,-50",
       "Right": "300,-50",
       "Rightright": "562,-50",
-      "LangStringTable": {
-        "Boatid": "瑞鶴s"
-      }
+      "Nazo": 0
     },
     "1005000": {
       "Cuid": 1005000,
       "Tachieshowid": 1005000,
+      "Boatid": "胡蜂",
       "Scale": 0.46,
       "Leftleft": "-460,10",
       "Left": "-259,10",
       "Middle": "90,10",
       "Right": "364,10",
       "Rightright": "431,10",
-      "LangStringTable": {
-        "Boatid": "胡蜂"
-      }
+      "Nazo": 0
     },
     "1005100": {
       "Cuid": 1005100,
       "Tachieshowid": 1005100,
+      "Boatid": "胡蜂s",
       "Scale": 0.5,
       "Leftleft": "-500,-60",
       "Left": "-282,-60",
       "Middle": "70,-60",
       "Right": "250,-60",
       "Rightright": "468,-60",
-      "LangStringTable": {
-        "Boatid": "胡蜂s"
-      }
+      "Nazo": 0
     },
     "1007900": {
       "Cuid": 1007900,
       "Tachieshowid": 1007900,
+      "Boatid": "龍",
       "Scale": 0.6,
       "Leftleft": "-600,-132",
       "Left": "-338,-132",
       "Middle": "-40,-132",
       "Right": "300,-132",
       "Rightright": "562,-132",
-      "LangStringTable": {
-        "Boatid": "飛龍"
-      }
+      "Nazo": 0
     },
     "1008000": {
       "Cuid": 1008000,
       "Tachieshowid": 1008000,
+      "Boatid": "蘭利",
       "Scale": 0.5,
       "Leftleft": "-500,0",
       "Left": "-282,0",
       "Middle": "-40,0",
       "Right": "250,0",
       "Rightright": "468,0",
-      "LangStringTable": {
-        "Boatid": "蘭利"
-      }
+      "Nazo": 0
     },
     "1008100": {
       "Cuid": 1008100,
       "Tachieshowid": 1008100,
+      "Boatid": "蘭利s",
       "Scale": 0.62,
       "Leftleft": "-620,-90",
       "Left": "-349,-90",
       "Middle": "0,-90",
       "Right": "310,-90",
       "Rightright": "581,-90",
-      "LangStringTable": {
-        "Boatid": "蘭利s"
-      }
+      "Nazo": 0
     },
     "1010100": {
       "Cuid": 1010100,
       "Tachieshowid": 1010100,
+      "Boatid": "企業s",
       "Scale": 0.56,
       "Leftleft": "-560,0",
       "Left": "-315,0",
       "Middle": "-13,0",
       "Right": "280,0",
       "Rightright": "525,0",
-      "LangStringTable": {
-        "Boatid": "企業s"
-      }
+      "Nazo": 0
     },
     "1010900": {
       "Cuid": 1010900,
       "Tachieshowid": 1010900,
+      "Boatid": "企業k",
       "Scale": 0.52,
       "Leftleft": "-440,0",
       "Left": "-248,0",
       "Middle": "30,0",
       "Right": "220,0",
       "Rightright": "412,0",
-      "LangStringTable": {
-        "Boatid": "企業k"
-      }
+      "Nazo": 0
     },
     "1011000": {
       "Cuid": 1011000,
       "Tachieshowid": 1011000,
+      "Boatid": "好人理查",
       "Scale": 0.5,
       "Leftleft": "-500,67",
       "Left": "-282,67",
       "Middle": "10,67",
       "Right": "250,67",
       "Rightright": "468,67",
-      "LangStringTable": {
-        "Boatid": "好人理查"
-      }
+      "Nazo": 0
     },
     "1011100": {
       "Cuid": 1011100,
       "Tachieshowid": 1011100,
+      "Boatid": "好人理查s",
       "Scale": 0.52,
       "Leftleft": "-520,-30",
       "Left": "-293,-30",
       "Middle": "-20,-30",
       "Right": "260,-30",
       "Rightright": "487,-30",
-      "LangStringTable": {
-        "Boatid": "好人理查s"
-      }
+      "Nazo": 0
     },
     "1012000": {
       "Cuid": 1012000,
       "Tachieshowid": 1012000,
+      "Boatid": "獨角獸",
       "Scale": 0.45,
       "Leftleft": "-450,-19",
       "Left": "-254,-19",
       "Middle": "-30,-19",
       "Right": "242,-19",
       "Rightright": "421,-19",
-      "LangStringTable": {
-        "Boatid": "獨角獸"
-      }
+      "Nazo": 0
     },
     "1012900": {
       "Cuid": 1012900,
       "Tachieshowid": 1012900,
+      "Boatid": "獨角獸k",
       "Scale": 0.45,
       "Leftleft": "-450,-19",
       "Left": "-254,-19",
       "Middle": "-30,-19",
       "Right": "242,-19",
       "Rightright": "421,-19",
-      "LangStringTable": {
-        "Boatid": "獨角獸k"
-      }
+      "Nazo": 0
     },
     "1012100": {
       "Cuid": 1012100,
       "Tachieshowid": 1012100,
+      "Boatid": "獨角獸s",
       "Scale": 0.58,
       "Leftleft": "-580,-30",
       "Left": "-327,-30",
       "Middle": "60,-30",
       "Right": "290,-30",
       "Rightright": "543,-30",
-      "LangStringTable": {
-        "Boatid": "獨角獸s"
-      }
+      "Nazo": 0
     },
     "1015000": {
       "Cuid": 1015000,
       "Tachieshowid": 1015000,
+      "Boatid": "艾塞克斯",
       "Scale": 0.45,
       "Leftleft": "-450,-40",
       "Left": "-254,-40",
       "Middle": "80,-40",
       "Right": "225,-40",
       "Rightright": "421,-40",
-      "LangStringTable": {
-        "Boatid": "艾塞克斯"
-      }
+      "Nazo": 0
     },
     "1015900": {
       "Cuid": 1015900,
       "Tachieshowid": 1015900,
+      "Boatid": "艾塞克斯k",
       "Scale": 0.45,
       "Leftleft": "-450,-40",
       "Left": "-254,-40",
       "Middle": "80,-40",
       "Right": "225,-40",
       "Rightright": "421,-40",
-      "LangStringTable": {
-        "Boatid": "艾塞克斯k"
-      }
+      "Nazo": 0
     },
     "1015100": {
       "Cuid": 1015100,
       "Tachieshowid": 1015100,
+      "Boatid": "艾塞克斯s",
       "Scale": 0.52,
       "Leftleft": "-520,-30",
       "Left": "-293,-30",
       "Middle": "90,-30",
       "Right": "260,-30",
       "Rightright": "487,-30",
-      "LangStringTable": {
-        "Boatid": "艾塞克斯s"
-      }
+      "Nazo": 0
     },
     "1018000": {
       "Cuid": 1018000,
       "Tachieshowid": 1018000,
+      "Boatid": "大黃蜂",
       "Scale": 0.48,
       "Leftleft": "-480,15",
       "Left": "-270,15",
       "Middle": "13,15",
       "Right": "240,15",
       "Rightright": "450,15",
-      "LangStringTable": {
-        "Boatid": "大黃蜂"
-      }
+      "Nazo": 0
     },
     "1018100": {
       "Cuid": 1018100,
       "Tachieshowid": 1018100,
+      "Boatid": "大黃蜂s",
       "Scale": 0.52,
       "Leftleft": "-520,90",
       "Left": "-293,90",
       "Middle": "-30,90",
       "Right": "260,90",
       "Rightright": "487,90",
-      "LangStringTable": {
-        "Boatid": "大黃蜂s"
-      }
+      "Nazo": 0
     },
     "1021000": {
       "Cuid": 1021000,
       "Tachieshowid": 1021000,
+      "Boatid": "赤城",
       "Scale": 0.64,
       "Leftleft": "-527,-159",
       "Left": "-287,-159",
       "Middle": "0,-159",
       "Right": "320,-159",
       "Rightright": "600,-159",
-      "LangStringTable": {
-        "Boatid": "赤城"
-      }
+      "Nazo": 0
     },
     "1022000": {
       "Cuid": 1022000,
       "Tachieshowid": 1022000,
+      "Boatid": "加賀",
       "Scale": 0.61,
       "Leftleft": "-610,-157",
       "Left": "-344,-157",
       "Middle": "55,-157",
       "Right": "363,-157",
       "Rightright": "571,-157",
-      "LangStringTable": {
-        "Boatid": "加賀"
-      }
+      "Nazo": 0
     },
     "1023000": {
       "Cuid": 1023000,
       "Tachieshowid": 1023000,
+      "Boatid": "大鳳",
       "Scale": 0.58,
       "Leftleft": "-580,-139",
       "Left": "-483,-139",
       "Middle": "-190,-139",
       "Right": "290,-139",
       "Rightright": "543,-139",
-      "LangStringTable": {
-        "Boatid": "大鳳"
-      }
+      "Nazo": 0
     },
     "1024000": {
       "Cuid": 1024000,
       "Tachieshowid": 1024000,
+      "Boatid": "皇家方舟",
       "Scale": 0.58,
       "Leftleft": "-580,-100",
       "Left": "-327,-100",
       "Middle": "-70,-100",
       "Right": "290,-100",
       "Rightright": "543,-100",
-      "LangStringTable": {
-        "Boatid": "皇家方舟"
-      }
+      "Nazo": 0
     },
     "1024900": {
       "Cuid": 1024900,
       "Tachieshowid": 1024900,
+      "Boatid": "皇家方舟k",
       "Scale": 0.58,
       "Leftleft": "-580,-100",
       "Left": "-327,-100",
       "Middle": "-70,-100",
       "Right": "290,-100",
       "Rightright": "543,-100",
-      "LangStringTable": {
-        "Boatid": "皇家方舟k"
-      }
+      "Nazo": 0
     },
     "1028000": {
       "Cuid": 1028000,
       "Tachieshowid": 1028000,
+      "Boatid": "光榮",
       "Scale": 0.67,
       "Leftleft": "-392,-133",
       "Left": "-296,-133",
       "Middle": "-4,-133",
       "Right": "240,-133",
       "Rightright": "375,-133",
-      "LangStringTable": {
-        "Boatid": "光榮"
-      }
+      "Nazo": 0
     },
     "1024100": {
       "Cuid": 1024100,
       "Tachieshowid": 1024100,
+      "Boatid": "皇家方舟s",
       "Scale": 0.58,
       "Leftleft": "-580,-61",
       "Left": "-327,-61",
       "Middle": "88,-61",
       "Right": "290,-61",
       "Rightright": "543,-61",
-      "LangStringTable": {
-        "Boatid": "皇家方舟s"
-      }
+      "Nazo": 0
     },
     "1029000": {
       "Cuid": 1029000,
       "Tachieshowid": 1029000,
+      "Boatid": "薩拉托加",
       "Scale": 0.48,
       "Leftleft": "-480,-39",
       "Left": "-270,-39",
       "Middle": "16,-39",
       "Right": "240,-39",
       "Rightright": "450,-39",
-      "LangStringTable": {
-        "Boatid": "薩拉托加"
-      }
+      "Nazo": 0
+    },
+    "1029100": {
+      "Cuid": 1029100,
+      "Tachieshowid": 1029100,
+      "Boatid": "薩拉托加s",
+      "Scale": 0.5,
+      "Leftleft": "0,0",
+      "Left": "0,0",
+      "Middle": "0,0",
+      "Right": "0,0",
+      "Rightright": "0,0",
+      "Nazo": 0
     },
     "1029900": {
       "Cuid": 1029900,
       "Tachieshowid": 1029900,
+      "Boatid": "薩拉托加k",
       "Scale": 0.48,
       "Leftleft": "-480,-39",
       "Left": "-270,-39",
       "Middle": "16,-39",
       "Right": "240,-39",
       "Rightright": "450,-39",
-      "LangStringTable": {
-        "Boatid": "薩拉托加k"
-      }
+      "Nazo": 0
     },
     "2001000": {
       "Cuid": 2001000,
       "Tachieshowid": 2001000,
+      "Boatid": "飛鷹",
       "Scale": 0.48,
       "Leftleft": "-480,10",
       "Left": "-270,10",
       "Middle": "5,10",
       "Right": "240,10",
       "Rightright": "450,10",
-      "LangStringTable": {
-        "Boatid": "飛鷹"
-      }
+      "Nazo": 0
     },
     "2001900": {
       "Cuid": 2001900,
       "Tachieshowid": 2001900,
+      "Boatid": "飛鷹k",
       "Scale": 0.48,
       "Leftleft": "-480,10",
       "Left": "-270,10",
       "Middle": "5,10",
       "Right": "240,10",
       "Rightright": "450,10",
-      "LangStringTable": {
-        "Boatid": "飛鷹k"
-      }
+      "Nazo": 0
     },
     "2001100": {
       "Cuid": 2001100,
       "Tachieshowid": 2001100,
+      "Boatid": "飛鷹s",
       "Scale": 0.5,
       "Leftleft": "-500,0",
       "Left": "-282,0",
       "Middle": "50,0",
       "Right": "250,0",
       "Rightright": "468,0",
-      "LangStringTable": {
-        "Boatid": "飛鷹s"
-      }
+      "Nazo": 0
     },
     "2002000": {
       "Cuid": 2002000,
       "Tachieshowid": 2002000,
+      "Boatid": "競技神",
       "Scale": 0.6,
       "Leftleft": "-600,-40",
       "Left": "-277,-40",
       "Middle": "27,-40",
       "Right": "300,-40",
       "Rightright": "562,-40",
-      "LangStringTable": {
-        "Boatid": "競技神"
-      }
+      "Nazo": 0
     },
     "2002100": {
       "Cuid": 2002100,
       "Tachieshowid": 2002100,
+      "Boatid": "競技神s",
       "Scale": 0.6,
       "Leftleft": "-600,0",
       "Left": "-338,0",
       "Middle": "40,0",
       "Right": "300,0",
       "Rightright": "562,0",
-      "LangStringTable": {
-        "Boatid": "競技神s"
-      }
+      "Nazo": 0
     },
     "2002900": {
       "Cuid": 2002900,
       "Tachieshowid": 2002900,
+      "Boatid": "競技神k",
       "Scale": 0.6,
       "Leftleft": "-600,-40",
       "Left": "-277,-40",
       "Middle": "27,-40",
       "Right": "300,-40",
       "Rightright": "562,-40",
-      "LangStringTable": {
-        "Boatid": "競技神k"
-      }
+      "Nazo": 0
     },
     "2003000": {
       "Cuid": 2003000,
       "Tachieshowid": 2003000,
+      "Boatid": "千歲",
       "Scale": 0.52,
       "Leftleft": "-520,-47",
       "Left": "-293,-47",
       "Middle": "14,-47",
       "Right": "260,-47",
       "Rightright": "487,-47",
-      "LangStringTable": {
-        "Boatid": "千歲"
-      }
+      "Nazo": 0
     },
     "2003100": {
       "Cuid": 2003100,
       "Tachieshowid": 2003100,
+      "Boatid": "千歲s",
       "Scale": 0.5,
       "Leftleft": "-500,-30",
       "Left": "-282,-30",
       "Middle": "60,-30",
       "Right": "250,-30",
       "Rightright": "468,-30",
-      "LangStringTable": {
-        "Boatid": "千歲s"
-      }
+      "Nazo": 0
     },
     "2003900": {
       "Cuid": 2003900,
       "Tachieshowid": 2003900,
+      "Boatid": "千歲k",
       "Scale": 0.52,
       "Leftleft": "-520,-47",
       "Left": "-293,-47",
       "Middle": "14,-47",
       "Right": "260,-47",
       "Rightright": "487,-47",
-      "LangStringTable": {
-        "Boatid": "千歲k"
-      }
+      "Nazo": 0
     },
     "3001000": {
       "Cuid": 3001000,
       "Tachieshowid": 3001000,
+      "Boatid": "亞特蘭大",
       "Scale": 0.5,
       "Leftleft": "-500,20",
       "Left": "-282,20",
       "Middle": "33,20",
       "Right": "356,20",
       "Rightright": "468,20",
-      "LangStringTable": {
-        "Boatid": "亞特蘭大"
-      }
+      "Nazo": 0
     },
     "3001100": {
       "Cuid": 3001100,
       "Tachieshowid": 3001100,
+      "Boatid": "亞特蘭大s",
       "Scale": 0.55,
       "Leftleft": "-550,78",
       "Left": "-310,78",
       "Middle": "7,78",
       "Right": "275,78",
       "Rightright": "515,78",
-      "LangStringTable": {
-        "Boatid": "亞特蘭大s"
-      }
+      "Nazo": 0
     },
     "3001800": {
       "Cuid": 3001800,
       "Tachieshowid": 3001800,
+      "Boatid": "亞特蘭大sk",
       "Scale": 0.56,
       "Leftleft": "-430,-71",
       "Left": "-315,-71",
       "Middle": "33,-71",
       "Right": "280,-71",
       "Rightright": "525,-71",
-      "LangStringTable": {
-        "Boatid": "亞特蘭大sk"
-      }
+      "Nazo": 0
     },
     "3001900": {
       "Cuid": 3001900,
       "Tachieshowid": 3001900,
+      "Boatid": "亞特蘭大k",
       "Scale": 0.5,
       "Leftleft": "-500,-60",
       "Left": "-282,-60",
       "Middle": "33,-60",
       "Right": "250,-60",
       "Rightright": "468,-60",
-      "LangStringTable": {
-        "Boatid": "亞特蘭大k"
-      }
+      "Nazo": 0
     },
     "3002000": {
       "Cuid": 3002000,
       "Tachieshowid": 3002000,
+      "Boatid": "利安德",
       "Scale": 0.44,
       "Leftleft": "-440,-10",
       "Left": "-248,-10",
       "Middle": "20,-10",
       "Right": "220,-10",
       "Rightright": "412,-10",
-      "LangStringTable": {
-        "Boatid": "利安德"
-      }
+      "Nazo": 0
     },
     "3002900": {
       "Cuid": 3002900,
       "Tachieshowid": 3002900,
+      "Boatid": "利安德k",
       "Scale": 0.44,
       "Leftleft": "-440,-10",
       "Left": "-248,-10",
       "Middle": "20,-10",
       "Right": "220,-10",
       "Rightright": "412,-10",
-      "LangStringTable": {
-        "Boatid": "利安德k"
-      }
+      "Nazo": 0
     },
     "3002100": {
       "Cuid": 3002100,
       "Tachieshowid": 3002100,
+      "Boatid": "利安德s",
       "Scale": 0.88,
       "Leftleft": "-880,30",
       "Left": "-495,30",
       "Middle": "-70,30",
       "Right": "440,30",
       "Rightright": "825,30",
-      "LangStringTable": {
-        "Boatid": "利安德s"
-      }
+      "Nazo": 0
     },
     "3004000": {
       "Cuid": 3004000,
       "Tachieshowid": 3004000,
+      "Boatid": "克里夫蘭",
       "Scale": 0.56,
       "Leftleft": "-430,-80",
       "Left": "-315,-80",
       "Middle": "60,-80",
       "Right": "280,-80",
       "Rightright": "525,-80",
-      "LangStringTable": {
-        "Boatid": "克里夫蘭"
-      }
+      "Nazo": 0
     },
     "3004100": {
       "Cuid": 3004100,
       "Tachieshowid": 3004100,
+      "Boatid": "克里夫蘭s",
       "Scale": 0.64,
       "Leftleft": "-640,40",
       "Left": "-360,40",
       "Middle": "90,40",
       "Right": "320,40",
       "Rightright": "600,40",
-      "LangStringTable": {
-        "Boatid": "克里夫蘭s"
-      }
+      "Nazo": 0
     },
     "3004900": {
       "Cuid": 3004900,
       "Tachieshowid": 3004900,
+      "Boatid": "克里夫蘭k",
       "Scale": 0.56,
       "Leftleft": "-430,-80",
       "Left": "-315,-80",
       "Middle": "60,-80",
       "Right": "280,-80",
       "Rightright": "525,-80",
-      "LangStringTable": {
-        "Boatid": "克里夫蘭k"
-      }
+      "Nazo": 0
     },
     "3005000": {
       "Cuid": 3005000,
       "Tachieshowid": 3005000,
+      "Boatid": "川內",
       "Scale": 0.48,
       "Leftleft": "-460,-20",
       "Left": "-259,-20",
       "Middle": "-30,-20",
       "Right": "230,-20",
       "Rightright": "431,-20",
-      "LangStringTable": {
-        "Boatid": "川內"
-      }
+      "Nazo": 0
     },
     "3005100": {
       "Cuid": 3005100,
       "Tachieshowid": 3005100,
+      "Boatid": "川內s",
       "Scale": 0.48,
       "Leftleft": "-450,-10",
       "Left": "-254,-10",
       "Middle": "-30,-10",
       "Right": "225,-10",
       "Rightright": "421,-10",
-      "LangStringTable": {
-        "Boatid": "川內s"
-      }
+      "Nazo": 0
     },
     "3005900": {
       "Cuid": 3005900,
       "Tachieshowid": 3005900,
+      "Boatid": "川內k",
       "Scale": 0.46,
       "Leftleft": "-460,-20",
       "Left": "-259,-20",
       "Middle": "-30,-20",
       "Right": "230,-20",
       "Rightright": "431,-20",
-      "LangStringTable": {
-        "Boatid": "川內k"
-      }
+      "Nazo": 0
     },
     "3009000": {
       "Cuid": 3009000,
       "Tachieshowid": 3009000,
+      "Boatid": "聖地牙哥",
       "Scale": 0.5,
       "Leftleft": "-447,-40",
       "Left": "-410,-40",
       "Middle": "0,-40",
       "Right": "250,-40",
       "Rightright": "415,-40",
-      "LangStringTable": {
-        "Boatid": "聖地牙哥"
-      }
+      "Nazo": 0
     },
     "3009900": {
       "Cuid": 3009900,
       "Tachieshowid": 3009900,
+      "Boatid": "聖地牙哥k",
       "Scale": 0.5,
       "Leftleft": "-447,-40",
       "Left": "-282,-40",
       "Middle": "0,-40",
       "Right": "250,-40",
       "Rightright": "415,-40",
-      "LangStringTable": {
-        "Boatid": "聖地牙哥k"
-      }
+      "Nazo": 0
     },
     "3010000": {
       "Cuid": 3010000,
       "Tachieshowid": 3010000,
+      "Boatid": "萊比錫",
       "Scale": 0.47,
       "Leftleft": "-470,-35",
       "Left": "-265,-35",
       "Middle": "-16,-35",
       "Right": "235,-35",
       "Rightright": "440,-35",
-      "LangStringTable": {
-        "Boatid": "萊比錫"
-      }
+      "Nazo": 0
     },
     "3010100": {
       "Cuid": 3010100,
       "Tachieshowid": 3010100,
+      "Boatid": "萊比錫s",
       "Scale": 0.45,
       "Leftleft": "-450,38",
       "Left": "-254,38",
       "Middle": "-25,38",
       "Right": "225,38",
       "Rightright": "421,38",
-      "LangStringTable": {
-        "Boatid": "萊比錫s"
-      }
+      "Nazo": 0
     },
     "3013100": {
       "Cuid": 3013100,
       "Tachieshowid": 3013100,
+      "Boatid": "海王星s",
       "Scale": 0.45,
       "Leftleft": "-450,60",
       "Left": "-254,60",
       "Middle": "0,60",
       "Right": "225,60",
       "Rightright": "421,60",
-      "LangStringTable": {
-        "Boatid": "海王星s"
-      }
+      "Nazo": 0
     },
     "3014000": {
       "Cuid": 3014000,
       "Tachieshowid": 3014000,
+      "Boatid": "弗林特",
       "Scale": 0.59,
       "Leftleft": "-590,-70",
       "Left": "-332,-70",
       "Middle": "-30,-70",
       "Right": "295,-70",
       "Rightright": "553,-70",
-      "LangStringTable": {
-        "Boatid": "弗林特"
-      }
+      "Nazo": 0
     },
     "3014100": {
       "Cuid": 3014100,
       "Tachieshowid": 3014100,
+      "Boatid": "弗林特s",
       "Scale": 0.5,
       "Leftleft": "-500,-93",
       "Left": "-282,-93",
       "Middle": "0,-93",
       "Right": "250,-93",
       "Rightright": "468,-93",
-      "LangStringTable": {
-        "Boatid": "弗林特s"
-      }
+      "Nazo": 0
     },
     "3015000": {
       "Cuid": 3015000,
       "Tachieshowid": 3015000,
+      "Boatid": "柯尼斯堡",
       "Scale": 0.68,
       "Leftleft": "-680,2",
       "Left": "-383,2",
       "Middle": "-30,2",
       "Right": "340,2",
       "Rightright": "637,2",
-      "LangStringTable": {
-        "Boatid": "柯尼斯堡"
-      }
+      "Nazo": 0
     },
     "3015100": {
       "Cuid": 3015100,
       "Tachieshowid": 3015100,
+      "Boatid": "柯尼斯堡s",
       "Scale": 0.52,
       "Leftleft": "-520,-20",
       "Left": "-293,-20",
       "Middle": "-10,-20",
       "Right": "260,-20",
       "Rightright": "487,-20",
-      "LangStringTable": {
-        "Boatid": "柯尼斯堡s"
-      }
+      "Nazo": 0
     },
     "3016000": {
       "Cuid": 3016000,
       "Tachieshowid": 3016000,
+      "Boatid": "愛丁堡",
       "Scale": 0.46,
       "Leftleft": "-460,-50",
       "Left": "-259,-50",
       "Middle": "20,-50",
       "Right": "230,-50",
       "Rightright": "431,-50",
-      "LangStringTable": {
-        "Boatid": "愛丁堡"
-      }
+      "Nazo": 0
     },
     "3016900": {
       "Cuid": 3016900,
       "Tachieshowid": 3016900,
+      "Boatid": "愛丁堡k",
       "Scale": 0.46,
       "Leftleft": "-460,-50",
       "Left": "-259,-50",
       "Middle": "20,-50",
       "Right": "230,-50",
       "Rightright": "431,-50",
-      "LangStringTable": {
-        "Boatid": "愛丁堡k"
-      }
+      "Nazo": 0
     },
     "3016100": {
       "Cuid": 3016100,
       "Tachieshowid": 3016100,
+      "Boatid": "愛丁堡s",
       "Scale": 0.39,
       "Leftleft": "-390,90",
       "Left": "-220,90",
       "Middle": "0,90",
       "Right": "195,90",
       "Rightright": "365,90",
-      "LangStringTable": {
-        "Boatid": "愛丁堡s"
-      }
+      "Nazo": 0
     },
     "3017000": {
       "Cuid": 3017000,
       "Tachieshowid": 3017000,
+      "Boatid": "夕張",
       "Scale": 0.5,
       "Leftleft": "-500,-19",
       "Left": "-282,-19",
       "Middle": "8,-19",
       "Right": "250,-19",
       "Rightright": "468,-19",
-      "LangStringTable": {
-        "Boatid": "夕張"
-      }
+      "Nazo": 0
     },
     "3017900": {
       "Cuid": 3017900,
       "Tachieshowid": 3017900,
+      "Boatid": "夕張k",
       "Scale": 0.5,
       "Leftleft": "-500,-40",
       "Left": "-282,-40",
       "Middle": "60,-40",
       "Right": "250,-40",
       "Rightright": "468,-40",
-      "LangStringTable": {
-        "Boatid": "夕張k"
-      }
+      "Nazo": 0
     },
     "3017100": {
       "Cuid": 3017100,
       "Tachieshowid": 3017100,
+      "Boatid": "夕張s",
       "Scale": 0.54,
       "Leftleft": "-540,70",
       "Left": "-304,70",
       "Middle": "-11,70",
       "Right": "270,70",
       "Rightright": "506,70",
-      "LangStringTable": {
-        "Boatid": "夕張s"
-      }
+      "Nazo": 0
     },
     "3018000": {
       "Cuid": 3018000,
       "Tachieshowid": 3018000,
+      "Boatid": "海倫娜",
       "Scale": 0.48,
       "Leftleft": "-480,-70",
       "Left": "-270,-70",
       "Middle": "50,-70",
       "Right": "240,-70",
       "Rightright": "450,-70",
-      "LangStringTable": {
-        "Boatid": "海倫娜"
-      }
+      "Nazo": 0
     },
     "3018001": {
       "Cuid": 3018001,
       "Tachieshowid": 3018001,
+      "Boatid": "海倫娜1",
       "Scale": 0.57,
       "Leftleft": "-570,-60",
       "Left": "-321,-60",
       "Middle": "-20,-60",
       "Right": "285,-60",
       "Rightright": "534,-60",
-      "LangStringTable": {
-        "Boatid": "海倫娜1"
-      }
+      "Nazo": 0
     },
     "3018100": {
       "Cuid": 3018100,
       "Tachieshowid": 3018100,
+      "Boatid": "海倫娜s",
       "Scale": 0.54,
       "Leftleft": "-540,-69",
       "Left": "-304,-69",
       "Middle": "1,-69",
       "Right": "270,-69",
       "Rightright": "506,-69",
-      "LangStringTable": {
-        "Boatid": "海倫娜s"
-      }
+      "Nazo": 0
     },
     "3019000": {
       "Cuid": 3019000,
       "Tachieshowid": 3019000,
+      "Boatid": "朱諾",
       "Scale": 0.43,
       "Leftleft": "-470,-52",
       "Left": "-355,-52",
       "Middle": "-52,-52",
       "Right": "180,-52",
       "Rightright": "383,-52",
-      "LangStringTable": {
-        "Boatid": "朱諾"
-      }
+      "Nazo": 0
     },
     "3019900": {
       "Cuid": 3019900,
       "Tachieshowid": 3019900,
+      "Boatid": "朱諾k",
       "Scale": 0.43,
       "Leftleft": "-430,-52",
       "Left": "-345,-52",
       "Middle": "-52,-52",
       "Right": "180,-52",
       "Rightright": "383,-52",
-      "LangStringTable": {
-        "Boatid": "朱諾k"
-      }
+      "Nazo": 0
     },
     "3019100": {
       "Cuid": 3019100,
       "Tachieshowid": 3019100,
+      "Boatid": "朱諾s",
       "Scale": 0.68,
       "Leftleft": "-686,86",
       "Left": "-383,86",
       "Middle": "48,86",
       "Right": "363,86",
       "Rightright": "495,86",
-      "LangStringTable": {
-        "Boatid": "朱諾s"
-      }
+      "Nazo": 0
     },
     "3019800": {
       "Cuid": 3019800,
       "Tachieshowid": 3019800,
+      "Boatid": "朱諾sk",
       "Scale": 0.47,
       "Leftleft": "-470,-43",
       "Left": "-265,-43",
       "Middle": "30,-43",
       "Right": "235,-43",
       "Rightright": "494,-43",
-      "LangStringTable": {
-        "Boatid": "朱諾sk"
-      }
+      "Nazo": 0
     },
     "3033000": {
       "Cuid": 3033000,
       "Tachieshowid": 3033000,
+      "Boatid": "哥倫比亞",
       "Scale": 0.54,
       "Leftleft": "-560,-80",
       "Left": "-315,-80",
       "Middle": "-30,-80",
       "Right": "325,-80",
       "Rightright": "525,-80",
-      "LangStringTable": {
-        "Boatid": "哥倫比亞"
-      }
+      "Nazo": 0
     },
     "3033100": {
       "Cuid": 3033100,
       "Tachieshowid": 3033100,
+      "Boatid": "哥倫比亞s",
       "Scale": 0.9,
       "Leftleft": "-900,90",
       "Left": "-507,90",
       "Middle": "60,90",
       "Right": "450,90",
       "Rightright": "843,90",
-      "LangStringTable": {
-        "Boatid": "哥倫比亞s"
-      }
+      "Nazo": 0
     },
     "3033900": {
       "Cuid": 3033900,
       "Tachieshowid": 3033900,
+      "Boatid": "哥倫比亞k",
       "Scale": 0.56,
       "Leftleft": "-484,-60",
       "Left": "-315,-60",
       "Middle": "0,-60",
       "Right": "280,-60",
       "Rightright": "525,-60",
-      "LangStringTable": {
-        "Boatid": "哥倫比亞k"
-      }
+      "Nazo": 0
     },
     "4002000": {
       "Cuid": 4002000,
       "Tachieshowid": 4002000,
+      "Boatid": "妙高",
       "Scale": 0.46,
       "Leftleft": "-570,0",
       "Left": "-360,0",
       "Middle": "-80,0",
       "Right": "230,0",
       "Rightright": "431,0",
-      "LangStringTable": {
-        "Boatid": "妙高"
-      }
+      "Nazo": 0
     },
     "4002900": {
       "Cuid": 4002900,
       "Tachieshowid": 4002900,
+      "Boatid": "妙高k",
       "Scale": 0.46,
       "Leftleft": "-570,0",
       "Left": "-360,0",
       "Middle": "-80,0",
       "Right": "230,0",
       "Rightright": "431,0",
-      "LangStringTable": {
-        "Boatid": "妙高k"
-      }
+      "Nazo": 0
     },
     "4002001": {
       "Cuid": 4002001,
       "Tachieshowid": 4002001,
+      "Boatid": "妙高1",
       "Scale": 0.44,
       "Leftleft": "-440,20",
       "Left": "-248,20",
       "Middle": "-80,20",
       "Right": "220,20",
       "Rightright": "412,20",
-      "LangStringTable": {
-        "Boatid": "妙高1"
-      }
+      "Nazo": 0
     },
     "4002100": {
       "Cuid": 4002100,
       "Tachieshowid": 4002100,
+      "Boatid": "妙高s",
       "Scale": 0.48,
       "Leftleft": "-480,-20",
       "Left": "-270,-20",
       "Middle": "-20,-20",
       "Right": "240,-20",
       "Rightright": "450,-20",
-      "LangStringTable": {
-        "Boatid": "妙高s"
-      }
+      "Nazo": 0
     },
     "4003000": {
       "Cuid": 4003000,
       "Tachieshowid": 4003000,
+      "Boatid": "那智",
       "Scale": 0.46,
       "Leftleft": "-460,0",
       "Left": "-259,0",
       "Middle": "40,0",
       "Right": "300,0",
       "Rightright": "450,0",
-      "LangStringTable": {
-        "Boatid": "那智"
-      }
+      "Nazo": 0
     },
     "4003900": {
       "Cuid": 4003900,
       "Tachieshowid": 4003900,
+      "Boatid": "那智k",
       "Scale": 0.46,
       "Leftleft": "-460,0",
       "Left": "-259,0",
       "Middle": "40,0",
       "Right": "300,0",
       "Rightright": "450,0",
-      "LangStringTable": {
-        "Boatid": "那智k"
-      }
+      "Nazo": 0
     },
     "4003001": {
       "Cuid": 4003001,
       "Tachieshowid": 4003001,
+      "Boatid": "那智1",
       "Scale": 0.44,
       "Leftleft": "-570,-60",
       "Left": "-321,-60",
       "Middle": "50,0",
       "Right": "285,0",
       "Rightright": "534,-60",
-      "LangStringTable": {
-        "Boatid": "那智1"
-      }
+      "Nazo": 0
     },
     "4003100": {
       "Cuid": 4003100,
       "Tachieshowid": 4003100,
+      "Boatid": "那智s",
       "Scale": 0.56,
       "Leftleft": "-560,40",
       "Left": "-315,40",
       "Middle": "30,40",
       "Right": "280,40",
       "Rightright": "525,40",
-      "LangStringTable": {
-        "Boatid": "那智s"
-      }
+      "Nazo": 0
     },
     "4005001": {
       "Cuid": 4005001,
       "Tachieshowid": 4005001,
+      "Boatid": "羽黑1",
       "Scale": 0.44,
       "Leftleft": "-620,-170",
       "Left": "-349,-170",
       "Middle": "0,-170",
       "Right": "310,-170",
       "Rightright": "500,-20",
-      "LangStringTable": {
-        "Boatid": "羽黑1"
-      }
+      "Nazo": 0
     },
     "4005100": {
       "Cuid": 4005100,
       "Tachieshowid": 4005100,
+      "Boatid": "羽黑s",
       "Scale": 0.62,
       "Leftleft": "-620,-170",
       "Left": "-349,-170",
       "Middle": "0,-170",
       "Right": "310,-170",
       "Rightright": "581,-170",
-      "LangStringTable": {
-        "Boatid": "羽黑s"
-      }
+      "Nazo": 0
     },
     "4006000": {
       "Cuid": 4006000,
       "Tachieshowid": 4006000,
+      "Boatid": "足柄",
       "Scale": 0.48,
       "Leftleft": "-480,-13",
       "Left": "-270,-13",
       "Middle": "-40,-13",
       "Right": "240,-13",
       "Rightright": "558,-13",
-      "LangStringTable": {
-        "Boatid": "足柄"
-      }
+      "Nazo": 0
     },
     "4006900": {
       "Cuid": 4006900,
       "Tachieshowid": 4006900,
+      "Boatid": "足柄k",
       "Scale": 0.48,
       "Leftleft": "-480,-13",
       "Left": "-270,-13",
       "Middle": "-40,-13",
       "Right": "240,-13",
       "Rightright": "558,-13",
-      "LangStringTable": {
-        "Boatid": "足柄k"
-      }
+      "Nazo": 0
     },
     "4006001": {
       "Cuid": 4006001,
       "Tachieshowid": 4006001,
+      "Boatid": "足柄1",
       "Scale": 0.44,
       "Leftleft": "-500,10",
       "Left": "-282,10",
       "Middle": "0,50",
       "Right": "250,10",
       "Rightright": "468,10",
-      "LangStringTable": {
-        "Boatid": "足柄1"
-      }
+      "Nazo": 0
     },
     "4006100": {
       "Cuid": 4006100,
       "Tachieshowid": 4006100,
+      "Boatid": "足柄s",
       "Scale": 0.64,
       "Leftleft": "-640,-150",
       "Left": "-360,-150",
       "Middle": "0,-150",
       "Right": "320,-150",
       "Rightright": "600,-150",
-      "LangStringTable": {
-        "Boatid": "足柄s"
-      }
+      "Nazo": 0
     },
     "4005000": {
       "Cuid": 4005000,
       "Tachieshowid": 4005000,
+      "Boatid": "羽黑",
       "Scale": 0.46,
       "Leftleft": "-460,-30",
       "Left": "-260,-30",
       "Middle": "0,-30",
       "Right": "230,-30",
       "Rightright": "431,-30",
-      "LangStringTable": {
-        "Boatid": "羽黑"
-      }
+      "Nazo": 0
     },
     "4005900": {
       "Cuid": 4005900,
       "Tachieshowid": 4005900,
+      "Boatid": "羽黑k",
       "Scale": 0.46,
       "Leftleft": "-460,-30",
       "Left": "-260,-30",
       "Middle": "0,-30",
       "Right": "230,-30",
       "Rightright": "431,-30",
-      "LangStringTable": {
-        "Boatid": "羽黑k"
-      }
+      "Nazo": 0
     },
     "4007000": {
       "Cuid": 4007000,
       "Tachieshowid": 4007000,
+      "Boatid": "希佩爾",
       "Scale": 0.53,
       "Leftleft": "-530,-80",
       "Left": "-299,-80",
       "Middle": "80,-80",
       "Right": "265,-80",
       "Rightright": "496,-80",
-      "LangStringTable": {
-        "Boatid": "希佩爾"
-      }
+      "Nazo": 0
     },
     "4007900": {
       "Cuid": 4007900,
       "Tachieshowid": 4007900,
+      "Boatid": "希佩爾k",
       "Scale": 0.53,
       "Leftleft": "-530,-80",
       "Left": "-299,-80",
       "Middle": "80,-80",
       "Right": "265,-80",
       "Rightright": "496,-80",
-      "LangStringTable": {
-        "Boatid": "希佩爾k"
-      }
+      "Nazo": 0
     },
     "4007100": {
       "Cuid": 4007100,
       "Tachieshowid": 4007100,
+      "Boatid": "希佩爾s",
       "Scale": 0.68,
       "Leftleft": "-680,-50",
       "Left": "-383,-50",
       "Middle": "50,-50",
       "Right": "340,-50",
       "Rightright": "637,-50",
-      "LangStringTable": {
-        "Boatid": "希佩爾s"
-      }
+      "Nazo": 0
     },
     "4009000": {
       "Cuid": 4009000,
       "Tachieshowid": 4009000,
+      "Boatid": "塞德利茨",
       "Scale": 0.68,
       "Leftleft": "-680,-50",
       "Left": "-383,-50",
       "Middle": "50,-50",
       "Right": "340,-50",
       "Rightright": "637,-50",
-      "LangStringTable": {
-        "Boatid": "塞德利茨"
-      }
+      "Nazo": 0
     },
     "4009900": {
       "Cuid": 4009900,
       "Tachieshowid": 4009900,
+      "Boatid": "塞德利茨k",
       "Scale": 0.68,
       "Leftleft": "-680,-50",
       "Left": "-383,-50",
       "Middle": "50,-50",
       "Right": "340,-50",
       "Rightright": "637,-50",
-      "LangStringTable": {
-        "Boatid": "塞德利茨k"
-      }
+      "Nazo": 0
     },
     "4009100": {
       "Cuid": 4009100,
       "Tachieshowid": 4009100,
+      "Boatid": "塞德利茨s",
       "Scale": 0.8,
       "Leftleft": "-800,10",
       "Left": "-450,10",
       "Middle": "-40,10",
       "Right": "400,10",
       "Rightright": "750,10",
-      "LangStringTable": {
-        "Boatid": "塞德利茨s"
-      }
+      "Nazo": 0
     },
     "4010000": {
       "Cuid": 4010000,
       "Tachieshowid": 4010000,
+      "Boatid": "呂佐夫",
       "Scale": 0.6,
       "Leftleft": "-600,110",
       "Left": "-338,110",
       "Middle": "40,110",
       "Right": "300,110",
       "Rightright": "562,110",
-      "LangStringTable": {
-        "Boatid": "呂佐夫"
-      }
+      "Nazo": 0
     },
     "4010100": {
       "Cuid": 4010100,
       "Tachieshowid": 4010100,
+      "Boatid": "呂佐夫s",
       "Scale": 0.62,
       "Leftleft": "-620,-180",
       "Left": "-349,-180",
       "Middle": "60,-180",
       "Right": "310,-180",
       "Rightright": "581,-180",
-      "LangStringTable": {
-        "Boatid": "呂佐夫s"
-      }
+      "Nazo": 0
     },
     "4013000": {
       "Cuid": 4013000,
       "Tachieshowid": 4013000,
+      "Boatid": "彭薩科拉",
       "Scale": 0.48,
       "Leftleft": "-460,-11",
       "Left": "-259,-11",
       "Middle": "-20,-11",
       "Right": "230,-11",
       "Rightright": "431,-11",
-      "LangStringTable": {
-        "Boatid": "彭薩科拉"
-      }
+      "Nazo": 0
     },
     "4013100": {
       "Cuid": 4013100,
       "Tachieshowid": 4013100,
+      "Boatid": "彭薩科拉s",
       "Scale": 0.59,
       "Leftleft": "-590,8",
       "Left": "-332,8",
       "Middle": "-6,8",
       "Right": "295,8",
       "Rightright": "553,8",
-      "LangStringTable": {
-        "Boatid": "彭薩科拉s"
-      }
+      "Nazo": 0
     },
     "4015000": {
       "Cuid": 4015000,
       "Tachieshowid": 4015000,
+      "Boatid": "北安普頓",
       "Scale": 0.58,
       "Leftleft": "-600,-95",
       "Left": "-338,-95",
       "Middle": "8,-95",
       "Right": "300,-95",
       "Rightright": "562,-95",
-      "LangStringTable": {
-        "Boatid": "北安普頓"
-      }
+      "Nazo": 0
     },
     "4015900": {
       "Cuid": 4015900,
       "Tachieshowid": 4015900,
+      "Boatid": "北安普頓k",
       "Scale": 0.6,
       "Leftleft": "-600,-41",
       "Left": "-338,-41",
       "Middle": "76,-41",
       "Right": "300,-41",
       "Rightright": "562,-41",
-      "LangStringTable": {
-        "Boatid": "北安普頓k"
-      }
+      "Nazo": 0
     },
     "4015100": {
       "Cuid": 4015100,
       "Tachieshowid": 4015100,
+      "Boatid": "北安普頓s",
       "Scale": 0.58,
       "Leftleft": "-580,-120",
       "Left": "-327,-120",
       "Middle": "0,-120",
       "Right": "290,-120",
       "Rightright": "543,-120",
-      "LangStringTable": {
-        "Boatid": "北安普頓s"
-      }
+      "Nazo": 0
     },
     "4016000": {
       "Cuid": 4016000,
       "Tachieshowid": 4016000,
+      "Boatid": "最上",
       "Scale": 0.5,
       "Leftleft": "-500,-40",
       "Left": "-282,-40",
       "Middle": "20,-40",
       "Right": "250,-40",
       "Rightright": "468,-40",
-      "LangStringTable": {
-        "Boatid": "最上"
-      }
+      "Nazo": 0
     },
     "4016100": {
       "Cuid": 4016100,
       "Tachieshowid": 4016100,
+      "Boatid": "最上s",
       "Scale": 0.5,
       "Leftleft": "-500,-27",
       "Left": "-282,-27",
       "Middle": "-14,-27",
       "Right": "250,-27",
       "Rightright": "468,-27",
-      "LangStringTable": {
-        "Boatid": "最上s"
-      }
+      "Nazo": 0
     },
     "4020000": {
       "Cuid": 4020000,
       "Tachieshowid": 4020000,
+      "Boatid": "高雄",
       "Scale": 0.48,
       "Leftleft": "-480,-60",
       "Left": "-270,-60",
       "Middle": "0,-60",
       "Right": "240,-60",
       "Rightright": "450,-60",
-      "LangStringTable": {
-        "Boatid": "高雄"
-      }
+      "Nazo": 0
     },
     "4020100": {
       "Cuid": 4020100,
       "Tachieshowid": 4020100,
+      "Boatid": "高雄s",
       "Scale": 0.52,
       "Leftleft": "-520,-60",
       "Left": "-293,-60",
       "Middle": "20,-60",
       "Right": "260,-60",
       "Rightright": "487,-60",
-      "LangStringTable": {
-        "Boatid": "高雄s"
-      }
+      "Nazo": 0
     },
     "4021000": {
       "Cuid": 4021000,
       "Tachieshowid": 4021000,
+      "Boatid": "愛宕",
       "Scale": 0.48,
       "Leftleft": "-480,-30",
       "Left": "-270,-30",
       "Middle": "-30,-30",
       "Right": "240,-30",
       "Rightright": "450,-30",
-      "LangStringTable": {
-        "Boatid": "愛宕"
-      }
+      "Nazo": 0
     },
     "4021100": {
       "Cuid": 4021100,
       "Tachieshowid": 4021100,
+      "Boatid": "愛宕s",
       "Scale": 0.52,
       "Leftleft": "-520,-50",
       "Left": "-293,-50",
       "Middle": "0,-50",
       "Right": "260,-50",
       "Rightright": "487,-50",
-      "LangStringTable": {
-        "Boatid": "愛宕s"
-      }
+      "Nazo": 0
     },
     "4030000": {
       "Cuid": 4030000,
       "Tachieshowid": 4030000,
+      "Boatid": "諾福克",
       "Scale": 0.53,
       "Leftleft": "-530,-37",
       "Left": "-299,-37",
       "Middle": "6,-37",
       "Right": "265,-37",
       "Rightright": "496,-37",
-      "LangStringTable": {
-        "Boatid": "諾福克"
-      }
+      "Nazo": 0
     },
     "4030100": {
       "Cuid": 4030100,
       "Tachieshowid": 4030100,
+      "Boatid": "諾福克s",
       "Scale": 0.72,
       "Leftleft": "-720,-150",
       "Left": "-405,-150",
       "Middle": "-17,-150",
       "Right": "360,-150",
       "Rightright": "675,-150",
-      "LangStringTable": {
-        "Boatid": "諾福克s"
-      }
+      "Nazo": 0
     },
     "4032000": {
       "Cuid": 4032000,
       "Tachieshowid": 4032000,
+      "Boatid": "舊金山",
       "Scale": 0.52,
       "Leftleft": "-520,-100",
       "Left": "-331,-100",
       "Middle": "-10,-100",
       "Right": "275,-100",
       "Rightright": "438,-100",
-      "LangStringTable": {
-        "Boatid": "舊金山"
-      }
+      "Nazo": 0
     },
     "4032900": {
       "Cuid": 4032900,
       "Tachieshowid": 4032900,
+      "Boatid": "舊金山k",
       "Scale": 0.52,
       "Leftleft": "-520,-100",
       "Left": "-331,-100",
       "Middle": "-10,-100",
       "Right": "275,-100",
       "Rightright": "438,-100",
-      "LangStringTable": {
-        "Boatid": "舊金山k"
-      }
+      "Nazo": 0
     },
     "4032100": {
       "Cuid": 4032100,
       "Tachieshowid": 4032100,
+      "Boatid": "舊金山s",
       "Scale": 0.52,
       "Leftleft": "-520,-100",
       "Left": "-293,-100",
       "Middle": "-10,-100",
       "Right": "275,-100",
       "Rightright": "438,-100",
-      "LangStringTable": {
-        "Boatid": "舊金山s"
-      }
+      "Nazo": 0
     },
     "5003000": {
       "Cuid": 5003000,
       "Tachieshowid": 5003000,
+      "Boatid": "朱比特",
       "Scale": 0.48,
       "Leftleft": "-480,-20",
       "Left": "-270,-20",
       "Middle": "30,-20",
       "Right": "240,-20",
       "Rightright": "450,-20",
-      "LangStringTable": {
-        "Boatid": "朱比特"
-      }
+      "Nazo": 0
     },
     "5003100": {
       "Cuid": 5003100,
       "Tachieshowid": 5003100,
+      "Boatid": "朱比特s",
       "Scale": 0.48,
       "Leftleft": "-437,-17",
       "Left": "-318,-17",
       "Middle": "30,-17",
       "Right": "240,-17",
       "Rightright": "450,-17",
-      "LangStringTable": {
-        "Boatid": "朱比特s"
-      }
+      "Nazo": 0
     },
     "5003800": {
       "Cuid": 5003800,
       "Tachieshowid": 5003800,
+      "Boatid": "朱比特sk",
       "Scale": 0.48,
       "Leftleft": "-437,-17",
       "Left": "-270,-17",
       "Middle": "30,-17",
       "Right": "240,-17",
       "Rightright": "450,-17",
-      "LangStringTable": {
-        "Boatid": "朱比特sk"
-      }
+      "Nazo": 0
     },
     "5006000": {
       "Cuid": 5006000,
       "Tachieshowid": 5006000,
+      "Boatid": "陽炎",
       "Scale": 0.46,
       "Leftleft": "-460,-40",
       "Left": "-259,-40",
       "Middle": "-30,-40",
       "Right": "316,-40",
       "Rightright": "431,-40",
-      "LangStringTable": {
-        "Boatid": "陽炎"
-      }
+      "Nazo": 0
     },
     "5006100": {
       "Cuid": 5006100,
       "Tachieshowid": 5006100,
+      "Boatid": "陽炎s",
       "Scale": 0.53,
       "Leftleft": "-500,-54",
       "Left": "-282,-54",
       "Middle": "70,-54",
       "Right": "250,-54",
       "Rightright": "468,-54",
-      "LangStringTable": {
-        "Boatid": "陽炎s"
-      }
+      "Nazo": 0
     },
     "5008000": {
       "Cuid": 5008000,
       "Tachieshowid": 5008000,
+      "Boatid": "不知火",
       "Scale": 0.46,
       "Leftleft": "-460,10",
       "Left": "-259,10",
       "Middle": "70,10",
       "Right": "230,10",
       "Rightright": "431,10",
-      "LangStringTable": {
-        "Boatid": "不知火"
-      }
+      "Nazo": 0
     },
     "5008100": {
       "Cuid": 5008100,
       "Tachieshowid": 5008100,
+      "Boatid": "不知火s",
       "Scale": 0.41,
       "Leftleft": "-410,0",
       "Left": "-231,0",
       "Middle": "90,0",
       "Right": "205,0",
       "Rightright": "384,0",
-      "LangStringTable": {
-        "Boatid": "不知火s"
-      }
+      "Nazo": 0
     },
     "5010000": {
       "Cuid": 5010000,
       "Tachieshowid": 5010000,
+      "Boatid": "小獵犬",
       "Scale": 0.45,
       "Leftleft": "-450,-17",
       "Left": "-254,-17",
       "Middle": "-23,-17",
       "Right": "225,-17",
       "Rightright": "421,-17",
-      "LangStringTable": {
-        "Boatid": "小獵犬"
-      }
+      "Nazo": 0
     },
     "5010100": {
       "Cuid": 5010100,
       "Tachieshowid": 5010100,
+      "Boatid": "小獵犬s",
       "Scale": 0.45,
       "Leftleft": "-450,-13",
       "Left": "-254,-13",
       "Middle": "33,-13",
       "Right": "225,-13",
       "Rightright": "421,-13",
-      "LangStringTable": {
-        "Boatid": "小獵犬s"
-      }
+      "Nazo": 0
     },
     "5011000": {
       "Cuid": 5011000,
       "Tachieshowid": 5011000,
-      "Scale": 0.52,
-      "Leftleft": "-520,90",
-      "Left": "-293,90",
-      "Middle": "80,90",
-      "Right": "371,90",
-      "Rightright": "487,90",
-      "LangStringTable": {
-        "Boatid": "戰斧"
-      }
+      "Boatid": "戰斧",
+      "Scale": 0.5,
+      "Leftleft": "-500,80",
+      "Left": "-282,80",
+      "Middle": "20,80",
+      "Right": "250,80",
+      "Rightright": "468,80",
+      "Nazo": 0
+    },
+    "5011100": {
+      "Cuid": 5011100,
+      "Tachieshowid": 5011100,
+      "Boatid": "戰斧s",
+      "Scale": 0.45,
+      "Leftleft": "-450,100",
+      "Left": "-254,100",
+      "Middle": "100,100",
+      "Right": "225,100",
+      "Rightright": "421,100",
+      "Nazo": 0
     },
     "5012000": {
       "Cuid": 5012000,
       "Tachieshowid": 5012000,
+      "Boatid": "卡辛",
       "Scale": 0.4,
       "Leftleft": "-545,16",
       "Left": "-391,16",
       "Middle": "-14,18",
       "Right": "106,16",
       "Rightright": "307,16",
-      "LangStringTable": {
-        "Boatid": "卡辛"
-      }
+      "Nazo": 0
     },
     "5012900": {
       "Cuid": 5012900,
       "Tachieshowid": 5012900,
+      "Boatid": "卡辛k",
       "Scale": 0.4,
       "Leftleft": "-545,16",
       "Left": "-391,16",
       "Middle": "-120,16",
       "Right": "106,16",
       "Rightright": "307,16",
-      "LangStringTable": {
-        "Boatid": "卡辛k"
-      }
+      "Nazo": 0
+    },
+    "5014000": {
+      "Cuid": 5014000,
+      "Tachieshowid": 5014000,
+      "Boatid": "響",
+      "Scale": 0.5,
+      "Leftleft": "0,0",
+      "Left": "0,0",
+      "Middle": "0,0",
+      "Right": "0,0",
+      "Rightright": "0,0",
+      "Nazo": 0
+    },
+    "5014100": {
+      "Cuid": 5014100,
+      "Tachieshowid": 5014100,
+      "Boatid": "響s",
+      "Scale": 0.5,
+      "Leftleft": "0,0",
+      "Left": "0,0",
+      "Middle": "0,0",
+      "Right": "0,0",
+      "Rightright": "0,0",
+      "Nazo": 0
     },
     "5012100": {
       "Cuid": 5012100,
       "Tachieshowid": 5012100,
+      "Boatid": "卡辛s",
       "Scale": 0.62,
       "Leftleft": "-620,50",
       "Left": "-349,50",
       "Middle": "40,50",
       "Right": "310,50",
       "Rightright": "581,50",
-      "LangStringTable": {
-        "Boatid": "卡辛s"
-      }
+      "Nazo": 0
     },
     "5015000": {
       "Cuid": 5015000,
       "Tachieshowid": 5015000,
+      "Boatid": "白露",
       "Scale": 0.5,
       "Leftleft": "-422,65",
       "Left": "-282,65",
       "Middle": "-9,65",
       "Right": "383,65",
       "Rightright": "468,65",
-      "LangStringTable": {
-        "Boatid": "白露"
-      }
+      "Nazo": 0
     },
     "5015100": {
       "Cuid": 5015100,
       "Tachieshowid": 5015100,
+      "Boatid": "白露s",
       "Scale": 0.52,
       "Leftleft": "-520,-82",
       "Left": "-293,-82",
       "Middle": "1,-82",
       "Right": "260,-82",
       "Rightright": "487,-82",
-      "LangStringTable": {
-        "Boatid": "白露s"
-      }
+      "Nazo": 0
     },
     "5015900": {
       "Cuid": 5015900,
       "Tachieshowid": 5015900,
+      "Boatid": "白露k",
       "Scale": 0.5,
       "Leftleft": "-422,65",
       "Left": "-282,65",
       "Middle": "-9,65",
       "Right": "383,65",
       "Rightright": "468,65",
-      "LangStringTable": {
-        "Boatid": "白露k"
-      }
+      "Nazo": 0
     },
     "5017000": {
       "Cuid": 5017000,
       "Tachieshowid": 5017000,
+      "Boatid": "命運女神",
       "Scale": 0.4,
       "Leftleft": "-400,-20",
       "Left": "-225,-20",
       "Middle": "80,-20",
       "Right": "200,-20",
       "Rightright": "375,-20",
-      "LangStringTable": {
-        "Boatid": "命運女神"
-      }
+      "Nazo": 0
     },
     "5017900": {
       "Cuid": 5017900,
       "Tachieshowid": 5017900,
+      "Boatid": "命運女神k",
       "Scale": 0.4,
       "Leftleft": "-400,-20",
       "Left": "-225,-20",
       "Middle": "80,-20",
       "Right": "200,-20",
       "Rightright": "375,-20",
-      "LangStringTable": {
-        "Boatid": "命運女神k"
-      }
+      "Nazo": 0
     },
     "5019000": {
       "Cuid": 5019000,
       "Tachieshowid": 5019000,
+      "Boatid": "小天鵝",
       "Scale": 0.41,
       "Leftleft": "-410,0",
       "Left": "-231,0",
       "Middle": "30,0",
       "Right": "205,0",
       "Rightright": "384,0",
-      "LangStringTable": {
-        "Boatid": "小天鵝"
-      }
+      "Nazo": 0
     },
     "5019900": {
       "Cuid": 5019900,
       "Tachieshowid": 5019900,
+      "Boatid": "小天鵝k",
       "Scale": 0.41,
       "Leftleft": "-410,0",
       "Left": "-231,0",
       "Middle": "90,0",
       "Right": "205,0",
       "Rightright": "384,0",
-      "LangStringTable": {
-        "Boatid": "小天鵝k"
-      }
+      "Nazo": 0
     },
     "5019100": {
       "Cuid": 5019100,
       "Tachieshowid": 5019100,
+      "Boatid": "小天鵝s",
       "Scale": 0.62,
       "Leftleft": "-620,140",
       "Left": "-349,140",
       "Middle": "0,140",
       "Right": "310,140",
       "Rightright": "581,140",
-      "LangStringTable": {
-        "Boatid": "小天鵝s"
-      }
+      "Nazo": 0
     },
     "5021000": {
       "Cuid": 5021000,
       "Tachieshowid": 5021000,
+      "Boatid": "戴爾",
       "Scale": 0.36,
       "Leftleft": "-360,50",
       "Left": "-203,50",
       "Middle": "0,50",
       "Right": "180,50",
       "Rightright": "337,50",
-      "LangStringTable": {
-        "Boatid": "戴爾"
-      }
+      "Nazo": 0
     },
     "5021100": {
       "Cuid": 5021100,
       "Tachieshowid": 5021100,
+      "Boatid": "戴爾s",
       "Scale": 0.4,
       "Leftleft": "-400,70",
       "Left": "-225,70",
       "Middle": "-30,70",
       "Right": "200,70",
       "Rightright": "375,70",
-      "LangStringTable": {
-        "Boatid": "戴爾s"
-      }
+      "Nazo": 0
     },
     "5022000": {
       "Cuid": 5022000,
       "Tachieshowid": 5022000,
+      "Boatid": "康納",
       "Scale": 0.4,
       "Leftleft": "210,21",
       "Left": "-225,21",
       "Middle": "11,21",
       "Right": "200,21",
       "Rightright": "375,21",
-      "LangStringTable": {
-        "Boatid": "康納"
-      }
+      "Nazo": 0
     },
     "5022100": {
       "Cuid": 5022100,
       "Tachieshowid": 5022100,
+      "Boatid": "康納s",
       "Scale": 0.35,
       "Leftleft": "-350,10",
       "Left": "-197,10",
       "Middle": "40,10",
       "Right": "175,10",
       "Rightright": "328,10",
-      "LangStringTable": {
-        "Boatid": "康納s"
-      }
+      "Nazo": 0
     },
     "5025000": {
       "Cuid": 5025000,
       "Tachieshowid": 5025000,
+      "Boatid": "吸血鬼",
       "Scale": 0.44,
       "Leftleft": "-440,11",
       "Left": "-248,11",
       "Middle": "-16,11",
       "Right": "220,11",
       "Rightright": "412,11",
-      "LangStringTable": {
-        "Boatid": "吸血鬼"
-      }
+      "Nazo": 0
     },
     "5025100": {
       "Cuid": 5025100,
       "Tachieshowid": 5025100,
+      "Boatid": "吸血鬼s",
       "Scale": 0.42,
       "Leftleft": "-420,40",
       "Left": "-237,40",
       "Middle": "0,40",
       "Right": "210,40",
       "Rightright": "393,40",
-      "LangStringTable": {
-        "Boatid": "吸血鬼s"
-      }
+      "Nazo": 0
     },
     "5026000": {
       "Cuid": 5026000,
       "Tachieshowid": 5026000,
+      "Boatid": "螢火蟲",
       "Scale": 0.5,
       "Leftleft": "-500,50",
       "Left": "-282,50",
       "Middle": "80,50",
       "Right": "250,50",
       "Rightright": "468,50",
-      "LangStringTable": {
-        "Boatid": "螢火蟲"
-      }
+      "Nazo": 0
     },
     "5026900": {
       "Cuid": 5026900,
       "Tachieshowid": 5026900,
+      "Boatid": "螢火蟲k",
       "Scale": 0.5,
       "Leftleft": "-500,50",
       "Left": "-282,50",
       "Middle": "80,50",
       "Right": "250,50",
       "Rightright": "468,50",
-      "LangStringTable": {
-        "Boatid": "螢火蟲k"
-      }
+      "Nazo": 0
     },
     "5026100": {
       "Cuid": 5026100,
       "Tachieshowid": 5026100,
+      "Boatid": "螢火蟲s",
       "Scale": 0.56,
       "Leftleft": "-560,-30",
       "Left": "-315,-30",
       "Middle": "-50,-30",
       "Right": "280,-30",
       "Rightright": "525,-30",
-      "LangStringTable": {
-        "Boatid": "螢火蟲s"
-      }
+      "Nazo": 0
     },
     "5027000": {
       "Cuid": 5027000,
       "Tachieshowid": 5027000,
+      "Boatid": "卯月",
       "Scale": 0.43,
       "Leftleft": "-430,-50",
       "Left": "-298,-50",
       "Middle": "0,-50",
       "Right": "215,-50",
       "Rightright": "403,-50",
-      "LangStringTable": {
-        "Boatid": "卯月"
-      }
+      "Nazo": 0
     },
     "5027900": {
       "Cuid": 5027900,
       "Tachieshowid": 5027900,
+      "Boatid": "卯月k",
       "Scale": 0.43,
       "Leftleft": "-430,-50",
       "Left": "-298,-50",
       "Middle": "0,-50",
       "Right": "215,-50",
       "Rightright": "403,-50",
-      "LangStringTable": {
-        "Boatid": "卯月k"
-      }
+      "Nazo": 0
     },
     "5028000": {
       "Cuid": 5028000,
       "Tachieshowid": 5028000,
+      "Boatid": "秋月",
       "Scale": 0.52,
       "Leftleft": "-520,-52",
       "Left": "-293,-52",
       "Middle": "107,-52",
       "Right": "440,-52",
       "Rightright": "487,-52",
-      "LangStringTable": {
-        "Boatid": "秋月"
-      }
+      "Nazo": 0
     },
     "5028900": {
       "Cuid": 5028900,
       "Tachieshowid": 5028900,
+      "Boatid": "秋月k",
       "Scale": 0.52,
       "Leftleft": "-520,-52",
       "Left": "-293,-52",
       "Middle": "107,-52",
       "Right": "440,-52",
       "Rightright": "487,-52",
-      "LangStringTable": {
-        "Boatid": "秋月k"
-      }
+      "Nazo": 0
     },
     "5029000": {
       "Cuid": 5029000,
       "Tachieshowid": 5029000,
+      "Boatid": "早霜",
       "Scale": 0.45,
       "Leftleft": "-500,-70",
       "Left": "-282,-70",
       "Middle": "40,-70",
       "Right": "250,-70",
       "Rightright": "468,-70",
-      "LangStringTable": {
-        "Boatid": "早霜"
-      }
+      "Nazo": 0
     },
     "5029100": {
       "Cuid": 5029100,
       "Tachieshowid": 5029100,
+      "Boatid": "早霜s",
       "Scale": 0.45,
       "Leftleft": "-450,30",
       "Left": "-254,30",
       "Middle": "0,30",
       "Right": "225,30",
       "Rightright": "421,30",
-      "LangStringTable": {
-        "Boatid": "早霜s"
-      }
+      "Nazo": 0
     },
     "5029900": {
       "Cuid": 5029900,
       "Tachieshowid": 5029900,
+      "Boatid": "早霜k",
       "Scale": 0.45,
       "Leftleft": "-500,-70",
       "Left": "-282,-70",
       "Middle": "40,-70",
       "Right": "250,-70",
       "Rightright": "468,-70",
-      "LangStringTable": {
-        "Boatid": "早霜k"
-      }
+      "Nazo": 0
     },
     "5031000": {
       "Cuid": 5031000,
       "Tachieshowid": 5031000,
+      "Boatid": "萩風",
       "Scale": 0.46,
       "Leftleft": "-460,-7",
       "Left": "-259,-7",
       "Middle": "30,-7",
       "Right": "230,-7",
       "Rightright": "431,-7",
-      "LangStringTable": {
-        "Boatid": "萩風"
-      }
+      "Nazo": 0
     },
     "5031100": {
       "Cuid": 5031100,
       "Tachieshowid": 5031100,
+      "Boatid": "萩風s",
       "Scale": 0.54,
       "Leftleft": "-540,-80",
       "Left": "-304,-80",
       "Middle": "60,-80",
       "Right": "270,-80",
       "Rightright": "506,-80",
-      "LangStringTable": {
-        "Boatid": "萩風s"
-      }
+      "Nazo": 0
     },
     "5032000": {
       "Cuid": 5032000,
       "Tachieshowid": 5032000,
+      "Boatid": "黃泉",
       "Scale": 0.5,
       "Leftleft": "-420,17",
       "Left": "-270,17",
       "Middle": "40,17",
       "Right": "210,17",
       "Rightright": "393,17",
-      "LangStringTable": {
-        "Boatid": "黃泉"
-      }
+      "Nazo": 0
     },
     "5032100": {
       "Cuid": 5032100,
       "Tachieshowid": 5032100,
+      "Boatid": "黃泉s",
       "Scale": 0.46,
       "Leftleft": "-460,120",
       "Left": "-259,120",
       "Middle": "-50,120",
       "Right": "230,120",
       "Rightright": "431,120",
-      "LangStringTable": {
-        "Boatid": "黃泉s"
-      }
+      "Nazo": 0
     },
     "5032900": {
       "Cuid": 5032900,
       "Tachieshowid": 5032900,
+      "Boatid": "黃泉k",
       "Scale": 0.5,
       "Leftleft": "-420,17",
       "Left": "-270,17",
       "Middle": "40,17",
       "Right": "210,17",
       "Rightright": "393,17",
-      "LangStringTable": {
-        "Boatid": "黃泉k"
-      }
+      "Nazo": 0
     },
     "5033000": {
       "Cuid": 5033000,
       "Tachieshowid": 5033000,
+      "Boatid": "Z26",
       "Scale": 0.44,
       "Leftleft": "-440,0",
       "Left": "-248,0",
       "Middle": "-13,0",
       "Right": "220,0",
       "Rightright": "412,0",
-      "LangStringTable": {
-        "Boatid": "Z26"
-      }
+      "Nazo": 0
     },
     "5033100": {
       "Cuid": 5033100,
       "Tachieshowid": 5033100,
+      "Boatid": "Z26s",
       "Scale": 0.54,
       "Leftleft": "-540,120",
       "Left": "-304,120",
       "Middle": "10,120",
       "Right": "270,120",
       "Rightright": "506,120",
-      "LangStringTable": {
-        "Boatid": "Z26s"
-      }
+      "Nazo": 0
     },
     "5034000": {
       "Cuid": 5034000,
       "Tachieshowid": 5034000,
+      "Boatid": "夕立",
       "Scale": 0.48,
       "Leftleft": "-464,-25",
       "Left": "-282,-25",
       "Middle": "100,-25",
       "Right": "424,-25",
       "Rightright": "598,-25",
-      "LangStringTable": {
-        "Boatid": "夕立"
-      }
+      "Nazo": 0
     },
     "5034100": {
       "Cuid": 5034100,
       "Tachieshowid": 5034100,
+      "Boatid": "夕立s",
       "Scale": 0.72,
       "Leftleft": "-720,-20",
       "Left": "-405,-20",
       "Middle": "0,-20",
       "Right": "360,-20",
       "Rightright": "675,-20",
-      "LangStringTable": {
-        "Boatid": "夕立s"
-      }
+      "Nazo": 0
+    },
+    "5034101": {
+      "Cuid": 5034101,
+      "Tachieshowid": 5034101,
+      "Boatid": "夕立聖誕",
+      "Scale": 0.96,
+      "Leftleft": "-650,-180",
+      "Left": "-366,-180",
+      "Middle": "30,-180",
+      "Right": "325,-180",
+      "Rightright": "609,-180",
+      "Nazo": 0
     },
     "5034900": {
       "Cuid": 5034900,
       "Tachieshowid": 5034900,
+      "Boatid": "夕立k",
       "Scale": 0.48,
       "Leftleft": "-464,-25",
       "Left": "-282,-25",
       "Middle": "100,-25",
       "Right": "424,-25",
       "Rightright": "598,-25",
-      "LangStringTable": {
-        "Boatid": "夕立k"
-      }
+      "Nazo": 0
     },
     "5043000": {
       "Cuid": 5043000,
       "Tachieshowid": 5043000,
+      "Boatid": "親潮",
       "Scale": 0.47,
       "Leftleft": "-470,-65",
       "Left": "-265,-65",
       "Middle": "0,-65",
       "Right": "235,-65",
       "Rightright": "440,-65",
-      "LangStringTable": {
-        "Boatid": "親潮"
-      }
+      "Nazo": 0
     },
     "5043100": {
       "Cuid": 5043100,
       "Tachieshowid": 5043100,
+      "Boatid": "親潮s",
       "Scale": 0.56,
       "Leftleft": "-560,-80",
       "Left": "-315,-80",
       "Middle": "-19,-80",
       "Right": "280,-80",
       "Rightright": "525,-80",
-      "LangStringTable": {
-        "Boatid": "親潮s"
-      }
+      "Nazo": 0
     },
     "5043900": {
       "Cuid": 5043900,
       "Tachieshowid": 5043900,
+      "Boatid": "親潮k",
       "Scale": 0.47,
       "Leftleft": "-470,-65",
       "Left": "-265,-65",
       "Middle": "0,-65",
       "Right": "235,-65",
       "Rightright": "440,-65",
-      "LangStringTable": {
-        "Boatid": "親潮k"
-      }
+      "Nazo": 0
     },
     "5047000": {
       "Cuid": 5047000,
       "Tachieshowid": 5047000,
+      "Boatid": "弗萊徹",
       "Scale": 0.43,
       "Leftleft": "-430,-21",
       "Left": "-242,-21",
       "Middle": "31,-21",
       "Right": "215,-21",
       "Rightright": "403,-21",
-      "LangStringTable": {
-        "Boatid": "弗萊徹"
-      }
+      "Nazo": 0
     },
     "5047900": {
       "Cuid": 5047900,
       "Tachieshowid": 5047900,
+      "Boatid": "弗萊徹k",
       "Scale": 0.43,
       "Leftleft": "-430,-21",
       "Left": "-242,-21",
       "Middle": "31,-21",
       "Right": "215,-21",
       "Rightright": "403,-21",
-      "LangStringTable": {
-        "Boatid": "弗萊徹k"
-      }
+      "Nazo": 0
     },
     "5047001": {
       "Cuid": 5047001,
       "Tachieshowid": 5047001,
+      "Boatid": "弗萊徹1",
       "Scale": 0.62,
       "Leftleft": "-620,170",
       "Left": "-349,170",
       "Middle": "90,170",
       "Right": "310,170",
       "Rightright": "581,170",
-      "LangStringTable": {
-        "Boatid": "弗萊徹1"
-      }
+      "Nazo": 0
     },
     "5047100": {
       "Cuid": 5047100,
       "Tachieshowid": 5047100,
+      "Boatid": "弗萊徹s",
       "Scale": 0.62,
       "Leftleft": "-620,76",
       "Left": "-349,76",
       "Middle": "73,76",
       "Right": "310,76",
       "Rightright": "581,76",
-      "LangStringTable": {
-        "Boatid": "弗萊徹s"
-      }
+      "Nazo": 0
     },
     "5049000": {
       "Cuid": 5049000,
       "Tachieshowid": 5049000,
+      "Boatid": "Z1",
       "Scale": 0.46,
       "Leftleft": "-460,0",
       "Left": "-232,0",
       "Middle": "40,0",
       "Right": "230,0",
       "Rightright": "431,0",
-      "LangStringTable": {
-        "Boatid": "Z1"
-      }
+      "Nazo": 0
     },
     "5049900": {
       "Cuid": 5049900,
       "Tachieshowid": 5049900,
+      "Boatid": "Z1k",
       "Scale": 0.46,
       "Leftleft": "-460,0",
       "Left": "-232,0",
       "Middle": "40,0",
       "Right": "230,0",
       "Rightright": "431,0",
-      "LangStringTable": {
-        "Boatid": "Z1k"
-      }
+      "Nazo": 0
     },
     "5049100": {
       "Cuid": 5049100,
       "Tachieshowid": 5049100,
+      "Boatid": "Z1s",
       "Scale": 0.62,
       "Leftleft": "-620,80",
       "Left": "-349,80",
       "Middle": "10,80",
       "Right": "310,80",
       "Rightright": "581,80",
-      "LangStringTable": {
-        "Boatid": "Z1s"
-      }
+      "Nazo": 0
     },
     "5051000": {
       "Cuid": 5051000,
       "Tachieshowid": 5051000,
+      "Boatid": "Z3",
       "Scale": 0.43,
       "Leftleft": "-430,15",
       "Left": "-242,15",
       "Middle": "30,15",
       "Right": "315,15",
       "Rightright": "403,15",
-      "LangStringTable": {
-        "Boatid": "Z3"
-      }
+      "Nazo": 0
     },
     "5051900": {
       "Cuid": 5051900,
       "Tachieshowid": 5051900,
+      "Boatid": "Z3k",
       "Scale": 0.43,
       "Leftleft": "-430,15",
       "Left": "-242,15",
       "Middle": "30,15",
       "Right": "315,15",
       "Rightright": "403,15",
-      "LangStringTable": {
-        "Boatid": "Z3k"
-      }
+      "Nazo": 0
     },
     "5051100": {
       "Cuid": 5051100,
       "Tachieshowid": 5051100,
+      "Boatid": "Z3s",
       "Scale": 0.68,
       "Leftleft": "-680,-170",
       "Left": "-383,-170",
       "Middle": "0,-170",
       "Right": "340,-170",
       "Rightright": "637,-170",
-      "LangStringTable": {
-        "Boatid": "Z3s"
-      }
+      "Nazo": 0
     },
     "5059000": {
       "Cuid": 5059000,
       "Tachieshowid": 5059000,
+      "Boatid": "奧班農",
       "Scale": 0.4,
       "Leftleft": "-400,-40",
       "Left": "-225,-40",
       "Middle": "-49,-40",
       "Right": "200,-40",
       "Rightright": "375,-40",
-      "LangStringTable": {
-        "Boatid": "奧班農"
-      }
+      "Nazo": 0
     },
     "5059900": {
       "Cuid": 5059900,
       "Tachieshowid": 5059900,
+      "Boatid": "奧班農k",
       "Scale": 0.4,
       "Leftleft": "-400,-40",
       "Left": "-225,-40",
       "Middle": "-49,-40",
       "Right": "200,-40",
       "Rightright": "375,-40",
-      "LangStringTable": {
-        "Boatid": "奧班農k"
-      }
+      "Nazo": 0
     },
     "6001900": {
       "Cuid": 6001900,
       "Tachieshowid": 6001900,
+      "Boatid": "長門",
       "Scale": 0.43,
       "Leftleft": "-430,-30",
       "Left": "-242,-30",
       "Middle": "110,-30",
       "Right": "215,-30",
       "Rightright": "403,-30",
-      "LangStringTable": {
-        "Boatid": "長門"
-      }
+      "Nazo": 0
     },
     "6004100": {
       "Cuid": 6004100,
       "Tachieshowid": 6004100,
+      "Boatid": "加利福尼亞s",
       "Scale": 0.75,
       "Leftleft": "-750,-120",
       "Left": "-422,-120",
       "Middle": "-20,-120",
       "Right": "375,-120",
       "Rightright": "703,-120",
-      "LangStringTable": {
-        "Boatid": "加利福尼亞s"
-      }
+      "Nazo": 0
     },
     "6005000": {
       "Cuid": 6005000,
       "Tachieshowid": 6005000,
+      "Boatid": "胡德",
       "Scale": 0.54,
       "Leftleft": "-540,-93",
       "Left": "-304,-93",
       "Middle": "30,-93",
       "Right": "270,-93",
       "Rightright": "506,-93",
-      "LangStringTable": {
-        "Boatid": "胡德"
-      }
+      "Nazo": 0
     },
     "6005900": {
       "Cuid": 6005900,
       "Tachieshowid": 6005900,
+      "Boatid": "胡德k",
       "Scale": 0.54,
       "Leftleft": "-540,-93",
       "Left": "-304,-93",
       "Middle": "30,-93",
       "Right": "270,-93",
       "Rightright": "506,-93",
-      "LangStringTable": {
-        "Boatid": "胡德k"
-      }
+      "Nazo": 0
+    },
+    "6006000": {
+      "Cuid": 6006000,
+      "Tachieshowid": 6006000,
+      "Boatid": "紐約",
+      "Scale": 0.5,
+      "Leftleft": "0,0",
+      "Left": "0,0",
+      "Middle": "0,0",
+      "Right": "0,0",
+      "Rightright": "0,0",
+      "Nazo": 0
+    },
+    "6006100": {
+      "Cuid": 6006100,
+      "Tachieshowid": 6006100,
+      "Boatid": "紐約s",
+      "Scale": 0.5,
+      "Leftleft": "0,0",
+      "Left": "0,0",
+      "Middle": "0,0",
+      "Right": "0,0",
+      "Rightright": "0,0",
+      "Nazo": 0
     },
     "6005100": {
       "Cuid": 6005100,
       "Tachieshowid": 6005100,
+      "Boatid": "胡德s",
       "Scale": 0.6,
       "Leftleft": "-600,-40",
       "Left": "-338,-40",
       "Middle": "0,-40",
       "Right": "300,-40",
       "Rightright": "562,-40",
-      "LangStringTable": {
-        "Boatid": "胡德s"
-      }
+      "Nazo": 0
     },
     "6007000": {
       "Cuid": 6007000,
       "Tachieshowid": 6007000,
+      "Boatid": "沙恩霍斯特",
       "Scale": 0.74,
       "Leftleft": "-740,-60",
       "Left": "-417,-60",
       "Middle": "-80,-60",
       "Right": "370,-60",
       "Rightright": "693,-60",
-      "LangStringTable": {
-        "Boatid": "沙恩霍斯特"
-      }
+      "Nazo": 0
     },
     "6007100": {
       "Cuid": 6007100,
       "Tachieshowid": 6007100,
+      "Boatid": "沙恩霍斯特s",
       "Scale": 0.7,
       "Leftleft": "-700,-30",
       "Left": "-394,-30",
       "Middle": "-40,-30",
       "Right": "350,-30",
       "Rightright": "656,-30",
-      "LangStringTable": {
-        "Boatid": "沙恩霍斯特s"
-      }
+      "Nazo": 0
     },
     "6008000": {
       "Cuid": 6008000,
       "Tachieshowid": 6008000,
+      "Boatid": "扶桑",
       "Scale": 0.5,
       "Leftleft": "-500,10",
       "Left": "-282,10",
       "Middle": "30,10",
       "Right": "250,10",
       "Rightright": "468,10",
-      "LangStringTable": {
-        "Boatid": "扶桑"
-      }
+      "Nazo": 0
     },
     "6008100": {
       "Cuid": 6008100,
       "Tachieshowid": 6008100,
+      "Boatid": "扶桑s",
       "Scale": 0.56,
       "Leftleft": "-560,-130",
       "Left": "-315,-130",
       "Middle": "30,-130",
       "Right": "280,-130",
       "Rightright": "525,-130",
-      "LangStringTable": {
-        "Boatid": "扶桑s"
-      }
+      "Nazo": 0
     },
     "6009000": {
       "Cuid": 6009000,
       "Tachieshowid": 6009000,
+      "Boatid": "山城",
       "Scale": 0.6,
       "Leftleft": "-600,-80",
       "Left": "-338,-80",
       "Middle": "30,-80",
       "Right": "300,-80",
       "Rightright": "562,-80",
-      "LangStringTable": {
-        "Boatid": "山城"
-      }
+      "Nazo": 0
     },
     "6009100": {
       "Cuid": 6009100,
       "Tachieshowid": 6009100,
+      "Boatid": "山城s",
       "Scale": 0.6,
       "Leftleft": "-600,-110",
       "Left": "-338,-110",
       "Middle": "-60,-110",
       "Right": "300,-110",
       "Rightright": "562,-110",
-      "LangStringTable": {
-        "Boatid": "山城s"
-      }
+      "Nazo": 0
     },
     "6012000": {
       "Cuid": 6012000,
       "Tachieshowid": 6012000,
+      "Boatid": "威爾士親王",
       "Scale": 0.56,
       "Leftleft": "-430,-30",
       "Left": "-315,-30",
       "Middle": "70,-30",
       "Right": "425,-30",
       "Rightright": "525,-30",
-      "LangStringTable": {
-        "Boatid": "威爾士親王"
-      }
+      "Nazo": 0
     },
     "6012100": {
       "Cuid": 6012100,
       "Tachieshowid": 6012100,
+      "Boatid": "威爾士親王s",
       "Scale": 0.56,
       "Leftleft": "-560,-50",
       "Left": "-315,-50",
       "Middle": "20,-50",
       "Right": "280,-50",
       "Rightright": "525,-50",
-      "LangStringTable": {
-        "Boatid": "威爾士親王s"
-      }
+      "Nazo": 0
     },
     "6015000": {
       "Cuid": 6015000,
       "Tachieshowid": 6015000,
+      "Boatid": "羅德尼",
       "Scale": 0.45,
       "Leftleft": "-450,-40",
       "Left": "-254,-40",
       "Middle": "-120,-40",
       "Right": "225,-40",
       "Rightright": "421,-40",
-      "LangStringTable": {
-        "Boatid": "羅德尼"
-      }
+      "Nazo": 0
     },
     "6015900": {
       "Cuid": 6015900,
       "Tachieshowid": 6015900,
+      "Boatid": "羅德尼k",
       "Scale": 0.45,
       "Leftleft": "-450,-40",
       "Left": "-254,-40",
       "Middle": "-120,-40",
       "Right": "225,-40",
       "Rightright": "421,-40",
-      "LangStringTable": {
-        "Boatid": "羅德尼k"
-      }
+      "Nazo": 0
     },
     "6016000": {
       "Cuid": 6016000,
       "Tachieshowid": 6016000,
+      "Boatid": "納爾遜",
       "Scale": 0.65,
       "Leftleft": "-650,0",
       "Left": "-366,0",
       "Middle": "34,0",
       "Right": "325,0",
       "Rightright": "609,0",
-      "LangStringTable": {
-        "Boatid": "納爾遜"
-      }
+      "Nazo": 0
     },
     "6016100": {
       "Cuid": 6016100,
       "Tachieshowid": 6016100,
+      "Boatid": "納爾遜s",
       "Scale": 0.54,
       "Leftleft": "-540,-110",
       "Left": "-304,-110",
       "Middle": "-40,-110",
       "Right": "270,-110",
       "Rightright": "506,-110",
-      "LangStringTable": {
-        "Boatid": "納爾遜s"
-      }
+      "Nazo": 0
     },
     "6017000": {
       "Cuid": 6017000,
       "Tachieshowid": 6017000,
+      "Boatid": "賓夕法尼亞",
       "Scale": 0.48,
       "Leftleft": "-480,22",
       "Left": "-270,22",
       "Middle": "0,22",
       "Right": "240,22",
       "Rightright": "450,22",
-      "LangStringTable": {
-        "Boatid": "賓夕法尼亞"
-      }
+      "Nazo": 0
     },
     "6017100": {
       "Cuid": 6017100,
       "Tachieshowid": 6017100,
+      "Boatid": "賓夕法尼亞s",
       "Scale": 0.7,
       "Leftleft": "-700,20",
       "Left": "-394,20",
       "Middle": "0,20",
       "Right": "350,20",
       "Rightright": "656,20",
-      "LangStringTable": {
-        "Boatid": "賓夕法尼亞s"
-      }
+      "Nazo": 0
     },
     "6021000": {
       "Cuid": 6021000,
       "Tachieshowid": 6021000,
+      "Boatid": "北卡羅萊納",
       "Scale": 0.54,
       "Leftleft": "-540,66",
       "Left": "-304,66",
       "Middle": "-15,66",
       "Right": "270,66",
       "Rightright": "506,66",
-      "LangStringTable": {
-        "Boatid": "北卡羅萊納"
-      }
+      "Nazo": 0
     },
     "6021100": {
       "Cuid": 6021100,
       "Tachieshowid": 6021100,
+      "Boatid": "北卡羅萊納s",
       "Scale": 1.04,
       "Leftleft": "-1040,-150",
       "Left": "-585,-150",
       "Middle": "10,-150",
       "Right": "520,-150",
       "Rightright": "975,-150",
-      "LangStringTable": {
-        "Boatid": "北卡羅萊納s"
-      }
+      "Nazo": 0
     },
     "6023700": {
       "Cuid": 6023700,
       "Tachieshowid": 6023700,
+      "Boatid": "大和sk_1",
       "Scale": 0.44,
       "Leftleft": "-523,40",
       "Left": "-365,40",
       "Middle": "-100,40",
       "Right": "220,40",
       "Rightright": "412,40",
-      "LangStringTable": {
-        "Boatid": "大和sk_1"
-      }
+      "Nazo": 0
     },
     "6023800": {
       "Cuid": 6023800,
       "Tachieshowid": 6023800,
+      "Boatid": "大和sk",
       "Scale": 0.44,
       "Leftleft": "-559,40",
       "Left": "-365,40",
       "Middle": "-100,40",
       "Right": "220,40",
       "Rightright": "412,40",
-      "LangStringTable": {
-        "Boatid": "大和sk"
-      }
+      "Nazo": 0
     },
     "6024000": {
       "Cuid": 6024000,
       "Tachieshowid": 6024000,
+      "Boatid": "武藏",
       "Scale": 0.73,
       "Leftleft": "-730,-90",
       "Left": "-411,-90",
       "Middle": "-40,-90",
       "Right": "365,-90",
       "Rightright": "684,-90",
-      "LangStringTable": {
-        "Boatid": "武藏"
-      }
+      "Nazo": 0
     },
     "6024900": {
       "Cuid": 6024900,
       "Tachieshowid": 6024900,
+      "Boatid": "武藏k",
       "Scale": 0.73,
       "Leftleft": "-730,-90",
       "Left": "-411,-90",
       "Middle": "-40,-90",
       "Right": "365,-90",
       "Rightright": "684,-90",
-      "LangStringTable": {
-        "Boatid": "武藏k"
-      }
+      "Nazo": 0
     },
     "6025000": {
       "Cuid": 6025000,
       "Tachieshowid": 6025000,
+      "Boatid": "金剛",
       "Scale": 0.55,
       "Leftleft": "-550,-58",
       "Left": "-310,-58",
       "Middle": "3,-58",
       "Right": "275,-58",
       "Rightright": "515,-58",
-      "LangStringTable": {
-        "Boatid": "金剛"
-      }
+      "Nazo": 0
     },
     "6025900": {
       "Cuid": 6025900,
       "Tachieshowid": 6025900,
+      "Boatid": "金剛k",
       "Scale": 0.55,
       "Leftleft": "-550,-58",
       "Left": "-310,-58",
       "Middle": "3,-58",
       "Right": "275,-58",
       "Rightright": "515,-58",
-      "LangStringTable": {
-        "Boatid": "金剛k"
-      }
+      "Nazo": 0
     },
     "6025100": {
       "Cuid": 6025100,
       "Tachieshowid": 6025100,
+      "Boatid": "金剛s",
       "Scale": 0.72,
       "Leftleft": "-720,6",
       "Left": "-405,6",
       "Middle": "-18,6",
       "Right": "360,6",
       "Rightright": "675,6",
-      "LangStringTable": {
-        "Boatid": "金剛s"
-      }
+      "Nazo": 0
     },
     "6031000": {
       "Cuid": 6031000,
       "Tachieshowid": 6031000,
+      "Boatid": "英王喬治五世",
       "Scale": 0.62,
       "Leftleft": "-620,-60",
       "Left": "-349,-60",
       "Middle": "70,-60",
       "Right": "310,-60",
       "Rightright": "581,-60",
-      "LangStringTable": {
-        "Boatid": "英王喬治五世"
-      }
+      "Nazo": 0
     },
     "6031100": {
       "Cuid": 6031100,
       "Tachieshowid": 6031100,
+      "Boatid": "英王喬治五世s",
       "Scale": 0.5,
       "Leftleft": "-500,40",
       "Left": "-282,40",
       "Middle": "0,40",
       "Right": "250,40",
       "Rightright": "468,40",
-      "LangStringTable": {
-        "Boatid": "英王喬治五世s"
-      }
+      "Nazo": 0
     },
     "6034000": {
       "Cuid": 6034000,
       "Tachieshowid": 6034000,
+      "Boatid": "懷俄明",
       "Scale": 0.6,
       "Leftleft": "-600,-90",
       "Left": "-338,-90",
       "Middle": "20,-90",
       "Right": "300,-90",
       "Rightright": "562,-90",
-      "LangStringTable": {
-        "Boatid": "懷俄明"
-      }
+      "Nazo": 0
     },
     "6034100": {
       "Cuid": 6034100,
       "Tachieshowid": 6034100,
+      "Boatid": "懷俄明s",
       "Scale": 0.62,
       "Leftleft": "-620,-70",
       "Left": "-349,-70",
       "Middle": "-23,-70",
       "Right": "310,-70",
       "Rightright": "581,-70",
-      "LangStringTable": {
-        "Boatid": "懷俄明s"
-      }
+      "Nazo": 0
     },
     "1010000": {
       "Cuid": 1010000,
       "Tachieshowid": 1010000,
+      "Boatid": "企業",
       "Scale": 0.52,
       "Leftleft": "-520,20",
       "Left": "-293,20",
       "Middle": "22,20",
       "Right": "260,20",
       "Rightright": "487,20",
-      "LangStringTable": {
-        "Boatid": "企業"
-      }
+      "Nazo": 0
     },
     "3013000": {
       "Cuid": 3013000,
       "Tachieshowid": 3013000,
+      "Boatid": "海王星",
       "Scale": 0.54,
       "Leftleft": "-540,-100",
       "Left": "-304,-100",
       "Middle": "2,-100",
       "Right": "270,-100",
       "Rightright": "506,-100",
-      "LangStringTable": {
-        "Boatid": "海王星"
-      }
+      "Nazo": 0
     },
     "6004000": {
       "Cuid": 6004000,
       "Tachieshowid": 6004000,
+      "Boatid": "加利福尼亞",
       "Scale": 0.68,
       "Leftleft": "-680,-30",
       "Left": "-383,-30",
       "Middle": "60,-30",
       "Right": "340,-30",
       "Rightright": "637,-30",
-      "LangStringTable": {
-        "Boatid": "加利福尼亞"
-      }
+      "Nazo": 0
     },
     "6010900": {
       "Cuid": 6010900,
       "Tachieshowid": 6010900,
+      "Boatid": "伊莉莎白女王",
       "Scale": 0.56,
       "Leftleft": "-430,-120",
       "Left": "-315,-120",
       "Middle": "-30,-120",
       "Right": "280,-120",
       "Rightright": "525,-120",
-      "LangStringTable": {
-        "Boatid": "伊莉莎白女王"
-      }
+      "Nazo": 0
     },
     "6018900": {
       "Cuid": 6018900,
       "Tachieshowid": 6018900,
-      "Scale": 0.5,
-      "Leftleft": "-500,-33",
-      "Left": "-282,-33",
-      "Middle": "80,-33",
-      "Right": "338,-33",
-      "Rightright": "468,-33",
-      "LangStringTable": {
-        "Boatid": "俾斯麥"
-      }
+      "Boatid": "俾斯麥",
+      "Scale": 0.8,
+      "Leftleft": "-500,-50",
+      "Left": "-282,-50",
+      "Middle": "80,-50",
+      "Right": "338,-50",
+      "Rightright": "468,-50",
+      "Nazo": 0
     },
     "5040000": {
       "Cuid": 5040000,
       "Tachieshowid": 5040000,
+      "Boatid": "唐斯",
       "Scale": 0.52,
       "Leftleft": "-440,-8",
       "Left": "-248,-8",
       "Middle": "50,-8",
       "Right": "361,-8",
       "Rightright": "412,-8",
-      "LangStringTable": {
-        "Boatid": "唐斯"
-      }
+      "Nazo": 0
     },
     "5040900": {
       "Cuid": 5040900,
       "Tachieshowid": 5040900,
+      "Boatid": "唐斯k",
       "Scale": 0.52,
       "Leftleft": "-440,-8",
       "Left": "-248,-8",
       "Middle": "50,-8",
       "Right": "361,-8",
       "Rightright": "412,-8",
-      "LangStringTable": {
-        "Boatid": "唐斯k"
-      }
+      "Nazo": 0
     },
     "5040100": {
       "Cuid": 5040100,
       "Tachieshowid": 5040100,
+      "Boatid": "唐斯s",
       "Scale": 0.54,
       "Leftleft": "-540,109",
       "Left": "-304,109",
       "Middle": "-144,109",
       "Right": "270,109",
       "Rightright": "506,109",
-      "LangStringTable": {
-        "Boatid": "唐斯s"
-      }
+      "Nazo": 0
     },
     "6038000": {
       "Cuid": 6038000,
       "Tachieshowid": 6038000,
+      "Boatid": "科羅拉多",
       "Scale": 0.75,
       "Leftleft": "-451,-21",
       "Left": "-309,-21",
       "Middle": "-46,-21",
       "Right": "224,-21",
       "Rightright": "418,-21",
-      "LangStringTable": {
-        "Boatid": "科羅拉多"
-      }
+      "Nazo": 0
     },
     "6038900": {
       "Cuid": 6038900,
       "Tachieshowid": 6038900,
+      "Boatid": "科羅拉多k",
       "Scale": 0.75,
       "Leftleft": "-451,-21",
       "Left": "-309,-21",
       "Middle": "-46,-21",
       "Right": "224,-21",
       "Rightright": "418,-21",
-      "LangStringTable": {
-        "Boatid": "科羅拉多k"
-      }
+      "Nazo": 0
     },
     "6038100": {
       "Cuid": 6038100,
       "Tachieshowid": 6038100,
+      "Boatid": "科羅拉多s",
       "Scale": 0.82,
       "Leftleft": "-820,59",
       "Left": "-462,59",
       "Middle": "-80,59",
       "Right": "410,59",
       "Rightright": "768,59",
-      "LangStringTable": {
-        "Boatid": "科羅拉多s"
-      }
+      "Nazo": 0
     },
     "5009000": {
       "Cuid": 5009000,
       "Tachieshowid": 5009000,
+      "Boatid": "馬漢",
       "Scale": 0.44,
       "Leftleft": "-440,20",
       "Left": "-248,20",
       "Middle": "10,20",
       "Right": "316,20",
       "Rightright": "412,20",
-      "LangStringTable": {
-        "Boatid": "馬漢"
-      }
+      "Nazo": 0
     },
     "5009900": {
       "Cuid": 5009900,
       "Tachieshowid": 5009900,
+      "Boatid": "馬漢k",
       "Scale": 0.44,
       "Leftleft": "-440,20",
       "Left": "-248,20",
       "Middle": "10,20",
       "Right": "316,20",
       "Rightright": "412,20",
-      "LangStringTable": {
-        "Boatid": "馬漢k"
-      }
+      "Nazo": 0
     },
     "5009100": {
       "Cuid": 5009100,
       "Tachieshowid": 5009100,
+      "Boatid": "馬漢s",
       "Scale": 0.52,
       "Leftleft": "-520,14",
       "Left": "-293,14",
       "Middle": "52,14",
       "Right": "260,14",
       "Rightright": "487,14",
-      "LangStringTable": {
-        "Boatid": "馬漢s"
-      }
+      "Nazo": 0
     },
     "1016000": {
       "Cuid": 1016000,
       "Tachieshowid": 1016000,
+      "Boatid": "約克鎮",
       "Scale": 0.55,
       "Leftleft": "-500,-70",
       "Left": "-282,-70",
       "Middle": "-90,-70",
       "Right": "250,-70",
       "Rightright": "468,-70",
-      "LangStringTable": {
-        "Boatid": "約克鎮"
-      }
+      "Nazo": 0
     },
     "1016900": {
       "Cuid": 1016900,
       "Tachieshowid": 1016900,
+      "Boatid": "約克鎮k",
       "Scale": 0.55,
       "Leftleft": "-500,-70",
       "Left": "-282,-70",
       "Middle": "-90,-70",
       "Right": "250,-70",
       "Rightright": "468,-70",
-      "LangStringTable": {
-        "Boatid": "約克鎮k"
-      }
+      "Nazo": 0
     },
     "1016100": {
       "Cuid": 1016100,
       "Tachieshowid": 1016100,
+      "Boatid": "約克鎮s",
       "Scale": 0.52,
       "Leftleft": "-520,-50",
       "Left": "-293,-50",
       "Middle": "-40,-50",
       "Right": "260,-50",
       "Rightright": "487,-50",
-      "LangStringTable": {
-        "Boatid": "約克鎮s"
-      }
+      "Nazo": 0
     },
     "2009000": {
       "Cuid": 2009000,
       "Tachieshowid": 2009000,
+      "Boatid": "千代田",
       "Scale": 0.47,
       "Leftleft": "-470,-50",
       "Left": "-265,-50",
       "Middle": "62,-50",
       "Right": "256,-50",
       "Rightright": "440,-50",
-      "LangStringTable": {
-        "Boatid": "千代田"
-      }
+      "Nazo": 0
     },
     "2009900": {
       "Cuid": 2009900,
       "Tachieshowid": 2009900,
+      "Boatid": "千代田k",
       "Scale": 0.46,
       "Leftleft": "-460,-50",
       "Left": "-259,-50",
       "Middle": "62,-50",
       "Right": "256,-50",
       "Rightright": "431,-50",
-      "LangStringTable": {
-        "Boatid": "千代田k"
-      }
+      "Nazo": 0
     },
     "2009100": {
       "Cuid": 2009100,
       "Tachieshowid": 2009100,
+      "Boatid": "千代田s",
       "Scale": 0.62,
       "Leftleft": "-620,-20",
       "Left": "-349,-20",
       "Middle": "60,-20",
       "Right": "310,-20",
       "Rightright": "581,-20",
-      "LangStringTable": {
-        "Boatid": "千代田s"
-      }
+      "Nazo": 0
     },
     "6014000": {
       "Cuid": 6014000,
       "Tachieshowid": 6014000,
+      "Boatid": "南達科他",
       "Scale": 0.6,
       "Leftleft": "-600,110",
       "Left": "-338,110",
       "Middle": "110,110",
       "Right": "300,110",
       "Rightright": "562,110",
-      "LangStringTable": {
-        "Boatid": "南達科他"
-      }
+      "Nazo": 0
     },
     "6014900": {
       "Cuid": 6014900,
       "Tachieshowid": 6014900,
+      "Boatid": "南達科他k",
       "Scale": 0.6,
       "Leftleft": "-600,110",
       "Left": "-338,110",
       "Middle": "110,110",
       "Right": "300,110",
       "Rightright": "562,110",
-      "LangStringTable": {
-        "Boatid": "南達科他k"
-      }
+      "Nazo": 0
     },
     "6014100": {
       "Cuid": 6014100,
       "Tachieshowid": 6014100,
+      "Boatid": "南達科他s",
       "Scale": 0.72,
       "Leftleft": "-720,-10",
       "Left": "-405,-10",
       "Middle": "30,-10",
       "Right": "360,-10",
       "Rightright": "675,-10",
-      "LangStringTable": {
-        "Boatid": "南達科他s"
-      }
+      "Nazo": 0
     },
     "1001000": {
       "Cuid": 1001000,
       "Tachieshowid": 1001000,
+      "Boatid": "中途島",
       "Scale": 0.62,
       "Leftleft": "-620,54",
       "Left": "-349,54",
       "Middle": "43,54",
       "Right": "310,54",
       "Rightright": "581,54",
-      "LangStringTable": {
-        "Boatid": "中途島"
-      }
+      "Nazo": 0
     },
     "1001900": {
       "Cuid": 1001900,
       "Tachieshowid": 1001900,
+      "Boatid": "中途島k",
       "Scale": 0.62,
       "Leftleft": "-620,54",
       "Left": "-349,54",
       "Middle": "43,54",
       "Right": "310,54",
       "Rightright": "581,54",
-      "LangStringTable": {
-        "Boatid": "中途島k"
-      }
+      "Nazo": 0
     },
     "1001100": {
       "Cuid": 1001100,
       "Tachieshowid": 1001100,
+      "Boatid": "中途島s",
       "Scale": 0.61,
       "Leftleft": "-610,-12",
       "Left": "-344,-12",
       "Middle": "-52,-12",
       "Right": "305,-12",
       "Rightright": "571,-12",
-      "LangStringTable": {
-        "Boatid": "中途島s"
-      }
+      "Nazo": 0
     },
     "6023000": {
       "Cuid": 6023000,
       "Tachieshowid": 6023000,
+      "Boatid": "大和",
       "Scale": 0.55,
       "Leftleft": "-550,70",
       "Left": "-310,70",
       "Middle": "80,70",
       "Right": "275,70",
       "Rightright": "515,70",
-      "LangStringTable": {
-        "Boatid": "大和"
-      }
+      "Nazo": 0
     },
     "6023100": {
       "Cuid": 6023100,
       "Tachieshowid": 6023100,
+      "Boatid": "大和s",
       "Scale": 0.7,
       "Leftleft": "-700,-110",
       "Left": "-394,-110",
       "Middle": "90,-110",
       "Right": "350,-110",
       "Rightright": "656,-110",
-      "LangStringTable": {
-        "Boatid": "大和s"
-      }
+      "Nazo": 0
     },
     "1020000": {
       "Cuid": 1020000,
       "Tachieshowid": 1020000,
+      "Boatid": "齊柏林",
       "Scale": 0.66,
       "Leftleft": "-660,8",
       "Left": "-372,8",
       "Middle": "70,8",
       "Right": "330,8",
       "Rightright": "618,8",
-      "LangStringTable": {
-        "Boatid": "齊柏林"
-      }
+      "Nazo": 0
     },
     "1020100": {
       "Cuid": 1020100,
       "Tachieshowid": 1020100,
+      "Boatid": "齊柏林s",
       "Scale": 0.92,
       "Leftleft": "-920,-107",
       "Left": "-518,-107",
       "Middle": "130,-107",
       "Right": "460,-107",
       "Rightright": "862,-107",
-      "LangStringTable": {
-        "Boatid": "齊柏林s"
-      }
+      "Nazo": 0
     },
     "3035000": {
       "Cuid": 3035000,
       "Tachieshowid": 3035000,
+      "Boatid": "紐倫堡",
       "Scale": 0.46,
       "Leftleft": "-460,14",
       "Left": "-259,14",
       "Middle": "60,14",
       "Right": "305,14",
       "Rightright": "431,14",
-      "LangStringTable": {
-        "Boatid": "紐倫堡"
-      }
+      "Nazo": 0
     },
     "3035100": {
       "Cuid": 3035100,
       "Tachieshowid": 3035100,
+      "Boatid": "紐倫堡s",
       "Scale": 0.72,
       "Leftleft": "-720,-7",
       "Left": "-405,-7",
       "Middle": "47,-7",
       "Right": "360,-7",
       "Rightright": "675,-7",
-      "LangStringTable": {
-        "Boatid": "紐倫堡s"
-      }
+      "Nazo": 0
     },
     "4001000": {
       "Cuid": 4001000,
       "Tachieshowid": 4001000,
+      "Boatid": "布呂歇爾",
       "Scale": 0.58,
       "Leftleft": "-580,11",
       "Left": "-327,11",
       "Middle": "33,11",
       "Right": "290,11",
       "Rightright": "543,11",
-      "LangStringTable": {
-        "Boatid": "布呂歇爾"
-      }
+      "Nazo": 0
     },
     "4001100": {
       "Cuid": 4001100,
       "Tachieshowid": 4001100,
+      "Boatid": "布呂歇爾s",
       "Scale": 0.7,
       "Leftleft": "-700,-59",
       "Left": "-394,-59",
       "Middle": "104,-59",
       "Right": "350,-59",
       "Rightright": "656,-59",
-      "LangStringTable": {
-        "Boatid": "布呂歇爾s"
-      }
+      "Nazo": 0
     },
     "4008000": {
       "Cuid": 4008000,
       "Tachieshowid": 4008000,
+      "Boatid": "歐根親王",
       "Scale": 0.57,
       "Leftleft": "-570,-3",
       "Left": "-321,-3",
       "Middle": "2,-3",
       "Right": "285,-3",
       "Rightright": "534,-3",
-      "LangStringTable": {
-        "Boatid": "歐根親王"
-      }
+      "Nazo": 0
     },
     "4008100": {
       "Cuid": 4008100,
       "Tachieshowid": 4008100,
+      "Boatid": "歐根親王s",
       "Scale": 0.787,
       "Leftleft": "-787,-39",
       "Left": "-443,-39",
       "Middle": "282,-39",
       "Right": "393,-39",
       "Rightright": "737,-39",
-      "LangStringTable": {
-        "Boatid": "歐根親王s"
-      }
+      "Nazo": 0
     },
     "5042000": {
       "Cuid": 5042000,
       "Tachieshowid": 5042000,
+      "Boatid": "標槍",
       "Scale": 0.58,
       "Leftleft": "-580,5",
       "Left": "-327,5",
       "Middle": "60,5",
       "Right": "290,5",
       "Rightright": "543,5",
-      "LangStringTable": {
-        "Boatid": "標槍"
-      }
+      "Nazo": 0
     },
     "5042100": {
       "Cuid": 5042100,
       "Tachieshowid": 5042100,
+      "Boatid": "標槍s",
       "Scale": 0.58,
       "Leftleft": "-580,161",
       "Left": "-327,161",
       "Middle": "42,161",
       "Right": "290,161",
       "Rightright": "543,161",
-      "LangStringTable": {
-        "Boatid": "標槍s"
-      }
+      "Nazo": 0
     },
     "6010000": {
       "Cuid": 6010000,
       "Tachieshowid": 6010000,
+      "Boatid": "伊莉莎白女王",
       "Scale": 0.65,
       "Leftleft": "-650,7",
       "Left": "-366,7",
       "Middle": "30,7",
       "Right": "325,7",
       "Rightright": "609,7",
-      "LangStringTable": {
-        "Boatid": "伊莉莎白女王"
-      }
+      "Nazo": 0
     },
     "6010100": {
       "Cuid": 6010100,
       "Tachieshowid": 6010100,
+      "Boatid": "伊莉莎白女王s",
       "Scale": 0.8,
       "Leftleft": "-800,-239",
       "Left": "-450,-239",
       "Middle": "-36,-239",
       "Right": "400,-239",
       "Rightright": "750,-239",
-      "LangStringTable": {
-        "Boatid": "伊莉莎白女王s"
-      }
+      "Nazo": 0
     },
     "5001000": {
       "Cuid": 5001000,
       "Tachieshowid": 5001000,
+      "Boatid": "A型人偶",
       "Scale": 0.58,
       "Leftleft": "-435,-192",
       "Left": "-265,-192",
       "Middle": "113,-192",
       "Right": "240,-192",
       "Rightright": "433,-192",
-      "LangStringTable": {
-        "Boatid": "A型人偶"
-      }
+      "Nazo": 0
     },
     "5001100": {
       "Cuid": 5001100,
       "Tachieshowid": 5001100,
+      "Boatid": "S型人偶",
       "Scale": 0.58,
       "Leftleft": "-435,-192",
       "Left": "-265,-192",
       "Middle": "113,-192",
       "Right": "240,-192",
       "Rightright": "433,-192",
-      "LangStringTable": {
-        "Boatid": "S型人偶"
-      }
+      "Nazo": 0
+    },
+    "5002000": {
+      "Cuid": 5002000,
+      "Tachieshowid": 5002000,
+      "Boatid": "曉",
+      "Scale": 0.5,
+      "Leftleft": "-500,-70",
+      "Left": "-282,-70",
+      "Middle": "0,-70",
+      "Right": "250,-70",
+      "Rightright": "468,-70",
+      "Nazo": 0
+    },
+    "5002100": {
+      "Cuid": 5002100,
+      "Tachieshowid": 5002100,
+      "Boatid": "曉s",
+      "Scale": 0.47,
+      "Leftleft": "-500,5",
+      "Left": "-282,5",
+      "Middle": "10,5",
+      "Right": "250,5",
+      "Rightright": "468,5",
+      "Nazo": 0
     }
   }
 }

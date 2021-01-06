@@ -9,10 +9,9 @@
       "Isdisplay": 1,
       "Battleicon": "battle_1_icon_buff_1010",
       "Buff": "2,2,100;3,2,100;4,2,100;5,2,100;8,2,100;9,2,100;28,2,100;35,2,100;36,2,100",
-      "LangStringTable": {
-        "Mooddes": "高興",
-        "Buffdes": "各屬性+10%"
-      }
+      "Mooddes": "高興",
+      "Buffdes": "各屬性+10%",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -23,10 +22,9 @@
       "Isdisplay": 1,
       "Battleicon": "battle_1_icon_buff_1011",
       "Buff": "2,2,50;3,2,50;4,2,50;5,2,50;8,2,50;9,2,50;28,2,50;35,2,50;36,2,50",
-      "LangStringTable": {
-        "Mooddes": "開心",
-        "Buffdes": "各屬性+5%"
-      }
+      "Mooddes": "開心",
+      "Buffdes": "各屬性+5%",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -35,12 +33,11 @@
       "Moodmax": 59,
       "Icon": "common_1_face_003",
       "Isdisplay": 0,
-      "Battleicon": null,
-      "Buff": null,
-      "LangStringTable": {
-        "Mooddes": "平淡",
-        "Buffdes": "各屬性::::"
-      }
+      "Battleicon": "",
+      "Buff": "",
+      "Mooddes": "平淡",
+      "Buffdes": "各屬性::::",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
@@ -51,10 +48,9 @@
       "Isdisplay": 1,
       "Battleicon": "battle_1_icon_debuff_1010",
       "Buff": "2,2,-50;3,2,-50;4,2,-50;5,2,-50;8,2,-50;9,2,-50;28,2,-50;35,2,-50;36,2,-50",
-      "LangStringTable": {
-        "Mooddes": "低落",
-        "Buffdes": "各屬性-5%"
-      }
+      "Mooddes": "低落",
+      "Buffdes": "各屬性-5%",
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
@@ -65,10 +61,9 @@
       "Isdisplay": 1,
       "Battleicon": "battle_1_icon_debuff_1009",
       "Buff": "2,2,-100;3,2,-100;4,2,-100;5,2,-100;8,2,-100;9,2,-100;28,2,-100;35,2,-100;36,2,-100",
-      "LangStringTable": {
-        "Mooddes": "沮喪",
-        "Buffdes": "各屬性-10%"
-      }
+      "Mooddes": "沮喪",
+      "Buffdes": "各屬性-10%",
+      "Nazo": 0
     }
   }
 }

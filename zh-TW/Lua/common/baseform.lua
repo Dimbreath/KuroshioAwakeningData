@@ -1,32 +1,16 @@
 BaseForm = class("BaseForm")
 
--- function BaseForm:Init(gameObject,userParamData)
---     self:LUA_OnInit(gameObject,userParamData)
--- end
-
 function BaseForm : LUA_OnInit(gameObject,userParamData)
-    self.injections = ParseInjections(gameObject)
-    self.gameObject = gameObject
-    self.uguiForm = gameObject:GetComponent(typeof(CS.DarkBoom.LuaUGUIForm))
+   
 end
 
-function BaseForm:GetMask( ... )
-    if  IsGameObjectNull(self.uguiForm) then
-        print_error("self.uguiForm == nil")
-        return 0
-    end
-
-    return self.uguiForm:OnMask()
-end
-
-function BaseForm:OnClose()
-    if  IsGameObjectNull(self.uguiForm) then
-        print_error("self.uguiForm == nil")
+function BaseForm:OnClose(uguiForm)
+    if  IsGameObjectNull(uguiForm) then
+        print_error("uguiForm == nil")
         return 
     end
 
-    print("OnClose")
-    self.uguiForm:OnCloseForm()
+    uguiForm:OnCloseForm()
 end
 
 function BaseForm : LUA_OnStack(userData)

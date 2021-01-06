@@ -41,6 +41,10 @@ function MonopolyModel:InitEnum(  )
     }
 end
 
+function MonopolyModel:InitWorkState()
+  self.walkState = self.walkType.Idle
+end
+
 function MonopolyModel:InitData()
   self.tagId     = 0
   self.resMask   =  0

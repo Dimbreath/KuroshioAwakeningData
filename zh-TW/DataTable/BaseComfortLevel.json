@@ -7,7 +7,8 @@
       "Basemood": 1,
       "Visitmood": 1,
       "Visitexp": 15000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -16,7 +17,8 @@
       "Basemood": 2,
       "Visitmood": 2,
       "Visitexp": 16000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -25,7 +27,8 @@
       "Basemood": 3,
       "Visitmood": 3,
       "Visitexp": 17000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
@@ -34,7 +37,8 @@
       "Basemood": 4,
       "Visitmood": 4,
       "Visitexp": 18000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
@@ -43,7 +47,8 @@
       "Basemood": 5,
       "Visitmood": 5,
       "Visitexp": 19000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
@@ -52,7 +57,8 @@
       "Basemood": 6,
       "Visitmood": 6,
       "Visitexp": 20000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
@@ -61,7 +67,8 @@
       "Basemood": 7,
       "Visitmood": 7,
       "Visitexp": 21000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
@@ -70,7 +77,8 @@
       "Basemood": 8,
       "Visitmood": 8,
       "Visitexp": 22000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
@@ -79,7 +87,8 @@
       "Basemood": 9,
       "Visitmood": 9,
       "Visitexp": 23000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
@@ -88,7 +97,8 @@
       "Basemood": 10,
       "Visitmood": 10,
       "Visitexp": 24000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
@@ -97,7 +107,8 @@
       "Basemood": 11,
       "Visitmood": 11,
       "Visitexp": 25000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
@@ -106,7 +117,8 @@
       "Basemood": 12,
       "Visitmood": 12,
       "Visitexp": 26000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
@@ -115,7 +127,8 @@
       "Basemood": 13,
       "Visitmood": 13,
       "Visitexp": 27000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
@@ -124,7 +137,8 @@
       "Basemood": 14,
       "Visitmood": 14,
       "Visitexp": 28000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
@@ -133,7 +147,8 @@
       "Basemood": 15,
       "Visitmood": 15,
       "Visitexp": 29000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
@@ -142,7 +157,8 @@
       "Basemood": 16,
       "Visitmood": 16,
       "Visitexp": 30000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
@@ -151,7 +167,8 @@
       "Basemood": 17,
       "Visitmood": 17,
       "Visitexp": 31000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
@@ -160,7 +177,8 @@
       "Basemood": 18,
       "Visitmood": 18,
       "Visitexp": 32000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
@@ -169,7 +187,8 @@
       "Basemood": 19,
       "Visitmood": 19,
       "Visitexp": 33000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
@@ -178,7 +197,8 @@
       "Basemood": 20,
       "Visitmood": 20,
       "Visitexp": 34000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
@@ -187,7 +207,8 @@
       "Basemood": 21,
       "Visitmood": 21,
       "Visitexp": 35000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
@@ -196,7 +217,8 @@
       "Basemood": 22,
       "Visitmood": 22,
       "Visitexp": 36000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
@@ -205,7 +227,8 @@
       "Basemood": 23,
       "Visitmood": 23,
       "Visitexp": 37000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
@@ -214,7 +237,8 @@
       "Basemood": 24,
       "Visitmood": 24,
       "Visitexp": 38000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
@@ -223,7 +247,8 @@
       "Basemood": 25,
       "Visitmood": 25,
       "Visitexp": 39000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
@@ -232,7 +257,8 @@
       "Basemood": 26,
       "Visitmood": 26,
       "Visitexp": 40000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
@@ -241,7 +267,8 @@
       "Basemood": 27,
       "Visitmood": 27,
       "Visitexp": 41000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
@@ -250,7 +277,8 @@
       "Basemood": 28,
       "Visitmood": 28,
       "Visitexp": 42000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
@@ -259,7 +287,8 @@
       "Basemood": 29,
       "Visitmood": 29,
       "Visitexp": 43000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
@@ -268,7 +297,8 @@
       "Basemood": 30,
       "Visitmood": 30,
       "Visitexp": 44000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
@@ -277,7 +307,8 @@
       "Basemood": 31,
       "Visitmood": 31,
       "Visitexp": 45000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
@@ -286,7 +317,8 @@
       "Basemood": 32,
       "Visitmood": 32,
       "Visitexp": 46000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
@@ -295,7 +327,8 @@
       "Basemood": 33,
       "Visitmood": 33,
       "Visitexp": 47000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "34": {
       "Cuid": 34,
@@ -304,7 +337,8 @@
       "Basemood": 34,
       "Visitmood": 34,
       "Visitexp": 48000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "35": {
       "Cuid": 35,
@@ -313,7 +347,8 @@
       "Basemood": 35,
       "Visitmood": 35,
       "Visitexp": 49000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
@@ -322,7 +357,8 @@
       "Basemood": 36,
       "Visitmood": 36,
       "Visitexp": 50000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "37": {
       "Cuid": 37,
@@ -331,7 +367,8 @@
       "Basemood": 37,
       "Visitmood": 37,
       "Visitexp": 51000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "38": {
       "Cuid": 38,
@@ -340,7 +377,8 @@
       "Basemood": 38,
       "Visitmood": 38,
       "Visitexp": 52000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "39": {
       "Cuid": 39,
@@ -349,7 +387,8 @@
       "Basemood": 39,
       "Visitmood": 39,
       "Visitexp": 53000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "40": {
       "Cuid": 40,
@@ -358,7 +397,8 @@
       "Basemood": 40,
       "Visitmood": 40,
       "Visitexp": 54000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "41": {
       "Cuid": 41,
@@ -367,7 +407,8 @@
       "Basemood": 41,
       "Visitmood": 41,
       "Visitexp": 55000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "42": {
       "Cuid": 42,
@@ -376,7 +417,8 @@
       "Basemood": 42,
       "Visitmood": 42,
       "Visitexp": 56000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "43": {
       "Cuid": 43,
@@ -385,7 +427,8 @@
       "Basemood": 43,
       "Visitmood": 43,
       "Visitexp": 57000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "44": {
       "Cuid": 44,
@@ -394,7 +437,8 @@
       "Basemood": 44,
       "Visitmood": 44,
       "Visitexp": 58000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "45": {
       "Cuid": 45,
@@ -403,7 +447,8 @@
       "Basemood": 45,
       "Visitmood": 45,
       "Visitexp": 59000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "46": {
       "Cuid": 46,
@@ -412,7 +457,8 @@
       "Basemood": 46,
       "Visitmood": 46,
       "Visitexp": 60000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "47": {
       "Cuid": 47,
@@ -421,7 +467,8 @@
       "Basemood": 47,
       "Visitmood": 47,
       "Visitexp": 61000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "48": {
       "Cuid": 48,
@@ -430,7 +477,8 @@
       "Basemood": 48,
       "Visitmood": 48,
       "Visitexp": 62000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "49": {
       "Cuid": 49,
@@ -439,7 +487,8 @@
       "Basemood": 49,
       "Visitmood": 49,
       "Visitexp": 63000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     },
     "50": {
       "Cuid": 50,
@@ -448,7 +497,8 @@
       "Basemood": 50,
       "Visitmood": 50,
       "Visitexp": 64000,
-      "Time": 14400
+      "Time": 14400,
+      "Nazo": 0
     }
   }
 }

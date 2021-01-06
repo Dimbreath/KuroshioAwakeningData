@@ -1,28 +1,24 @@
-local GlobalBuffConfig = {
-	[1] = {1,false,1,0.1,'',
-	},
-	[2] = {2,false,2,0.05,'',
-	},
-	[3] = {3,false,3,0.05,'',
-	},
-	[4] = {4,false,4,0.2,'',
-	},
-	[5] = {5,false,5,0.05,'',
-	},
-	[6] = {6,false,6,10,'',
-	},
+local GlobalBuffConfig = {}
 
+GlobalBuffConfig.Values = {
+	[1] = {1,false,1,0.1,'',0,},
+	[2] = {2,false,2,0.05,'',0,},
+	[3] = {3,false,3,0.05,'',0,},
+	[4] = {4,false,4,0.2,'',0,},
+	[5] = {5,false,5,0.05,'',0,},
+	[6] = {6,false,6,10,'',0,},
 }
+
 function GlobalBuffConfig.GetConfig(key)
-	local Values = GlobalBuffConfig[key]
-	if not Values then
+	local tb = GlobalBuffConfig.Values[key]
+	if not tb then
 		print_error(key)
 		return nil
 	end
-	local Fields = {["id"] = 1,["superposition"] = 2,["type"] = 3,["value"] = 4,["ext"] = 5,}
-	for k,v in pairs(Fields) do
-		Fields[k] = Values[v]
+	local config = {["id"] = 1,["superposition"] = 2,["type"] = 3,["value"] = 4,["ext"] = 5,["nazo"] = 6,}
+	for k,v in pairs(config) do
+		config[k] = tb[v]
 	end
-	return Fields 
+	return config 
 end
 return GlobalBuffConfig

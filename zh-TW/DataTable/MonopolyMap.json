@@ -8,7 +8,8 @@
       "Reward": "1,2,100000",
       "Currency": 2,
       "Spineasset": "common_3019100",
-      "Plot": "8102,8103"
+      "Plot": "8102,8103",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -18,7 +19,8 @@
       "Reward": "1,3,100",
       "Currency": 2,
       "Spineasset": "common_5003000",
-      "Plot": "8104,8105,8106"
+      "Plot": "8104,8105,8106",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -28,7 +30,8 @@
       "Reward": "1,240206,1",
       "Currency": 2,
       "Spineasset": "common_5043000",
-      "Plot": "8107,8108,8109,8110"
+      "Plot": "8107,8108,8109,8110",
+      "Nazo": 0
     }
   }
 }

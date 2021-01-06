@@ -8,7 +8,8 @@
       "Time": 30,
       "Mailform": 1,
       "Mail": 5,
-      "Buff": "5,6"
+      "Buff": "5,6",
+      "Nazo": 0
     },
     "250012": {
       "Cuid": 250012,
@@ -18,7 +19,8 @@
       "Time": 15,
       "Mailform": 1,
       "Mail": 6,
-      "Buff": null
+      "Buff": "",
+      "Nazo": 0
     }
   }
 }

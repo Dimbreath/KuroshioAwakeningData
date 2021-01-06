@@ -4,31 +4,36 @@
       "Cuid": 1,
       "Id": 1,
       "Assetname": "Login",
-      "Backgroundmusicid": "1"
+      "Backgroundmusicid": "1",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
       "Assetname": "Lobby",
-      "Backgroundmusicid": "2"
+      "Backgroundmusicid": "2",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
       "Assetname": "SLG",
-      "Backgroundmusicid": "3"
+      "Backgroundmusicid": "3",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
       "Assetname": "Battle",
-      "Backgroundmusicid": "4"
+      "Backgroundmusicid": "4",
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
       "Assetname": "BattleAutoTest",
-      "Backgroundmusicid": "4"
+      "Backgroundmusicid": "4",
+      "Nazo": 0
     }
   }
 }

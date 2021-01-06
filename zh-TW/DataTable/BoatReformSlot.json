@@ -3,52 +3,47 @@
     "1": {
       "Cuid": 1,
       "Slotid": 1,
+      "Slotname": "主艦載武器",
       "Sloteng": "Primary",
       "Initialgrade": 1,
       "Starattr": "0,0;1,50;2,100;3,150;4,200;5,250",
-      "LangStringTable": {
-        "Slotname": "主艦載武器"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Slotid": 2,
+      "Slotname": "副艦載武器",
       "Sloteng": "Secondary",
       "Initialgrade": 1,
       "Starattr": "0,0;1,50;2,100;3,150;4,200;5,250",
-      "LangStringTable": {
-        "Slotname": "副艦載武器"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Slotid": 3,
+      "Slotname": "增設裝甲區",
       "Sloteng": "Armour",
       "Initialgrade": 1,
       "Starattr": "0,0;1,50;2,100;3,150;4,200;5,250",
-      "LangStringTable": {
-        "Slotname": "增設裝甲區"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Slotid": 4,
+      "Slotname": "核心引擎",
       "Sloteng": "Engine",
       "Initialgrade": 1,
       "Starattr": "0,0;1,50;2,100;3,150;4,200;5,250",
-      "LangStringTable": {
-        "Slotname": "核心引擎"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Slotid": 5,
+      "Slotname": "輔助裝置",
       "Sloteng": "Device",
       "Initialgrade": 1,
       "Starattr": "0,0;1,50;2,100;3,150;4,200;5,250",
-      "LangStringTable": {
-        "Slotname": "輔助裝置"
-      }
+      "Nazo": 0
     }
   }
 }

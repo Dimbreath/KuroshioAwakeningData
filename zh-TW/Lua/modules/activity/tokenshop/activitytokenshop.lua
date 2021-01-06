@@ -1,5 +1,4 @@
-local ActivityBase = require"Modules/Activity/ActivityBase"
-local ActivityTokenShop  = class("ActivityTokenShop", ActivityBase)
+local ActivityTokenShop  = class("ActivityTokenShop")
 local ActivityConfig = require "Configs/ActivityConfig"
 local GlobalConfig = require "Configs/GlobalConfigConfig"
 local TokenShopModel     = require("Modules/Activity/TokenShop/TokenShopModel")
@@ -9,7 +8,7 @@ local DefaultConfig = require"Configs/DefaultConfig"
 local ActivityTokenShopItem = require "Modules/Activity/TokenShop/ActivityTokenShopItem"
 
 function ActivityTokenShop:OnInit(gameObject,mask)
-    self.super:OnInit(gameObject, mask)
+    self.injections = ParseInjections(gameObject)
     self.mask = mask
     self.gameObject = gameObject
     self:InjectComponent()
@@ -31,6 +30,7 @@ function ActivityTokenShop:InjectComponent()
 end
 
 function ActivityTokenShop:OnOpen(tagId)
+    self.tagId = tagId
     self.ActivityCfg = ActivityConfig.GetConfig(tagId)
     if (self.ActivityCfg ~= nil) then
         local ItemIdStrs = string.split(self.ActivityCfg.parameter_1, ',')
@@ -122,6 +122,10 @@ function ActivityTokenShop:OnRelease()
     self.injections = {}
     self.injections = nil
     self.model = nil
+end
+
+function ActivityTokenShop:SetActive(show)
+    self.gameObject:SetActive(show)
 end
 
 return ActivityTokenShop

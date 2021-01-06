@@ -5,4417 +5,5048 @@
       "Id": 1,
       "Level": 0,
       "Name": "Samsung Galaxy S20 Ultra 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
       "Level": 0,
       "Name": "Samsung Galaxy S20+ 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
       "Level": 0,
       "Name": "Samsung Galaxy S20 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
       "Level": 0,
       "Name": "Huawei Mate 30 Pro 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
       "Level": 0,
       "Name": "HUAWEI LIO-N29",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
       "Level": 0,
       "Name": "HUAWEI LIO-AN00",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
       "Level": 0,
       "Name": "HUAWEI LIO-TN00",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
       "Level": 0,
       "Name": "Huawei Mate 30 Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
       "Level": 0,
       "Name": "HUAWEI LIO-L09",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
       "Level": 0,
       "Name": "HUAWEI LIO-L29",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
       "Level": 0,
       "Name": "HUAWEI LIO-AL00",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
       "Level": 0,
       "Name": "HUAWEI LIO-TL00",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Id": 13,
       "Level": 0,
       "Name": "Samsung Galaxy S20 Ultra",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Id": 14,
       "Level": 0,
       "Name": "Vivo iQOO Pro 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Id": 15,
       "Level": 0,
       "Name": "OnePlus 7T Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Id": 16,
       "Level": 0,
       "Name": "OnePlus 7T",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Id": 17,
       "Level": 0,
       "Name": "OnePlus 7T Pro 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Id": 18,
       "Level": 0,
       "Name": "OnePlus 7 Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
       "Id": 19,
       "Level": 0,
       "Name": "Samsung Galaxy S20+",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
       "Id": 20,
       "Level": 0,
       "Name": "Sony Xperia 1",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
       "Id": 21,
       "Level": 0,
       "Name": "Samsung Galaxy S20",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
       "Id": 22,
       "Level": 0,
       "Name": "Oppo Reno 10x Zoom",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
       "Id": 23,
       "Level": 0,
       "Name": "OnePlus 7",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
       "Id": 24,
       "Level": 0,
       "Name": "Sony Xperia 5",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
       "Id": 25,
       "Level": 0,
       "Name": "Xiaomi Mi 9",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
       "Id": 26,
       "Level": 0,
       "Name": "Samsung Galaxy Note10",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
       "Id": 27,
       "Level": 0,
       "Name": "Xiaomi Mi 9T Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
       "Id": 28,
       "Level": 0,
       "Name": "Xiaomi Redmi K20 Pro Premium Edition",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
       "Id": 29,
       "Level": 0,
       "Name": "Samsung Galaxy S10 Lite",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
       "Id": 30,
       "Level": 0,
       "Name": "Samsung Galaxy Fold 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
       "Id": 31,
       "Level": 0,
       "Name": "LG G8S ThinQ",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
       "Id": 32,
       "Level": 0,
       "Name": "Samsung Galaxy Note10+ 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
       "Id": 33,
       "Level": 0,
       "Name": "Samsung Galaxy Note10+",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "34": {
       "Cuid": 34,
       "Id": 34,
       "Level": 0,
       "Name": "Samsung Galaxy S10",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "35": {
       "Cuid": 35,
       "Id": 35,
       "Level": 0,
       "Name": "Samsung Galaxy A90 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
       "Id": 36,
       "Level": 0,
       "Name": "Samsung Galaxy S10+",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "37": {
       "Cuid": 37,
       "Id": 37,
       "Level": 0,
       "Name": "ZTE nubia Red Magic 3",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "38": {
       "Cuid": 38,
       "Id": 38,
       "Level": 0,
       "Name": "LG G8 ThinQ",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "39": {
       "Cuid": 39,
       "Id": 39,
       "Level": 0,
       "Name": "Samsung Galaxy Tab S6",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "40": {
       "Cuid": 40,
       "Id": 40,
       "Level": 0,
       "Name": "LG V50 ThinQ 5G",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "41": {
       "Cuid": 41,
       "Id": 41,
       "Level": 0,
       "Name": "Samsung Galaxy S10e",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "42": {
       "Cuid": 42,
       "Id": 42,
       "Level": 0,
       "Name": "Asus Zenfone 6 ZS630KL",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "43": {
       "Cuid": 43,
       "Id": 43,
       "Level": 0,
       "Name": "Realme X2 Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "44": {
       "Cuid": 44,
       "Id": 44,
       "Level": 0,
       "Name": "Xiaomi Redmi K20 Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "45": {
       "Cuid": 45,
       "Id": 45,
       "Level": 0,
       "Name": "Asus ROG Phone II",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "46": {
       "Cuid": 46,
       "Id": 46,
       "Level": 0,
       "Name": "Huawei Honor View 20",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "47": {
       "Cuid": 47,
       "Id": 47,
       "Level": 0,
       "Name": "HUAWEI PCT-AL10",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "48": {
       "Cuid": 48,
       "Id": 48,
       "Level": 0,
       "Name": "Google Pixel 4 XL",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "49": {
       "Cuid": 49,
       "Id": 49,
       "Level": 0,
       "Name": "Huawei Huawei P30",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "50": {
       "Cuid": 50,
       "Id": 50,
       "Level": 0,
       "Name": "HUAWEI ELE-L04",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "51": {
       "Cuid": 51,
       "Id": 51,
       "Level": 0,
       "Name": "HUAWEI ELE-L09",
-      "Type": 0
-    },
-    "52": {
-      "Cuid": 52,
-      "Id": 52,
-      "Level": 0,
-      "Name": "HUAWEI ELE-L29",
-      "Type": 0
-    },
-    "53": {
-      "Cuid": 53,
-      "Id": 53,
-      "Level": 0,
-      "Name": "HUAWEI EML-AL00",
-      "Type": 0
-    },
-    "54": {
-      "Cuid": 54,
-      "Id": 54,
-      "Level": 0,
-      "Name": "HUAWEI EML-AL00m",
-      "Type": 0
-    },
-    "55": {
-      "Cuid": 55,
-      "Id": 55,
-      "Level": 0,
-      "Name": "HUAWEI EML-TL00",
-      "Type": 0
-    },
-    "56": {
-      "Cuid": 56,
-      "Id": 56,
-      "Level": 0,
-      "Name": "LG V50S ThinQ 5G",
-      "Type": 0
-    },
-    "57": {
-      "Cuid": 57,
-      "Id": 57,
-      "Level": 0,
-      "Name": "Huawei Mate 20 X",
-      "Type": 0
-    },
-    "58": {
-      "Cuid": 58,
-      "Id": 58,
-      "Level": 0,
-      "Name": "HUAWEI EVR-L29",
-      "Type": 0
-    },
-    "59": {
-      "Cuid": 59,
-      "Id": 59,
-      "Level": 0,
-      "Name": "HUAWEI EVR-AL00",
-      "Type": 0
-    },
-    "60": {
-      "Cuid": 60,
-      "Id": 60,
-      "Level": 0,
-      "Name": "Huawei P30 Pro",
-      "Type": 0
-    },
-    "61": {
-      "Cuid": 61,
-      "Id": 61,
-      "Level": 0,
-      "Name": "HUAWEI VOG-L04",
-      "Type": 0
-    },
-    "62": {
-      "Cuid": 62,
-      "Id": 62,
-      "Level": 0,
-      "Name": "HUAWEI VOG-L09",
-      "Type": 0
-    },
-    "63": {
-      "Cuid": 63,
-      "Id": 63,
-      "Level": 0,
-      "Name": "HUAWEI VOG-L29",
-      "Type": 0
-    },
-    "64": {
-      "Cuid": 64,
-      "Id": 64,
-      "Level": 0,
-      "Name": "HUAWEI VOG-AL00",
-      "Type": 0
-    },
-    "65": {
-      "Cuid": 65,
-      "Id": 65,
-      "Level": 0,
-      "Name": "HUAWEI VOG-AL10",
-      "Type": 0
-    },
-    "66": {
-      "Cuid": 66,
-      "Id": 66,
-      "Level": 0,
-      "Name": "HUAWEI VOG-AL00m",
-      "Type": 0
-    },
-    "67": {
-      "Cuid": 67,
-      "Id": 67,
-      "Level": 0,
-      "Name": "HUAWEI VOG-TL00",
-      "Type": 0
-    },
-    "68": {
-      "Cuid": 68,
-      "Id": 68,
-      "Level": 0,
-      "Name": "Huawei Honor 20 Pro",
-      "Type": 0
-    },
-    "69": {
-      "Cuid": 69,
-      "Id": 69,
-      "Level": 0,
-      "Name": "HUAWEI YAL-L41",
-      "Type": 0
-    },
-    "70": {
-      "Cuid": 70,
-      "Id": 70,
-      "Level": 0,
-      "Name": "HUAWEI YAL-AL10",
-      "Type": 0
-    },
-    "71": {
-      "Cuid": 71,
-      "Id": 71,
-      "Level": 0,
-      "Name": "HUAWEI YAL-TL10",
-      "Type": 0
-    },
-    "72": {
-      "Cuid": 72,
-      "Id": 72,
-      "Level": 0,
-      "Name": "Huawei Mate 20 Pro",
-      "Type": 0
-    },
-    "73": {
-      "Cuid": 73,
-      "Id": 73,
-      "Level": 0,
-      "Name": "HUAWEI LYA-L09",
-      "Type": 0
-    },
-    "74": {
-      "Cuid": 74,
-      "Id": 74,
-      "Level": 0,
-      "Name": "HUAWEI LYA-L29",
-      "Type": 0
-    },
-    "75": {
-      "Cuid": 75,
-      "Id": 75,
-      "Level": 0,
-      "Name": "HUAWEI LYA-AL00",
-      "Type": 0
-    },
-    "76": {
-      "Cuid": 76,
-      "Id": 76,
-      "Level": 0,
-      "Name": "Huawei Mate 20",
-      "Type": 0
-    },
-    "77": {
-      "Cuid": 77,
-      "Id": 77,
-      "Level": 0,
-      "Name": "HUAWEI HMA-LX9",
-      "Type": 0
-    },
-    "78": {
-      "Cuid": 78,
-      "Id": 78,
-      "Level": 0,
-      "Name": "HUAWEI HMA-L09",
-      "Type": 0
-    },
-    "79": {
-      "Cuid": 79,
-      "Id": 79,
-      "Level": 0,
-      "Name": "HUAWEI HMA-L29",
-      "Type": 0
-    },
-    "80": {
-      "Cuid": 80,
-      "Id": 80,
-      "Level": 0,
-      "Name": "HUAWEI HMA-AL00",
-      "Type": 0
-    },
-    "81": {
-      "Cuid": 81,
-      "Id": 81,
-      "Level": 0,
-      "Name": "HUAWEI HMA-TL00",
-      "Type": 0
-    },
-    "82": {
-      "Cuid": 82,
-      "Id": 82,
-      "Level": 0,
-      "Name": "Huawei Honor 20",
-      "Type": 0
-    },
-    "83": {
-      "Cuid": 83,
-      "Id": 83,
-      "Level": 0,
-      "Name": "HUAWEI YAL-AL00",
-      "Type": 0
-    },
-    "84": {
-      "Cuid": 84,
-      "Id": 84,
-      "Level": 0,
-      "Name": "HUAWEI YAL-TL00",
-      "Type": 0
-    },
-    "85": {
-      "Cuid": 85,
-      "Id": 85,
-      "Level": 0,
-      "Name": "HUAWEI YAL-L21",
-      "Type": 0
-    },
-    "86": {
-      "Cuid": 86,
-      "Id": 86,
-      "Level": 0,
-      "Name": "OnePlus 6T",
-      "Type": 0
-    },
-    "87": {
-      "Cuid": 87,
-      "Id": 87,
-      "Level": 0,
-      "Name": "Vivo NEX S",
-      "Type": 0
-    },
-    "88": {
-      "Cuid": 88,
-      "Id": 88,
-      "Level": 0,
-      "Name": "Huawei nova 5T",
-      "Type": 0
-    },
-    "89": {
-      "Cuid": 89,
-      "Id": 89,
-      "Level": 0,
-      "Name": "HUAWEI Yale-L61A",
-      "Type": 0
-    },
-    "90": {
-      "Cuid": 90,
-      "Id": 90,
-      "Level": 0,
-      "Name": "HUAWEI Yale-L61D",
-      "Type": 0
-    },
-    "91": {
-      "Cuid": 91,
-      "Id": 91,
-      "Level": 0,
-      "Name": "HUAWEI Yale-L71A",
-      "Type": 0
-    },
-    "92": {
-      "Cuid": 92,
-      "Id": 92,
-      "Level": 0,
-      "Name": "OnePlus 6",
-      "Type": 0
-    },
-    "93": {
-      "Cuid": 93,
-      "Id": 93,
-      "Level": 0,
-      "Name": "Meizu 16th",
-      "Type": 0
-    },
-    "94": {
-      "Cuid": 94,
-      "Id": 94,
-      "Level": 0,
-      "Name": "Google Pixel 4",
-      "Type": 0
-    },
-    "95": {
-      "Cuid": 95,
-      "Id": 95,
-      "Level": 0,
-      "Name": "Razer Phone 2",
-      "Type": 0
-    },
-    "96": {
-      "Cuid": 96,
-      "Id": 96,
-      "Level": 0,
-      "Name": "Asus Zenfone 5z",
-      "Type": 0
-    },
-    "97": {
-      "Cuid": 97,
-      "Id": 97,
-      "Level": 0,
-      "Name": "Xiaomi Black Shark 2",
-      "Type": 0
-    },
-    "98": {
-      "Cuid": 98,
-      "Id": 98,
-      "Level": 0,
-      "Name": "Sony Xperia XZ2 Compact",
-      "Type": 0
-    },
-    "99": {
-      "Cuid": 99,
-      "Id": 99,
-      "Level": 0,
-      "Name": "Samsung Galaxy S10 5G",
-      "Type": 0
-    },
-    "100": {
-      "Cuid": 100,
-      "Id": 100,
-      "Level": 0,
-      "Name": "Samsung Galaxy Note10+ 5G",
-      "Type": 0
-    },
-    "101": {
-      "Cuid": 101,
-      "Id": 101,
-      "Level": 0,
-      "Name": "Samsung Galaxy Note10 5G",
-      "Type": 0
-    },
-    "102": {
-      "Cuid": 102,
-      "Id": 102,
-      "Level": 0,
-      "Name": "Asus ROG Phone",
-      "Type": 0
-    },
-    "103": {
-      "Cuid": 103,
-      "Id": 103,
-      "Level": 0,
-      "Name": "Samsung Galaxy S10+",
-      "Type": 0
-    },
-    "104": {
-      "Cuid": 104,
-      "Id": 104,
-      "Level": 0,
-      "Name": "Sony Xperia XZ2",
-      "Type": 0
-    },
-    "105": {
-      "Cuid": 105,
-      "Id": 105,
-      "Level": 0,
-      "Name": "Samsung Galaxy Note10+",
-      "Type": 0
-    },
-    "106": {
-      "Cuid": 106,
-      "Id": 106,
-      "Level": 0,
-      "Name": "HTC U12+",
-      "Type": 0
-    },
-    "107": {
-      "Cuid": 107,
-      "Id": 107,
-      "Level": 0,
-      "Name": "Samsung Galaxy S10e",
-      "Type": 0
-    },
-    "108": {
-      "Cuid": 108,
-      "Id": 108,
-      "Level": 0,
-      "Name": "Samsung Galaxy S10",
-      "Type": 0
-    },
-    "109": {
-      "Cuid": 109,
-      "Id": 109,
-      "Level": 0,
-      "Name": "Xiaomi Mi Mix 3",
-      "Type": 0
-    },
-    "110": {
-      "Cuid": 110,
-      "Id": 110,
-      "Level": 0,
-      "Name": "Samsung Galaxy S9+",
-      "Type": 0
-    },
-    "111": {
-      "Cuid": 111,
-      "Id": 111,
-      "Level": 0,
-      "Name": "Samsung Galaxy Note 9",
-      "Type": 0
-    },
-    "112": {
-      "Cuid": 112,
-      "Id": 112,
-      "Level": 0,
-      "Name": "Google Pixel 3 XL",
-      "Type": 0
-    },
-    "113": {
-      "Cuid": 113,
-      "Id": 113,
-      "Level": 0,
-      "Name": "LG V35 ThinQ",
-      "Type": 0
-    },
-    "114": {
-      "Cuid": 114,
-      "Id": 114,
-      "Level": 0,
-      "Name": "Samsung Galaxy S9",
-      "Type": 0
-    },
-    "115": {
-      "Cuid": 115,
-      "Id": 115,
-      "Level": 0,
-      "Name": "LG G7 ThinQ",
-      "Type": 0
-    },
-    "116": {
-      "Cuid": 116,
-      "Id": 116,
-      "Level": 0,
-      "Name": "Samsung Galaxy Note 9",
-      "Type": 0
-    },
-    "117": {
-      "Cuid": 117,
-      "Id": 117,
-      "Level": 0,
-      "Name": "Samsung Galaxy S9+",
-      "Type": 0
-    },
-    "118": {
-      "Cuid": 118,
-      "Id": 118,
-      "Level": 0,
-      "Name": "Xiaomi Black Shark",
-      "Type": 0
-    },
-    "119": {
-      "Cuid": 119,
-      "Id": 119,
-      "Level": 0,
-      "Name": "Xiaomi Mi 8",
-      "Type": 0
-    },
-    "120": {
-      "Cuid": 120,
-      "Id": 120,
-      "Level": 0,
-      "Name": "Samsung Galaxy S9",
-      "Type": 0
-    },
-    "121": {
-      "Cuid": 121,
-      "Id": 121,
-      "Level": 0,
-      "Name": "Huawei Honor 9X",
-      "Type": 0
-    },
-    "122": {
-      "Cuid": 122,
-      "Id": 122,
-      "Level": 0,
-      "Name": "HUAWEI HLK-AL00",
-      "Type": 0
-    },
-    "123": {
-      "Cuid": 123,
-      "Id": 123,
-      "Level": 0,
-      "Name": "Google Pixel 3",
-      "Type": 0
-    },
-    "124": {
-      "Cuid": 124,
-      "Id": 124,
-      "Level": 0,
-      "Name": "Xiaomi Mix 2S",
-      "Type": 0
-    },
-    "125": {
-      "Cuid": 125,
-      "Id": 125,
-      "Level": 0,
-      "Name": "LG V40 ThinQ",
-      "Type": 0
-    },
-    "126": {
-      "Cuid": 126,
-      "Id": 126,
-      "Level": 0,
-      "Name": "Samsung Galaxy Note10 Lite",
-      "Type": 0
-    },
-    "127": {
-      "Cuid": 127,
-      "Id": 127,
-      "Level": 0,
-      "Name": "Xiaomi Pocophone F1",
-      "Type": 0
-    },
-    "128": {
-      "Cuid": 128,
-      "Id": 128,
-      "Level": 0,
-      "Name": "Xiaomi Black Shark Helo",
-      "Type": 0
-    },
-    "129": {
-      "Cuid": 129,
-      "Id": 129,
-      "Level": 0,
-      "Name": "Oppo Reno2",
-      "Type": 0
-    },
-    "130": {
-      "Cuid": 130,
-      "Id": 130,
-      "Level": 0,
-      "Name": "Razer Phone",
-      "Type": 0
-    },
-    "131": {
-      "Cuid": 131,
-      "Id": 131,
-      "Level": 0,
-      "Name": "Xiaomi Poco F1",
-      "Type": 0
-    },
-    "132": {
-      "Cuid": 132,
-      "Id": 132,
-      "Level": 0,
-      "Name": "Xiaomi Mi 9T",
-      "Type": 0
-    },
-    "133": {
-      "Cuid": 133,
-      "Id": 133,
-      "Level": 0,
-      "Name": "Xiaomi Mi Note 10",
-      "Type": 0
-    },
-    "134": {
-      "Cuid": 134,
-      "Id": 134,
-      "Level": 0,
-      "Name": "OnePlus 5T",
-      "Type": 0
-    },
-    "135": {
-      "Cuid": 135,
-      "Id": 135,
-      "Level": 0,
-      "Name": "Samsung Galaxy A80",
-      "Type": 0
-    },
-    "136": {
-      "Cuid": 136,
-      "Id": 136,
-      "Level": 0,
-      "Name": "Samsung Galaxy A71",
-      "Type": 0
-    },
-    "137": {
-      "Cuid": 137,
-      "Id": 137,
-      "Level": 0,
-      "Name": "Sony Xperia XZ1 Compact",
-      "Type": 0
-    },
-    "138": {
-      "Cuid": 138,
-      "Id": 138,
-      "Level": 0,
-      "Name": "Xiaomi Redmi K20",
-      "Type": 0
-    },
-    "139": {
-      "Cuid": 139,
-      "Id": 139,
-      "Level": 0,
-      "Name": "Motorola Moto Z2 Force",
-      "Type": 0
-    },
-    "140": {
-      "Cuid": 140,
-      "Id": 140,
-      "Level": 0,
-      "Name": "Xiaomi Redmi Note 8 Pro",
-      "Type": 0
-    },
-    "141": {
-      "Cuid": 141,
-      "Id": 141,
-      "Level": 0,
-      "Name": "Nokia 8",
-      "Type": 0
-    },
-    "142": {
-      "Cuid": 142,
-      "Id": 142,
-      "Level": 0,
-      "Name": "Vivo V15 Pro",
-      "Type": 0
-    },
-    "143": {
-      "Cuid": 143,
-      "Id": 143,
-      "Level": 0,
-      "Name": "Essential PH-1",
-      "Type": 0
-    },
-    "144": {
-      "Cuid": 144,
-      "Id": 144,
-      "Level": 0,
-      "Name": "Huawei Honor 9",
-      "Type": 0
-    },
-    "145": {
-      "Cuid": 145,
-      "Id": 145,
-      "Level": 0,
-      "Name": "HUAWEI STF-TL10",
-      "Type": 0
-    },
-    "146": {
-      "Cuid": 146,
-      "Id": 146,
-      "Level": 0,
-      "Name": "HUAWEI STF-AL00",
-      "Type": 0
-    },
-    "147": {
-      "Cuid": 147,
-      "Id": 147,
-      "Level": 0,
-      "Name": "HUAWEI STF-AL10",
-      "Type": 0
-    },
-    "148": {
-      "Cuid": 148,
-      "Id": 148,
-      "Level": 0,
-      "Name": "Samsung Galaxy A70",
-      "Type": 0
-    },
-    "149": {
-      "Cuid": 149,
-      "Id": 149,
-      "Level": 0,
-      "Name": "Huawei Nova 2s",
-      "Type": 0
-    },
-    "150": {
-      "Cuid": 150,
-      "Id": 150,
-      "Level": 0,
-      "Name": "HUAWEI HWI-AL00",
-      "Type": 0
-    },
-    "151": {
-      "Cuid": 151,
-      "Id": 151,
-      "Level": 0,
-      "Name": "HUAWEI HWI-TL00",
-      "Type": 0
-    },
-    "152": {
-      "Cuid": 152,
-      "Id": 152,
-      "Level": 0,
-      "Name": "Huawei Honor 8 Pro",
-      "Type": 0
-    },
-    "153": {
-      "Cuid": 153,
-      "Id": 153,
-      "Level": 0,
-      "Name": "HUAWEI DUK-L09",
-      "Type": 0
-    },
-    "154": {
-      "Cuid": 154,
-      "Id": 154,
-      "Level": 0,
-      "Name": "Meizu 15 Plus",
-      "Type": 0
-    },
-    "155": {
-      "Cuid": 155,
-      "Id": 155,
-      "Level": 0,
-      "Name": "Samsung Galaxy Note 8",
-      "Type": 0
-    },
-    "156": {
-      "Cuid": 156,
-      "Id": 156,
-      "Level": 1,
-      "Name": "Google Pixel 2",
-      "Type": 0
-    },
-    "157": {
-      "Cuid": 157,
-      "Id": 157,
-      "Level": 1,
-      "Name": "Google Pixel 2 XL",
-      "Type": 0
-    },
-    "158": {
-      "Cuid": 158,
-      "Id": 158,
-      "Level": 1,
-      "Name": "Xiaomi MI 6",
-      "Type": 0
-    },
-    "159": {
-      "Cuid": 159,
-      "Id": 159,
-      "Level": 1,
-      "Name": "Xiaomi Mi Mix 2",
-      "Type": 0
-    },
-    "160": {
-      "Cuid": 160,
-      "Id": 160,
-      "Level": 1,
-      "Name": "LG V30",
-      "Type": 0
-    },
-    "161": {
-      "Cuid": 161,
-      "Id": 161,
-      "Level": 1,
-      "Name": "HTC U11+",
-      "Type": 0
-    },
-    "162": {
-      "Cuid": 162,
-      "Id": 162,
-      "Level": 1,
-      "Name": "Samsung Galaxy Tab S4 10.5",
-      "Type": 0
-    },
-    "163": {
-      "Cuid": 163,
-      "Id": 163,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 7 Pro",
-      "Type": 0
-    },
-    "164": {
-      "Cuid": 164,
-      "Id": 164,
-      "Level": 1,
-      "Name": "HTC U11",
-      "Type": 0
-    },
-    "165": {
-      "Cuid": 165,
-      "Id": 165,
-      "Level": 1,
-      "Name": "Sony Xperia XZ Premium",
-      "Type": 0
-    },
-    "166": {
-      "Cuid": 166,
-      "Id": 166,
-      "Level": 1,
-      "Name": "Sony Xperia XZ1",
-      "Type": 0
-    },
-    "167": {
-      "Cuid": 167,
-      "Id": 167,
-      "Level": 1,
-      "Name": "Samsung Galaxy S8",
-      "Type": 0
-    },
-    "168": {
-      "Cuid": 168,
-      "Id": 168,
-      "Level": 1,
-      "Name": "Realme XT",
-      "Type": 0
-    },
-    "169": {
-      "Cuid": 169,
-      "Id": 169,
-      "Level": 1,
-      "Name": "Xiaomi Mi 9 Lite",
-      "Type": 0
-    },
-    "170": {
-      "Cuid": 170,
-      "Id": 170,
-      "Level": 1,
-      "Name": "Oppo Reno",
-      "Type": 0
-    },
-    "171": {
-      "Cuid": 171,
-      "Id": 171,
-      "Level": 1,
-      "Name": "Realme 5 Pro",
-      "Type": 0
-    },
-    "172": {
-      "Cuid": 172,
-      "Id": 172,
-      "Level": 1,
-      "Name": "Huawei Mate 9",
-      "Type": 0
-    },
-    "173": {
-      "Cuid": 173,
-      "Id": 173,
-      "Level": 1,
-      "Name": "HUAWEI MHA-L09",
-      "Type": 0
-    },
-    "174": {
-      "Cuid": 174,
-      "Id": 174,
-      "Level": 1,
-      "Name": "HUAWEI MHA-L29",
-      "Type": 0
-    },
-    "175": {
-      "Cuid": 175,
-      "Id": 175,
-      "Level": 1,
-      "Name": "HUAWEI MHA-AL00",
-      "Type": 0
-    },
-    "176": {
-      "Cuid": 176,
-      "Id": 176,
-      "Level": 1,
-      "Name": "HUAWEI MHA-TL00",
-      "Type": 0
-    },
-    "177": {
-      "Cuid": 177,
-      "Id": 177,
-      "Level": 1,
-      "Name": "HUAWEI MHA-CL00A",
-      "Type": 0
-    },
-    "178": {
-      "Cuid": 178,
-      "Id": 178,
-      "Level": 1,
-      "Name": "Huawei Honor View 10",
-      "Type": 0
-    },
-    "179": {
-      "Cuid": 179,
-      "Id": 179,
-      "Level": 1,
-      "Name": "HUAWEI BKL-AL20",
-      "Type": 0
-    },
-    "180": {
-      "Cuid": 180,
-      "Id": 180,
-      "Level": 1,
-      "Name": "Samsung Galaxy S8",
-      "Type": 0
-    },
-    "181": {
-      "Cuid": 181,
-      "Id": 181,
-      "Level": 1,
-      "Name": "Huawei Honor V9",
-      "Type": 0
-    },
-    "182": {
-      "Cuid": 182,
-      "Id": 182,
-      "Level": 1,
-      "Name": "HUAWEI DUK-AL20",
-      "Type": 0
-    },
-    "183": {
-      "Cuid": 183,
-      "Id": 183,
-      "Level": 1,
-      "Name": "Huawei P10",
-      "Type": 0
-    },
-    "184": {
-      "Cuid": 184,
-      "Id": 184,
-      "Level": 1,
-      "Name": "HUAWEI VTR-L09",
-      "Type": 0
-    },
-    "185": {
-      "Cuid": 185,
-      "Id": 185,
-      "Level": 1,
-      "Name": "HUAWEI VTR-L29",
-      "Type": 0
-    },
-    "186": {
-      "Cuid": 186,
-      "Id": 186,
-      "Level": 1,
-      "Name": "HUAWEI VTR-AL00",
-      "Type": 0
-    },
-    "187": {
-      "Cuid": 187,
-      "Id": 187,
-      "Level": 1,
-      "Name": "HUAWEI VTR-TL00",
-      "Type": 0
-    },
-    "188": {
-      "Cuid": 188,
-      "Id": 188,
-      "Level": 1,
-      "Name": "Xiaomi Mi 9 SE",
-      "Type": 0
-    },
-    "189": {
-      "Cuid": 189,
-      "Id": 189,
-      "Level": 1,
-      "Name": "Vivo Z1Pro",
-      "Type": 0
-    },
-    "190": {
-      "Cuid": 190,
-      "Id": 190,
-      "Level": 1,
-      "Name": "Realme 3 Pro",
-      "Type": 0
-    },
-    "191": {
-      "Cuid": 191,
-      "Id": 191,
-      "Level": 1,
-      "Name": "Samsung Galaxy S8+",
-      "Type": 0
-    },
-    "192": {
-      "Cuid": 192,
-      "Id": 192,
-      "Level": 1,
-      "Name": "Realme X",
-      "Type": 0
-    },
-    "193": {
-      "Cuid": 193,
-      "Id": 193,
-      "Level": 1,
-      "Name": "Qihoo 360 N6 Pro",
-      "Type": 0
-    },
-    "194": {
-      "Cuid": 194,
-      "Id": 194,
-      "Level": 1,
-      "Name": "Samsung Galaxy S8 Active",
-      "Type": 0
-    },
-    "195": {
-      "Cuid": 195,
-      "Id": 195,
-      "Level": 1,
-      "Name": "ZTE Nubia Z17",
-      "Type": 0
-    },
-    "196": {
-      "Cuid": 196,
-      "Id": 196,
-      "Level": 1,
-      "Name": "Xiaomi Mi 8 SE",
-      "Type": 0
-    },
-    "197": {
-      "Cuid": 197,
-      "Id": 197,
-      "Level": 1,
-      "Name": "Samsung Galaxy Note 8",
-      "Type": 0
-    },
-    "198": {
-      "Cuid": 198,
-      "Id": 198,
-      "Level": 1,
-      "Name": "Samsung Galaxy Tab S5e",
-      "Type": 0
-    },
-    "199": {
-      "Cuid": 199,
-      "Id": 199,
-      "Level": 1,
-      "Name": "Smartisan Nut Pro 2",
-      "Type": 0
-    },
-    "200": {
-      "Cuid": 200,
-      "Id": 200,
-      "Level": 1,
-      "Name": "Huawei P10 Plus",
-      "Type": 0
-    },
-    "201": {
-      "Cuid": 201,
-      "Id": 201,
-      "Level": 1,
-      "Name": "HUAWEI VKY-L09",
-      "Type": 0
-    },
-    "202": {
-      "Cuid": 202,
-      "Id": 202,
-      "Level": 1,
-      "Name": "HUAWEI VKY-L29",
-      "Type": 0
-    },
-    "203": {
-      "Cuid": 203,
-      "Id": 203,
-      "Level": 1,
-      "Name": "HUAWEI VKY-L29A",
-      "Type": 0
-    },
-    "204": {
-      "Cuid": 204,
-      "Id": 204,
-      "Level": 1,
-      "Name": "HUAWEI VKY-AL00",
-      "Type": 0
-    },
-    "205": {
-      "Cuid": 205,
-      "Id": 205,
-      "Level": 1,
-      "Name": "HUAWEI VKY-TL00",
-      "Type": 0
-    },
-    "206": {
-      "Cuid": 206,
-      "Id": 206,
-      "Level": 1,
-      "Name": "Xiaomi Mi Pad 4",
-      "Type": 0
-    },
-    "207": {
-      "Cuid": 207,
-      "Id": 207,
-      "Level": 1,
-      "Name": "Xiaomi Mi 8 Lite",
-      "Type": 0
-    },
-    "208": {
-      "Cuid": 208,
-      "Id": 208,
-      "Level": 1,
-      "Name": "Vivo X20",
-      "Type": 0
-    },
-    "209": {
-      "Cuid": 209,
-      "Id": 209,
-      "Level": 1,
-      "Name": "Samsung Galaxy S8+",
-      "Type": 0
-    },
-    "210": {
-      "Cuid": 210,
-      "Id": 210,
-      "Level": 1,
-      "Name": "Xiaomi Mi Note 3",
-      "Type": 0
-    },
-    "211": {
-      "Cuid": 211,
-      "Id": 211,
-      "Level": 1,
-      "Name": "Oppo F11 Pro",
-      "Type": 0
-    },
-    "212": {
-      "Cuid": 212,
-      "Id": 212,
-      "Level": 1,
-      "Name": "Nokia 7 Plus",
-      "Type": 0
-    },
-    "213": {
-      "Cuid": 213,
-      "Id": 213,
-      "Level": 1,
-      "Name": "OPPO R11",
-      "Type": 0
-    },
-    "214": {
-      "Cuid": 214,
-      "Id": 214,
-      "Level": 1,
-      "Name": "Huawei Honor 10",
-      "Type": 0
-    },
-    "215": {
-      "Cuid": 215,
-      "Id": 215,
-      "Level": 1,
-      "Name": "HUAWEI COL-AL00",
-      "Type": 0
-    },
-    "216": {
-      "Cuid": 216,
-      "Id": 216,
-      "Level": 1,
-      "Name": "HUAWEI COL-AL10",
-      "Type": 0
-    },
-    "217": {
-      "Cuid": 217,
-      "Id": 217,
-      "Level": 1,
-      "Name": "HUAWEI COL-TL00",
-      "Type": 0
-    },
-    "218": {
-      "Cuid": 218,
-      "Id": 218,
-      "Level": 1,
-      "Name": "HUAWEI COL-TL10",
-      "Type": 0
-    },
-    "219": {
-      "Cuid": 219,
-      "Id": 219,
-      "Level": 1,
-      "Name": "Xiaomi Mi A3",
-      "Type": 0
-    },
-    "220": {
-      "Cuid": 220,
-      "Id": 220,
-      "Level": 1,
-      "Name": "Huawei Honor V8 Max",
-      "Type": 0
-    },
-    "221": {
-      "Cuid": 221,
-      "Id": 221,
-      "Level": 1,
-      "Name": "Samsung Galaxy A9 (2018)",
-      "Type": 0
-    },
-    "222": {
-      "Cuid": 222,
-      "Id": 222,
-      "Level": 1,
-      "Name": "Huawei P Smart Z",
-      "Type": 0
-    },
-    "223": {
-      "Cuid": 223,
-      "Id": 223,
-      "Level": 1,
-      "Name": "HUAWEI STK-LX1",
-      "Type": 0
-    },
-    "224": {
-      "Cuid": 224,
-      "Id": 224,
-      "Level": 1,
-      "Name": "HUAWEI STK-LX3",
-      "Type": 0
-    },
-    "225": {
-      "Cuid": 225,
-      "Id": 225,
-      "Level": 1,
-      "Name": "Huawei Honor 9X",
-      "Type": 0
-    },
-    "226": {
-      "Cuid": 226,
-      "Id": 226,
-      "Level": 1,
-      "Name": "Huawei Honor 8X",
-      "Type": 0
-    },
-    "227": {
-      "Cuid": 227,
-      "Id": 227,
-      "Level": 1,
-      "Name": "HUAWEI JSN-AL00",
-      "Type": 0
-    },
-    "228": {
-      "Cuid": 228,
-      "Id": 228,
-      "Level": 1,
-      "Name": "HUAWEI JSN-AL00a",
-      "Type": 0
-    },
-    "229": {
-      "Cuid": 229,
-      "Id": 229,
-      "Level": 1,
-      "Name": "HUAWEI JSN-TL00",
-      "Type": 0
-    },
-    "230": {
-      "Cuid": 230,
-      "Id": 230,
-      "Level": 1,
-      "Name": "HUAWEI JSN-L21",
-      "Type": 0
-    },
-    "231": {
-      "Cuid": 231,
-      "Id": 231,
-      "Level": 1,
-      "Name": "Huawei Honor V8",
-      "Type": 0
-    },
-    "232": {
-      "Cuid": 232,
-      "Id": 232,
-      "Level": 1,
-      "Name": "HUAWEI KNT-UL10",
-      "Type": 0
-    },
-    "233": {
-      "Cuid": 233,
-      "Id": 233,
-      "Level": 1,
-      "Name": "HUAWEI KNT-AL10",
-      "Type": 0
-    },
-    "234": {
-      "Cuid": 234,
-      "Id": 234,
-      "Level": 1,
-      "Name": "HUAWEI KNT-TL10",
-      "Type": 0
-    },
-    "235": {
-      "Cuid": 235,
-      "Id": 235,
-      "Level": 1,
-      "Name": "Oppo F9 Pro",
-      "Type": 0
-    },
-    "236": {
-      "Cuid": 236,
-      "Id": 236,
-      "Level": 1,
-      "Name": "Google Pixel 3a XL",
-      "Type": 0
-    },
-    "237": {
-      "Cuid": 237,
-      "Id": 237,
-      "Level": 1,
-      "Name": "Realme 5",
-      "Type": 0
-    },
-    "238": {
-      "Cuid": 238,
-      "Id": 238,
-      "Level": 1,
-      "Name": "Huawei Y9 Prime (2019)",
-      "Type": 0
-    },
-    "239": {
-      "Cuid": 239,
-      "Id": 239,
-      "Level": 1,
-      "Name": "HUAWEI STK-L21",
-      "Type": 0
-    },
-    "240": {
-      "Cuid": 240,
-      "Id": 240,
-      "Level": 1,
-      "Name": "HUAWEI STK-L22",
-      "Type": 0
-    },
-    "241": {
-      "Cuid": 241,
-      "Id": 241,
-      "Level": 1,
-      "Name": "HUAWEI STK-LX3",
-      "Type": 0
-    },
-    "242": {
-      "Cuid": 242,
-      "Id": 242,
-      "Level": 1,
-      "Name": "HUAWEI STK-AL00",
-      "Type": 0
-    },
-    "243": {
-      "Cuid": 243,
-      "Id": 243,
-      "Level": 1,
-      "Name": "HUAWEI STK-TL00",
-      "Type": 0
-    },
-    "244": {
-      "Cuid": 244,
-      "Id": 244,
-      "Level": 1,
-      "Name": "Huawei Mate 20 lite",
-      "Type": 0
-    },
-    "245": {
-      "Cuid": 245,
-      "Id": 245,
-      "Level": 1,
-      "Name": "HUAWEI SNE-LX1",
-      "Type": 0
-    },
-    "246": {
-      "Cuid": 246,
-      "Id": 246,
-      "Level": 1,
-      "Name": "HUAWEI SNE-LX2",
-      "Type": 0
-    },
-    "247": {
-      "Cuid": 247,
-      "Id": 247,
-      "Level": 1,
-      "Name": "HUAWEI SNE-LX3",
-      "Type": 0
-    },
-    "248": {
-      "Cuid": 248,
-      "Id": 248,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 8T",
-      "Type": 0
-    },
-    "249": {
-      "Cuid": 249,
-      "Id": 249,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 8",
-      "Type": 0
-    },
-    "250": {
-      "Cuid": 250,
-      "Id": 250,
-      "Level": 1,
-      "Name": "Huawei Y9s",
-      "Type": 0
-    },
-    "251": {
-      "Cuid": 251,
-      "Id": 251,
-      "Level": 1,
-      "Name": "Google Pixel 3a",
-      "Type": 0
-    },
-    "252": {
-      "Cuid": 252,
-      "Id": 252,
-      "Level": 1,
-      "Name": "Oppo F9",
-      "Type": 0
-    },
-    "253": {
-      "Cuid": 253,
-      "Id": 253,
-      "Level": 1,
-      "Name": "Oppo Realme 1",
-      "Type": 0
-    },
-    "254": {
-      "Cuid": 254,
-      "Id": 254,
-      "Level": 1,
-      "Name": "Huawei nova 3i",
-      "Type": 0
-    },
-    "255": {
-      "Cuid": 255,
-      "Id": 255,
-      "Level": 1,
-      "Name": "HUAWEI INE-LX1r",
-      "Type": 0
-    },
-    "256": {
-      "Cuid": 256,
-      "Id": 256,
-      "Level": 1,
-      "Name": "HUAWEI INE-LX2",
-      "Type": 0
-    },
-    "257": {
-      "Cuid": 257,
-      "Id": 257,
-      "Level": 1,
-      "Name": "HUAWEI INE-LX2r",
-      "Type": 0
-    },
-    "258": {
-      "Cuid": 258,
-      "Id": 258,
-      "Level": 1,
-      "Name": "Huawei Mate 9 Pro",
-      "Type": 0
-    },
-    "259": {
-      "Cuid": 259,
-      "Id": 259,
-      "Level": 1,
-      "Name": "HUAWEI LON-L29",
-      "Type": 0
-    },
-    "260": {
-      "Cuid": 260,
-      "Id": 260,
-      "Level": 1,
-      "Name": "HUAWEI LON-AL00",
-      "Type": 0
-    },
-    "261": {
-      "Cuid": 261,
-      "Id": 261,
-      "Level": 1,
-      "Name": "HUAWEI LON-AL10",
-      "Type": 0
-    },
-    "262": {
-      "Cuid": 262,
-      "Id": 262,
-      "Level": 1,
-      "Name": "Huawei Honor 8X",
-      "Type": 0
-    },
-    "263": {
-      "Cuid": 263,
-      "Id": 263,
-      "Level": 1,
-      "Name": "Oppo F7",
-      "Type": 0
-    },
-    "264": {
-      "Cuid": 264,
-      "Id": 264,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 7",
-      "Type": 0
-    },
-    "265": {
-      "Cuid": 265,
-      "Id": 265,
-      "Level": 1,
-      "Name": "ZTE Nubia Z17S",
-      "Type": 0
-    },
-    "266": {
-      "Cuid": 266,
-      "Id": 266,
-      "Level": 1,
-      "Name": "Motorola One Action",
-      "Type": 0
-    },
-    "267": {
-      "Cuid": 267,
-      "Id": 267,
-      "Level": 1,
-      "Name": "Huawei P30 lite",
-      "Type": 0
-    },
-    "268": {
-      "Cuid": 268,
-      "Id": 268,
-      "Level": 1,
-      "Name": "HUAWEI MAR-LX1",
-      "Type": 0
-    },
-    "269": {
-      "Cuid": 269,
-      "Id": 269,
-      "Level": 1,
-      "Name": "HUAWEI MAR-LX1M",
-      "Type": 0
-    },
-    "270": {
-      "Cuid": 270,
-      "Id": 270,
-      "Level": 1,
-      "Name": "HUAWEI MAR-LX2",
-      "Type": 0
-    },
-    "271": {
-      "Cuid": 271,
-      "Id": 271,
-      "Level": 1,
-      "Name": "HUAWEI MAR-LX3A",
-      "Type": 0
-    },
-    "272": {
-      "Cuid": 272,
-      "Id": 272,
-      "Level": 1,
-      "Name": "HUAWEI MAR-LX2J",
-      "Type": 0
-    },
-    "273": {
-      "Cuid": 273,
-      "Id": 273,
-      "Level": 1,
-      "Name": "HUAWEI MAR-L01A",
-      "Type": 0
-    },
-    "274": {
-      "Cuid": 274,
-      "Id": 274,
-      "Level": 1,
-      "Name": "HUAWEI MAR-L21",
-      "Type": 0
-    },
-    "275": {
-      "Cuid": 275,
-      "Id": 275,
-      "Level": 1,
-      "Name": "HUAWEI MAR-L21A",
-      "Type": 0
-    },
-    "276": {
-      "Cuid": 276,
-      "Id": 276,
-      "Level": 1,
-      "Name": "Xiaomi Mi A2",
-      "Type": 0
-    },
-    "277": {
-      "Cuid": 277,
-      "Id": 277,
-      "Level": 1,
-      "Name": "Vivo S1",
-      "Type": 0
-    },
-    "278": {
-      "Cuid": 278,
-      "Id": 278,
-      "Level": 1,
-      "Name": "Vivo S1",
-      "Type": 0
-    },
-    "279": {
-      "Cuid": 279,
-      "Id": 279,
-      "Level": 1,
-      "Name": "Huawei Mate 8",
-      "Type": 0
-    },
-    "280": {
-      "Cuid": 280,
-      "Id": 280,
-      "Level": 1,
-      "Name": "HUAWEI NXT-L09",
-      "Type": 0
-    },
-    "281": {
-      "Cuid": 281,
-      "Id": 281,
-      "Level": 1,
-      "Name": "HUAWEI NXT-L29",
-      "Type": 0
-    },
-    "282": {
-      "Cuid": 282,
-      "Id": 282,
-      "Level": 1,
-      "Name": "HUAWEI NXT-AL10",
-      "Type": 0
-    },
-    "283": {
-      "Cuid": 283,
-      "Id": 283,
-      "Level": 1,
-      "Name": "HUAWEI NXT-TL00",
-      "Type": 0
-    },
-    "284": {
-      "Cuid": 284,
-      "Id": 284,
-      "Level": 1,
-      "Name": "HUAWEI NXT-CL00",
-      "Type": 0
-    },
-    "285": {
-      "Cuid": 285,
-      "Id": 285,
-      "Level": 1,
-      "Name": "HUAWEI NXT-DL00",
-      "Type": 0
-    },
-    "286": {
-      "Cuid": 286,
-      "Id": 286,
-      "Level": 1,
-      "Name": "Meizu Pro 7 Plus",
-      "Type": 0
-    },
-    "287": {
-      "Cuid": 287,
-      "Id": 287,
-      "Level": 1,
-      "Name": "Asus Zenfone Max Pro (M2)",
-      "Type": 0
-    },
-    "288": {
-      "Cuid": 288,
-      "Id": 288,
-      "Level": 1,
-      "Name": "Samsung Galaxy A51",
-      "Type": 0
-    },
-    "289": {
-      "Cuid": 289,
-      "Id": 289,
-      "Level": 1,
-      "Name": "Huawei Honor 8",
-      "Type": 0
-    },
-    "290": {
-      "Cuid": 290,
-      "Id": 290,
-      "Level": 1,
-      "Name": "HUAWEI FRD-L02",
-      "Type": 0
-    },
-    "291": {
-      "Cuid": 291,
-      "Id": 291,
-      "Level": 1,
-      "Name": "HUAWEI FRD-L04",
-      "Type": 0
-    },
-    "292": {
-      "Cuid": 292,
-      "Id": 292,
-      "Level": 1,
-      "Name": "Xiaomi Mi Max 3",
-      "Type": 0
-    },
-    "293": {
-      "Cuid": 293,
-      "Id": 293,
-      "Level": 1,
-      "Name": "Samsung Galaxy M30s",
-      "Type": 0
-    },
-    "294": {
-      "Cuid": 294,
-      "Id": 294,
-      "Level": 1,
-      "Name": "Huawei MediaPad M3 8.4",
-      "Type": 0
-    },
-    "295": {
-      "Cuid": 295,
-      "Id": 295,
-      "Level": 1,
-      "Name": "Huawei Honor 10 Lite",
-      "Type": 0
-    },
-    "296": {
-      "Cuid": 296,
-      "Id": 296,
-      "Level": 1,
-      "Name": "Huawei P smart 2019",
-      "Type": 0
-    },
-    "297": {
-      "Cuid": 297,
-      "Id": 297,
-      "Level": 1,
-      "Name": "HUAWEI POT-AL00",
-      "Type": 0
-    },
-    "298": {
-      "Cuid": 298,
-      "Id": 298,
-      "Level": 1,
-      "Name": "HUAWEI POT-AL00a",
-      "Type": 0
-    },
-    "299": {
-      "Cuid": 299,
-      "Id": 299,
-      "Level": 1,
-      "Name": "HUAWEI POT-AL10",
-      "Type": 0
-    },
-    "300": {
-      "Cuid": 300,
-      "Id": 300,
-      "Level": 1,
-      "Name": "HUAWEI POT-TL00a",
-      "Type": 0
-    },
-    "301": {
-      "Cuid": 301,
-      "Id": 301,
-      "Level": 1,
-      "Name": "Nokia 6.1 Plus",
-      "Type": 0
-    },
-    "302": {
-      "Cuid": 302,
-      "Id": 302,
-      "Level": 1,
-      "Name": "Asus Zenfone 5 Max",
-      "Type": 0
-    },
-    "303": {
-      "Cuid": 303,
-      "Id": 303,
-      "Level": 1,
-      "Name": "Samsung Galaxy A50",
-      "Type": 0
-    },
-    "304": {
-      "Cuid": 304,
-      "Id": 304,
-      "Level": 1,
-      "Name": "Meizu Pro 7",
-      "Type": 0
-    },
-    "305": {
-      "Cuid": 305,
-      "Id": 305,
-      "Level": 1,
-      "Name": "Huawei Y9 (2019)",
-      "Type": 0
-    },
-    "306": {
-      "Cuid": 306,
-      "Id": 306,
-      "Level": 1,
-      "Name": "HUAWEI JKM-LX1",
-      "Type": 0
-    },
-    "307": {
-      "Cuid": 307,
-      "Id": 307,
-      "Level": 1,
-      "Name": "HUAWEI JKM-LX3",
-      "Type": 0
-    },
-    "308": {
-      "Cuid": 308,
-      "Id": 308,
-      "Level": 1,
-      "Name": "HUAWEI JKM-LX2",
-      "Type": 0
-    },
-    "309": {
-      "Cuid": 309,
-      "Id": 309,
-      "Level": 1,
-      "Name": "HUAWEI JKM-AL00",
-      "Type": 0
-    },
-    "310": {
-      "Cuid": 310,
-      "Id": 310,
-      "Level": 1,
-      "Name": "HUAWEI JKM-AL00a",
-      "Type": 0
-    },
-    "311": {
-      "Cuid": 311,
-      "Id": 311,
-      "Level": 1,
-      "Name": "HUAWEI JKM-AL00b",
-      "Type": 0
-    },
-    "312": {
-      "Cuid": 312,
-      "Id": 312,
-      "Level": 1,
-      "Name": "HUAWEI JKM-TL00",
-      "Type": 0
-    },
-    "313": {
-      "Cuid": 313,
-      "Id": 313,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 7S",
-      "Type": 0
-    },
-    "314": {
-      "Cuid": 314,
-      "Id": 314,
-      "Level": 1,
-      "Name": "Motorola Moto G7",
-      "Type": 0
-    },
-    "315": {
-      "Cuid": 315,
-      "Id": 315,
-      "Level": 1,
-      "Name": "Samsung Galaxy A50s",
-      "Type": 0
-    },
-    "316": {
-      "Cuid": 316,
-      "Id": 316,
-      "Level": 1,
-      "Name": "Samsung Galaxy S7",
-      "Type": 0
-    },
-    "317": {
-      "Cuid": 317,
-      "Id": 317,
-      "Level": 1,
-      "Name": "Asus ZenFone Max Pro (M1)",
-      "Type": 0
-    },
-    "318": {
-      "Cuid": 318,
-      "Id": 318,
-      "Level": 1,
-      "Name": "Samsung Galaxy S7 edge",
-      "Type": 0
-    },
-    "319": {
-      "Cuid": 319,
-      "Id": 319,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 5 AI",
-      "Type": 0
-    },
-    "320": {
-      "Cuid": 320,
-      "Id": 320,
-      "Level": 1,
-      "Name": "Asus Zenfone Max Pro (M1)",
-      "Type": 0
-    },
-    "321": {
-      "Cuid": 321,
-      "Id": 321,
-      "Level": 1,
-      "Name": "Xiaomi Mi A2",
-      "Type": 0
-    },
-    "322": {
-      "Cuid": 322,
-      "Id": 322,
-      "Level": 1,
-      "Name": "Realme 3",
-      "Type": 0
-    },
-    "323": {
-      "Cuid": 323,
-      "Id": 323,
-      "Level": 1,
-      "Name": "Realme 3",
-      "Type": 0
-    },
-    "324": {
-      "Cuid": 324,
-      "Id": 324,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 5 Pro",
-      "Type": 0
-    },
-    "325": {
-      "Cuid": 325,
-      "Id": 325,
-      "Level": 1,
-      "Name": "Xiaomi Redmi Note 6 Pro",
-      "Type": 0
-    },
-    "326": {
-      "Cuid": 326,
-      "Id": 326,
-      "Level": 1,
-      "Name": "Huawei P9 Plus",
-      "Type": 0
-    },
-    "327": {
-      "Cuid": 327,
-      "Id": 327,
-      "Level": 1,
-      "Name": "HUAWEI VIE-L09",
-      "Type": 0
-    },
-    "328": {
-      "Cuid": 328,
-      "Id": 328,
-      "Level": 1,
-      "Name": "HUAWEI VIE-L29",
-      "Type": 0
-    },
-    "329": {
-      "Cuid": 329,
-      "Id": 329,
-      "Level": 1,
-      "Name": "HUAWEI VIE-AL10",
-      "Type": 0
-    },
-    "330": {
-      "Cuid": 330,
-      "Id": 330,
-      "Level": 1,
-      "Name": "Motorola Moto G7 Power",
-      "Type": 0
-    },
-    "331": {
-      "Cuid": 331,
-      "Id": 331,
-      "Level": 1,
-      "Name": "BQ Aquaris X",
-      "Type": 0
-    },
-    "332": {
-      "Cuid": 332,
-      "Id": 332,
-      "Level": 1,
-      "Name": "10.or G",
-      "Type": 0
-    },
-    "333": {
-      "Cuid": 333,
-      "Id": 333,
-      "Level": 1,
-      "Name": "Vivo X9 Plus",
-      "Type": 0
-    },
-    "334": {
-      "Cuid": 334,
-      "Id": 334,
-      "Level": 1,
-      "Name": "UMi Z Pro",
-      "Type": 0
-    },
-    "335": {
-      "Cuid": 335,
-      "Id": 335,
-      "Level": 1,
-      "Name": "Lenovo Tab3 8 Plus",
-      "Type": 0
-    },
-    "336": {
-      "Cuid": 336,
-      "Id": 336,
-      "Level": 1,
-      "Name": "Huawei P9",
-      "Type": 0
-    },
-    "337": {
-      "Cuid": 337,
-      "Id": 337,
-      "Level": 1,
-      "Name": "HUAWEI EVA-L09",
-      "Type": 0
-    },
-    "338": {
-      "Cuid": 338,
-      "Id": 338,
-      "Level": 1,
-      "Name": "HUAWEI EVA-L19",
-      "Type": 0
-    },
-    "339": {
-      "Cuid": 339,
-      "Id": 339,
-      "Level": 1,
-      "Name": "HUAWEI EVA-L29",
-      "Type": 0
-    },
-    "340": {
-      "Cuid": 340,
-      "Id": 340,
-      "Level": 1,
-      "Name": "HUAWEI EVA-AL00",
-      "Type": 0
-    },
-    "341": {
-      "Cuid": 341,
-      "Id": 341,
-      "Level": 1,
-      "Name": "HUAWEI EVA-AL10",
-      "Type": 0
-    },
-    "342": {
-      "Cuid": 342,
-      "Id": 342,
-      "Level": 1,
-      "Name": "HUAWEI EVA-DL00",
-      "Type": 0
-    },
-    "343": {
-      "Cuid": 343,
-      "Id": 343,
-      "Level": 1,
-      "Name": "HUAWEI EVA-TL00",
-      "Type": 0
-    },
-    "344": {
-      "Cuid": 344,
-      "Id": 344,
-      "Level": 1,
-      "Name": "HUAWEI EVA-CL00",
-      "Type": 0
-    },
-    "345": {
-      "Cuid": 345,
-      "Id": 345,
-      "Level": 1,
-      "Name": "Samsung Galaxy C7 Pro",
-      "Type": 0
-    },
-    "346": {
-      "Cuid": 346,
-      "Id": 346,
-      "Level": 1,
-      "Name": "Xiaomi Redmi 7",
-      "Type": 0
-    },
-    "347": {
-      "Cuid": 347,
-      "Id": 347,
-      "Level": 1,
-      "Name": "Vivo V9",
-      "Type": 0
-    },
-    "348": {
-      "Cuid": 348,
-      "Id": 348,
-      "Level": 1,
-      "Name": "Vivo X9",
-      "Type": 0
-    },
-    "349": {
-      "Cuid": 349,
-      "Id": 349,
-      "Level": 1,
-      "Name": "BQ Aquaris X Pro",
-      "Type": 0
-    },
-    "350": {
-      "Cuid": 350,
-      "Id": 350,
-      "Level": 1,
-      "Name": "Xiaomi Redmi S2",
-      "Type": 0
-    },
-    "351": {
-      "Cuid": 351,
-      "Id": 351,
-      "Level": 1,
-      "Name": "Asus Zenfone 3 Zoom",
-      "Type": 0
-    },
-    "352": {
-      "Cuid": 352,
-      "Id": 352,
-      "Level": 1,
-      "Name": "Asus Zenfone 3",
-      "Type": 0
-    },
-    "353": {
-      "Cuid": 353,
-      "Id": 353,
-      "Level": 1,
-      "Name": "Samsung Galaxy C7",
-      "Type": 0
-    },
-    "354": {
-      "Cuid": 354,
-      "Id": 354,
-      "Level": 2,
-      "Name": "Xiaomi Mi A1",
-      "Type": 0
-    },
-    "355": {
-      "Cuid": 355,
-      "Id": 355,
-      "Level": 2,
-      "Name": "Lenovo P2",
-      "Type": 0
-    },
-    "356": {
-      "Cuid": 356,
-      "Id": 356,
-      "Level": 2,
-      "Name": "Oppo R9s",
-      "Type": 0
-    },
-    "357": {
-      "Cuid": 357,
-      "Id": 357,
-      "Level": 2,
-      "Name": "Motorola Moto G5S Plus",
-      "Type": 0
-    },
-    "358": {
-      "Cuid": 358,
-      "Id": 358,
-      "Level": 2,
-      "Name": "NVIDIA SHIELD Android TV",
-      "Type": 0
-    },
-    "359": {
-      "Cuid": 359,
-      "Id": 359,
-      "Level": 2,
-      "Name": "Samsung Galaxy A8 (2018)",
-      "Type": 0
-    },
-    "360": {
-      "Cuid": 360,
-      "Id": 360,
-      "Level": 2,
-      "Name": "Sharp Aquos S2",
-      "Type": 0
-    },
-    "361": {
-      "Cuid": 361,
-      "Id": 361,
-      "Level": 2,
-      "Name": "Xiaomi Redmi 4",
-      "Type": 0
-    },
-    "362": {
-      "Cuid": 362,
-      "Id": 362,
-      "Level": 2,
-      "Name": "Asus Zenfone 4",
-      "Type": 0
-    },
-    "363": {
-      "Cuid": 363,
-      "Id": 363,
-      "Level": 2,
-      "Name": "Meizu M6 Note",
-      "Type": 0
-    },
-    "364": {
-      "Cuid": 364,
-      "Id": 364,
-      "Level": 2,
-      "Name": "UMi Z",
-      "Type": 0
-    },
-    "365": {
-      "Cuid": 365,
-      "Id": 365,
-      "Level": 2,
-      "Name": "Meizu PRO 5",
-      "Type": 0
-    },
-    "366": {
-      "Cuid": 366,
-      "Id": 366,
-      "Level": 2,
-      "Name": "Xiaomi Mi Max 2",
-      "Type": 0
-    },
-    "367": {
-      "Cuid": 367,
-      "Id": 367,
-      "Level": 2,
-      "Name": "Nokia 6.1",
-      "Type": 0
-    },
-    "368": {
-      "Cuid": 368,
-      "Id": 368,
-      "Level": 2,
-      "Name": "Motorola Moto X4",
-      "Type": 0
-    },
-    "369": {
-      "Cuid": 369,
-      "Id": 369,
-      "Level": 2,
-      "Name": "Vivo V5 Plus",
-      "Type": 0
-    },
-    "370": {
-      "Cuid": 370,
-      "Id": 370,
-      "Level": 2,
-      "Name": "Samsung Galaxy Tab S2 9.7 (2016)",
-      "Type": 0
-    },
-    "371": {
-      "Cuid": 371,
-      "Id": 371,
-      "Level": 2,
-      "Name": "Samsung Galaxy S6 Active",
-      "Type": 0
-    },
-    "372": {
-      "Cuid": 372,
-      "Id": 372,
-      "Level": 2,
-      "Name": "Samsung Galaxy A7",
-      "Type": 0
-    },
-    "373": {
-      "Cuid": 373,
-      "Id": 373,
-      "Level": 2,
-      "Name": "Qihoo 360 N6 Lite",
-      "Type": 0
-    },
-    "374": {
-      "Cuid": 374,
-      "Id": 374,
-      "Level": 2,
-      "Name": "Vernee Mars Pro",
-      "Type": 0
-    },
-    "375": {
-      "Cuid": 375,
-      "Id": 375,
-      "Level": 2,
-      "Name": "Motorola Moto G6 Plus",
-      "Type": 0
-    },
-    "376": {
-      "Cuid": 376,
-      "Id": 376,
-      "Level": 2,
-      "Name": "Huawei Nova",
-      "Type": 0
-    },
-    "377": {
-      "Cuid": 377,
-      "Id": 377,
-      "Level": 2,
-      "Name": "Huawei Nova Plus",
-      "Type": 0
-    },
-    "378": {
-      "Cuid": 378,
-      "Id": 378,
-      "Level": 2,
-      "Name": "Samsung Galaxy A8 (2016)",
-      "Type": 0
-    },
-    "379": {
-      "Cuid": 379,
-      "Id": 379,
-      "Level": 2,
-      "Name": "Vivo X7",
-      "Type": 0
-    },
-    "380": {
-      "Cuid": 380,
-      "Id": 380,
-      "Level": 2,
-      "Name": "Samsung Galaxy A40",
-      "Type": 0
-    },
-    "381": {
-      "Cuid": 381,
-      "Id": 381,
-      "Level": 2,
-      "Name": "Samsung Galaxy A30s",
-      "Type": 0
-    },
-    "382": {
-      "Cuid": 382,
-      "Id": 382,
-      "Level": 2,
-      "Name": "Samsung Galaxy M20",
-      "Type": 0
-    },
-    "383": {
-      "Cuid": 383,
-      "Id": 383,
-      "Level": 2,
-      "Name": "Samsung Galaxy A8+ (2018)",
-      "Type": 0
-    },
-    "384": {
-      "Cuid": 384,
-      "Id": 384,
-      "Level": 2,
-      "Name": "Samsung Galaxy C9 Pro",
-      "Type": 0
-    },
-    "385": {
-      "Cuid": 385,
-      "Id": 385,
-      "Level": 2,
-      "Name": "Samsung Galaxy C5 Pro",
-      "Type": 0
-    },
-    "386": {
-      "Cuid": 386,
-      "Id": 386,
-      "Level": 2,
-      "Name": "Samsung Galaxy S6 edge+",
-      "Type": 0
-    },
-    "387": {
-      "Cuid": 387,
-      "Id": 387,
-      "Level": 2,
-      "Name": "Samsung Galaxy A30",
-      "Type": 0
-    },
-    "388": {
-      "Cuid": 388,
-      "Id": 388,
-      "Level": 2,
-      "Name": "Xiaomi Redmi Note 4X",
-      "Type": 0
-    },
-    "389": {
-      "Cuid": 389,
-      "Id": 389,
-      "Level": 2,
-      "Name": "Motorola Moto Z2 Play",
-      "Type": 0
-    },
-    "390": {
-      "Cuid": 390,
-      "Id": 390,
-      "Level": 2,
-      "Name": "Samsung Galaxy A5 (2017)",
-      "Type": 0
-    },
-    "391": {
-      "Cuid": 391,
-      "Id": 391,
-      "Level": 2,
-      "Name": "Samsung Galaxy Note 5",
-      "Type": 0
-    },
-    "392": {
-      "Cuid": 392,
-      "Id": 392,
-      "Level": 2,
-      "Name": "Lenovo K8 Note",
-      "Type": 0
-    },
-    "393": {
-      "Cuid": 393,
-      "Id": 393,
-      "Level": 2,
-      "Name": "Samsung Galaxy S6 edge",
-      "Type": 0
-    },
-    "394": {
-      "Cuid": 394,
-      "Id": 394,
-      "Level": 2,
-      "Name": "Xiaomi Redmi 4 Prime",
-      "Type": 0
-    },
-    "395": {
-      "Cuid": 395,
-      "Id": 395,
-      "Level": 2,
-      "Name": "Samsung Galaxy Note5 Duos",
-      "Type": 0
-    },
-    "396": {
-      "Cuid": 396,
-      "Id": 396,
-      "Level": 2,
-      "Name": "Samsung Galaxy S6",
-      "Type": 0
-    },
-    "397": {
-      "Cuid": 397,
-      "Id": 397,
-      "Level": 2,
-      "Name": "Samsung Galaxy A7 (2017)",
-      "Type": 0
-    },
-    "398": {
-      "Cuid": 398,
-      "Id": 398,
-      "Level": 2,
-      "Name": "Google Pixel C",
-      "Type": 0
-    },
-    "399": {
-      "Cuid": 399,
-      "Id": 399,
-      "Level": 2,
-      "Name": "Samsung Galaxy A20s",
-      "Type": 0
-    },
-    "400": {
-      "Cuid": 400,
-      "Id": 400,
-      "Level": 2,
-      "Name": "Asus Zenfone 3 Ultra",
-      "Type": 0
-    },
-    "401": {
-      "Cuid": 401,
-      "Id": 401,
-      "Level": 2,
-      "Name": "Huawei Mate SE",
-      "Type": 0
-    },
-    "402": {
-      "Cuid": 402,
-      "Id": 402,
-      "Level": 2,
-      "Name": "Blackview BV8000 Pro",
-      "Type": 0
-    },
-    "403": {
-      "Cuid": 403,
-      "Id": 403,
-      "Level": 2,
-      "Name": "Vivo V7",
-      "Type": 0
-    },
-    "404": {
-      "Cuid": 404,
-      "Id": 404,
-      "Level": 2,
-      "Name": "Huawei P20 Lite",
-      "Type": 0
-    },
-    "405": {
-      "Cuid": 405,
-      "Id": 405,
-      "Level": 2,
-      "Name": "Huawei Honor 7X",
-      "Type": 0
-    },
-    "406": {
-      "Cuid": 406,
-      "Id": 406,
-      "Level": 2,
-      "Name": "Doogee S60",
-      "Type": 0
-    },
-    "407": {
-      "Cuid": 407,
-      "Id": 407,
-      "Level": 2,
-      "Name": "Huawei Nova 2 Plus",
-      "Type": 0
-    },
-    "408": {
-      "Cuid": 408,
-      "Id": 408,
-      "Level": 2,
-      "Name": "Huawei Nova 2",
-      "Type": 0
-    },
-    "409": {
-      "Cuid": 409,
-      "Id": 409,
-      "Level": 2,
-      "Name": "Huawei P Smart",
-      "Type": 0
-    },
-    "410": {
-      "Cuid": 410,
-      "Id": 410,
-      "Level": 2,
-      "Name": "Google Pixel XL",
-      "Type": 0
-    },
-    "411": {
-      "Cuid": 411,
-      "Id": 411,
-      "Level": 2,
-      "Name": "Vivo V7+",
-      "Type": 0
-    },
-    "412": {
-      "Cuid": 412,
-      "Id": 412,
-      "Level": 2,
-      "Name": "Lenovo ZUK Edge",
-      "Type": 0
-    },
-    "413": {
-      "Cuid": 413,
-      "Id": 413,
-      "Level": 2,
-      "Name": "Huawei Honor 9 Lite",
-      "Type": 0
-    },
-    "414": {
-      "Cuid": 414,
-      "Id": 414,
-      "Level": 2,
-      "Name": "Samsung Galaxy A20e",
-      "Type": 0
-    },
-    "415": {
-      "Cuid": 415,
-      "Id": 415,
-      "Level": 2,
-      "Name": "Samsung Galaxy Tab S2 8.0",
-      "Type": 0
-    },
-    "416": {
-      "Cuid": 416,
-      "Id": 416,
-      "Level": 2,
-      "Name": "Samsung Galaxy Tab S2 8.0",
-      "Type": 0
-    },
-    "417": {
-      "Cuid": 417,
-      "Id": 417,
-      "Level": 2,
-      "Name": "Xiaomi MI 5s",
-      "Type": 0
-    },
-    "418": {
-      "Cuid": 418,
-      "Id": 418,
-      "Level": 2,
-      "Name": "Huawei Mate 10 Lite",
-      "Type": 0
-    },
-    "419": {
-      "Cuid": 419,
-      "Id": 419,
-      "Level": 2,
-      "Name": "Google Pixel",
-      "Type": 0
-    },
-    "420": {
-      "Cuid": 420,
-      "Id": 420,
-      "Level": 2,
-      "Name": "Sony Xperia XA1 Ultra",
-      "Type": 0
-    },
-    "421": {
-      "Cuid": 421,
-      "Id": 421,
-      "Level": 2,
-      "Name": "Asus Zenpad Z10",
-      "Type": 0
-    },
-    "422": {
-      "Cuid": 422,
-      "Id": 422,
-      "Level": 2,
-      "Name": "Samsung Galaxy A20",
-      "Type": 0
-    },
-    "423": {
-      "Cuid": 423,
-      "Id": 423,
-      "Level": 2,
-      "Name": "Lenovo ZUK Z2 Pro",
-      "Type": 0
-    },
-    "424": {
-      "Cuid": 424,
-      "Id": 424,
-      "Level": 2,
-      "Name": "Xiaomi Redmi 5",
-      "Type": 0
-    },
-    "425": {
-      "Cuid": 425,
-      "Id": 425,
-      "Level": 2,
-      "Name": "Huawei Honor 8 Lite",
-      "Type": 0
-    },
-    "426": {
-      "Cuid": 426,
-      "Id": 426,
-      "Level": 2,
-      "Name": "Huawei Nova Lite",
-      "Type": 0
-    },
-    "427": {
-      "Cuid": 427,
-      "Id": 427,
-      "Level": 2,
-      "Name": "Sony Xperia XA1",
-      "Type": 0
-    },
-    "428": {
-      "Cuid": 428,
-      "Id": 428,
-      "Level": 2,
-      "Name": "Meizu PRO 6 Plus",
-      "Type": 0
-    },
-    "429": {
-      "Cuid": 429,
-      "Id": 429,
-      "Level": 2,
-      "Name": "Huawei P8 lite (2017)",
-      "Type": 0
-    },
-    "430": {
-      "Cuid": 430,
-      "Id": 430,
-      "Level": 2,
-      "Name": "Huawei P10 Lite",
-      "Type": 0
-    },
-    "431": {
-      "Cuid": 431,
-      "Id": 431,
-      "Level": 2,
-      "Name": "Xiaomi Mi Note 2",
-      "Type": 0
-    },
-    "432": {
-      "Cuid": 432,
-      "Id": 432,
-      "Level": 2,
-      "Name": "Samsung Galaxy A9 Pro",
-      "Type": 0
-    },
-    "433": {
-      "Cuid": 433,
-      "Id": 433,
-      "Level": 2,
-      "Name": "Xiaomi MI 5s Plus",
-      "Type": 0
-    },
-    "434": {
-      "Cuid": 434,
-      "Id": 434,
-      "Level": 2,
-      "Name": "LeEco Le Pro3",
-      "Type": 0
-    },
-    "435": {
-      "Cuid": 435,
-      "Id": 435,
-      "Level": 2,
-      "Name": "Sony Xperia X Compact",
-      "Type": 0
-    },
-    "436": {
-      "Cuid": 436,
-      "Id": 436,
-      "Level": 2,
-      "Name": "Xiaomi Mi Pad 3",
-      "Type": 0
-    },
-    "437": {
-      "Cuid": 437,
-      "Id": 437,
-      "Level": 2,
-      "Name": "HTC U Ultra",
-      "Type": 0
-    },
-    "438": {
-      "Cuid": 438,
-      "Id": 438,
-      "Level": 2,
-      "Name": "LeEco Le Max 2",
-      "Type": 0
-    },
-    "439": {
-      "Cuid": 439,
-      "Id": 439,
-      "Level": 2,
-      "Name": "Meizu MX6",
-      "Type": 0
-    },
-    "440": {
-      "Cuid": 440,
-      "Id": 440,
-      "Level": 2,
-      "Name": "Vivo Xplay 6",
-      "Type": 0
-    },
-    "441": {
-      "Cuid": 441,
-      "Id": 441,
-      "Level": 2,
-      "Name": "ZTE Axon 7",
-      "Type": 0
-    },
-    "442": {
-      "Cuid": 442,
-      "Id": 442,
-      "Level": 2,
-      "Name": "Meizu Pro 6",
-      "Type": 0
-    },
-    "443": {
-      "Cuid": 443,
-      "Id": 443,
-      "Level": 2,
-      "Name": "Huawei P9 lite",
-      "Type": 0
-    },
-    "444": {
-      "Cuid": 444,
-      "Id": 444,
-      "Level": 2,
-      "Name": "Xiaomi Mi Mix",
-      "Type": 0
-    },
-    "445": {
-      "Cuid": 445,
-      "Id": 445,
-      "Level": 2,
-      "Name": "Doogee Mix",
-      "Type": 0
-    },
-    "446": {
-      "Cuid": 446,
-      "Id": 446,
-      "Level": 2,
-      "Name": "Samsung Galaxy Tab S3",
-      "Type": 0
-    },
-    "447": {
-      "Cuid": 447,
-      "Id": 447,
-      "Level": 2,
-      "Name": "Huawei Honor 6X",
-      "Type": 0
-    },
-    "448": {
-      "Cuid": 448,
-      "Id": 448,
-      "Level": 2,
-      "Name": "OnePlus 3T",
-      "Type": 0
-    },
-    "449": {
-      "Cuid": 449,
-      "Id": 449,
-      "Level": 2,
-      "Name": "OnePlus 3",
-      "Type": 0
-    },
-    "450": {
-      "Cuid": 450,
-      "Id": 450,
-      "Level": 2,
-      "Name": "Lenovo K8 Plus",
-      "Type": 0
-    },
-    "451": {
-      "Cuid": 451,
-      "Id": 451,
-      "Level": 2,
-      "Name": "Xiaomi Mi 5",
-      "Type": 0
-    },
-    "452": {
-      "Cuid": 452,
-      "Id": 452,
-      "Level": 2,
-      "Name": "Lenovo ZUK Z2",
-      "Type": 0
-    },
-    "453": {
-      "Cuid": 453,
-      "Id": 453,
-      "Level": 2,
-      "Name": "Meizu S6",
-      "Type": 0
-    },
-    "454": {
-      "Cuid": 454,
-      "Id": 454,
-      "Level": 2,
-      "Name": "Huawei Mate 9 Lite",
-      "Type": 0
-    },
-    "455": {
-      "Cuid": 455,
-      "Id": 455,
-      "Level": 2,
-      "Name": "Huawei Nova 2i",
-      "Type": 0
-    },
-    "456": {
-      "Cuid": 456,
-      "Id": 456,
-      "Level": 2,
-      "Name": "Lenovo Yoga Tab 3 Plus",
-      "Type": 0
-    },
-    "457": {
-      "Cuid": 457,
-      "Id": 457,
-      "Level": 2,
-      "Name": "Huawei Honor 5c",
-      "Type": 0
-    },
-    "458": {
-      "Cuid": 458,
-      "Id": 458,
-      "Level": 2,
-      "Name": "HTC 10",
-      "Type": 0
-    },
-    "459": {
-      "Cuid": 459,
-      "Id": 459,
-      "Level": 2,
-      "Name": "Xiaomi MI MAX",
-      "Type": 0
-    },
-    "460": {
-      "Cuid": 460,
-      "Id": 460,
-      "Level": 2,
-      "Name": "Motorola Moto Z",
-      "Type": 0
-    },
-    "461": {
-      "Cuid": 461,
-      "Id": 461,
-      "Level": 2,
-      "Name": "Asus Zenpad 3S 10",
-      "Type": 0
-    },
-    "462": {
-      "Cuid": 462,
-      "Id": 462,
-      "Level": 2,
-      "Name": "LeEco Le 2",
-      "Type": 0
-    },
-    "463": {
-      "Cuid": 463,
-      "Id": 463,
-      "Level": 2,
-      "Name": "Sony Xperia X Performance",
-      "Type": 0
-    },
-    "464": {
-      "Cuid": 464,
-      "Id": 464,
-      "Level": 2,
-      "Name": "Sony Xperia XZs",
-      "Type": 0
-    },
-    "465": {
-      "Cuid": 465,
-      "Id": 465,
-      "Level": 2,
-      "Name": "LG G5",
-      "Type": 0
-    },
-    "466": {
-      "Cuid": 466,
-      "Id": 466,
-      "Level": 2,
-      "Name": "Samsung Galaxy S7 Active",
-      "Type": 0
-    },
-    "467": {
-      "Cuid": 467,
-      "Id": 467,
-      "Level": 2,
-      "Name": "Bluboo S1",
-      "Type": 0
-    },
-    "468": {
-      "Cuid": 468,
-      "Id": 468,
-      "Level": 2,
-      "Name": "Samsung Galaxy S7 edge",
-      "Type": 0
-    },
-    "469": {
-      "Cuid": 469,
-      "Id": 469,
-      "Level": 2,
-      "Name": "Sony Xperia X",
-      "Type": 0
-    },
-    "470": {
-      "Cuid": 470,
-      "Id": 470,
-      "Level": 2,
-      "Name": "Lenovo Yogabook YB1-X90F",
-      "Type": 0
-    },
-    "471": {
-      "Cuid": 471,
-      "Id": 471,
-      "Level": 2,
-      "Name": "Sony Xperia Z4 Tablet (Wi-Fi)",
-      "Type": 0
-    },
-    "472": {
-      "Cuid": 472,
-      "Id": 472,
-      "Level": 2,
-      "Name": "ZTE Nubia Z11",
-      "Type": 0
-    },
-    "473": {
-      "Cuid": 473,
-      "Id": 473,
-      "Level": 2,
-      "Name": "Samsung Galaxy S7",
-      "Type": 0
-    },
-    "474": {
-      "Cuid": 474,
-      "Id": 474,
-      "Level": 2,
-      "Name": "Sony Xperia XZ",
-      "Type": 0
-    },
-    "475": {
-      "Cuid": 475,
-      "Id": 475,
-      "Level": 2,
-      "Name": "Asus Zenpad Z8",
-      "Type": 0
-    },
-    "476": {
-      "Cuid": 476,
-      "Id": 476,
-      "Level": 2,
-      "Name": "Xiaomi Redmi Note 3",
-      "Type": 0
-    },
-    "477": {
-      "Cuid": 477,
-      "Id": 477,
-      "Level": 2,
-      "Name": "Motorola Moto X Force",
-      "Type": 0
-    },
-    "478": {
-      "Cuid": 478,
-      "Id": 478,
-      "Level": 2,
-      "Name": "LG G6",
-      "Type": 0
-    },
-    "479": {
-      "Cuid": 479,
-      "Id": 479,
-      "Level": 2,
-      "Name": "LeEco Coolpad Cool1 dual",
-      "Type": 0
-    },
-    "480": {
-      "Cuid": 480,
-      "Id": 480,
-      "Level": 2,
-      "Name": "Maze Alpha",
-      "Type": 0
-    },
-    "481": {
-      "Cuid": 481,
-      "Id": 481,
-      "Level": 2,
-      "Name": "Xiaomi Mi 5c",
-      "Type": 0
-    },
-    "482": {
-      "Cuid": 482,
-      "Id": 482,
-      "Level": 2,
-      "Name": "Vernee Mix 2",
-      "Type": 0
-    },
-    "483": {
-      "Cuid": 483,
-      "Id": 483,
-      "Level": 2,
-      "Name": "ZTE Nubia Z17 Mini",
-      "Type": 0
-    },
-    "484": {
-      "Cuid": 484,
-      "Id": 484,
-      "Level": 2,
-      "Name": "Meizu M5 Note",
-      "Type": 0
-    },
-    "485": {
-      "Cuid": 485,
-      "Id": 485,
-      "Level": 2,
-      "Name": "ZTE Trek 2",
-      "Type": 0
-    },
-    "486": {
-      "Cuid": 486,
-      "Id": 486,
-      "Level": 2,
-      "Name": "Smartisan M1L",
-      "Type": 0
-    },
-    "487": {
-      "Cuid": 487,
-      "Id": 487,
-      "Level": 2,
-      "Name": "Oppo F3",
-      "Type": 0
-    },
-    "488": {
-      "Cuid": 488,
-      "Id": 488,
-      "Level": 2,
-      "Name": "HTC One A9",
-      "Type": 0
-    },
-    "489": {
-      "Cuid": 489,
-      "Id": 489,
-      "Level": 2,
-      "Name": "Motorola Moto G5S",
-      "Type": 0
-    },
-    "490": {
-      "Cuid": 490,
-      "Id": 490,
-      "Level": 2,
-      "Name": "LG V20",
-      "Type": 0
-    },
-    "491": {
-      "Cuid": 491,
-      "Id": 491,
-      "Level": 2,
-      "Name": "LG V10",
-      "Type": 0
-    },
-    "492": {
-      "Cuid": 492,
-      "Id": 492,
-      "Level": 2,
-      "Name": "Motorola Moto X Style",
-      "Type": 0
-    },
-    "493": {
-      "Cuid": 493,
-      "Id": 493,
-      "Level": 2,
-      "Name": "Sony Xperia XA Dual",
-      "Type": 0
-    },
-    "494": {
-      "Cuid": 494,
-      "Id": 494,
-      "Level": 2,
-      "Name": "Sony Xperia XA",
-      "Type": 0
-    },
-    "495": {
-      "Cuid": 495,
-      "Id": 495,
-      "Level": 2,
-      "Name": "Asus Zenfone Max Plus",
-      "Type": 0
-    },
-    "496": {
-      "Cuid": 496,
-      "Id": 496,
-      "Level": 2,
-      "Name": "Vernee Thor",
-      "Type": 0
-    },
-    "497": {
-      "Cuid": 497,
-      "Id": 497,
-      "Level": 2,
-      "Name": "OnePlus 2",
-      "Type": 0
-    },
-    "498": {
-      "Cuid": 498,
-      "Id": 498,
-      "Level": 2,
-      "Name": "ZTE Max XL",
-      "Type": 0
-    },
-    "499": {
-      "Cuid": 499,
-      "Id": 499,
-      "Level": 2,
-      "Name": "Lenovo K6 Note",
-      "Type": 0
-    },
-    "500": {
-      "Cuid": 500,
-      "Id": 500,
-      "Level": 2,
-      "Name": "Sony Xperia Z4",
-      "Type": 0
-    },
-    "501": {
-      "Cuid": 501,
-      "Id": 501,
-      "Level": 2,
-      "Name": "Nokia 6",
-      "Type": 0
-    },
-    "502": {
-      "Cuid": 502,
-      "Id": 502,
-      "Level": 2,
-      "Name": "Wileyfox Swift 2 Plus",
-      "Type": 0
-    },
-    "503": {
-      "Cuid": 503,
-      "Id": 503,
-      "Level": 2,
-      "Name": "Gionee A1",
-      "Type": 0
-    },
-    "504": {
-      "Cuid": 504,
-      "Id": 504,
-      "Level": 2,
-      "Name": "Lenovo K6 Power",
-      "Type": 0
-    },
-    "505": {
-      "Cuid": 505,
-      "Id": 505,
-      "Level": 2,
-      "Name": "Nokia 5",
-      "Type": 0
-    },
-    "506": {
-      "Cuid": 506,
-      "Id": 506,
-      "Level": 2,
-      "Name": "HTC One M9",
-      "Type": 0
-    },
-    "507": {
-      "Cuid": 507,
-      "Id": 507,
-      "Level": 2,
-      "Name": "Sony Xperia Z5 Compact",
-      "Type": 0
-    },
-    "508": {
-      "Cuid": 508,
-      "Id": 508,
-      "Level": 2,
-      "Name": "ZTE Blade Z Max",
-      "Type": 0
-    },
-    "509": {
-      "Cuid": 509,
-      "Id": 509,
-      "Level": 2,
-      "Name": "HTC 10 evo",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "510": {
       "Cuid": 510,
       "Id": 510,
       "Level": 2,
       "Name": "Oukitel K6000 Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "511": {
       "Cuid": 511,
       "Id": 511,
       "Level": 2,
       "Name": "Xiaomi Redmi 3s",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "512": {
       "Cuid": 512,
       "Id": 512,
       "Level": 2,
       "Name": "Xiaomi Redmi 4X",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "513": {
       "Cuid": 513,
       "Id": 513,
       "Level": 2,
       "Name": "UMi Plus",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "514": {
       "Cuid": 514,
       "Id": 514,
       "Level": 2,
       "Name": "HTC Nexus 9",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "515": {
       "Cuid": 515,
       "Id": 515,
       "Level": 2,
       "Name": "Xiaomi Mi Note Pro",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "516": {
       "Cuid": 516,
       "Id": 516,
       "Level": 2,
       "Name": "Meizu M6",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "517": {
       "Cuid": 517,
       "Id": 517,
       "Level": 2,
       "Name": "Xiaomi Redmi 3",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "518": {
       "Cuid": 518,
       "Id": 518,
       "Level": 2,
       "Name": "ZTE Blade X Max",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "519": {
       "Cuid": 519,
       "Id": 519,
       "Level": 2,
       "Name": "Sony Xperia Z5",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
+    },
+    "52": {
+      "Cuid": 52,
+      "Id": 52,
+      "Level": 0,
+      "Name": "HUAWEI ELE-L29",
+      "Type": 0,
+      "Nazo": 0
     },
     "520": {
       "Cuid": 520,
       "Id": 520,
       "Level": 2,
       "Name": "Huawei Nexus 6P",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "521": {
       "Cuid": 521,
       "Id": 521,
       "Level": 2,
       "Name": "Sony Xperia Z5 Premium",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "522": {
       "Cuid": 522,
       "Id": 522,
       "Level": 2,
       "Name": "Sony Xperia Z5 Premium Dual",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "523": {
       "Cuid": 523,
       "Id": 523,
       "Level": 2,
       "Name": "Lenovo Vibe K5 Plus",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "524": {
       "Cuid": 524,
       "Id": 524,
       "Level": 2,
       "Name": "Xiaomi Redmi Note 2",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "525": {
       "Cuid": 525,
       "Id": 525,
       "Level": 2,
       "Name": "LeEco Le Max",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "526": {
       "Cuid": 526,
       "Id": 526,
       "Level": 2,
       "Name": "Sony Xperia Z5 Dual",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "527": {
       "Cuid": 527,
       "Id": 527,
       "Level": 2,
       "Name": "Vivo V5s",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "528": {
       "Cuid": 528,
       "Id": 528,
       "Level": 2,
       "Name": "ZTE Axon 7 Mini",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "529": {
       "Cuid": 529,
       "Id": 529,
       "Level": 2,
       "Name": "Asus Zenfone 4 Max",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
+    },
+    "53": {
+      "Cuid": 53,
+      "Id": 53,
+      "Level": 0,
+      "Name": "HUAWEI EML-AL00",
+      "Type": 0,
+      "Nazo": 0
     },
     "530": {
       "Cuid": 530,
       "Id": 530,
       "Level": 2,
       "Name": "Huawei P8 lite",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "531": {
       "Cuid": 531,
       "Id": 531,
       "Level": 2,
       "Name": "Xiaomi Mi 4c",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "532": {
       "Cuid": 532,
       "Id": 532,
       "Level": 2,
       "Name": "Xiaomi Redmi Note 5A",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "533": {
       "Cuid": 533,
       "Id": 533,
       "Level": 2,
       "Name": "LG Nexus 5X",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "534": {
       "Cuid": 534,
       "Id": 534,
       "Level": 2,
       "Name": "Asus Zenfone 3 Max",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "535": {
       "Cuid": 535,
       "Id": 535,
       "Level": 2,
       "Name": "Nextbit Robin",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "536": {
       "Cuid": 536,
       "Id": 536,
       "Level": 2,
       "Name": "Sony Xperia Z3+",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "537": {
       "Cuid": 537,
       "Id": 537,
       "Level": 2,
       "Name": "Xiaomi Mi 4s",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "538": {
       "Cuid": 538,
       "Id": 538,
       "Level": 2,
       "Name": "Asus Zenpad 8.0",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "539": {
       "Cuid": 539,
       "Id": 539,
       "Level": 2,
       "Name": "Sony Xperia L1",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
+    },
+    "54": {
+      "Cuid": 54,
+      "Id": 54,
+      "Level": 0,
+      "Name": "HUAWEI EML-AL00m",
+      "Type": 0,
+      "Nazo": 0
     },
     "540": {
       "Cuid": 540,
       "Id": 540,
       "Level": 2,
       "Name": "Xiaomi Redmi 5A",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "541": {
       "Cuid": 541,
       "Id": 541,
       "Level": 2,
       "Name": "Xiaomi Redmi 4A",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "542": {
       "Cuid": 542,
       "Id": 542,
       "Level": 2,
       "Name": "Meizu M2",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "543": {
       "Cuid": 543,
       "Id": 543,
       "Level": 2,
       "Name": "Nokia 3",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "544": {
       "Cuid": 544,
       "Id": 544,
       "Level": 2,
       "Name": "Wileyfox Swift",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "545": {
       "Cuid": 545,
       "Id": 545,
       "Level": 2,
       "Name": "Asus Zenfone 2 Laser",
-      "Type": 0
+      "Type": 0,
+      "Nazo": 0
     },
     "546": {
       "Cuid": 546,
       "Id": 546,
       "Level": 0,
       "Name": "iPhone12,8",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "547": {
       "Cuid": 547,
       "Id": 547,
       "Level": 0,
       "Name": "iPhone12,5",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "548": {
       "Cuid": 548,
       "Id": 548,
       "Level": 0,
       "Name": "iPhone12,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "549": {
       "Cuid": 549,
       "Id": 549,
       "Level": 0,
       "Name": "iPhone12,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "55": {
+      "Cuid": 55,
+      "Id": 55,
+      "Level": 0,
+      "Name": "HUAWEI EML-TL00",
+      "Type": 0,
+      "Nazo": 0
     },
     "550": {
       "Cuid": 550,
       "Id": 550,
       "Level": 0,
       "Name": "iPhone11,6",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "551": {
       "Cuid": 551,
       "Id": 551,
       "Level": 0,
       "Name": "iPhone11,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "552": {
       "Cuid": 552,
       "Id": 552,
       "Level": 0,
       "Name": "iPhone11,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "553": {
       "Cuid": 553,
       "Id": 553,
       "Level": 0,
       "Name": "iPhone11,8",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "554": {
       "Cuid": 554,
       "Id": 554,
       "Level": 0,
       "Name": "iPhone10,6",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "555": {
       "Cuid": 555,
       "Id": 555,
       "Level": 0,
       "Name": "iPhone10,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "556": {
       "Cuid": 556,
       "Id": 556,
       "Level": 1,
       "Name": "iPhone10,5",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "557": {
       "Cuid": 557,
       "Id": 557,
       "Level": 1,
       "Name": "iPhone10,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "558": {
       "Cuid": 558,
       "Id": 558,
       "Level": 1,
       "Name": "iPhone10,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "559": {
       "Cuid": 559,
       "Id": 559,
       "Level": 1,
       "Name": "iPhone10,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "56": {
+      "Cuid": 56,
+      "Id": 56,
+      "Level": 0,
+      "Name": "LG V50S ThinQ 5G",
+      "Type": 0,
+      "Nazo": 0
     },
     "560": {
       "Cuid": 560,
       "Id": 560,
       "Level": 1,
       "Name": "iPhone9,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "561": {
       "Cuid": 561,
       "Id": 561,
       "Level": 1,
       "Name": "iPhone9,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "562": {
       "Cuid": 562,
       "Id": 562,
       "Level": 1,
       "Name": "iPhone9,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "563": {
       "Cuid": 563,
       "Id": 563,
       "Level": 1,
       "Name": "iPhone9,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "564": {
       "Cuid": 564,
       "Id": 564,
       "Level": 2,
       "Name": "iPhone8,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "565": {
       "Cuid": 565,
       "Id": 565,
       "Level": 2,
       "Name": "iPhone8,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "566": {
       "Cuid": 566,
       "Id": 566,
       "Level": 2,
       "Name": "iPhone8,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "567": {
       "Cuid": 567,
       "Id": 567,
       "Level": 2,
       "Name": "iPhone8,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "568": {
       "Cuid": 568,
       "Id": 568,
       "Level": 2,
       "Name": "iPhone7,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "569": {
       "Cuid": 569,
       "Id": 569,
       "Level": 2,
       "Name": "iPhone7,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "57": {
+      "Cuid": 57,
+      "Id": 57,
+      "Level": 0,
+      "Name": "Huawei Mate 20 X",
+      "Type": 0,
+      "Nazo": 0
     },
     "570": {
       "Cuid": 570,
       "Id": 570,
       "Level": 2,
       "Name": "iPhone6,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "571": {
       "Cuid": 571,
       "Id": 571,
       "Level": 2,
       "Name": "iPhone6,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "572": {
       "Cuid": 572,
       "Id": 572,
       "Level": 2,
       "Name": "iPhone5,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "573": {
       "Cuid": 573,
       "Id": 573,
       "Level": 2,
       "Name": "iPhone5,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "574": {
       "Cuid": 574,
       "Id": 574,
       "Level": 2,
       "Name": "iPhone5,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "575": {
       "Cuid": 575,
       "Id": 575,
       "Level": 2,
       "Name": "iPhone5,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "576": {
       "Cuid": 576,
       "Id": 576,
       "Level": 2,
       "Name": "iPhone4,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "577": {
       "Cuid": 577,
       "Id": 577,
       "Level": 0,
       "Name": "iPad8,8",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "578": {
       "Cuid": 578,
       "Id": 578,
       "Level": 0,
       "Name": "iPad8,7",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "579": {
       "Cuid": 579,
       "Id": 579,
       "Level": 0,
       "Name": "iPad8,6",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "58": {
+      "Cuid": 58,
+      "Id": 58,
+      "Level": 0,
+      "Name": "HUAWEI EVR-L29",
+      "Type": 0,
+      "Nazo": 0
     },
     "580": {
       "Cuid": 580,
       "Id": 580,
       "Level": 0,
       "Name": "iPad8,5",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "581": {
       "Cuid": 581,
       "Id": 581,
       "Level": 0,
       "Name": "iPad7,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "582": {
       "Cuid": 582,
       "Id": 582,
       "Level": 0,
       "Name": "iPad7,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "583": {
       "Cuid": 583,
       "Id": 583,
       "Level": 0,
       "Name": "iPad6,8",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "584": {
       "Cuid": 584,
       "Id": 584,
       "Level": 0,
       "Name": "iPad6,7",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "585": {
       "Cuid": 585,
       "Id": 585,
       "Level": 1,
       "Name": "iPad8,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "586": {
       "Cuid": 586,
       "Id": 586,
       "Level": 1,
       "Name": "iPad8,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "587": {
       "Cuid": 587,
       "Id": 587,
       "Level": 1,
       "Name": "iPad8,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "588": {
       "Cuid": 588,
       "Id": 588,
       "Level": 1,
       "Name": "iPad8,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "589": {
       "Cuid": 589,
       "Id": 589,
       "Level": 1,
       "Name": "iPad7,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "59": {
+      "Cuid": 59,
+      "Id": 59,
+      "Level": 0,
+      "Name": "HUAWEI EVR-AL00",
+      "Type": 0,
+      "Nazo": 0
     },
     "590": {
       "Cuid": 590,
       "Id": 590,
       "Level": 1,
       "Name": "iPad7,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "591": {
       "Cuid": 591,
       "Id": 591,
       "Level": 2,
       "Name": "iPad6,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "592": {
       "Cuid": 592,
       "Id": 592,
       "Level": 2,
       "Name": "iPad6,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "593": {
       "Cuid": 593,
       "Id": 593,
       "Level": 2,
       "Name": "iPad5,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "594": {
       "Cuid": 594,
       "Id": 594,
       "Level": 2,
       "Name": "iPad5,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "595": {
       "Cuid": 595,
       "Id": 595,
       "Level": 2,
       "Name": "iPad4,9",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "596": {
       "Cuid": 596,
       "Id": 596,
       "Level": 2,
       "Name": "iPad4,8",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "597": {
       "Cuid": 597,
       "Id": 597,
       "Level": 2,
       "Name": "iPad4,7",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "598": {
       "Cuid": 598,
       "Id": 598,
       "Level": 2,
       "Name": "iPad4,6",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "599": {
       "Cuid": 599,
       "Id": 599,
       "Level": 2,
       "Name": "iPad4,5",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "60": {
+      "Cuid": 60,
+      "Id": 60,
+      "Level": 0,
+      "Name": "Huawei P30 Pro",
+      "Type": 0,
+      "Nazo": 0
     },
     "600": {
       "Cuid": 600,
       "Id": 600,
       "Level": 2,
       "Name": "iPad4,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "601": {
       "Cuid": 601,
       "Id": 601,
       "Level": 2,
       "Name": "iPad2,7",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "602": {
       "Cuid": 602,
       "Id": 602,
       "Level": 2,
       "Name": "iPad2,6",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "603": {
       "Cuid": 603,
       "Id": 603,
       "Level": 2,
       "Name": "iPad2,5",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "604": {
       "Cuid": 604,
       "Id": 604,
       "Level": 2,
       "Name": "iPad5,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "605": {
       "Cuid": 605,
       "Id": 605,
       "Level": 2,
       "Name": "iPad5,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "606": {
       "Cuid": 606,
       "Id": 606,
       "Level": 2,
       "Name": "iPad4,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "607": {
       "Cuid": 607,
       "Id": 607,
       "Level": 2,
       "Name": "iPad4,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "608": {
       "Cuid": 608,
       "Id": 608,
       "Level": 2,
       "Name": "iPad4,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "609": {
       "Cuid": 609,
       "Id": 609,
       "Level": 2,
       "Name": "iPad7,6",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "61": {
+      "Cuid": 61,
+      "Id": 61,
+      "Level": 0,
+      "Name": "HUAWEI VOG-L04",
+      "Type": 0,
+      "Nazo": 0
     },
     "610": {
       "Cuid": 610,
       "Id": 610,
       "Level": 2,
       "Name": "iPad7,5",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "611": {
       "Cuid": 611,
       "Id": 611,
       "Level": 2,
       "Name": "iPad6,12",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "612": {
       "Cuid": 612,
       "Id": 612,
       "Level": 2,
       "Name": "iPad6,11",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "613": {
       "Cuid": 613,
       "Id": 613,
       "Level": 2,
       "Name": "iPad3,6",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "614": {
       "Cuid": 614,
       "Id": 614,
       "Level": 2,
       "Name": "iPad3,5",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "615": {
       "Cuid": 615,
       "Id": 615,
       "Level": 2,
       "Name": "iPad3,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "616": {
       "Cuid": 616,
       "Id": 616,
       "Level": 2,
       "Name": "iPad3,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "617": {
       "Cuid": 617,
       "Id": 617,
       "Level": 2,
       "Name": "iPad3,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "618": {
       "Cuid": 618,
       "Id": 618,
       "Level": 2,
       "Name": "iPad3,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "619": {
       "Cuid": 619,
       "Id": 619,
       "Level": 2,
       "Name": "iPad2,4",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "62": {
+      "Cuid": 62,
+      "Id": 62,
+      "Level": 0,
+      "Name": "HUAWEI VOG-L09",
+      "Type": 0,
+      "Nazo": 0
     },
     "620": {
       "Cuid": 620,
       "Id": 620,
       "Level": 2,
       "Name": "iPad2,3",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "621": {
       "Cuid": 621,
       "Id": 621,
       "Level": 2,
       "Name": "iPad2,2",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "622": {
       "Cuid": 622,
       "Id": 622,
       "Level": 2,
       "Name": "iPad2,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "623": {
       "Cuid": 623,
       "Id": 623,
       "Level": 2,
       "Name": "iPad1,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "624": {
       "Cuid": 624,
       "Id": 624,
       "Level": 2,
       "Name": "iPod7,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "625": {
       "Cuid": 625,
       "Id": 625,
       "Level": 2,
       "Name": "iPod5,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "626": {
       "Cuid": 626,
       "Id": 626,
       "Level": 2,
       "Name": "iPod4,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "627": {
       "Cuid": 627,
       "Id": 627,
       "Level": 2,
       "Name": "iPod3,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "628": {
       "Cuid": 628,
       "Id": 628,
       "Level": 2,
       "Name": "iPod2,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "629": {
       "Cuid": 629,
       "Id": 629,
       "Level": 2,
       "Name": "iPod1,1",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "63": {
+      "Cuid": 63,
+      "Id": 63,
+      "Level": 0,
+      "Name": "HUAWEI VOG-L29",
+      "Type": 0,
+      "Nazo": 0
     },
     "630": {
       "Cuid": 630,
       "Id": 630,
       "Level": 2,
       "Name": "i386",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
     },
     "631": {
       "Cuid": 631,
       "Id": 631,
       "Level": 2,
       "Name": "x86_64",
-      "Type": 1
+      "Type": 1,
+      "Nazo": 0
+    },
+    "64": {
+      "Cuid": 64,
+      "Id": 64,
+      "Level": 0,
+      "Name": "HUAWEI VOG-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "65": {
+      "Cuid": 65,
+      "Id": 65,
+      "Level": 0,
+      "Name": "HUAWEI VOG-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "66": {
+      "Cuid": 66,
+      "Id": 66,
+      "Level": 0,
+      "Name": "HUAWEI VOG-AL00m",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "67": {
+      "Cuid": 67,
+      "Id": 67,
+      "Level": 0,
+      "Name": "HUAWEI VOG-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "68": {
+      "Cuid": 68,
+      "Id": 68,
+      "Level": 0,
+      "Name": "Huawei Honor 20 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "69": {
+      "Cuid": 69,
+      "Id": 69,
+      "Level": 0,
+      "Name": "HUAWEI YAL-L41",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "70": {
+      "Cuid": 70,
+      "Id": 70,
+      "Level": 0,
+      "Name": "HUAWEI YAL-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "71": {
+      "Cuid": 71,
+      "Id": 71,
+      "Level": 0,
+      "Name": "HUAWEI YAL-TL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "72": {
+      "Cuid": 72,
+      "Id": 72,
+      "Level": 0,
+      "Name": "Huawei Mate 20 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "73": {
+      "Cuid": 73,
+      "Id": 73,
+      "Level": 0,
+      "Name": "HUAWEI LYA-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "74": {
+      "Cuid": 74,
+      "Id": 74,
+      "Level": 0,
+      "Name": "HUAWEI LYA-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "75": {
+      "Cuid": 75,
+      "Id": 75,
+      "Level": 0,
+      "Name": "HUAWEI LYA-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "76": {
+      "Cuid": 76,
+      "Id": 76,
+      "Level": 0,
+      "Name": "Huawei Mate 20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "77": {
+      "Cuid": 77,
+      "Id": 77,
+      "Level": 0,
+      "Name": "HUAWEI HMA-LX9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "78": {
+      "Cuid": 78,
+      "Id": 78,
+      "Level": 0,
+      "Name": "HUAWEI HMA-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "79": {
+      "Cuid": 79,
+      "Id": 79,
+      "Level": 0,
+      "Name": "HUAWEI HMA-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "80": {
+      "Cuid": 80,
+      "Id": 80,
+      "Level": 0,
+      "Name": "HUAWEI HMA-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "81": {
+      "Cuid": 81,
+      "Id": 81,
+      "Level": 0,
+      "Name": "HUAWEI HMA-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "82": {
+      "Cuid": 82,
+      "Id": 82,
+      "Level": 0,
+      "Name": "Huawei Honor 20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "83": {
+      "Cuid": 83,
+      "Id": 83,
+      "Level": 0,
+      "Name": "HUAWEI YAL-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "84": {
+      "Cuid": 84,
+      "Id": 84,
+      "Level": 0,
+      "Name": "HUAWEI YAL-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "85": {
+      "Cuid": 85,
+      "Id": 85,
+      "Level": 0,
+      "Name": "HUAWEI YAL-L21",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "86": {
+      "Cuid": 86,
+      "Id": 86,
+      "Level": 0,
+      "Name": "OnePlus 6T",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "87": {
+      "Cuid": 87,
+      "Id": 87,
+      "Level": 0,
+      "Name": "Vivo NEX S",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "88": {
+      "Cuid": 88,
+      "Id": 88,
+      "Level": 0,
+      "Name": "Huawei nova 5T",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "89": {
+      "Cuid": 89,
+      "Id": 89,
+      "Level": 0,
+      "Name": "HUAWEI Yale-L61A",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "90": {
+      "Cuid": 90,
+      "Id": 90,
+      "Level": 0,
+      "Name": "HUAWEI Yale-L61D",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "91": {
+      "Cuid": 91,
+      "Id": 91,
+      "Level": 0,
+      "Name": "HUAWEI Yale-L71A",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "92": {
+      "Cuid": 92,
+      "Id": 92,
+      "Level": 0,
+      "Name": "OnePlus 6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "93": {
+      "Cuid": 93,
+      "Id": 93,
+      "Level": 0,
+      "Name": "Meizu 16th",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "94": {
+      "Cuid": 94,
+      "Id": 94,
+      "Level": 0,
+      "Name": "Google Pixel 4",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "95": {
+      "Cuid": 95,
+      "Id": 95,
+      "Level": 0,
+      "Name": "Razer Phone 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "96": {
+      "Cuid": 96,
+      "Id": 96,
+      "Level": 0,
+      "Name": "Asus Zenfone 5z",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "97": {
+      "Cuid": 97,
+      "Id": 97,
+      "Level": 0,
+      "Name": "Xiaomi Black Shark 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "98": {
+      "Cuid": 98,
+      "Id": 98,
+      "Level": 0,
+      "Name": "Sony Xperia XZ2 Compact",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "99": {
+      "Cuid": 99,
+      "Id": 99,
+      "Level": 0,
+      "Name": "Samsung Galaxy S10 5G",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "100": {
+      "Cuid": 100,
+      "Id": 100,
+      "Level": 0,
+      "Name": "Samsung Galaxy Note10+ 5G",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "101": {
+      "Cuid": 101,
+      "Id": 101,
+      "Level": 0,
+      "Name": "Samsung Galaxy Note10 5G",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "102": {
+      "Cuid": 102,
+      "Id": 102,
+      "Level": 0,
+      "Name": "Asus ROG Phone",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "103": {
+      "Cuid": 103,
+      "Id": 103,
+      "Level": 0,
+      "Name": "Samsung Galaxy S10+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "104": {
+      "Cuid": 104,
+      "Id": 104,
+      "Level": 0,
+      "Name": "Sony Xperia XZ2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "105": {
+      "Cuid": 105,
+      "Id": 105,
+      "Level": 0,
+      "Name": "Samsung Galaxy Note10+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "106": {
+      "Cuid": 106,
+      "Id": 106,
+      "Level": 0,
+      "Name": "HTC U12+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "107": {
+      "Cuid": 107,
+      "Id": 107,
+      "Level": 0,
+      "Name": "Samsung Galaxy S10e",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "108": {
+      "Cuid": 108,
+      "Id": 108,
+      "Level": 0,
+      "Name": "Samsung Galaxy S10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "109": {
+      "Cuid": 109,
+      "Id": 109,
+      "Level": 0,
+      "Name": "Xiaomi Mi Mix 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "110": {
+      "Cuid": 110,
+      "Id": 110,
+      "Level": 0,
+      "Name": "Samsung Galaxy S9+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "111": {
+      "Cuid": 111,
+      "Id": 111,
+      "Level": 0,
+      "Name": "Samsung Galaxy Note 9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "112": {
+      "Cuid": 112,
+      "Id": 112,
+      "Level": 0,
+      "Name": "Google Pixel 3 XL",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "113": {
+      "Cuid": 113,
+      "Id": 113,
+      "Level": 0,
+      "Name": "LG V35 ThinQ",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "114": {
+      "Cuid": 114,
+      "Id": 114,
+      "Level": 0,
+      "Name": "Samsung Galaxy S9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "115": {
+      "Cuid": 115,
+      "Id": 115,
+      "Level": 0,
+      "Name": "LG G7 ThinQ",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "116": {
+      "Cuid": 116,
+      "Id": 116,
+      "Level": 0,
+      "Name": "Samsung Galaxy Note 9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "117": {
+      "Cuid": 117,
+      "Id": 117,
+      "Level": 0,
+      "Name": "Samsung Galaxy S9+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "118": {
+      "Cuid": 118,
+      "Id": 118,
+      "Level": 0,
+      "Name": "Xiaomi Black Shark",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "119": {
+      "Cuid": 119,
+      "Id": 119,
+      "Level": 0,
+      "Name": "Xiaomi Mi 8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "120": {
+      "Cuid": 120,
+      "Id": 120,
+      "Level": 0,
+      "Name": "Samsung Galaxy S9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "121": {
+      "Cuid": 121,
+      "Id": 121,
+      "Level": 0,
+      "Name": "Huawei Honor 9X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "122": {
+      "Cuid": 122,
+      "Id": 122,
+      "Level": 0,
+      "Name": "HUAWEI HLK-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "123": {
+      "Cuid": 123,
+      "Id": 123,
+      "Level": 0,
+      "Name": "Google Pixel 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "124": {
+      "Cuid": 124,
+      "Id": 124,
+      "Level": 0,
+      "Name": "Xiaomi Mix 2S",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "125": {
+      "Cuid": 125,
+      "Id": 125,
+      "Level": 0,
+      "Name": "LG V40 ThinQ",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "126": {
+      "Cuid": 126,
+      "Id": 126,
+      "Level": 0,
+      "Name": "Samsung Galaxy Note10 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "127": {
+      "Cuid": 127,
+      "Id": 127,
+      "Level": 0,
+      "Name": "Xiaomi Pocophone F1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "128": {
+      "Cuid": 128,
+      "Id": 128,
+      "Level": 0,
+      "Name": "Xiaomi Black Shark Helo",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "129": {
+      "Cuid": 129,
+      "Id": 129,
+      "Level": 0,
+      "Name": "Oppo Reno2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "130": {
+      "Cuid": 130,
+      "Id": 130,
+      "Level": 0,
+      "Name": "Razer Phone",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "131": {
+      "Cuid": 131,
+      "Id": 131,
+      "Level": 0,
+      "Name": "Xiaomi Poco F1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "132": {
+      "Cuid": 132,
+      "Id": 132,
+      "Level": 0,
+      "Name": "Xiaomi Mi 9T",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "133": {
+      "Cuid": 133,
+      "Id": 133,
+      "Level": 0,
+      "Name": "Xiaomi Mi Note 10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "134": {
+      "Cuid": 134,
+      "Id": 134,
+      "Level": 0,
+      "Name": "OnePlus 5T",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "135": {
+      "Cuid": 135,
+      "Id": 135,
+      "Level": 0,
+      "Name": "Samsung Galaxy A80",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "136": {
+      "Cuid": 136,
+      "Id": 136,
+      "Level": 0,
+      "Name": "Samsung Galaxy A71",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "137": {
+      "Cuid": 137,
+      "Id": 137,
+      "Level": 0,
+      "Name": "Sony Xperia XZ1 Compact",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "138": {
+      "Cuid": 138,
+      "Id": 138,
+      "Level": 0,
+      "Name": "Xiaomi Redmi K20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "139": {
+      "Cuid": 139,
+      "Id": 139,
+      "Level": 0,
+      "Name": "Motorola Moto Z2 Force",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "140": {
+      "Cuid": 140,
+      "Id": 140,
+      "Level": 0,
+      "Name": "Xiaomi Redmi Note 8 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "141": {
+      "Cuid": 141,
+      "Id": 141,
+      "Level": 0,
+      "Name": "Nokia 8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "142": {
+      "Cuid": 142,
+      "Id": 142,
+      "Level": 0,
+      "Name": "Vivo V15 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "143": {
+      "Cuid": 143,
+      "Id": 143,
+      "Level": 0,
+      "Name": "Essential PH-1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "144": {
+      "Cuid": 144,
+      "Id": 144,
+      "Level": 0,
+      "Name": "Huawei Honor 9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "145": {
+      "Cuid": 145,
+      "Id": 145,
+      "Level": 0,
+      "Name": "HUAWEI STF-TL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "146": {
+      "Cuid": 146,
+      "Id": 146,
+      "Level": 0,
+      "Name": "HUAWEI STF-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "147": {
+      "Cuid": 147,
+      "Id": 147,
+      "Level": 0,
+      "Name": "HUAWEI STF-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "148": {
+      "Cuid": 148,
+      "Id": 148,
+      "Level": 0,
+      "Name": "Samsung Galaxy A70",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "149": {
+      "Cuid": 149,
+      "Id": 149,
+      "Level": 0,
+      "Name": "Huawei Nova 2s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "150": {
+      "Cuid": 150,
+      "Id": 150,
+      "Level": 0,
+      "Name": "HUAWEI HWI-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "151": {
+      "Cuid": 151,
+      "Id": 151,
+      "Level": 0,
+      "Name": "HUAWEI HWI-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "152": {
+      "Cuid": 152,
+      "Id": 152,
+      "Level": 0,
+      "Name": "Huawei Honor 8 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "153": {
+      "Cuid": 153,
+      "Id": 153,
+      "Level": 0,
+      "Name": "HUAWEI DUK-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "154": {
+      "Cuid": 154,
+      "Id": 154,
+      "Level": 0,
+      "Name": "Meizu 15 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "155": {
+      "Cuid": 155,
+      "Id": 155,
+      "Level": 0,
+      "Name": "Samsung Galaxy Note 8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "156": {
+      "Cuid": 156,
+      "Id": 156,
+      "Level": 1,
+      "Name": "Google Pixel 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "157": {
+      "Cuid": 157,
+      "Id": 157,
+      "Level": 1,
+      "Name": "Google Pixel 2 XL",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "158": {
+      "Cuid": 158,
+      "Id": 158,
+      "Level": 1,
+      "Name": "Xiaomi MI 6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "159": {
+      "Cuid": 159,
+      "Id": 159,
+      "Level": 1,
+      "Name": "Xiaomi Mi Mix 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "160": {
+      "Cuid": 160,
+      "Id": 160,
+      "Level": 1,
+      "Name": "LG V30",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "161": {
+      "Cuid": 161,
+      "Id": 161,
+      "Level": 1,
+      "Name": "HTC U11+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "162": {
+      "Cuid": 162,
+      "Id": 162,
+      "Level": 1,
+      "Name": "Samsung Galaxy Tab S4 10.5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "163": {
+      "Cuid": 163,
+      "Id": 163,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 7 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "164": {
+      "Cuid": 164,
+      "Id": 164,
+      "Level": 1,
+      "Name": "HTC U11",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "165": {
+      "Cuid": 165,
+      "Id": 165,
+      "Level": 1,
+      "Name": "Sony Xperia XZ Premium",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "166": {
+      "Cuid": 166,
+      "Id": 166,
+      "Level": 1,
+      "Name": "Sony Xperia XZ1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "167": {
+      "Cuid": 167,
+      "Id": 167,
+      "Level": 1,
+      "Name": "Samsung Galaxy S8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "168": {
+      "Cuid": 168,
+      "Id": 168,
+      "Level": 1,
+      "Name": "Realme XT",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "169": {
+      "Cuid": 169,
+      "Id": 169,
+      "Level": 1,
+      "Name": "Xiaomi Mi 9 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "170": {
+      "Cuid": 170,
+      "Id": 170,
+      "Level": 1,
+      "Name": "Oppo Reno",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "171": {
+      "Cuid": 171,
+      "Id": 171,
+      "Level": 1,
+      "Name": "Realme 5 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "172": {
+      "Cuid": 172,
+      "Id": 172,
+      "Level": 1,
+      "Name": "Huawei Mate 9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "173": {
+      "Cuid": 173,
+      "Id": 173,
+      "Level": 1,
+      "Name": "HUAWEI MHA-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "174": {
+      "Cuid": 174,
+      "Id": 174,
+      "Level": 1,
+      "Name": "HUAWEI MHA-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "175": {
+      "Cuid": 175,
+      "Id": 175,
+      "Level": 1,
+      "Name": "HUAWEI MHA-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "176": {
+      "Cuid": 176,
+      "Id": 176,
+      "Level": 1,
+      "Name": "HUAWEI MHA-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "177": {
+      "Cuid": 177,
+      "Id": 177,
+      "Level": 1,
+      "Name": "HUAWEI MHA-CL00A",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "178": {
+      "Cuid": 178,
+      "Id": 178,
+      "Level": 1,
+      "Name": "Huawei Honor View 10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "179": {
+      "Cuid": 179,
+      "Id": 179,
+      "Level": 1,
+      "Name": "HUAWEI BKL-AL20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "180": {
+      "Cuid": 180,
+      "Id": 180,
+      "Level": 1,
+      "Name": "Samsung Galaxy S8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "181": {
+      "Cuid": 181,
+      "Id": 181,
+      "Level": 1,
+      "Name": "Huawei Honor V9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "182": {
+      "Cuid": 182,
+      "Id": 182,
+      "Level": 1,
+      "Name": "HUAWEI DUK-AL20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "183": {
+      "Cuid": 183,
+      "Id": 183,
+      "Level": 1,
+      "Name": "Huawei P10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "184": {
+      "Cuid": 184,
+      "Id": 184,
+      "Level": 1,
+      "Name": "HUAWEI VTR-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "185": {
+      "Cuid": 185,
+      "Id": 185,
+      "Level": 1,
+      "Name": "HUAWEI VTR-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "186": {
+      "Cuid": 186,
+      "Id": 186,
+      "Level": 1,
+      "Name": "HUAWEI VTR-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "187": {
+      "Cuid": 187,
+      "Id": 187,
+      "Level": 1,
+      "Name": "HUAWEI VTR-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "188": {
+      "Cuid": 188,
+      "Id": 188,
+      "Level": 1,
+      "Name": "Xiaomi Mi 9 SE",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "189": {
+      "Cuid": 189,
+      "Id": 189,
+      "Level": 1,
+      "Name": "Vivo Z1Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "190": {
+      "Cuid": 190,
+      "Id": 190,
+      "Level": 1,
+      "Name": "Realme 3 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "191": {
+      "Cuid": 191,
+      "Id": 191,
+      "Level": 1,
+      "Name": "Samsung Galaxy S8+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "192": {
+      "Cuid": 192,
+      "Id": 192,
+      "Level": 1,
+      "Name": "Realme X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "193": {
+      "Cuid": 193,
+      "Id": 193,
+      "Level": 1,
+      "Name": "Qihoo 360 N6 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "194": {
+      "Cuid": 194,
+      "Id": 194,
+      "Level": 1,
+      "Name": "Samsung Galaxy S8 Active",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "195": {
+      "Cuid": 195,
+      "Id": 195,
+      "Level": 1,
+      "Name": "ZTE Nubia Z17",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "196": {
+      "Cuid": 196,
+      "Id": 196,
+      "Level": 1,
+      "Name": "Xiaomi Mi 8 SE",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "197": {
+      "Cuid": 197,
+      "Id": 197,
+      "Level": 1,
+      "Name": "Samsung Galaxy Note 8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "198": {
+      "Cuid": 198,
+      "Id": 198,
+      "Level": 1,
+      "Name": "Samsung Galaxy Tab S5e",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "199": {
+      "Cuid": 199,
+      "Id": 199,
+      "Level": 1,
+      "Name": "Smartisan Nut Pro 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "200": {
+      "Cuid": 200,
+      "Id": 200,
+      "Level": 1,
+      "Name": "Huawei P10 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "201": {
+      "Cuid": 201,
+      "Id": 201,
+      "Level": 1,
+      "Name": "HUAWEI VKY-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "202": {
+      "Cuid": 202,
+      "Id": 202,
+      "Level": 1,
+      "Name": "HUAWEI VKY-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "203": {
+      "Cuid": 203,
+      "Id": 203,
+      "Level": 1,
+      "Name": "HUAWEI VKY-L29A",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "204": {
+      "Cuid": 204,
+      "Id": 204,
+      "Level": 1,
+      "Name": "HUAWEI VKY-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "205": {
+      "Cuid": 205,
+      "Id": 205,
+      "Level": 1,
+      "Name": "HUAWEI VKY-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "206": {
+      "Cuid": 206,
+      "Id": 206,
+      "Level": 1,
+      "Name": "Xiaomi Mi Pad 4",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "207": {
+      "Cuid": 207,
+      "Id": 207,
+      "Level": 1,
+      "Name": "Xiaomi Mi 8 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "208": {
+      "Cuid": 208,
+      "Id": 208,
+      "Level": 1,
+      "Name": "Vivo X20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "209": {
+      "Cuid": 209,
+      "Id": 209,
+      "Level": 1,
+      "Name": "Samsung Galaxy S8+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "210": {
+      "Cuid": 210,
+      "Id": 210,
+      "Level": 1,
+      "Name": "Xiaomi Mi Note 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "211": {
+      "Cuid": 211,
+      "Id": 211,
+      "Level": 1,
+      "Name": "Oppo F11 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "212": {
+      "Cuid": 212,
+      "Id": 212,
+      "Level": 1,
+      "Name": "Nokia 7 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "213": {
+      "Cuid": 213,
+      "Id": 213,
+      "Level": 1,
+      "Name": "OPPO R11",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "214": {
+      "Cuid": 214,
+      "Id": 214,
+      "Level": 1,
+      "Name": "Huawei Honor 10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "215": {
+      "Cuid": 215,
+      "Id": 215,
+      "Level": 1,
+      "Name": "HUAWEI COL-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "216": {
+      "Cuid": 216,
+      "Id": 216,
+      "Level": 1,
+      "Name": "HUAWEI COL-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "217": {
+      "Cuid": 217,
+      "Id": 217,
+      "Level": 1,
+      "Name": "HUAWEI COL-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "218": {
+      "Cuid": 218,
+      "Id": 218,
+      "Level": 1,
+      "Name": "HUAWEI COL-TL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "219": {
+      "Cuid": 219,
+      "Id": 219,
+      "Level": 1,
+      "Name": "Xiaomi Mi A3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "220": {
+      "Cuid": 220,
+      "Id": 220,
+      "Level": 1,
+      "Name": "Huawei Honor V8 Max",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "221": {
+      "Cuid": 221,
+      "Id": 221,
+      "Level": 1,
+      "Name": "Samsung Galaxy A9 (2018)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "222": {
+      "Cuid": 222,
+      "Id": 222,
+      "Level": 1,
+      "Name": "Huawei P Smart Z",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "223": {
+      "Cuid": 223,
+      "Id": 223,
+      "Level": 1,
+      "Name": "HUAWEI STK-LX1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "224": {
+      "Cuid": 224,
+      "Id": 224,
+      "Level": 1,
+      "Name": "HUAWEI STK-LX3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "225": {
+      "Cuid": 225,
+      "Id": 225,
+      "Level": 1,
+      "Name": "Huawei Honor 9X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "226": {
+      "Cuid": 226,
+      "Id": 226,
+      "Level": 1,
+      "Name": "Huawei Honor 8X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "227": {
+      "Cuid": 227,
+      "Id": 227,
+      "Level": 1,
+      "Name": "HUAWEI JSN-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "228": {
+      "Cuid": 228,
+      "Id": 228,
+      "Level": 1,
+      "Name": "HUAWEI JSN-AL00a",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "229": {
+      "Cuid": 229,
+      "Id": 229,
+      "Level": 1,
+      "Name": "HUAWEI JSN-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "230": {
+      "Cuid": 230,
+      "Id": 230,
+      "Level": 1,
+      "Name": "HUAWEI JSN-L21",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "231": {
+      "Cuid": 231,
+      "Id": 231,
+      "Level": 1,
+      "Name": "Huawei Honor V8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "232": {
+      "Cuid": 232,
+      "Id": 232,
+      "Level": 1,
+      "Name": "HUAWEI KNT-UL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "233": {
+      "Cuid": 233,
+      "Id": 233,
+      "Level": 1,
+      "Name": "HUAWEI KNT-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "234": {
+      "Cuid": 234,
+      "Id": 234,
+      "Level": 1,
+      "Name": "HUAWEI KNT-TL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "235": {
+      "Cuid": 235,
+      "Id": 235,
+      "Level": 1,
+      "Name": "Oppo F9 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "236": {
+      "Cuid": 236,
+      "Id": 236,
+      "Level": 1,
+      "Name": "Google Pixel 3a XL",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "237": {
+      "Cuid": 237,
+      "Id": 237,
+      "Level": 1,
+      "Name": "Realme 5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "238": {
+      "Cuid": 238,
+      "Id": 238,
+      "Level": 1,
+      "Name": "Huawei Y9 Prime (2019)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "239": {
+      "Cuid": 239,
+      "Id": 239,
+      "Level": 1,
+      "Name": "HUAWEI STK-L21",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "240": {
+      "Cuid": 240,
+      "Id": 240,
+      "Level": 1,
+      "Name": "HUAWEI STK-L22",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "241": {
+      "Cuid": 241,
+      "Id": 241,
+      "Level": 1,
+      "Name": "HUAWEI STK-LX3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "242": {
+      "Cuid": 242,
+      "Id": 242,
+      "Level": 1,
+      "Name": "HUAWEI STK-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "243": {
+      "Cuid": 243,
+      "Id": 243,
+      "Level": 1,
+      "Name": "HUAWEI STK-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "244": {
+      "Cuid": 244,
+      "Id": 244,
+      "Level": 1,
+      "Name": "Huawei Mate 20 lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "245": {
+      "Cuid": 245,
+      "Id": 245,
+      "Level": 1,
+      "Name": "HUAWEI SNE-LX1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "246": {
+      "Cuid": 246,
+      "Id": 246,
+      "Level": 1,
+      "Name": "HUAWEI SNE-LX2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "247": {
+      "Cuid": 247,
+      "Id": 247,
+      "Level": 1,
+      "Name": "HUAWEI SNE-LX3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "248": {
+      "Cuid": 248,
+      "Id": 248,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 8T",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "249": {
+      "Cuid": 249,
+      "Id": 249,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "250": {
+      "Cuid": 250,
+      "Id": 250,
+      "Level": 1,
+      "Name": "Huawei Y9s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "251": {
+      "Cuid": 251,
+      "Id": 251,
+      "Level": 1,
+      "Name": "Google Pixel 3a",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "252": {
+      "Cuid": 252,
+      "Id": 252,
+      "Level": 1,
+      "Name": "Oppo F9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "253": {
+      "Cuid": 253,
+      "Id": 253,
+      "Level": 1,
+      "Name": "Oppo Realme 1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "254": {
+      "Cuid": 254,
+      "Id": 254,
+      "Level": 1,
+      "Name": "Huawei nova 3i",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "255": {
+      "Cuid": 255,
+      "Id": 255,
+      "Level": 1,
+      "Name": "HUAWEI INE-LX1r",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "256": {
+      "Cuid": 256,
+      "Id": 256,
+      "Level": 1,
+      "Name": "HUAWEI INE-LX2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "257": {
+      "Cuid": 257,
+      "Id": 257,
+      "Level": 1,
+      "Name": "HUAWEI INE-LX2r",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "258": {
+      "Cuid": 258,
+      "Id": 258,
+      "Level": 1,
+      "Name": "Huawei Mate 9 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "259": {
+      "Cuid": 259,
+      "Id": 259,
+      "Level": 1,
+      "Name": "HUAWEI LON-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "260": {
+      "Cuid": 260,
+      "Id": 260,
+      "Level": 1,
+      "Name": "HUAWEI LON-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "261": {
+      "Cuid": 261,
+      "Id": 261,
+      "Level": 1,
+      "Name": "HUAWEI LON-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "262": {
+      "Cuid": 262,
+      "Id": 262,
+      "Level": 1,
+      "Name": "Huawei Honor 8X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "263": {
+      "Cuid": 263,
+      "Id": 263,
+      "Level": 1,
+      "Name": "Oppo F7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "264": {
+      "Cuid": 264,
+      "Id": 264,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "265": {
+      "Cuid": 265,
+      "Id": 265,
+      "Level": 1,
+      "Name": "ZTE Nubia Z17S",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "266": {
+      "Cuid": 266,
+      "Id": 266,
+      "Level": 1,
+      "Name": "Motorola One Action",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "267": {
+      "Cuid": 267,
+      "Id": 267,
+      "Level": 1,
+      "Name": "Huawei P30 lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "268": {
+      "Cuid": 268,
+      "Id": 268,
+      "Level": 1,
+      "Name": "HUAWEI MAR-LX1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "269": {
+      "Cuid": 269,
+      "Id": 269,
+      "Level": 1,
+      "Name": "HUAWEI MAR-LX1M",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "270": {
+      "Cuid": 270,
+      "Id": 270,
+      "Level": 1,
+      "Name": "HUAWEI MAR-LX2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "271": {
+      "Cuid": 271,
+      "Id": 271,
+      "Level": 1,
+      "Name": "HUAWEI MAR-LX3A",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "272": {
+      "Cuid": 272,
+      "Id": 272,
+      "Level": 1,
+      "Name": "HUAWEI MAR-LX2J",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "273": {
+      "Cuid": 273,
+      "Id": 273,
+      "Level": 1,
+      "Name": "HUAWEI MAR-L01A",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "274": {
+      "Cuid": 274,
+      "Id": 274,
+      "Level": 1,
+      "Name": "HUAWEI MAR-L21",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "275": {
+      "Cuid": 275,
+      "Id": 275,
+      "Level": 1,
+      "Name": "HUAWEI MAR-L21A",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "276": {
+      "Cuid": 276,
+      "Id": 276,
+      "Level": 1,
+      "Name": "Xiaomi Mi A2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "277": {
+      "Cuid": 277,
+      "Id": 277,
+      "Level": 1,
+      "Name": "Vivo S1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "278": {
+      "Cuid": 278,
+      "Id": 278,
+      "Level": 1,
+      "Name": "Vivo S1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "279": {
+      "Cuid": 279,
+      "Id": 279,
+      "Level": 1,
+      "Name": "Huawei Mate 8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "280": {
+      "Cuid": 280,
+      "Id": 280,
+      "Level": 1,
+      "Name": "HUAWEI NXT-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "281": {
+      "Cuid": 281,
+      "Id": 281,
+      "Level": 1,
+      "Name": "HUAWEI NXT-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "282": {
+      "Cuid": 282,
+      "Id": 282,
+      "Level": 1,
+      "Name": "HUAWEI NXT-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "283": {
+      "Cuid": 283,
+      "Id": 283,
+      "Level": 1,
+      "Name": "HUAWEI NXT-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "284": {
+      "Cuid": 284,
+      "Id": 284,
+      "Level": 1,
+      "Name": "HUAWEI NXT-CL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "285": {
+      "Cuid": 285,
+      "Id": 285,
+      "Level": 1,
+      "Name": "HUAWEI NXT-DL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "286": {
+      "Cuid": 286,
+      "Id": 286,
+      "Level": 1,
+      "Name": "Meizu Pro 7 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "287": {
+      "Cuid": 287,
+      "Id": 287,
+      "Level": 1,
+      "Name": "Asus Zenfone Max Pro (M2)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "288": {
+      "Cuid": 288,
+      "Id": 288,
+      "Level": 1,
+      "Name": "Samsung Galaxy A51",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "289": {
+      "Cuid": 289,
+      "Id": 289,
+      "Level": 1,
+      "Name": "Huawei Honor 8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "290": {
+      "Cuid": 290,
+      "Id": 290,
+      "Level": 1,
+      "Name": "HUAWEI FRD-L02",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "291": {
+      "Cuid": 291,
+      "Id": 291,
+      "Level": 1,
+      "Name": "HUAWEI FRD-L04",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "292": {
+      "Cuid": 292,
+      "Id": 292,
+      "Level": 1,
+      "Name": "Xiaomi Mi Max 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "293": {
+      "Cuid": 293,
+      "Id": 293,
+      "Level": 1,
+      "Name": "Samsung Galaxy M30s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "294": {
+      "Cuid": 294,
+      "Id": 294,
+      "Level": 1,
+      "Name": "Huawei MediaPad M3 8.4",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "295": {
+      "Cuid": 295,
+      "Id": 295,
+      "Level": 1,
+      "Name": "Huawei Honor 10 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "296": {
+      "Cuid": 296,
+      "Id": 296,
+      "Level": 1,
+      "Name": "Huawei P smart 2019",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "297": {
+      "Cuid": 297,
+      "Id": 297,
+      "Level": 1,
+      "Name": "HUAWEI POT-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "298": {
+      "Cuid": 298,
+      "Id": 298,
+      "Level": 1,
+      "Name": "HUAWEI POT-AL00a",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "299": {
+      "Cuid": 299,
+      "Id": 299,
+      "Level": 1,
+      "Name": "HUAWEI POT-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "300": {
+      "Cuid": 300,
+      "Id": 300,
+      "Level": 1,
+      "Name": "HUAWEI POT-TL00a",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "301": {
+      "Cuid": 301,
+      "Id": 301,
+      "Level": 1,
+      "Name": "Nokia 6.1 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "302": {
+      "Cuid": 302,
+      "Id": 302,
+      "Level": 1,
+      "Name": "Asus Zenfone 5 Max",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "303": {
+      "Cuid": 303,
+      "Id": 303,
+      "Level": 1,
+      "Name": "Samsung Galaxy A50",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "304": {
+      "Cuid": 304,
+      "Id": 304,
+      "Level": 1,
+      "Name": "Meizu Pro 7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "305": {
+      "Cuid": 305,
+      "Id": 305,
+      "Level": 1,
+      "Name": "Huawei Y9 (2019)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "306": {
+      "Cuid": 306,
+      "Id": 306,
+      "Level": 1,
+      "Name": "HUAWEI JKM-LX1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "307": {
+      "Cuid": 307,
+      "Id": 307,
+      "Level": 1,
+      "Name": "HUAWEI JKM-LX3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "308": {
+      "Cuid": 308,
+      "Id": 308,
+      "Level": 1,
+      "Name": "HUAWEI JKM-LX2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "309": {
+      "Cuid": 309,
+      "Id": 309,
+      "Level": 1,
+      "Name": "HUAWEI JKM-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "310": {
+      "Cuid": 310,
+      "Id": 310,
+      "Level": 1,
+      "Name": "HUAWEI JKM-AL00a",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "311": {
+      "Cuid": 311,
+      "Id": 311,
+      "Level": 1,
+      "Name": "HUAWEI JKM-AL00b",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "312": {
+      "Cuid": 312,
+      "Id": 312,
+      "Level": 1,
+      "Name": "HUAWEI JKM-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "313": {
+      "Cuid": 313,
+      "Id": 313,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 7S",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "314": {
+      "Cuid": 314,
+      "Id": 314,
+      "Level": 1,
+      "Name": "Motorola Moto G7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "315": {
+      "Cuid": 315,
+      "Id": 315,
+      "Level": 1,
+      "Name": "Samsung Galaxy A50s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "316": {
+      "Cuid": 316,
+      "Id": 316,
+      "Level": 1,
+      "Name": "Samsung Galaxy S7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "317": {
+      "Cuid": 317,
+      "Id": 317,
+      "Level": 1,
+      "Name": "Asus ZenFone Max Pro (M1)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "318": {
+      "Cuid": 318,
+      "Id": 318,
+      "Level": 1,
+      "Name": "Samsung Galaxy S7 edge",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "319": {
+      "Cuid": 319,
+      "Id": 319,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 5 AI",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "320": {
+      "Cuid": 320,
+      "Id": 320,
+      "Level": 1,
+      "Name": "Asus Zenfone Max Pro (M1)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "321": {
+      "Cuid": 321,
+      "Id": 321,
+      "Level": 1,
+      "Name": "Xiaomi Mi A2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "322": {
+      "Cuid": 322,
+      "Id": 322,
+      "Level": 1,
+      "Name": "Realme 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "323": {
+      "Cuid": 323,
+      "Id": 323,
+      "Level": 1,
+      "Name": "Realme 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "324": {
+      "Cuid": 324,
+      "Id": 324,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 5 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "325": {
+      "Cuid": 325,
+      "Id": 325,
+      "Level": 1,
+      "Name": "Xiaomi Redmi Note 6 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "326": {
+      "Cuid": 326,
+      "Id": 326,
+      "Level": 1,
+      "Name": "Huawei P9 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "327": {
+      "Cuid": 327,
+      "Id": 327,
+      "Level": 1,
+      "Name": "HUAWEI VIE-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "328": {
+      "Cuid": 328,
+      "Id": 328,
+      "Level": 1,
+      "Name": "HUAWEI VIE-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "329": {
+      "Cuid": 329,
+      "Id": 329,
+      "Level": 1,
+      "Name": "HUAWEI VIE-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "330": {
+      "Cuid": 330,
+      "Id": 330,
+      "Level": 1,
+      "Name": "Motorola Moto G7 Power",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "331": {
+      "Cuid": 331,
+      "Id": 331,
+      "Level": 1,
+      "Name": "BQ Aquaris X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "332": {
+      "Cuid": 332,
+      "Id": 332,
+      "Level": 1,
+      "Name": "10.or G",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "333": {
+      "Cuid": 333,
+      "Id": 333,
+      "Level": 1,
+      "Name": "Vivo X9 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "334": {
+      "Cuid": 334,
+      "Id": 334,
+      "Level": 1,
+      "Name": "UMi Z Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "335": {
+      "Cuid": 335,
+      "Id": 335,
+      "Level": 1,
+      "Name": "Lenovo Tab3 8 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "336": {
+      "Cuid": 336,
+      "Id": 336,
+      "Level": 1,
+      "Name": "Huawei P9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "337": {
+      "Cuid": 337,
+      "Id": 337,
+      "Level": 1,
+      "Name": "HUAWEI EVA-L09",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "338": {
+      "Cuid": 338,
+      "Id": 338,
+      "Level": 1,
+      "Name": "HUAWEI EVA-L19",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "339": {
+      "Cuid": 339,
+      "Id": 339,
+      "Level": 1,
+      "Name": "HUAWEI EVA-L29",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "340": {
+      "Cuid": 340,
+      "Id": 340,
+      "Level": 1,
+      "Name": "HUAWEI EVA-AL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "341": {
+      "Cuid": 341,
+      "Id": 341,
+      "Level": 1,
+      "Name": "HUAWEI EVA-AL10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "342": {
+      "Cuid": 342,
+      "Id": 342,
+      "Level": 1,
+      "Name": "HUAWEI EVA-DL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "343": {
+      "Cuid": 343,
+      "Id": 343,
+      "Level": 1,
+      "Name": "HUAWEI EVA-TL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "344": {
+      "Cuid": 344,
+      "Id": 344,
+      "Level": 1,
+      "Name": "HUAWEI EVA-CL00",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "345": {
+      "Cuid": 345,
+      "Id": 345,
+      "Level": 1,
+      "Name": "Samsung Galaxy C7 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "346": {
+      "Cuid": 346,
+      "Id": 346,
+      "Level": 1,
+      "Name": "Xiaomi Redmi 7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "347": {
+      "Cuid": 347,
+      "Id": 347,
+      "Level": 1,
+      "Name": "Vivo V9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "348": {
+      "Cuid": 348,
+      "Id": 348,
+      "Level": 1,
+      "Name": "Vivo X9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "349": {
+      "Cuid": 349,
+      "Id": 349,
+      "Level": 1,
+      "Name": "BQ Aquaris X Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "350": {
+      "Cuid": 350,
+      "Id": 350,
+      "Level": 1,
+      "Name": "Xiaomi Redmi S2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "351": {
+      "Cuid": 351,
+      "Id": 351,
+      "Level": 1,
+      "Name": "Asus Zenfone 3 Zoom",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "352": {
+      "Cuid": 352,
+      "Id": 352,
+      "Level": 1,
+      "Name": "Asus Zenfone 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "353": {
+      "Cuid": 353,
+      "Id": 353,
+      "Level": 1,
+      "Name": "Samsung Galaxy C7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "354": {
+      "Cuid": 354,
+      "Id": 354,
+      "Level": 2,
+      "Name": "Xiaomi Mi A1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "355": {
+      "Cuid": 355,
+      "Id": 355,
+      "Level": 2,
+      "Name": "Lenovo P2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "356": {
+      "Cuid": 356,
+      "Id": 356,
+      "Level": 2,
+      "Name": "Oppo R9s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "357": {
+      "Cuid": 357,
+      "Id": 357,
+      "Level": 2,
+      "Name": "Motorola Moto G5S Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "358": {
+      "Cuid": 358,
+      "Id": 358,
+      "Level": 2,
+      "Name": "NVIDIA SHIELD Android TV",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "359": {
+      "Cuid": 359,
+      "Id": 359,
+      "Level": 2,
+      "Name": "Samsung Galaxy A8 (2018)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "360": {
+      "Cuid": 360,
+      "Id": 360,
+      "Level": 2,
+      "Name": "Sharp Aquos S2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "361": {
+      "Cuid": 361,
+      "Id": 361,
+      "Level": 2,
+      "Name": "Xiaomi Redmi 4",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "362": {
+      "Cuid": 362,
+      "Id": 362,
+      "Level": 2,
+      "Name": "Asus Zenfone 4",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "363": {
+      "Cuid": 363,
+      "Id": 363,
+      "Level": 2,
+      "Name": "Meizu M6 Note",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "364": {
+      "Cuid": 364,
+      "Id": 364,
+      "Level": 2,
+      "Name": "UMi Z",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "365": {
+      "Cuid": 365,
+      "Id": 365,
+      "Level": 2,
+      "Name": "Meizu PRO 5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "366": {
+      "Cuid": 366,
+      "Id": 366,
+      "Level": 2,
+      "Name": "Xiaomi Mi Max 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "367": {
+      "Cuid": 367,
+      "Id": 367,
+      "Level": 2,
+      "Name": "Nokia 6.1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "368": {
+      "Cuid": 368,
+      "Id": 368,
+      "Level": 2,
+      "Name": "Motorola Moto X4",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "369": {
+      "Cuid": 369,
+      "Id": 369,
+      "Level": 2,
+      "Name": "Vivo V5 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "370": {
+      "Cuid": 370,
+      "Id": 370,
+      "Level": 2,
+      "Name": "Samsung Galaxy Tab S2 9.7 (2016)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "371": {
+      "Cuid": 371,
+      "Id": 371,
+      "Level": 2,
+      "Name": "Samsung Galaxy S6 Active",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "372": {
+      "Cuid": 372,
+      "Id": 372,
+      "Level": 2,
+      "Name": "Samsung Galaxy A7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "373": {
+      "Cuid": 373,
+      "Id": 373,
+      "Level": 2,
+      "Name": "Qihoo 360 N6 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "374": {
+      "Cuid": 374,
+      "Id": 374,
+      "Level": 2,
+      "Name": "Vernee Mars Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "375": {
+      "Cuid": 375,
+      "Id": 375,
+      "Level": 2,
+      "Name": "Motorola Moto G6 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "376": {
+      "Cuid": 376,
+      "Id": 376,
+      "Level": 2,
+      "Name": "Huawei Nova",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "377": {
+      "Cuid": 377,
+      "Id": 377,
+      "Level": 2,
+      "Name": "Huawei Nova Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "378": {
+      "Cuid": 378,
+      "Id": 378,
+      "Level": 2,
+      "Name": "Samsung Galaxy A8 (2016)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "379": {
+      "Cuid": 379,
+      "Id": 379,
+      "Level": 2,
+      "Name": "Vivo X7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "380": {
+      "Cuid": 380,
+      "Id": 380,
+      "Level": 2,
+      "Name": "Samsung Galaxy A40",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "381": {
+      "Cuid": 381,
+      "Id": 381,
+      "Level": 2,
+      "Name": "Samsung Galaxy A30s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "382": {
+      "Cuid": 382,
+      "Id": 382,
+      "Level": 2,
+      "Name": "Samsung Galaxy M20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "383": {
+      "Cuid": 383,
+      "Id": 383,
+      "Level": 2,
+      "Name": "Samsung Galaxy A8+ (2018)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "384": {
+      "Cuid": 384,
+      "Id": 384,
+      "Level": 2,
+      "Name": "Samsung Galaxy C9 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "385": {
+      "Cuid": 385,
+      "Id": 385,
+      "Level": 2,
+      "Name": "Samsung Galaxy C5 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "386": {
+      "Cuid": 386,
+      "Id": 386,
+      "Level": 2,
+      "Name": "Samsung Galaxy S6 edge+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "387": {
+      "Cuid": 387,
+      "Id": 387,
+      "Level": 2,
+      "Name": "Samsung Galaxy A30",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "388": {
+      "Cuid": 388,
+      "Id": 388,
+      "Level": 2,
+      "Name": "Xiaomi Redmi Note 4X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "389": {
+      "Cuid": 389,
+      "Id": 389,
+      "Level": 2,
+      "Name": "Motorola Moto Z2 Play",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "390": {
+      "Cuid": 390,
+      "Id": 390,
+      "Level": 2,
+      "Name": "Samsung Galaxy A5 (2017)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "391": {
+      "Cuid": 391,
+      "Id": 391,
+      "Level": 2,
+      "Name": "Samsung Galaxy Note 5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "392": {
+      "Cuid": 392,
+      "Id": 392,
+      "Level": 2,
+      "Name": "Lenovo K8 Note",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "393": {
+      "Cuid": 393,
+      "Id": 393,
+      "Level": 2,
+      "Name": "Samsung Galaxy S6 edge",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "394": {
+      "Cuid": 394,
+      "Id": 394,
+      "Level": 2,
+      "Name": "Xiaomi Redmi 4 Prime",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "395": {
+      "Cuid": 395,
+      "Id": 395,
+      "Level": 2,
+      "Name": "Samsung Galaxy Note5 Duos",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "396": {
+      "Cuid": 396,
+      "Id": 396,
+      "Level": 2,
+      "Name": "Samsung Galaxy S6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "397": {
+      "Cuid": 397,
+      "Id": 397,
+      "Level": 2,
+      "Name": "Samsung Galaxy A7 (2017)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "398": {
+      "Cuid": 398,
+      "Id": 398,
+      "Level": 2,
+      "Name": "Google Pixel C",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "399": {
+      "Cuid": 399,
+      "Id": 399,
+      "Level": 2,
+      "Name": "Samsung Galaxy A20s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "400": {
+      "Cuid": 400,
+      "Id": 400,
+      "Level": 2,
+      "Name": "Asus Zenfone 3 Ultra",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "401": {
+      "Cuid": 401,
+      "Id": 401,
+      "Level": 2,
+      "Name": "Huawei Mate SE",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "402": {
+      "Cuid": 402,
+      "Id": 402,
+      "Level": 2,
+      "Name": "Blackview BV8000 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "403": {
+      "Cuid": 403,
+      "Id": 403,
+      "Level": 2,
+      "Name": "Vivo V7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "404": {
+      "Cuid": 404,
+      "Id": 404,
+      "Level": 2,
+      "Name": "Huawei P20 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "405": {
+      "Cuid": 405,
+      "Id": 405,
+      "Level": 2,
+      "Name": "Huawei Honor 7X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "406": {
+      "Cuid": 406,
+      "Id": 406,
+      "Level": 2,
+      "Name": "Doogee S60",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "407": {
+      "Cuid": 407,
+      "Id": 407,
+      "Level": 2,
+      "Name": "Huawei Nova 2 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "408": {
+      "Cuid": 408,
+      "Id": 408,
+      "Level": 2,
+      "Name": "Huawei Nova 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "409": {
+      "Cuid": 409,
+      "Id": 409,
+      "Level": 2,
+      "Name": "Huawei P Smart",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "410": {
+      "Cuid": 410,
+      "Id": 410,
+      "Level": 2,
+      "Name": "Google Pixel XL",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "411": {
+      "Cuid": 411,
+      "Id": 411,
+      "Level": 2,
+      "Name": "Vivo V7+",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "412": {
+      "Cuid": 412,
+      "Id": 412,
+      "Level": 2,
+      "Name": "Lenovo ZUK Edge",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "413": {
+      "Cuid": 413,
+      "Id": 413,
+      "Level": 2,
+      "Name": "Huawei Honor 9 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "414": {
+      "Cuid": 414,
+      "Id": 414,
+      "Level": 2,
+      "Name": "Samsung Galaxy A20e",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "415": {
+      "Cuid": 415,
+      "Id": 415,
+      "Level": 2,
+      "Name": "Samsung Galaxy Tab S2 8.0",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "416": {
+      "Cuid": 416,
+      "Id": 416,
+      "Level": 2,
+      "Name": "Samsung Galaxy Tab S2 8.0",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "417": {
+      "Cuid": 417,
+      "Id": 417,
+      "Level": 2,
+      "Name": "Xiaomi MI 5s",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "418": {
+      "Cuid": 418,
+      "Id": 418,
+      "Level": 2,
+      "Name": "Huawei Mate 10 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "419": {
+      "Cuid": 419,
+      "Id": 419,
+      "Level": 2,
+      "Name": "Google Pixel",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "420": {
+      "Cuid": 420,
+      "Id": 420,
+      "Level": 2,
+      "Name": "Sony Xperia XA1 Ultra",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "421": {
+      "Cuid": 421,
+      "Id": 421,
+      "Level": 2,
+      "Name": "Asus Zenpad Z10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "422": {
+      "Cuid": 422,
+      "Id": 422,
+      "Level": 2,
+      "Name": "Samsung Galaxy A20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "423": {
+      "Cuid": 423,
+      "Id": 423,
+      "Level": 2,
+      "Name": "Lenovo ZUK Z2 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "424": {
+      "Cuid": 424,
+      "Id": 424,
+      "Level": 2,
+      "Name": "Xiaomi Redmi 5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "425": {
+      "Cuid": 425,
+      "Id": 425,
+      "Level": 2,
+      "Name": "Huawei Honor 8 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "426": {
+      "Cuid": 426,
+      "Id": 426,
+      "Level": 2,
+      "Name": "Huawei Nova Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "427": {
+      "Cuid": 427,
+      "Id": 427,
+      "Level": 2,
+      "Name": "Sony Xperia XA1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "428": {
+      "Cuid": 428,
+      "Id": 428,
+      "Level": 2,
+      "Name": "Meizu PRO 6 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "429": {
+      "Cuid": 429,
+      "Id": 429,
+      "Level": 2,
+      "Name": "Huawei P8 lite (2017)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "430": {
+      "Cuid": 430,
+      "Id": 430,
+      "Level": 2,
+      "Name": "Huawei P10 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "431": {
+      "Cuid": 431,
+      "Id": 431,
+      "Level": 2,
+      "Name": "Xiaomi Mi Note 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "432": {
+      "Cuid": 432,
+      "Id": 432,
+      "Level": 2,
+      "Name": "Samsung Galaxy A9 Pro",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "433": {
+      "Cuid": 433,
+      "Id": 433,
+      "Level": 2,
+      "Name": "Xiaomi MI 5s Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "434": {
+      "Cuid": 434,
+      "Id": 434,
+      "Level": 2,
+      "Name": "LeEco Le Pro3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "435": {
+      "Cuid": 435,
+      "Id": 435,
+      "Level": 2,
+      "Name": "Sony Xperia X Compact",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "436": {
+      "Cuid": 436,
+      "Id": 436,
+      "Level": 2,
+      "Name": "Xiaomi Mi Pad 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "437": {
+      "Cuid": 437,
+      "Id": 437,
+      "Level": 2,
+      "Name": "HTC U Ultra",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "438": {
+      "Cuid": 438,
+      "Id": 438,
+      "Level": 2,
+      "Name": "LeEco Le Max 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "439": {
+      "Cuid": 439,
+      "Id": 439,
+      "Level": 2,
+      "Name": "Meizu MX6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "440": {
+      "Cuid": 440,
+      "Id": 440,
+      "Level": 2,
+      "Name": "Vivo Xplay 6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "441": {
+      "Cuid": 441,
+      "Id": 441,
+      "Level": 2,
+      "Name": "ZTE Axon 7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "442": {
+      "Cuid": 442,
+      "Id": 442,
+      "Level": 2,
+      "Name": "Meizu Pro 6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "443": {
+      "Cuid": 443,
+      "Id": 443,
+      "Level": 2,
+      "Name": "Huawei P9 lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "444": {
+      "Cuid": 444,
+      "Id": 444,
+      "Level": 2,
+      "Name": "Xiaomi Mi Mix",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "445": {
+      "Cuid": 445,
+      "Id": 445,
+      "Level": 2,
+      "Name": "Doogee Mix",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "446": {
+      "Cuid": 446,
+      "Id": 446,
+      "Level": 2,
+      "Name": "Samsung Galaxy Tab S3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "447": {
+      "Cuid": 447,
+      "Id": 447,
+      "Level": 2,
+      "Name": "Huawei Honor 6X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "448": {
+      "Cuid": 448,
+      "Id": 448,
+      "Level": 2,
+      "Name": "OnePlus 3T",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "449": {
+      "Cuid": 449,
+      "Id": 449,
+      "Level": 2,
+      "Name": "OnePlus 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "450": {
+      "Cuid": 450,
+      "Id": 450,
+      "Level": 2,
+      "Name": "Lenovo K8 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "451": {
+      "Cuid": 451,
+      "Id": 451,
+      "Level": 2,
+      "Name": "Xiaomi Mi 5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "452": {
+      "Cuid": 452,
+      "Id": 452,
+      "Level": 2,
+      "Name": "Lenovo ZUK Z2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "453": {
+      "Cuid": 453,
+      "Id": 453,
+      "Level": 2,
+      "Name": "Meizu S6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "454": {
+      "Cuid": 454,
+      "Id": 454,
+      "Level": 2,
+      "Name": "Huawei Mate 9 Lite",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "455": {
+      "Cuid": 455,
+      "Id": 455,
+      "Level": 2,
+      "Name": "Huawei Nova 2i",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "456": {
+      "Cuid": 456,
+      "Id": 456,
+      "Level": 2,
+      "Name": "Lenovo Yoga Tab 3 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "457": {
+      "Cuid": 457,
+      "Id": 457,
+      "Level": 2,
+      "Name": "Huawei Honor 5c",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "458": {
+      "Cuid": 458,
+      "Id": 458,
+      "Level": 2,
+      "Name": "HTC 10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "459": {
+      "Cuid": 459,
+      "Id": 459,
+      "Level": 2,
+      "Name": "Xiaomi MI MAX",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "460": {
+      "Cuid": 460,
+      "Id": 460,
+      "Level": 2,
+      "Name": "Motorola Moto Z",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "461": {
+      "Cuid": 461,
+      "Id": 461,
+      "Level": 2,
+      "Name": "Asus Zenpad 3S 10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "462": {
+      "Cuid": 462,
+      "Id": 462,
+      "Level": 2,
+      "Name": "LeEco Le 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "463": {
+      "Cuid": 463,
+      "Id": 463,
+      "Level": 2,
+      "Name": "Sony Xperia X Performance",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "464": {
+      "Cuid": 464,
+      "Id": 464,
+      "Level": 2,
+      "Name": "Sony Xperia XZs",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "465": {
+      "Cuid": 465,
+      "Id": 465,
+      "Level": 2,
+      "Name": "LG G5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "466": {
+      "Cuid": 466,
+      "Id": 466,
+      "Level": 2,
+      "Name": "Samsung Galaxy S7 Active",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "467": {
+      "Cuid": 467,
+      "Id": 467,
+      "Level": 2,
+      "Name": "Bluboo S1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "468": {
+      "Cuid": 468,
+      "Id": 468,
+      "Level": 2,
+      "Name": "Samsung Galaxy S7 edge",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "469": {
+      "Cuid": 469,
+      "Id": 469,
+      "Level": 2,
+      "Name": "Sony Xperia X",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "470": {
+      "Cuid": 470,
+      "Id": 470,
+      "Level": 2,
+      "Name": "Lenovo Yogabook YB1-X90F",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "471": {
+      "Cuid": 471,
+      "Id": 471,
+      "Level": 2,
+      "Name": "Sony Xperia Z4 Tablet (Wi-Fi)",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "472": {
+      "Cuid": 472,
+      "Id": 472,
+      "Level": 2,
+      "Name": "ZTE Nubia Z11",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "473": {
+      "Cuid": 473,
+      "Id": 473,
+      "Level": 2,
+      "Name": "Samsung Galaxy S7",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "474": {
+      "Cuid": 474,
+      "Id": 474,
+      "Level": 2,
+      "Name": "Sony Xperia XZ",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "475": {
+      "Cuid": 475,
+      "Id": 475,
+      "Level": 2,
+      "Name": "Asus Zenpad Z8",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "476": {
+      "Cuid": 476,
+      "Id": 476,
+      "Level": 2,
+      "Name": "Xiaomi Redmi Note 3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "477": {
+      "Cuid": 477,
+      "Id": 477,
+      "Level": 2,
+      "Name": "Motorola Moto X Force",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "478": {
+      "Cuid": 478,
+      "Id": 478,
+      "Level": 2,
+      "Name": "LG G6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "479": {
+      "Cuid": 479,
+      "Id": 479,
+      "Level": 2,
+      "Name": "LeEco Coolpad Cool1 dual",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "480": {
+      "Cuid": 480,
+      "Id": 480,
+      "Level": 2,
+      "Name": "Maze Alpha",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "481": {
+      "Cuid": 481,
+      "Id": 481,
+      "Level": 2,
+      "Name": "Xiaomi Mi 5c",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "482": {
+      "Cuid": 482,
+      "Id": 482,
+      "Level": 2,
+      "Name": "Vernee Mix 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "483": {
+      "Cuid": 483,
+      "Id": 483,
+      "Level": 2,
+      "Name": "ZTE Nubia Z17 Mini",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "484": {
+      "Cuid": 484,
+      "Id": 484,
+      "Level": 2,
+      "Name": "Meizu M5 Note",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "485": {
+      "Cuid": 485,
+      "Id": 485,
+      "Level": 2,
+      "Name": "ZTE Trek 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "486": {
+      "Cuid": 486,
+      "Id": 486,
+      "Level": 2,
+      "Name": "Smartisan M1L",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "487": {
+      "Cuid": 487,
+      "Id": 487,
+      "Level": 2,
+      "Name": "Oppo F3",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "488": {
+      "Cuid": 488,
+      "Id": 488,
+      "Level": 2,
+      "Name": "HTC One A9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "489": {
+      "Cuid": 489,
+      "Id": 489,
+      "Level": 2,
+      "Name": "Motorola Moto G5S",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "490": {
+      "Cuid": 490,
+      "Id": 490,
+      "Level": 2,
+      "Name": "LG V20",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "491": {
+      "Cuid": 491,
+      "Id": 491,
+      "Level": 2,
+      "Name": "LG V10",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "492": {
+      "Cuid": 492,
+      "Id": 492,
+      "Level": 2,
+      "Name": "Motorola Moto X Style",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "493": {
+      "Cuid": 493,
+      "Id": 493,
+      "Level": 2,
+      "Name": "Sony Xperia XA Dual",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "494": {
+      "Cuid": 494,
+      "Id": 494,
+      "Level": 2,
+      "Name": "Sony Xperia XA",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "495": {
+      "Cuid": 495,
+      "Id": 495,
+      "Level": 2,
+      "Name": "Asus Zenfone Max Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "496": {
+      "Cuid": 496,
+      "Id": 496,
+      "Level": 2,
+      "Name": "Vernee Thor",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "497": {
+      "Cuid": 497,
+      "Id": 497,
+      "Level": 2,
+      "Name": "OnePlus 2",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "498": {
+      "Cuid": 498,
+      "Id": 498,
+      "Level": 2,
+      "Name": "ZTE Max XL",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "499": {
+      "Cuid": 499,
+      "Id": 499,
+      "Level": 2,
+      "Name": "Lenovo K6 Note",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "500": {
+      "Cuid": 500,
+      "Id": 500,
+      "Level": 2,
+      "Name": "Sony Xperia Z4",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "501": {
+      "Cuid": 501,
+      "Id": 501,
+      "Level": 2,
+      "Name": "Nokia 6",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "502": {
+      "Cuid": 502,
+      "Id": 502,
+      "Level": 2,
+      "Name": "Wileyfox Swift 2 Plus",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "503": {
+      "Cuid": 503,
+      "Id": 503,
+      "Level": 2,
+      "Name": "Gionee A1",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "504": {
+      "Cuid": 504,
+      "Id": 504,
+      "Level": 2,
+      "Name": "Lenovo K6 Power",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "505": {
+      "Cuid": 505,
+      "Id": 505,
+      "Level": 2,
+      "Name": "Nokia 5",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "506": {
+      "Cuid": 506,
+      "Id": 506,
+      "Level": 2,
+      "Name": "HTC One M9",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "507": {
+      "Cuid": 507,
+      "Id": 507,
+      "Level": 2,
+      "Name": "Sony Xperia Z5 Compact",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "508": {
+      "Cuid": 508,
+      "Id": 508,
+      "Level": 2,
+      "Name": "ZTE Blade Z Max",
+      "Type": 0,
+      "Nazo": 0
+    },
+    "509": {
+      "Cuid": 509,
+      "Id": 509,
+      "Level": 2,
+      "Name": "HTC 10 evo",
+      "Type": 0,
+      "Nazo": 0
     }
   }
 }

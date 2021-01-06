@@ -3,382 +3,344 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Name": "耐久",
       "Score": 0.0602,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_01",
-      "LangStringTable": {
-        "Name": "耐久"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Name": "砲擊",
       "Score": 0.8921,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_09",
-      "LangStringTable": {
-        "Name": "砲擊"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Name": "防空",
       "Score": 0.6335,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_08",
-      "LangStringTable": {
-        "Name": "防空"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Name": "雷擊",
       "Score": 0.9813,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_03",
-      "LangStringTable": {
-        "Name": "雷擊"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
+      "Name": "空襲",
       "Score": 0.8921,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_02",
-      "LangStringTable": {
-        "Name": "空襲"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
+      "Name": "武器效率",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "武器效率"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
+      "Name": "命中",
       "Score": 0.1,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "命中"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
+      "Name": "機動",
       "Score": 0.6989,
       "Attrtype": 0,
       "Icon": "common_1_icon_state_07",
-      "LangStringTable": {
-        "Name": "機動"
-      }
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
+      "Name": "暴擊",
       "Score": 0.274,
       "Attrtype": 0,
       "Icon": "common_1_icon_state_04",
-      "LangStringTable": {
-        "Name": "暴擊"
-      }
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
+      "Name": "韌性",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "韌性"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
+      "Name": "幸運",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "幸運"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
+      "Name": "裝填",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "裝填"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Id": 13,
+      "Name": "鎖敵",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "鎖敵"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Id": 14,
+      "Name": "裝甲類型",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "裝甲類型"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Id": 15,
+      "Name": "額外暴擊率",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "額外暴擊率"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Id": 16,
+      "Name": "額外迴避率",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "額外迴避率"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Id": 17,
+      "Name": "等級",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "等級"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Id": 18,
+      "Name": "經驗",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "經驗"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
       "Id": 19,
+      "Name": "最大經驗",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "最大經驗"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
       "Id": 20,
+      "Name": "砲擊最小傷害",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "砲擊最小傷害"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
       "Id": 21,
+      "Name": "砲擊最大傷害",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "砲擊最大傷害"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
       "Id": 22,
+      "Name": "魚雷武器最小傷害",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "魚雷武器最小傷害"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
       "Id": 23,
+      "Name": "魚雷武器最大傷害",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "魚雷武器最大傷害"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
       "Id": 24,
+      "Name": "運氣",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "運氣"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
       "Id": 25,
+      "Name": "友好度",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "友好度"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
       "Id": 26,
+      "Name": "最小攻擊",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "最小攻擊"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
       "Id": 27,
+      "Name": "最大攻擊",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "最大攻擊"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
       "Id": 28,
+      "Name": "護甲",
       "Score": 0.6335,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_05",
-      "LangStringTable": {
-        "Name": "護甲"
-      }
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
       "Id": 29,
+      "Name": "空襲最小傷害",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "空襲最小傷害"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
       "Id": 30,
+      "Name": "空襲最大傷害",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "空襲最大傷害"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
       "Id": 31,
+      "Name": "傷害加深（A類易傷）",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "傷害加深（A類易傷）"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
       "Id": 32,
+      "Name": "傷害減免（A類減免）",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "傷害減免（A類減免）"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
       "Id": 33,
+      "Name": "暴擊傷害",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "暴擊傷害"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "34": {
       "Cuid": 34,
       "Id": 34,
+      "Name": "航速",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "航速"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "35": {
       "Cuid": 35,
       "Id": 35,
+      "Name": "損管",
       "Score": 0.01,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_06",
-      "LangStringTable": {
-        "Name": "損管"
-      }
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
       "Id": 36,
+      "Name": "火控",
       "Score": 0.1,
       "Attrtype": 1,
       "Icon": "common_1_icon_state_10",
-      "LangStringTable": {
-        "Name": "火控"
-      }
+      "Nazo": 0
     },
     "99": {
       "Cuid": 99,
       "Id": 99,
+      "Name": "劇情特殊1",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "劇情特殊1"
-      }
+      "Icon": "",
+      "Nazo": 0
     },
     "98": {
       "Cuid": 98,
       "Id": 98,
+      "Name": "劇情特殊1",
       "Score": 0.0,
       "Attrtype": 1,
-      "Icon": null,
-      "LangStringTable": {
-        "Name": "劇情特殊1"
-      }
+      "Icon": "",
+      "Nazo": 0
     }
   }
 }

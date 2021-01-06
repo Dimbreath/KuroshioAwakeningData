@@ -3,6 +3,7 @@
     "10020": {
       "Cuid": 10020,
       "Dollid": 10020,
+      "Name": "翔鶴",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -12,17 +13,16 @@
       "Ghostid": 10021,
       "Frontghost": "7101",
       "Afterghost": "7001",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 10022,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "翔鶴"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10030": {
       "Cuid": 10030,
       "Dollid": 10030,
+      "Name": "瑞鶴",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -32,17 +32,16 @@
       "Ghostid": 10031,
       "Frontghost": "7102",
       "Afterghost": "7002",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 10032,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "瑞鶴"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10050": {
       "Cuid": 10050,
       "Dollid": 10050,
+      "Name": "胡蜂",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -52,17 +51,16 @@
       "Ghostid": 10051,
       "Frontghost": "7103",
       "Afterghost": "7003",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 10052,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "胡蜂"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10080": {
       "Cuid": 10080,
       "Dollid": 10080,
+      "Name": "蘭利",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -72,17 +70,16 @@
       "Ghostid": 10081,
       "Frontghost": "7104",
       "Afterghost": "7004",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "蘭利"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10100": {
       "Cuid": 10100,
       "Dollid": 10100,
+      "Name": "企業",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -92,17 +89,16 @@
       "Ghostid": 10101,
       "Frontghost": "7105",
       "Afterghost": "7005",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "企業"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10110": {
       "Cuid": 10110,
       "Dollid": 10110,
+      "Name": "好人理查",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -112,17 +108,16 @@
       "Ghostid": 10111,
       "Frontghost": "7106",
       "Afterghost": "7006",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "好人理查"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10120": {
       "Cuid": 10120,
       "Dollid": 10120,
+      "Name": "獨角獸",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -132,17 +127,16 @@
       "Ghostid": 10121,
       "Frontghost": "7107",
       "Afterghost": "7007",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 10122,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "獨角獸"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10150": {
       "Cuid": 10150,
       "Dollid": 10150,
+      "Name": "艾塞克斯",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -152,17 +146,16 @@
       "Ghostid": 10151,
       "Frontghost": "7108",
       "Afterghost": "7008",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 20012,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "艾塞克斯"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10180": {
       "Cuid": 10180,
       "Dollid": 10180,
+      "Name": "大黃蜂",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -172,17 +165,16 @@
       "Ghostid": 10181,
       "Frontghost": "7109",
       "Afterghost": "7009",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "大黃蜂"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10240": {
       "Cuid": 10240,
       "Dollid": 10240,
+      "Name": "皇家方舟",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -192,17 +184,35 @@
       "Ghostid": 10241,
       "Frontghost": "7110",
       "Afterghost": "7010",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "皇家方舟"
-      }
+      "Awakewords": "",
+      "Nazo": 0
+    },
+    "10290": {
+      "Cuid": 10290,
+      "Dollid": 10290,
+      "Name": "薩拉托加",
+      "Arousecondition": "1;2",
+      "Arouseconditionvalue": "1;0",
+      "Precondi": [
+        "10301,1"
+      ],
+      "Ghostitem": "1,144009,100;1,145101,200",
+      "Ghostid": 10291,
+      "Frontghost": "7187",
+      "Afterghost": "7087",
+      "Ghostwords": "",
+      "Awakeitem": "",
+      "Awakeid": 0,
+      "Awakewords": "",
+      "Nazo": 0
     },
     "20010": {
       "Cuid": 20010,
       "Dollid": 20010,
+      "Name": "飛鷹",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -212,17 +222,16 @@
       "Ghostid": 20011,
       "Frontghost": "7111",
       "Afterghost": "7011",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "飛鷹"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "20020": {
       "Cuid": 20020,
       "Dollid": 20020,
+      "Name": "競技神",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -232,17 +241,16 @@
       "Ghostid": 20021,
       "Frontghost": "7112",
       "Afterghost": "7012",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 20022,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "競技神"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "20030": {
       "Cuid": 20030,
       "Dollid": 20030,
+      "Name": "千歲",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -252,17 +260,16 @@
       "Ghostid": 20031,
       "Frontghost": "7113",
       "Afterghost": "7013",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "千歲"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30010": {
       "Cuid": 30010,
       "Dollid": 30010,
+      "Name": "亞特蘭大",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -272,17 +279,16 @@
       "Ghostid": 30011,
       "Frontghost": "7114",
       "Afterghost": "7014",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "亞特蘭大"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30020": {
       "Cuid": 30020,
       "Dollid": 30020,
+      "Name": "利安德",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -292,17 +298,16 @@
       "Ghostid": 30021,
       "Frontghost": "7115",
       "Afterghost": "7015",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "利安德"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30040": {
       "Cuid": 30040,
       "Dollid": 30040,
+      "Name": "克里夫蘭",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -312,17 +317,16 @@
       "Ghostid": 30041,
       "Frontghost": "7116",
       "Afterghost": "7016",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "克里夫蘭"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30050": {
       "Cuid": 30050,
       "Dollid": 30050,
+      "Name": "川內",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -332,17 +336,16 @@
       "Ghostid": 30051,
       "Frontghost": "7117",
       "Afterghost": "7017",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "川內"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30100": {
       "Cuid": 30100,
       "Dollid": 30100,
+      "Name": "萊比錫",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -352,17 +355,16 @@
       "Ghostid": 30101,
       "Frontghost": "7118",
       "Afterghost": "7018",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "萊比錫"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30130": {
       "Cuid": 30130,
       "Dollid": 30130,
+      "Name": "海王星",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -372,17 +374,16 @@
       "Ghostid": 30131,
       "Frontghost": "7119",
       "Afterghost": "7019",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "海王星"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30140": {
       "Cuid": 30140,
       "Dollid": 30140,
+      "Name": "弗林特",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -392,17 +393,16 @@
       "Ghostid": 30141,
       "Frontghost": "7120",
       "Afterghost": "7020",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "弗林特"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30150": {
       "Cuid": 30150,
       "Dollid": 30150,
+      "Name": "柯尼斯堡",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -412,17 +412,16 @@
       "Ghostid": 30151,
       "Frontghost": "7121",
       "Afterghost": "7021",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "柯尼斯堡"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30160": {
       "Cuid": 30160,
       "Dollid": 30160,
+      "Name": "愛丁堡",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -432,17 +431,16 @@
       "Ghostid": 30161,
       "Frontghost": "7122",
       "Afterghost": "7022",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 30172,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "愛丁堡"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30170": {
       "Cuid": 30170,
       "Dollid": 30170,
+      "Name": "夕張",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -452,17 +450,16 @@
       "Ghostid": 30171,
       "Frontghost": "7123",
       "Afterghost": "7023",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "夕張"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30180": {
       "Cuid": 30180,
       "Dollid": 30180,
+      "Name": "海倫娜",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -472,17 +469,16 @@
       "Ghostid": 30181,
       "Frontghost": "7124",
       "Afterghost": "7024",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40022,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "海倫娜"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30190": {
       "Cuid": 30190,
       "Dollid": 30190,
+      "Name": "朱諾",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -492,17 +488,16 @@
       "Ghostid": 30191,
       "Frontghost": "7125",
       "Afterghost": "7025",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "朱諾"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "30330": {
       "Cuid": 30330,
       "Dollid": 30330,
+      "Name": "哥倫比亞",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -512,17 +507,16 @@
       "Ghostid": 30331,
       "Frontghost": "7126",
       "Afterghost": "7026",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "哥倫比亞"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40020": {
       "Cuid": 40020,
       "Dollid": 40020,
+      "Name": "妙高",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -532,17 +526,16 @@
       "Ghostid": 40021,
       "Frontghost": "7127",
       "Afterghost": "7027",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40032,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "妙高"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40030": {
       "Cuid": 40030,
       "Dollid": 40030,
+      "Name": "那智",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -552,17 +545,16 @@
       "Ghostid": 40031,
       "Frontghost": "7128",
       "Afterghost": "7028",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40052,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "那智"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40050": {
       "Cuid": 40050,
       "Dollid": 40050,
+      "Name": "羽黑",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -572,17 +564,16 @@
       "Ghostid": 40051,
       "Frontghost": "7129",
       "Afterghost": "7029",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40062,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "羽黑"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40060": {
       "Cuid": 40060,
       "Dollid": 40060,
+      "Name": "足柄",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -592,17 +583,16 @@
       "Ghostid": 40061,
       "Frontghost": "7130",
       "Afterghost": "7030",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40072,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "足柄"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40070": {
       "Cuid": 40070,
       "Dollid": 40070,
+      "Name": "希佩爾",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -612,17 +602,16 @@
       "Ghostid": 40071,
       "Frontghost": "7131",
       "Afterghost": "7031",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40102,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "希佩爾"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40090": {
       "Cuid": 40090,
       "Dollid": 40090,
+      "Name": "塞德利茨",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -632,17 +621,16 @@
       "Ghostid": 40091,
       "Frontghost": "7132",
       "Afterghost": "7032",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "塞德利茨"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40100": {
       "Cuid": 40100,
       "Dollid": 40100,
+      "Name": "呂佐夫",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -652,17 +640,16 @@
       "Ghostid": 40101,
       "Frontghost": "7133",
       "Afterghost": "7033",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40132,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "呂佐夫"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40130": {
       "Cuid": 40130,
       "Dollid": 40130,
+      "Name": "彭薩科拉",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -672,17 +659,16 @@
       "Ghostid": 40131,
       "Frontghost": "7134",
       "Afterghost": "7034",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40202,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "彭薩科拉"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40150": {
       "Cuid": 40150,
       "Dollid": 40150,
+      "Name": "北安普頓",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -692,17 +678,16 @@
       "Ghostid": 40151,
       "Frontghost": "7135",
       "Afterghost": "7035",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "北安普頓"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40160": {
       "Cuid": 40160,
       "Dollid": 40160,
+      "Name": "最上",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -712,17 +697,16 @@
       "Ghostid": 40161,
       "Frontghost": "7136",
       "Afterghost": "7036",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "最上"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40200": {
       "Cuid": 40200,
       "Dollid": 40200,
+      "Name": "高雄",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -732,17 +716,16 @@
       "Ghostid": 40201,
       "Frontghost": "7137",
       "Afterghost": "7037",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 40212,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "高雄"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40210": {
       "Cuid": 40210,
       "Dollid": 40210,
+      "Name": "愛宕",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -752,17 +735,16 @@
       "Ghostid": 40211,
       "Frontghost": "7138",
       "Afterghost": "7038",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50032,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "愛宕"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "40300": {
       "Cuid": 40300,
       "Dollid": 40300,
+      "Name": "諾福克",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -772,17 +754,35 @@
       "Ghostid": 40301,
       "Frontghost": "7139",
       "Afterghost": "7039",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "諾福克"
-      }
+      "Awakewords": "",
+      "Nazo": 0
+    },
+    "50020": {
+      "Cuid": 50020,
+      "Dollid": 50020,
+      "Name": "曉",
+      "Arousecondition": "1;2",
+      "Arouseconditionvalue": "1;0",
+      "Precondi": [
+        "10301,1"
+      ],
+      "Ghostitem": "1,144008,100;1,145501,200",
+      "Ghostid": 50021,
+      "Frontghost": "7185",
+      "Afterghost": "7085",
+      "Ghostwords": "",
+      "Awakeitem": "",
+      "Awakeid": 0,
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50030": {
       "Cuid": 50030,
       "Dollid": 50030,
+      "Name": "朱比特",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -792,17 +792,16 @@
       "Ghostid": 50031,
       "Frontghost": "7140",
       "Afterghost": "7040",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50062,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "朱比特"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50060": {
       "Cuid": 50060,
       "Dollid": 50060,
+      "Name": "陽炎",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -812,17 +811,16 @@
       "Ghostid": 50061,
       "Frontghost": "7141",
       "Afterghost": "7041",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50082,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "陽炎"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50080": {
       "Cuid": 50080,
       "Dollid": 50080,
+      "Name": "不知火",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -832,17 +830,16 @@
       "Ghostid": 50081,
       "Frontghost": "7142",
       "Afterghost": "7042",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50122,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "不知火"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50100": {
       "Cuid": 50100,
       "Dollid": 50100,
+      "Name": "小獵犬",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -852,17 +849,35 @@
       "Ghostid": 50101,
       "Frontghost": "7143",
       "Afterghost": "7043",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "小獵犬"
-      }
+      "Awakewords": "",
+      "Nazo": 0
+    },
+    "50110": {
+      "Cuid": 50110,
+      "Dollid": 50110,
+      "Name": "戰斧",
+      "Arousecondition": "1;2",
+      "Arouseconditionvalue": "1;0",
+      "Precondi": [
+        "10301,1"
+      ],
+      "Ghostitem": "1,144010,100;1,145501,200",
+      "Ghostid": 50111,
+      "Frontghost": "7188",
+      "Afterghost": "7088",
+      "Ghostwords": "",
+      "Awakeitem": "",
+      "Awakeid": 0,
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50120": {
       "Cuid": 50120,
       "Dollid": 50120,
+      "Name": "卡辛",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -872,17 +887,35 @@
       "Ghostid": 50121,
       "Frontghost": "7144",
       "Afterghost": "7044",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50192,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "卡辛"
-      }
+      "Awakewords": "",
+      "Nazo": 0
+    },
+    "50140": {
+      "Cuid": 50140,
+      "Dollid": 50140,
+      "Name": "響",
+      "Arousecondition": "1;2",
+      "Arouseconditionvalue": "1;0",
+      "Precondi": [
+        "10301,1"
+      ],
+      "Ghostitem": "1,144008,100;1,145501,200",
+      "Ghostid": 50141,
+      "Frontghost": "7186",
+      "Afterghost": "7086",
+      "Ghostwords": "",
+      "Awakeitem": "",
+      "Awakeid": 0,
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50150": {
       "Cuid": 50150,
       "Dollid": 50150,
+      "Name": "白露",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -892,17 +925,16 @@
       "Ghostid": 50151,
       "Frontghost": "7145",
       "Afterghost": "7045",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "白露"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50190": {
       "Cuid": 50190,
       "Dollid": 50190,
+      "Name": "小天鵝",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -912,17 +944,16 @@
       "Ghostid": 50191,
       "Frontghost": "7146",
       "Afterghost": "7046",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50252,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "小天鵝"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50210": {
       "Cuid": 50210,
       "Dollid": 50210,
+      "Name": "戴爾",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -932,17 +963,16 @@
       "Ghostid": 50211,
       "Frontghost": "7147",
       "Afterghost": "7047",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "戴爾"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50220": {
       "Cuid": 50220,
       "Dollid": 50220,
+      "Name": "康納",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -952,17 +982,16 @@
       "Ghostid": 50221,
       "Frontghost": "7148",
       "Afterghost": "7048",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "康納"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50250": {
       "Cuid": 50250,
       "Dollid": 50250,
+      "Name": "吸血鬼",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -972,17 +1001,16 @@
       "Ghostid": 50251,
       "Frontghost": "7149",
       "Afterghost": "7049",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50262,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "吸血鬼"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50260": {
       "Cuid": 50260,
       "Dollid": 50260,
+      "Name": "螢火蟲",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -992,17 +1020,16 @@
       "Ghostid": 50261,
       "Frontghost": "7150",
       "Afterghost": "7050",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50292,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "螢火蟲"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50290": {
       "Cuid": 50290,
       "Dollid": 50290,
+      "Name": "早霜",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1012,17 +1039,16 @@
       "Ghostid": 50291,
       "Frontghost": "7151",
       "Afterghost": "7051",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50312,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "早霜"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50310": {
       "Cuid": 50310,
       "Dollid": 50310,
+      "Name": "萩風",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1032,17 +1058,16 @@
       "Ghostid": 50311,
       "Frontghost": "7152",
       "Afterghost": "7052",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50322,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "萩風"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50320": {
       "Cuid": 50320,
       "Dollid": 50320,
+      "Name": "黃泉",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1052,17 +1077,16 @@
       "Ghostid": 50321,
       "Frontghost": "7153",
       "Afterghost": "7053",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50332,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "黃泉"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50330": {
       "Cuid": 50330,
       "Dollid": 50330,
+      "Name": "Z26",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1072,17 +1096,16 @@
       "Ghostid": 50331,
       "Frontghost": "7154",
       "Afterghost": "7054",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 50342,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "Z26"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50340": {
       "Cuid": 50340,
       "Dollid": 50340,
+      "Name": "夕立",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1092,17 +1115,16 @@
       "Ghostid": 50341,
       "Frontghost": "7155",
       "Afterghost": "7055",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 60052,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "夕立"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50430": {
       "Cuid": 50430,
       "Dollid": 50430,
+      "Name": "親潮",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1112,17 +1134,16 @@
       "Ghostid": 50431,
       "Frontghost": "7156",
       "Afterghost": "7056",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "親潮"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50470": {
       "Cuid": 50470,
       "Dollid": 50470,
+      "Name": "弗萊徹",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1132,17 +1153,16 @@
       "Ghostid": 50471,
       "Frontghost": "7157",
       "Afterghost": "7057",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "弗萊徹"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50490": {
       "Cuid": 50490,
       "Dollid": 50490,
+      "Name": "Z1",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1152,17 +1172,16 @@
       "Ghostid": 50491,
       "Frontghost": "7158",
       "Afterghost": "7058",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "Z1"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50510": {
       "Cuid": 50510,
       "Dollid": 50510,
+      "Name": "Z3",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1172,17 +1191,16 @@
       "Ghostid": 50511,
       "Frontghost": "7159",
       "Afterghost": "7059",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "Z3"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60050": {
       "Cuid": 60050,
       "Dollid": 60050,
+      "Name": "胡德",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1192,17 +1210,35 @@
       "Ghostid": 60051,
       "Frontghost": "7160",
       "Afterghost": "7060",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 60082,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "胡德"
-      }
+      "Awakewords": "",
+      "Nazo": 0
+    },
+    "60060": {
+      "Cuid": 60060,
+      "Dollid": 60060,
+      "Name": "紐約",
+      "Arousecondition": "1;2",
+      "Arouseconditionvalue": "1;0",
+      "Precondi": [
+        "10301,1"
+      ],
+      "Ghostitem": "1,142009,100;1,145601,50",
+      "Ghostid": 60061,
+      "Frontghost": "7189",
+      "Afterghost": "7089",
+      "Ghostwords": "",
+      "Awakeitem": "",
+      "Awakeid": 0,
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60070": {
       "Cuid": 60070,
       "Dollid": 60070,
+      "Name": "沙恩霍斯特",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1212,17 +1248,16 @@
       "Ghostid": 60071,
       "Frontghost": "7161",
       "Afterghost": "7061",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "沙恩霍斯特"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60080": {
       "Cuid": 60080,
       "Dollid": 60080,
+      "Name": "扶桑",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1232,17 +1267,16 @@
       "Ghostid": 60081,
       "Frontghost": "7162",
       "Afterghost": "7062",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 60092,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "扶桑"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60090": {
       "Cuid": 60090,
       "Dollid": 60090,
+      "Name": "山城",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1252,17 +1286,16 @@
       "Ghostid": 60091,
       "Frontghost": "7163",
       "Afterghost": "7063",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 60082,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "山城"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60120": {
       "Cuid": 60120,
       "Dollid": 60120,
+      "Name": "威爾士親王",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1272,17 +1305,16 @@
       "Ghostid": 60121,
       "Frontghost": "7164",
       "Afterghost": "7064",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "威爾士親王"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60140": {
       "Cuid": 60140,
       "Dollid": 60140,
+      "Name": "南達科他",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1292,17 +1324,16 @@
       "Ghostid": 60141,
       "Frontghost": "7173",
       "Afterghost": "7073",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "南達科他"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60160": {
       "Cuid": 60160,
       "Dollid": 60160,
+      "Name": "納爾遜",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1312,17 +1343,16 @@
       "Ghostid": 60161,
       "Frontghost": "7165",
       "Afterghost": "7065",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "納爾遜"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60170": {
       "Cuid": 60170,
       "Dollid": 60170,
+      "Name": "賓夕法尼亞",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1332,17 +1362,16 @@
       "Ghostid": 60171,
       "Frontghost": "7166",
       "Afterghost": "7066",
-      "Ghostwords": null,
+      "Ghostwords": "",
       "Awakeitem": "1,120004,10;1,120002,10",
       "Awakeid": 60092,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "賓夕法尼亞"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60210": {
       "Cuid": 60210,
       "Dollid": 60210,
+      "Name": "北卡羅萊納",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1352,17 +1381,16 @@
       "Ghostid": 60211,
       "Frontghost": "7167",
       "Afterghost": "7067",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "北卡羅萊納"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60250": {
       "Cuid": 60250,
       "Dollid": 60250,
+      "Name": "金剛",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1372,17 +1400,16 @@
       "Ghostid": 60251,
       "Frontghost": "7168",
       "Afterghost": "7068",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "金剛"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60310": {
       "Cuid": 60310,
       "Dollid": 60310,
+      "Name": "英王喬治五世",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1392,17 +1419,16 @@
       "Ghostid": 60311,
       "Frontghost": "7169",
       "Afterghost": "7069",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "英王喬治五世"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60340": {
       "Cuid": 60340,
       "Dollid": 60340,
+      "Name": "懷俄明",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1412,17 +1438,16 @@
       "Ghostid": 60341,
       "Frontghost": "7170",
       "Afterghost": "7070",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "懷俄明"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10160": {
       "Cuid": 10160,
       "Dollid": 10160,
+      "Name": "約克鎮",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1432,17 +1457,16 @@
       "Ghostid": 10161,
       "Frontghost": "7171",
       "Afterghost": "7071",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "約克鎮"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "20090": {
       "Cuid": 20090,
       "Dollid": 20090,
+      "Name": "千代田",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1452,17 +1476,16 @@
       "Ghostid": 20091,
       "Frontghost": "7172",
       "Afterghost": "7072",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "千代田"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "10010": {
       "Cuid": 10010,
       "Dollid": 10010,
+      "Name": "中途島",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1472,17 +1495,16 @@
       "Ghostid": 10011,
       "Frontghost": "7175",
       "Afterghost": "7075",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "中途島"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50090": {
       "Cuid": 50090,
       "Dollid": 50090,
+      "Name": "馬漢",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1492,17 +1514,16 @@
       "Ghostid": 50091,
       "Frontghost": "7176",
       "Afterghost": "7076",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "馬漢"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     },
     "50400": {
       "Cuid": 50400,
       "Dollid": 50400,
+      "Name": "唐斯",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1512,17 +1533,35 @@
       "Ghostid": 50401,
       "Frontghost": "7177",
       "Afterghost": "7077",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "唐斯"
-      }
+      "Awakewords": "",
+      "Nazo": 0
+    },
+    "50420": {
+      "Cuid": 50420,
+      "Dollid": 50420,
+      "Name": "標槍",
+      "Arousecondition": "1;2",
+      "Arouseconditionvalue": "1;0",
+      "Precondi": [
+        "10301,1"
+      ],
+      "Ghostitem": "1,142010,100;1,145501,50",
+      "Ghostid": 50421,
+      "Frontghost": "7184",
+      "Afterghost": "7084",
+      "Ghostwords": "",
+      "Awakeitem": "",
+      "Awakeid": 0,
+      "Awakewords": "",
+      "Nazo": 0
     },
     "60380": {
       "Cuid": 60380,
       "Dollid": 60380,
+      "Name": "科羅拉多",
       "Arousecondition": "1;2",
       "Arouseconditionvalue": "1;0",
       "Precondi": [
@@ -1532,13 +1571,11 @@
       "Ghostid": 60381,
       "Frontghost": "7178",
       "Afterghost": "7078",
-      "Ghostwords": null,
-      "Awakeitem": null,
+      "Ghostwords": "",
+      "Awakeitem": "",
       "Awakeid": 0,
-      "Awakewords": null,
-      "LangStringTable": {
-        "Name": "科羅拉多"
-      }
+      "Awakewords": "",
+      "Nazo": 0
     }
   }
 }

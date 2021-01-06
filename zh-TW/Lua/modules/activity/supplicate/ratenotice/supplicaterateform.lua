@@ -4,7 +4,8 @@ local SupplicateRateItem  = require"Modules/Activity/Supplicate/RateNotice/Suppl
 
 local DarkBoomUtility = DarkBoomUtility
 function SupplicateRateForm:LUA_OnInit(gameObject,userParamData)
-	self.super:LUA_OnInit(gameObject,userParamData)
+	self.injections = ParseInjections(gameObject)
+    self.uguiForm   = gameObject:GetComponent(typeof(CS.DarkBoom.LuaUGUIForm))
 	self:InjectComponent()
     self:Init()
 end
@@ -29,7 +30,7 @@ function SupplicateRateForm:LUA_OnOpen(userData)
 		table.insert( self.configs[itemType],config)
 	end
 
-	local mask = self:GetMask()
+	local mask = self.uguiForm:GetMask()
 
 	for i,v in ipairs(self.configs) do
 		for _,k in ipairs(v) do
@@ -57,6 +58,8 @@ function SupplicateRateForm:LUA_OnClose()
 	self:RemoveListeners()
 	self.configs = {}
 	self.configs = nil
+	self.injections = {}
+	self.injections = nil
 	DarkBoomUtility.RegainBlur(self.uguiForm.UIForm);
 end
 
@@ -76,7 +79,7 @@ function SupplicateRateForm:RemoveListeners()
 end
 
 function SupplicateRateForm:OnCloseButtonClick()
-	self:OnClose()
+	self:OnClose(self.uguiForm)
 end
 
 return SupplicateRateForm

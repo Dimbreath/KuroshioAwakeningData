@@ -7,7 +7,8 @@
       "IatticeX": 1,
       "IatticeY": 1,
       "IatticeRandom": 0,
-      "Coinexchangeid": 999801
+      "Coinexchangeid": 999801,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -16,7 +17,8 @@
       "IatticeX": 1,
       "IatticeY": 5,
       "IatticeRandom": 0,
-      "Coinexchangeid": 999802
+      "Coinexchangeid": 999802,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -25,7 +27,8 @@
       "IatticeX": 5,
       "IatticeY": 1,
       "IatticeRandom": 0,
-      "Coinexchangeid": 999803
+      "Coinexchangeid": 999803,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
@@ -33,8 +36,9 @@
       "Iatticetype": 1,
       "IatticeX": 3,
       "IatticeY": 3,
-      "IatticeRandom": 0,
-      "Coinexchangeid": 999804
+      "IatticeRandom": 4,
+      "Coinexchangeid": 999806,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
@@ -43,7 +47,8 @@
       "IatticeX": 3,
       "IatticeY": 3,
       "IatticeRandom": 0,
-      "Coinexchangeid": 999805
+      "Coinexchangeid": 999805,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
@@ -51,8 +56,9 @@
       "Iatticetype": 1,
       "IatticeX": 3,
       "IatticeY": 3,
-      "IatticeRandom": 4,
-      "Coinexchangeid": 999806
+      "IatticeRandom": 0,
+      "Coinexchangeid": 999804,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
@@ -61,7 +67,8 @@
       "IatticeX": 5,
       "IatticeY": 5,
       "IatticeRandom": 0,
-      "Coinexchangeid": 999807
+      "Coinexchangeid": 999807,
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
@@ -70,7 +77,8 @@
       "IatticeX": 5,
       "IatticeY": 5,
       "IatticeRandom": 0,
-      "Coinexchangeid": 999808
+      "Coinexchangeid": 999808,
+      "Nazo": 0
     }
   }
 }

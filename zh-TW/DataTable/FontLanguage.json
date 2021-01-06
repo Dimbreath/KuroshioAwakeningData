@@ -3,42 +3,38 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Language": "简体中文",
       "Desc": "Cn",
       "Path": "Cn/Fonts/ZhangHaishanAnatase;Cn/Fonts/LantingblackGBK",
       "Sdfpath": "Cn/Fonts/LantingblackGBK_SDF",
-      "LangStringTable": {
-        "Language": "简体中文"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Language": "繁體中文",
       "Desc": "Tw",
       "Path": "Tw/Fonts/MStiffHei_HK_Medium;Cn/Fonts/LantingblackGBK",
       "Sdfpath": "Cn/Fonts/LantingblackGBK_SDF",
-      "LangStringTable": {
-        "Language": "繁體中文"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Language": "English",
       "Desc": "En",
       "Path": "Cn/Fonts/ZhangHaishanAnatase;Cn/Fonts/LantingblackGBK",
-      "Sdfpath": null,
-      "LangStringTable": {
-        "Language": "English"
-      }
+      "Sdfpath": "",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Language": "日本語",
       "Desc": "JP",
-      "Path": null,
-      "Sdfpath": null,
-      "LangStringTable": {
-        "Language": "日本語"
-      }
+      "Path": "",
+      "Sdfpath": "",
+      "Nazo": 0
     }
   }
 }

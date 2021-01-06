@@ -3,110 +3,101 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Name": "巡航",
       "Pushtype": 1,
+      "Title": "人偶巡航已完成",
+      "Content": "親愛的指揮官，巡航任務完成，人偶們已經回歸！",
       "Days": 0,
       "Control": 1,
-      "LangStringTable": {
-        "Name": "巡航",
-        "Title": "人偶巡航已完成",
-        "Content": "親愛的指揮官，巡航任務完成，人偶們已經回歸！"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Name": "人偶培養",
       "Pushtype": 1,
+      "Title": "人偶培養已完成",
+      "Content": "親愛的指揮官，人偶培養已完成，請前往黑潮基地驗收。",
       "Days": 0,
       "Control": 1,
-      "LangStringTable": {
-        "Name": "人偶培養",
-        "Title": "人偶培養已完成",
-        "Content": "親愛的指揮官，人偶培養已完成，請前往黑潮基地驗收。"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Name": "裝備培養",
       "Pushtype": 1,
+      "Title": "裝備製造已完成",
+      "Content": "親愛的指揮官，裝備已製作完成，請前往黑潮基地驗收。",
       "Days": 0,
       "Control": 1,
-      "LangStringTable": {
-        "Name": "裝備培養",
-        "Title": "裝備製造已完成",
-        "Content": "親愛的指揮官，裝備已製作完成，請前往黑潮基地驗收。"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Name": "7日登入提醒",
       "Pushtype": 2,
+      "Title": "指揮官，我們需要你",
+      "Content": "親愛的指揮官，你已經7天沒有回歸黑潮基地了,人偶們都非常想念你。",
       "Days": 7,
       "Control": 1,
-      "LangStringTable": {
-        "Name": "7日登入提醒",
-        "Title": "指揮官，我們需要你",
-        "Content": "親愛的指揮官，你已經7天沒有回歸黑潮基地了,人偶們都非常想念你。"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
+      "Name": "15日登入提醒",
       "Pushtype": 2,
+      "Title": "指揮官，我們需要你",
+      "Content": "親愛的指揮官，你已經15天沒有回歸黑潮基地了,人偶們都非常想念你。",
       "Days": 15,
       "Control": 1,
-      "LangStringTable": {
-        "Name": "15日登入提醒",
-        "Title": "指揮官，我們需要你",
-        "Content": "親愛的指揮官，你已經15天沒有回歸黑潮基地了,人偶們都非常想念你。"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
+      "Name": "海域開採",
       "Pushtype": 1,
+      "Title": "海域開採資源已滿",
+      "Content": "親愛的指揮官，海域開採的資源已經收集滿了，請盡快領取!",
       "Days": 0,
       "Control": 1,
-      "LangStringTable": {
-        "Name": "海域開採",
-        "Title": "海域開採資源已滿",
-        "Content": "親愛的指揮官，海域開採的資源已經收集滿了，請盡快領取!"
-      }
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
+      "Name": "利維坦深淵",
       "Pushtype": 1,
+      "Title": "利維坦深淵可以挑戰了！",
+      "Content": "親愛的指揮官，利維坦深淵可以再次挑戰了!",
       "Days": 0,
       "Control": 1,
-      "LangStringTable": {
-        "Name": "利維坦深淵",
-        "Title": "利維坦深淵可以挑戰了！",
-        "Content": "親愛的指揮官，利維坦深淵可以再次挑戰了!"
-      }
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
+      "Name": "時段登入",
       "Pushtype": 1,
+      "Title": "記得上線領能源",
+      "Content": "現在登入可以領取能源哦",
       "Days": 0,
       "Control": 0,
-      "LangStringTable": {
-        "Name": "時段登入",
-        "Title": "記得上線領能源",
-        "Content": "現在登入可以領取能源哦"
-      }
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
+      "Name": "能源恢復",
       "Pushtype": 1,
+      "Title": "能源已經完全恢復了",
+      "Content": "能源已經完全恢復了可以戰鬥了",
       "Days": 0,
       "Control": 0,
-      "LangStringTable": {
-        "Name": "能源恢復",
-        "Title": "能源已經完全恢復了",
-        "Content": "能源已經完全恢復了可以戰鬥了"
-      }
+      "Nazo": 0
     }
   }
 }

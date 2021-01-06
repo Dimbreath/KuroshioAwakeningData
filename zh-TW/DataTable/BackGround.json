@@ -3,114 +3,119 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Backgroundname": "港口基地",
       "Unlocking": 1,
       "Display": 1,
+      "Tips": "",
       "Default": 1,
       "Backgroundtype": 1,
       "Backgroundres": "lobby_bg_01",
       "Thumbnail": "lobby_bg_sl_001",
-      "LangStringTable": {
-        "Backgroundname": "港口基地",
-        "Tips": null
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Backgroundname": "港口基地-秋日",
       "Unlocking": 0,
       "Display": 0,
+      "Tips": "暫無獲取途徑",
       "Default": 0,
       "Backgroundtype": 2,
       "Backgroundres": "bg_1_battle_003",
       "Thumbnail": "bg_1_battle_003",
-      "LangStringTable": {
-        "Backgroundname": "港口基地-秋日",
-        "Tips": "暫無獲取途徑"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Backgroundname": "港口基地-春分",
       "Unlocking": 0,
       "Display": 0,
+      "Tips": "暫無獲取途徑",
       "Default": 0,
       "Backgroundtype": 1,
       "Backgroundres": "lobby_bg_01",
       "Thumbnail": "bg_1_battle_003",
-      "LangStringTable": {
-        "Backgroundname": "港口基地-春分",
-        "Tips": "暫無獲取途徑"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Backgroundname": "港口基地-夏至",
       "Unlocking": 0,
       "Display": 0,
+      "Tips": "暫無獲取途徑",
       "Default": 0,
       "Backgroundtype": 2,
       "Backgroundres": "bg_1_battle_004",
       "Thumbnail": "bg_1_battle_004",
-      "LangStringTable": {
-        "Backgroundname": "港口基地-夏至",
-        "Tips": "暫無獲取途徑"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
+      "Backgroundname": "黑鋒重工",
       "Unlocking": 0,
       "Display": 0,
+      "Tips": "暫無獲取途徑",
       "Default": 0,
       "Backgroundtype": 1,
       "Backgroundres": "lobby_bg_05",
       "Thumbnail": "lobby_bg_sl_005",
-      "LangStringTable": {
-        "Backgroundname": "黑鋒重工",
-        "Tips": "暫無獲取途徑"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
+      "Backgroundname": "薔薇帝國",
       "Unlocking": 0,
-      "Display": 0,
+      "Display": 1,
+      "Tips": "黑石商店兌換",
       "Default": 0,
       "Backgroundtype": 1,
       "Backgroundres": "lobby_bg_06",
       "Thumbnail": "lobby_bg_sl_006",
-      "LangStringTable": {
-        "Backgroundname": "薔薇帝國",
-        "Tips": "暫無獲取途徑"
-      }
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
+      "Backgroundname": "神代會社",
       "Unlocking": 0,
-      "Display": 0,
+      "Display": 1,
+      "Tips": "黑石商店兌換",
       "Default": 0,
       "Backgroundtype": 1,
       "Backgroundres": "lobby_bg_07",
       "Thumbnail": "lobby_bg_sl_007",
-      "LangStringTable": {
-        "Backgroundname": "神代會社",
-        "Tips": "暫無獲取途徑"
-      }
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
+      "Backgroundname": "銀翼財團",
       "Unlocking": 0,
       "Display": 1,
+      "Tips": "追念之井限時禮包獲取",
       "Default": 0,
       "Backgroundtype": 1,
       "Backgroundres": "lobby_bg_08",
       "Thumbnail": "lobby_bg_sl_008",
-      "LangStringTable": {
-        "Backgroundname": "銀翼財團",
-        "Tips": "追念之井限時禮包獲取"
-      }
+      "Nazo": 0
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Backgroundname": "公共休息室-聖誕",
+      "Unlocking": 0,
+      "Display": 1,
+      "Tips": "聖誕限時禮包獲取",
+      "Default": 0,
+      "Backgroundtype": 1,
+      "Backgroundres": "lobby_bg_09",
+      "Thumbnail": "lobby_bg_sl_009",
+      "Nazo": 0
     }
   }
 }

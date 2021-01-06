@@ -8,15 +8,17 @@
         "10201,5007"
       ],
       "Ourport": "1,5007",
-      "Enemyport": "3,880,362,3"
+      "Enemyport": "3,880,362,3",
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
       "Type": 3,
-      "Unlockcondition": null,
+      "Unlockcondition": [],
       "Ourport": "1,6014",
-      "Enemyport": "3,-933,1175,1"
+      "Enemyport": "3,-933,1175,1",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -26,7 +28,8 @@
         "1,10:05:00"
       ],
       "Ourport": "2,1",
-      "Enemyport": "3,880,362,3"
+      "Enemyport": "3,880,362,3",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -36,15 +39,17 @@
         "1,13:15:00"
       ],
       "Ourport": "2,1",
-      "Enemyport": "3,-2658,-445,2"
+      "Enemyport": "3,-2658,-445,2",
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
       "Type": 3,
-      "Unlockcondition": null,
+      "Unlockcondition": [],
       "Ourport": "1,9018",
-      "Enemyport": "3,-3243,304,2"
+      "Enemyport": "3,-3243,304,2",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
@@ -54,7 +59,8 @@
         "1,15:30:00"
       ],
       "Ourport": "2,1",
-      "Enemyport": "3,-1324,600,1"
+      "Enemyport": "3,-1324,600,1",
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
@@ -64,7 +70,8 @@
         "1,18:25:00"
       ],
       "Ourport": "2,1",
-      "Enemyport": "3,1622,-893,4"
+      "Enemyport": "3,1622,-893,4",
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
@@ -74,23 +81,26 @@
         "1,19:15:00"
       ],
       "Ourport": "2,1",
-      "Enemyport": "3,-2658,-445,2"
+      "Enemyport": "3,-2658,-445,2",
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
       "Type": 3,
-      "Unlockcondition": null,
+      "Unlockcondition": [],
       "Ourport": "1,7018",
-      "Enemyport": "3,1531,1159,3"
+      "Enemyport": "3,1531,1159,3",
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
       "Type": 3,
-      "Unlockcondition": null,
+      "Unlockcondition": [],
       "Ourport": "1,8014",
-      "Enemyport": "3,3734,-1492,4"
+      "Enemyport": "3,3734,-1492,4",
+      "Nazo": 0
     }
   }
 }

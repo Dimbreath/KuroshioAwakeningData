@@ -5,196 +5,224 @@
       "Id": 3001,
       "Attrname": 1,
       "Values": "540,900",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "3002": {
       "Cuid": 3002,
       "Id": 3002,
       "Attrname": 3,
       "Values": "36,60",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "3003": {
       "Cuid": 3003,
       "Id": 3003,
       "Attrname": 8,
       "Values": "27,45",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "3004": {
       "Cuid": 3004,
       "Id": 3004,
       "Attrname": 9,
       "Values": "126,210",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "3005": {
       "Cuid": 3005,
       "Id": 3005,
       "Attrname": 28,
       "Values": "36,60",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "3006": {
       "Cuid": 3006,
       "Id": 3006,
       "Attrname": 35,
       "Values": "108,180",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "3007": {
       "Cuid": 3007,
       "Id": 3007,
       "Attrname": 36,
       "Values": "5,9",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "4001": {
       "Cuid": 4001,
       "Id": 4001,
       "Attrname": 1,
       "Values": "720,1200",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "4002": {
       "Cuid": 4002,
       "Id": 4002,
       "Attrname": 3,
       "Values": "48,80",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "4003": {
       "Cuid": 4003,
       "Id": 4003,
       "Attrname": 8,
       "Values": "36,60",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "4004": {
       "Cuid": 4004,
       "Id": 4004,
       "Attrname": 9,
       "Values": "168,280",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "4005": {
       "Cuid": 4005,
       "Id": 4005,
       "Attrname": 28,
       "Values": "48,80",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "4006": {
       "Cuid": 4006,
       "Id": 4006,
       "Attrname": 35,
       "Values": "144,240",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "4007": {
       "Cuid": 4007,
       "Id": 4007,
       "Attrname": 36,
       "Values": "7,12",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5001": {
       "Cuid": 5001,
       "Id": 5001,
       "Attrname": 1,
       "Values": "900,1500",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5002": {
       "Cuid": 5002,
       "Id": 5002,
       "Attrname": 3,
       "Values": "60,100",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5003": {
       "Cuid": 5003,
       "Id": 5003,
       "Attrname": 8,
       "Values": "45,75",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5004": {
       "Cuid": 5004,
       "Id": 5004,
       "Attrname": 9,
       "Values": "210,350",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5005": {
       "Cuid": 5005,
       "Id": 5005,
       "Attrname": 28,
       "Values": "60,100",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5006": {
       "Cuid": 5006,
       "Id": 5006,
       "Attrname": 35,
       "Values": "180,300",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5007": {
       "Cuid": 5007,
       "Id": 5007,
       "Attrname": 36,
       "Values": "9,15",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5101": {
       "Cuid": 5101,
       "Id": 5101,
       "Attrname": 1,
       "Values": "1725,1725",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5102": {
       "Cuid": 5102,
       "Id": 5102,
       "Attrname": 3,
       "Values": "115,115",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5103": {
       "Cuid": 5103,
       "Id": 5103,
       "Attrname": 8,
       "Values": "86,86",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5104": {
       "Cuid": 5104,
       "Id": 5104,
       "Attrname": 9,
       "Values": "402,402",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5105": {
       "Cuid": 5105,
       "Id": 5105,
       "Attrname": 28,
       "Values": "115,115",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5106": {
       "Cuid": 5106,
       "Id": 5106,
       "Attrname": 35,
       "Values": "345,345",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     },
     "5107": {
       "Cuid": 5107,
       "Id": 5107,
       "Attrname": 36,
       "Values": "17,17",
-      "Weight": 100
+      "Weight": 100,
+      "Nazo": 0
     }
   }
 }

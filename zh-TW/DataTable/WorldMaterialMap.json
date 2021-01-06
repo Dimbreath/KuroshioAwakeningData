@@ -4,13 +4,14 @@
       "Cuid": 1001,
       "Harbourid": 1001,
       "Harbourtype": 1,
-      "Activitytime": null,
+      "Activitytime": "",
       "Limittimes": 5,
       "Circlesize": 0,
       "Linepos": "{ \"x\":-34,\"y\":26}",
       "Iconout": "map_1_d_resource_icon_round_1",
-      "Icon": null,
-      "Tagpos": 0
+      "Icon": "",
+      "Tagpos": 0,
+      "Nazo": 0
     },
     "2001": {
       "Cuid": 2001,
@@ -22,7 +23,8 @@
       "Linepos": "{ \"x\":-36, \"y\":21}",
       "Iconout": "map_1_d_resource_icon_round_2",
       "Icon": "map_1_d_option_icon_01",
-      "Tagpos": 1
+      "Tagpos": 1,
+      "Nazo": 0
     },
     "2002": {
       "Cuid": 2002,
@@ -34,7 +36,8 @@
       "Linepos": "{ \"x\":-36, \"y\":21}",
       "Iconout": "map_1_d_resource_icon_round_2",
       "Icon": "map_1_d_option_icon_03",
-      "Tagpos": 1
+      "Tagpos": 1,
+      "Nazo": 0
     },
     "2003": {
       "Cuid": 2003,
@@ -46,7 +49,8 @@
       "Linepos": "{ \"x\":-36, \"y\":21}",
       "Iconout": "map_1_d_resource_icon_round_2",
       "Icon": "map_1_d_option_icon_04",
-      "Tagpos": 1
+      "Tagpos": 1,
+      "Nazo": 0
     },
     "2004": {
       "Cuid": 2004,
@@ -58,7 +62,8 @@
       "Linepos": "{ \"x\":-36, \"y\":21}",
       "Iconout": "map_1_d_resource_icon_round_2",
       "Icon": "map_1_d_option_icon_05",
-      "Tagpos": 1
+      "Tagpos": 1,
+      "Nazo": 0
     },
     "2005": {
       "Cuid": 2005,
@@ -70,31 +75,34 @@
       "Linepos": "{ \"x\":-36, \"y\":21}",
       "Iconout": "map_1_d_resource_icon_round_2",
       "Icon": "map_1_d_option_icon_06",
-      "Tagpos": 1
+      "Tagpos": 1,
+      "Nazo": 0
     },
     "3001": {
       "Cuid": 3001,
       "Harbourid": 3001,
       "Harbourtype": 3,
-      "Activitytime": null,
+      "Activitytime": "",
       "Limittimes": 5,
       "Circlesize": 0,
       "Linepos": "{ \"x\":-28,\"y\":32}",
       "Iconout": "map_1_d_resource_icon_round_3",
-      "Icon": null,
-      "Tagpos": 1
+      "Icon": "",
+      "Tagpos": 1,
+      "Nazo": 0
     },
     "4001": {
       "Cuid": 4001,
       "Harbourid": 4001,
       "Harbourtype": 4,
-      "Activitytime": null,
+      "Activitytime": "",
       "Limittimes": 5,
       "Circlesize": 0,
       "Linepos": "{ \"x\":-34,\"y\":26}",
       "Iconout": "map_1_d_resource_icon_round_4",
-      "Icon": null,
-      "Tagpos": 0
+      "Icon": "",
+      "Tagpos": 0,
+      "Nazo": 0
     }
   }
 }

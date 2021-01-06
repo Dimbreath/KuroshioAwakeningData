@@ -8,11 +8,17 @@
       "BtnRes": "main_1_function_icon_combat_fish",
       "ActPicBg": "activity_1_menu_bg_20200103",
       "ActBtnTxt": "activity_map_tips_04",
-      "ActTextDes": null,
-      "ActTextDesPos": null,
-      "ActTitleRes": null,
-      "ActTitleResPos": null,
-      "SubRule": 1
+      "ActTextDes": "",
+      "ActTextDesPos": "",
+      "ActTitleRes": "",
+      "ActTitleResPos": "",
+      "SubRule": 1,
+      "BuffDoll": "60250",
+      "BuffCoin": "13",
+      "BuffAttr": "1,2,1000;2,2,1000",
+      "BuffPos": "-497,-19",
+      "BuffRes": "activity_1_dyj_littetittle",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -26,7 +32,13 @@
       "ActTextDesPos": "-425,-144",
       "ActTitleRes": "activity_1_title_20200423",
       "ActTitleResPos": "-297,18",
-      "SubRule": 2
+      "SubRule": 2,
+      "BuffDoll": "",
+      "BuffCoin": "",
+      "BuffAttr": "",
+      "BuffPos": "",
+      "BuffRes": "",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -40,7 +52,13 @@
       "ActTextDesPos": "26,-172",
       "ActTitleRes": "activity_1_title_20200420",
       "ActTitleResPos": "292,48",
-      "SubRule": 2
+      "SubRule": 2,
+      "BuffDoll": "10010",
+      "BuffCoin": "23",
+      "BuffAttr": "1,2,1000;5,2,1000",
+      "BuffPos": "0,0",
+      "BuffRes": "activity_1_xhsj_littetittle",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
@@ -54,7 +72,13 @@
       "ActTextDesPos": "-462,127",
       "ActTitleRes": "activity_1_title_dsv",
       "ActTitleResPos": "-223,206",
-      "SubRule": 2
+      "SubRule": 2,
+      "BuffDoll": "",
+      "BuffCoin": "",
+      "BuffAttr": "",
+      "BuffPos": "",
+      "BuffRes": "",
+      "Nazo": 0
     }
   }
 }

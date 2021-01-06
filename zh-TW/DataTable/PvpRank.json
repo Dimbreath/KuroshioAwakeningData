@@ -3,134 +3,122 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Name": "二等兵",
       "RankupconditionMin": 0,
-      "RankupconditionMax": 100,
+      "RankupconditionMax": 99,
       "Icon": "common_1_pvprank_1",
       "ExpPro": "1",
-      "LangStringTable": {
-        "Name": "二等兵"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
-      "RankupconditionMin": 101,
-      "RankupconditionMax": 200,
+      "Name": "上等兵",
+      "RankupconditionMin": 100,
+      "RankupconditionMax": 199,
       "Icon": "common_1_pvprank_2",
       "ExpPro": "1.1",
-      "LangStringTable": {
-        "Name": "上等兵"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
-      "RankupconditionMin": 201,
-      "RankupconditionMax": 300,
+      "Name": "士官",
+      "RankupconditionMin": 200,
+      "RankupconditionMax": 299,
       "Icon": "common_1_pvprank_3",
       "ExpPro": "1.2",
-      "LangStringTable": {
-        "Name": "士官"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
-      "RankupconditionMin": 301,
-      "RankupconditionMax": 600,
+      "Name": "少尉",
+      "RankupconditionMin": 300,
+      "RankupconditionMax": 599,
       "Icon": "common_1_pvprank_4",
       "ExpPro": "1.3",
-      "LangStringTable": {
-        "Name": "少尉"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
-      "RankupconditionMin": 601,
-      "RankupconditionMax": 900,
+      "Name": "中尉",
+      "RankupconditionMin": 600,
+      "RankupconditionMax": 899,
       "Icon": "common_1_pvprank_5",
       "ExpPro": "1.4",
-      "LangStringTable": {
-        "Name": "中尉"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
-      "RankupconditionMin": 901,
-      "RankupconditionMax": 1200,
+      "Name": "上尉",
+      "RankupconditionMin": 900,
+      "RankupconditionMax": 1199,
       "Icon": "common_1_pvprank_6",
       "ExpPro": "1.5",
-      "LangStringTable": {
-        "Name": "上尉"
-      }
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
-      "RankupconditionMin": 1201,
-      "RankupconditionMax": 1600,
+      "Name": "少校",
+      "RankupconditionMin": 1200,
+      "RankupconditionMax": 1599,
       "Icon": "common_1_pvprank_7",
       "ExpPro": "1.6",
-      "LangStringTable": {
-        "Name": "少校"
-      }
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
-      "RankupconditionMin": 1601,
-      "RankupconditionMax": 2000,
+      "Name": "中校",
+      "RankupconditionMin": 1600,
+      "RankupconditionMax": 1999,
       "Icon": "common_1_pvprank_8",
       "ExpPro": "1.7",
-      "LangStringTable": {
-        "Name": "中校"
-      }
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
-      "RankupconditionMin": 2001,
-      "RankupconditionMax": 2400,
+      "Name": "大校",
+      "RankupconditionMin": 2000,
+      "RankupconditionMax": 2399,
       "Icon": "common_1_pvprank_9",
       "ExpPro": "1.8",
-      "LangStringTable": {
-        "Name": "大校"
-      }
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Id": 10,
-      "RankupconditionMin": 2401,
-      "RankupconditionMax": 3600,
+      "Name": "少將",
+      "RankupconditionMin": 2400,
+      "RankupconditionMax": 3599,
       "Icon": "common_1_pvprank_10",
       "ExpPro": "1.9",
-      "LangStringTable": {
-        "Name": "少將"
-      }
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
-      "RankupconditionMin": 3601,
-      "RankupconditionMax": 4800,
+      "Name": "中將",
+      "RankupconditionMin": 3600,
+      "RankupconditionMax": 4799,
       "Icon": "common_1_pvprank_11",
       "ExpPro": "2",
-      "LangStringTable": {
-        "Name": "中將"
-      }
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
-      "RankupconditionMin": 4801,
-      "RankupconditionMax": 15000,
+      "Name": "上將",
+      "RankupconditionMin": 4800,
+      "RankupconditionMax": 14999,
       "Icon": "common_1_pvprank_12",
       "ExpPro": "2.1",
-      "LangStringTable": {
-        "Name": "上將"
-      }
+      "Nazo": 0
     }
   }
 }

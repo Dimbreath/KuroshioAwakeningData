@@ -3,6 +3,7 @@
     "1": {
       "Cuid": 1,
       "Loginrewardid": 1,
+      "Longinrewardname": "首月登入獎勵",
       "Day1Reward": "1,1,50",
       "Day2Reward": "1,260002,5",
       "Day3Reward": "1,3,200",
@@ -31,13 +32,12 @@
       "Day26Reward": "1,240007,1",
       "Day27Reward": "1,240041,1",
       "Day28Reward": "2,90011,1",
-      "LangStringTable": {
-        "Longinrewardname": "首月登入獎勵"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Loginrewardid": 2,
+      "Longinrewardname": "第2月登入獎勵",
       "Day1Reward": "1,1,50",
       "Day2Reward": "1,260002,5",
       "Day3Reward": "1,3,200",
@@ -66,13 +66,12 @@
       "Day26Reward": "1,240007,1",
       "Day27Reward": "1,240041,1",
       "Day28Reward": "2,90011,1",
-      "LangStringTable": {
-        "Longinrewardname": "第2月登入獎勵"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Loginrewardid": 3,
+      "Longinrewardname": "第3月登入獎勵",
       "Day1Reward": "1,1,50",
       "Day2Reward": "1,260002,5",
       "Day3Reward": "1,3,200",
@@ -101,13 +100,12 @@
       "Day26Reward": "1,240007,1",
       "Day27Reward": "1,240041,1",
       "Day28Reward": "2,90011,1",
-      "LangStringTable": {
-        "Longinrewardname": "第3月登入獎勵"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Loginrewardid": 4,
+      "Longinrewardname": "第4月登入獎勵",
       "Day1Reward": "1,1,50",
       "Day2Reward": "1,260002,5",
       "Day3Reward": "1,3,200",
@@ -136,13 +134,12 @@
       "Day26Reward": "1,240007,1",
       "Day27Reward": "1,240041,1",
       "Day28Reward": "2,90011,1",
-      "LangStringTable": {
-        "Longinrewardname": "第4月登入獎勵"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Loginrewardid": 5,
+      "Longinrewardname": "第5月登入獎勵",
       "Day1Reward": "1,1,50",
       "Day2Reward": "1,260002,5",
       "Day3Reward": "1,3,200",
@@ -171,13 +168,12 @@
       "Day26Reward": "1,240007,1",
       "Day27Reward": "1,240041,1",
       "Day28Reward": "2,90011,1",
-      "LangStringTable": {
-        "Longinrewardname": "第5月登入獎勵"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Loginrewardid": 6,
+      "Longinrewardname": "第6月登入獎勵",
       "Day1Reward": "1,1,50",
       "Day2Reward": "1,260002,5",
       "Day3Reward": "1,3,200",
@@ -206,13 +202,12 @@
       "Day26Reward": "1,240007,1",
       "Day27Reward": "1,240041,1",
       "Day28Reward": "2,90011,1",
-      "LangStringTable": {
-        "Longinrewardname": "第6月登入獎勵"
-      }
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Loginrewardid": 7,
+      "Longinrewardname": "第7月登入獎勵",
       "Day1Reward": "1,1,50",
       "Day2Reward": "1,260002,5",
       "Day3Reward": "1,3,200",
@@ -241,9 +236,7 @@
       "Day26Reward": "1,240007,1",
       "Day27Reward": "1,240041,1",
       "Day28Reward": "2,90011,1",
-      "LangStringTable": {
-        "Longinrewardname": "第7月登入獎勵"
-      }
+      "Nazo": 0
     }
   }
 }

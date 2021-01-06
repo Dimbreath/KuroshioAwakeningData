@@ -3,42 +3,43 @@
     "2001101": {
       "Cuid": 2001101,
       "Id": 2001101,
+      "Furniturename": "製作總控臺",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 1,
       "Nextfurniture": 0,
       "Function": 4,
       "Furniturequality": 0,
-      "Precondi": null,
-      "Cost": null,
+      "Precondi": [
+        " "
+      ],
+      "Cost": "",
       "Time": 0,
-      "Desc": null,
-      "LangStringTable": {
-        "Furniturename": "製作總控臺"
-      }
+      "Desc": "",
+      "Nazo": 0
     },
     "2001201": {
       "Cuid": 2001201,
       "Id": 2001201,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 1,
       "Nextfurniture": 2001202,
       "Function": 1,
       "Furniturequality": 1,
-      "Precondi": null,
-      "Cost": null,
+      "Precondi": [],
+      "Cost": "",
       "Time": 0,
       "Desc": "backhouse_furniture_func_01_text",
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001202": {
       "Cuid": 2001202,
       "Id": 2001202,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 2,
       "Nextfurniture": 2001203,
       "Function": 1,
@@ -49,15 +50,14 @@
       "Cost": "1,2,20000",
       "Time": 1800,
       "Desc": "backhouse_furniture_func_01_text",
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001203": {
       "Cuid": 2001203,
       "Id": 2001203,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 3,
       "Nextfurniture": 2001204,
       "Function": 1,
@@ -68,15 +68,14 @@
       "Cost": "1,2,50000",
       "Time": 3600,
       "Desc": "backhouse_furniture_func_01_text",
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001204": {
       "Cuid": 2001204,
       "Id": 2001204,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 4,
       "Nextfurniture": 2001205,
       "Function": 1,
@@ -87,15 +86,14 @@
       "Cost": "1,2,100000",
       "Time": 5400,
       "Desc": "backhouse_furniture_func_01_text",
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001205": {
       "Cuid": 2001205,
       "Id": 2001205,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 5,
       "Nextfurniture": 0,
       "Function": 1,
@@ -106,32 +104,30 @@
       "Cost": "1,2,200000",
       "Time": 7200,
       "Desc": "backhouse_furniture_func_01_text",
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001301": {
       "Cuid": 2001301,
       "Id": 2001301,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 1,
       "Nextfurniture": 2001302,
       "Function": 2,
       "Furniturequality": 1,
-      "Precondi": null,
-      "Cost": null,
+      "Precondi": [],
+      "Cost": "",
       "Time": 0,
       "Desc": "backhouse_furniture_func_02_text",
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001302": {
       "Cuid": 2001302,
       "Id": 2001302,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 2,
       "Nextfurniture": 2001303,
       "Function": 2,
@@ -142,15 +138,14 @@
       "Cost": "1,2,20000",
       "Time": 1800,
       "Desc": "backhouse_furniture_func_02_text",
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001303": {
       "Cuid": 2001303,
       "Id": 2001303,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 3,
       "Nextfurniture": 2001304,
       "Function": 2,
@@ -161,15 +156,14 @@
       "Cost": "1,2,50000",
       "Time": 3600,
       "Desc": "backhouse_furniture_func_02_text",
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001304": {
       "Cuid": 2001304,
       "Id": 2001304,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 4,
       "Nextfurniture": 2001305,
       "Function": 2,
@@ -180,15 +174,14 @@
       "Cost": "1,2,100000",
       "Time": 5400,
       "Desc": "backhouse_furniture_func_02_text",
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001305": {
       "Cuid": 2001305,
       "Id": 2001305,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 5,
       "Nextfurniture": 0,
       "Function": 2,
@@ -199,32 +192,30 @@
       "Cost": "1,2,200000",
       "Time": 7200,
       "Desc": "backhouse_furniture_func_02_text",
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001401": {
       "Cuid": 2001401,
       "Id": 2001401,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 1,
       "Nextfurniture": 2001402,
       "Function": 3,
       "Furniturequality": 0,
-      "Precondi": null,
-      "Cost": null,
+      "Precondi": [],
+      "Cost": "",
       "Time": 0,
       "Desc": "backhouse_furniture_func_03_text",
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001402": {
       "Cuid": 2001402,
       "Id": 2001402,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 2,
       "Nextfurniture": 2001403,
       "Function": 3,
@@ -235,15 +226,14 @@
       "Cost": "1,2,20000",
       "Time": 1800,
       "Desc": "backhouse_furniture_func_03_text",
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001403": {
       "Cuid": 2001403,
       "Id": 2001403,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 3,
       "Nextfurniture": 2001404,
       "Function": 3,
@@ -254,15 +244,14 @@
       "Cost": "1,2,50000",
       "Time": 3600,
       "Desc": "backhouse_furniture_func_03_text",
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001404": {
       "Cuid": 2001404,
       "Id": 2001404,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 4,
       "Nextfurniture": 2001405,
       "Function": 3,
@@ -273,15 +262,14 @@
       "Cost": "1,2,100000",
       "Time": 5400,
       "Desc": "backhouse_furniture_func_03_text",
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001405": {
       "Cuid": 2001405,
       "Id": 2001405,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 5,
       "Nextfurniture": 0,
       "Function": 3,
@@ -292,43 +280,39 @@
       "Cost": "1,2,200000",
       "Time": 7200,
       "Desc": "backhouse_furniture_func_03_text",
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001001": {
       "Cuid": 2001001,
       "Id": 2001001,
+      "Furniturename": "裝備製作室牆面",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 1,
       "Nextfurniture": 0,
       "Function": 5,
       "Furniturequality": 0,
-      "Precondi": null,
-      "Cost": null,
+      "Precondi": [],
+      "Cost": "",
       "Time": 0,
-      "Desc": null,
-      "LangStringTable": {
-        "Furniturename": "裝備製作室牆面"
-      }
+      "Desc": "",
+      "Nazo": 0
     },
     "2001002": {
       "Cuid": 2001002,
       "Id": 2001002,
+      "Furniturename": "裝備製作室地板",
       "Furnituretype": 300,
-      "Furnitureart": null,
+      "Furnitureart": "",
       "Level": 1,
       "Nextfurniture": 0,
       "Function": 5,
       "Furniturequality": 0,
-      "Precondi": null,
-      "Cost": null,
+      "Precondi": [],
+      "Cost": "",
       "Time": 0,
-      "Desc": null,
-      "LangStringTable": {
-        "Furniturename": "裝備製作室地板"
-      }
+      "Desc": "",
+      "Nazo": 0
     }
   }
 }

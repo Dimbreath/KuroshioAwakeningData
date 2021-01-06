@@ -1,28 +1,22 @@
-local FontLanguageConfig = {
-	[1] = {1,"Cn","Cn/Fonts/ZhangHaishanAnatase;Cn/Fonts/LantingblackGBK","Cn/Fonts/LantingblackGBK_SDF",
-		[[简体中文]],
-	},
-	[2] = {2,"Tw","Tw/Fonts/MStiffHei_HK_Medium;Cn/Fonts/LantingblackGBK","Cn/Fonts/LantingblackGBK_SDF",
-		[[繁體中文]],
-	},
-	[3] = {3,"En","Cn/Fonts/ZhangHaishanAnatase;Cn/Fonts/LantingblackGBK",'',
-		[[English]],
-	},
-	[4] = {4,"JP",'','',
-		[[日本語]],
-	},
+local FontLanguageConfig = {}
 
+FontLanguageConfig.Values = {
+	[1] = {1,[[简体中文]],"Cn","Cn/Fonts/ZhangHaishanAnatase;Cn/Fonts/LantingblackGBK","Cn/Fonts/LantingblackGBK_SDF",0,},
+	[2] = {2,[[繁體中文]],"Tw","Tw/Fonts/MStiffHei_HK_Medium;Cn/Fonts/LantingblackGBK","Cn/Fonts/LantingblackGBK_SDF",0,},
+	[3] = {3,"English","En","Cn/Fonts/ZhangHaishanAnatase;Cn/Fonts/LantingblackGBK",'',0,},
+	[4] = {4,[[日本語]],"JP",'','',0,},
 }
+
 function FontLanguageConfig.GetConfig(key)
-	local Values = FontLanguageConfig[key]
-	if not Values then
+	local tb = FontLanguageConfig.Values[key]
+	if not tb then
 		print_error(key)
 		return nil
 	end
-	local Fields = {["id"] = 1,["desc"] = 2,["path"] = 3,["sdfpath"] = 4,["language"] = 5,}
-	for k,v in pairs(Fields) do
-		Fields[k] = Values[v]
+	local config = {["id"] = 1,["language"] = 2,["desc"] = 3,["path"] = 4,["sdfpath"] = 5,["nazo"] = 6,}
+	for k,v in pairs(config) do
+		config[k] = tb[v]
 	end
-	return Fields 
+	return config 
 end
 return FontLanguageConfig

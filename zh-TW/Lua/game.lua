@@ -3,8 +3,12 @@ Game = class("Game")
 	--key = value
 	local managers = 
 	{
-		MonopolyManager = "Modules/Activity/Monopoly/MonopolyManager",
-		AcSupplicateMgr = "Modules/Activity/Supplicate/AcSupplicateMgr",
+		MonopolyManager   = "Modules/Activity/Monopoly/MonopolyManager",
+		AcSupplicateMgr   = "Modules/Activity/Supplicate/AcSupplicateMgr",
+		SimulateManager   = "Modules/Simulate/SimulateManager",
+		AcNewYearManager  = "Modules/Activity/NewYear/AcNewYearManager",
+		BattleManager 	  = "Modules/Battle/BattleManager",
+		BellDeerManager = "Modules/Activity/BellDeer/BellDeerManager"
 	}
 
 	function Game:Init() 

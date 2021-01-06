@@ -3,6 +3,7 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Name": "原石切割",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -10,19 +11,18 @@
       "Manual": "0",
       "Sort": 3,
       "Icon": "trading_1_icon_102",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "原石切割"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Name": "蜃海禮裝",
       "Activity": 0,
       "Starttime": "1577808000",
       "Endtime": "0",
@@ -30,19 +30,18 @@
       "Manual": "0",
       "Sort": 5,
       "Icon": "trading_1_icon_105",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "蜃海禮裝"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Name": "資源補給",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -50,19 +49,18 @@
       "Manual": "0",
       "Sort": 4,
       "Icon": "trading_1_icon_103",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "資源補給"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Name": "供給箱",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -70,19 +68,18 @@
       "Manual": "0",
       "Sort": 1,
       "Icon": "trading_1_icon_104",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "供給箱"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
+      "Name": "黑市",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -90,19 +87,18 @@
       "Manual": "4;1,100",
       "Sort": 2,
       "Icon": "trading_1_icon_101",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "黑市"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
+      "Name": "基地工程",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -110,19 +106,18 @@
       "Manual": "0",
       "Sort": 6,
       "Icon": "trading_1_icon_106",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "基地工程"
-      }
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Id": 15,
+      "Name": "神秘商城",
       "Activity": 12,
       "Starttime": "0",
       "Endtime": "0",
@@ -130,19 +125,18 @@
       "Manual": "0",
       "Sort": 0,
       "Icon": "trading_1_icon_106",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "神秘商城"
-      }
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Id": 8,
+      "Name": "大漁祭商城",
       "Activity": 21,
       "Starttime": "0",
       "Endtime": "0",
@@ -158,13 +152,12 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "大漁祭商城"
-      }
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Id": 9,
+      "Name": "大漁祭商城",
       "Activity": 22,
       "Starttime": "0",
       "Endtime": "0",
@@ -180,13 +173,12 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "大漁祭商城"
-      }
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Id": 11,
+      "Name": "月卡",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -194,19 +186,18 @@
       "Manual": "0",
       "Sort": 0,
       "Icon": "trading_1_icon_106",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "月卡"
-      }
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Id": 12,
+      "Name": "鑽石兌換",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -214,19 +205,18 @@
       "Manual": "0",
       "Sort": 1,
       "Icon": "trading_1_icon_104",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "鑽石兌換"
-      }
+      "Nazo": 0
     },
     "107": {
       "Cuid": 107,
       "Id": 107,
+      "Name": "神秘商城",
       "Activity": 1012,
       "Starttime": "0",
       "Endtime": "0",
@@ -234,46 +224,44 @@
       "Manual": "0",
       "Sort": 0,
       "Icon": "trading_1_icon_106",
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "神秘商城"
-      }
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Id": 13,
+      "Name": "家具商城",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
       "Renovate": "0",
       "Manual": "0",
       "Sort": 0,
-      "Icon": null,
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "Icon": "",
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "家具商城"
-      }
+      "Nazo": 0
     },
     "9000": {
       "Cuid": 9000,
       "Id": 9000,
+      "Name": "演習商城",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
       "Renovate": "5",
-      "Manual": "30",
+      "Manual": "31",
       "Sort": 0,
-      "Icon": null,
+      "Icon": "",
       "CommodityCoin": "14",
       "BoatPainting": [
         "5,3013000,1"
@@ -282,20 +270,19 @@
       "Timetxt": "pvp_shop_tips1",
       "Diff": 0,
       "Groupid": 9000,
-      "LangStringTable": {
-        "Name": "演習商城"
-      }
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Id": 14,
+      "Name": "回收商城",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
       "Renovate": "3",
       "Manual": "0",
       "Sort": 0,
-      "Icon": null,
+      "Icon": "",
       "CommodityCoin": "16",
       "BoatPainting": [
         "5,1029900,1"
@@ -304,20 +291,19 @@
       "Timetxt": "retire_shop_time",
       "Diff": 1,
       "Groupid": 14,
-      "LangStringTable": {
-        "Name": "回收商城"
-      }
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
       "Id": 21,
+      "Name": "高級回收商城",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
       "Renovate": "3",
       "Manual": "0",
       "Sort": 0,
-      "Icon": null,
+      "Icon": "",
       "CommodityCoin": "27",
       "BoatPainting": [
         "5,1029900,1"
@@ -326,13 +312,88 @@
       "Timetxt": "retire_shop_time",
       "Diff": 1,
       "Groupid": 14,
-      "LangStringTable": {
-        "Name": "高級回收商城"
-      }
+      "Nazo": 0
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "Name": "優選物資",
+      "Activity": 0,
+      "Starttime": "0",
+      "Endtime": "0",
+      "Renovate": "0",
+      "Manual": "0",
+      "Sort": 3,
+      "Icon": "trading_1_icon_104",
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
+      "Diff": 0,
+      "Groupid": 0,
+      "Nazo": 0
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "Name": "定額援助",
+      "Activity": 0,
+      "Starttime": "1577808000",
+      "Endtime": "1577808001",
+      "Renovate": "0",
+      "Manual": "0",
+      "Sort": 2,
+      "Icon": "trading_1_icon_104",
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
+      "Diff": 0,
+      "Groupid": 0,
+      "Nazo": 0
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "Name": "超值供給",
+      "Activity": 0,
+      "Starttime": "1577808000",
+      "Endtime": "1577808001",
+      "Renovate": "0",
+      "Manual": "0",
+      "Sort": 4,
+      "Icon": "trading_1_icon_104",
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
+      "Diff": 0,
+      "Groupid": 0,
+      "Nazo": 0
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "Name": "每日供給",
+      "Activity": 0,
+      "Starttime": "1577808000",
+      "Endtime": "1577808001",
+      "Renovate": "0",
+      "Manual": "0",
+      "Sort": 1,
+      "Icon": "trading_1_icon_104",
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
+      "Diff": 0,
+      "Groupid": 0,
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
       "Id": 26,
+      "Name": "黑石商店",
       "Activity": 60,
       "Starttime": "0",
       "Endtime": "0",
@@ -341,18 +402,17 @@
       "Sort": 1,
       "Icon": "trading_1_icon_106",
       "CommodityCoin": "33",
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "黑石商店"
-      }
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Id": 17,
+      "Name": "核心商店α",
       "Activity": 33,
       "Starttime": "0",
       "Endtime": "0",
@@ -368,13 +428,12 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 1,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "核心商店α"
-      }
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Id": 16,
+      "Name": "核心商店β",
       "Activity": 34,
       "Starttime": "0",
       "Endtime": "0",
@@ -390,13 +449,12 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 1,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "核心商店β"
-      }
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Id": 18,
+      "Name": "資料回收α",
       "Activity": 36,
       "Starttime": "0",
       "Endtime": "0",
@@ -412,13 +470,12 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 1,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "資料回收α"
-      }
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
       "Id": 19,
+      "Name": "資料回收β",
       "Activity": 37,
       "Starttime": "0",
       "Endtime": "0",
@@ -434,13 +491,12 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 1,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "資料回收β"
-      }
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
       "Id": 20,
+      "Name": "資料回收γ",
       "Activity": 38,
       "Starttime": "0",
       "Endtime": "0",
@@ -456,13 +512,12 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 1,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "資料回收γ"
-      }
+      "Nazo": 0
     },
     "9998": {
       "Cuid": 9998,
       "Id": 9998,
+      "Name": "道具商店",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -474,17 +529,16 @@
       "BoatPainting": [
         "5,1029900,1"
       ],
-      "Title": "trading_1_head_tittle",
-      "Timetxt": null,
+      "Title": "exlporation_head_tittle",
+      "Timetxt": "",
       "Diff": 1,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "道具商店"
-      }
+      "Nazo": 0
     },
     "9999": {
       "Cuid": 9999,
       "Id": 9999,
+      "Name": "獎勵商店",
       "Activity": 0,
       "Starttime": "0",
       "Endtime": "0",
@@ -496,37 +550,35 @@
       "BoatPainting": [
         "5,1029900,1"
       ],
-      "Title": "trading_1_head_tittle",
-      "Timetxt": null,
+      "Title": "exlporation_head_tittle",
+      "Timetxt": "",
       "Diff": 1,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "獎勵商店"
-      }
+      "Nazo": 0
     },
     "100": {
       "Cuid": 100,
       "Id": 100,
+      "Name": "礦脈挖掘潛盾機",
       "Activity": 31,
       "Starttime": "0",
       "Endtime": "0",
       "Renovate": "0",
       "Manual": "0",
       "Sort": 0,
-      "Icon": null,
-      "CommodityCoin": null,
-      "BoatPainting": null,
-      "Title": null,
-      "Timetxt": null,
+      "Icon": "",
+      "CommodityCoin": "",
+      "BoatPainting": [],
+      "Title": "",
+      "Timetxt": "",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "礦脈挖掘潛盾機"
-      }
+      "Nazo": 0
     },
     "101": {
       "Cuid": 101,
       "Id": 101,
+      "Name": "慾念商城",
       "Activity": 51,
       "Starttime": "0",
       "Endtime": "0",
@@ -542,9 +594,7 @@
       "Timetxt": "activity_shop_text_02",
       "Diff": 0,
       "Groupid": 0,
-      "LangStringTable": {
-        "Name": "慾念商城"
-      }
+      "Nazo": 0
     }
   }
 }

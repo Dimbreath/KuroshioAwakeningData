@@ -3,3005 +3,2630 @@
     "500": {
       "Cuid": 500,
       "Errld": 500,
-      "LangStringTable": {
-        "Errmsg": "伺服器內部錯誤"
-      }
+      "Errmsg": "伺服器內部錯誤",
+      "Nazo": 0
     },
     "10000": {
       "Cuid": 10000,
       "Errld": 10000,
-      "LangStringTable": {
-        "Errmsg": "指揮官資訊錯誤"
-      }
+      "Errmsg": "指揮官資訊錯誤",
+      "Nazo": 0
     },
     "10001": {
       "Cuid": 10001,
       "Errld": 10001,
-      "LangStringTable": {
-        "Errmsg": "指揮官等級Lv{$1}時開啟"
-      }
+      "Errmsg": "指揮官等級Lv{$1}時開啟",
+      "Nazo": 0
     },
     "10002": {
       "Cuid": 10002,
       "Errld": 10002,
-      "LangStringTable": {
-        "Errmsg": "網路繁忙，請稍後再試"
-      }
+      "Errmsg": "網路繁忙，請稍後再試",
+      "Nazo": 0
     },
     "10003": {
       "Cuid": 10003,
       "Errld": 10003,
-      "LangStringTable": {
-        "Errmsg": "資料出錯，請稍後再試"
-      }
+      "Errmsg": "資料出錯，請稍後再試",
+      "Nazo": 0
     },
     "10004": {
       "Cuid": 10004,
       "Errld": 10004,
-      "LangStringTable": {
-        "Errmsg": "使用者ID錯誤"
-      }
+      "Errmsg": "使用者ID錯誤",
+      "Nazo": 0
     },
     "10005": {
       "Cuid": 10005,
       "Errld": 10005,
-      "LangStringTable": {
-        "Errmsg": "操作失敗，請稍後再試"
-      }
+      "Errmsg": "操作失敗，請稍後再試",
+      "Nazo": 0
     },
     "10006": {
       "Cuid": 10006,
       "Errld": 10006,
-      "LangStringTable": {
-        "Errmsg": "參數錯誤"
-      }
+      "Errmsg": "參數錯誤",
+      "Nazo": 0
     },
     "10007": {
       "Cuid": 10007,
       "Errld": 10007,
-      "LangStringTable": {
-        "Errmsg": "鑽石數量不足"
-      }
+      "Errmsg": "鑽石數量不足",
+      "Nazo": 0
     },
     "10008": {
       "Cuid": 10008,
       "Errld": 10008,
-      "LangStringTable": {
-        "Errmsg": "鑽石數量不足"
-      }
+      "Errmsg": "鑽石數量不足",
+      "Nazo": 0
     },
     "10009": {
       "Cuid": 10009,
       "Errld": 10009,
-      "LangStringTable": {
-        "Errmsg": "條件不足"
-      }
+      "Errmsg": "條件不足",
+      "Nazo": 0
     },
     "10011": {
       "Cuid": 10011,
       "Errld": 10011,
-      "LangStringTable": {
-        "Errmsg": "平台ID錯誤"
-      }
+      "Errmsg": "平台ID錯誤",
+      "Nazo": 0
     },
     "10012": {
       "Cuid": 10012,
       "Errld": 10012,
-      "LangStringTable": {
-        "Errmsg": "與黑潮系統的連接斷開，請重新登入"
-      }
+      "Errmsg": "與黑潮系統的連接斷開，請重新登入",
+      "Nazo": 0
     },
     "10013": {
       "Cuid": 10013,
       "Errld": 10013,
-      "LangStringTable": {
-        "Errmsg": "與黑潮系統連接失敗，請重新登入"
-      }
+      "Errmsg": "與黑潮系統連接失敗，請重新登入",
+      "Nazo": 0
     },
     "10015": {
       "Cuid": 10015,
       "Errld": 10015,
-      "LangStringTable": {
-        "Errmsg": "非常抱歉，本區服尚未開放或已停止註冊，感謝您的關注"
-      }
+      "Errmsg": "非常抱歉，本區服尚未開放或已停止註冊，感謝您的關注",
+      "Nazo": 0
     },
     "10016": {
       "Cuid": 10016,
       "Errld": 10016,
-      "LangStringTable": {
-        "Errmsg": "本區服尚未開啟支付功能"
-      }
+      "Errmsg": "本區服尚未開啟支付功能",
+      "Nazo": 0
     },
     "10017": {
       "Cuid": 10017,
       "Errld": 10017,
-      "LangStringTable": {
-        "Errmsg": "輸入錯誤，請重新輸入"
-      }
+      "Errmsg": "輸入錯誤，請重新輸入",
+      "Nazo": 0
     },
     "10019": {
       "Cuid": 10019,
       "Errld": 10019,
-      "LangStringTable": {
-        "Errmsg": "配置出錯，請聯繫管理員"
-      }
+      "Errmsg": "配置出錯，請聯繫管理員",
+      "Nazo": 0
     },
     "10020": {
       "Cuid": 10020,
       "Errld": 10020,
-      "LangStringTable": {
-        "Errmsg": "系統出錯，請聯繫管理員"
-      }
+      "Errmsg": "系統出錯，請聯繫管理員",
+      "Nazo": 0
     },
     "10021": {
       "Cuid": 10021,
       "Errld": 10021,
-      "LangStringTable": {
-        "Errmsg": "操作成功"
-      }
+      "Errmsg": "操作成功",
+      "Nazo": 0
     },
     "10022": {
       "Cuid": 10022,
       "Errld": 10022,
-      "LangStringTable": {
-        "Errmsg": "能源數量不足"
-      }
+      "Errmsg": "能源數量不足",
+      "Nazo": 0
     },
     "10023": {
       "Cuid": 10023,
       "Errld": 10023,
-      "LangStringTable": {
-        "Errmsg": "鑽石"
-      }
+      "Errmsg": "鑽石",
+      "Nazo": 0
     },
     "10024": {
       "Cuid": 10024,
       "Errld": 10024,
-      "LangStringTable": {
-        "Errmsg": "BP"
-      }
+      "Errmsg": "BP",
+      "Nazo": 0
     },
     "10025": {
       "Cuid": 10025,
       "Errld": 10025,
-      "LangStringTable": {
-        "Errmsg": "能源"
-      }
+      "Errmsg": "能源",
+      "Nazo": 0
     },
     "10026": {
       "Cuid": 10026,
       "Errld": 10026,
-      "LangStringTable": {
-        "Errmsg": "資源數量不足"
-      }
+      "Errmsg": "資源數量不足",
+      "Nazo": 0
     },
     "10027": {
       "Cuid": 10027,
       "Errld": 10027,
-      "LangStringTable": {
-        "Errmsg": "道具數量不足"
-      }
+      "Errmsg": "道具數量不足",
+      "Nazo": 0
     },
     "10028": {
       "Cuid": 10028,
       "Errld": 10028,
-      "LangStringTable": {
-        "Errmsg": "資源或物品數量超過庫存上限"
-      }
+      "Errmsg": "資源或物品數量超過庫存上限",
+      "Nazo": 0
     },
     "10029": {
       "Cuid": 10029,
       "Errld": 10029,
-      "LangStringTable": {
-        "Errmsg": "您已被封禁，請聯繫管理員"
-      }
+      "Errmsg": "您已被封禁，請聯繫管理員",
+      "Nazo": 0
     },
     "10030": {
       "Cuid": 10030,
       "Errld": 10030,
-      "LangStringTable": {
-        "Errmsg": "您已被禁言，請聯繫管理員"
-      }
+      "Errmsg": "您已被禁言，請聯繫管理員",
+      "Nazo": 0
     },
     "10031": {
       "Cuid": 10031,
       "Errld": 10031,
-      "LangStringTable": {
-        "Errmsg": "指揮官不要心急，請休息一下再做嘗試"
-      }
+      "Errmsg": "指揮官不要心急，請休息一下再做嘗試",
+      "Nazo": 0
     },
     "10032": {
       "Cuid": 10032,
       "Errld": 10032,
-      "LangStringTable": {
-        "Errmsg": "檢測到新版本更新，版本過低將無法接入黑潮系統，請前往更新"
-      }
+      "Errmsg": "檢測到新版本更新，版本過低將無法接入黑潮系統，請前往更新",
+      "Nazo": 0
     },
     "10033": {
       "Cuid": 10033,
       "Errld": 10033,
-      "LangStringTable": {
-        "Errmsg": "物資已達庫存上限，獎勵將透過郵件發放"
-      }
+      "Errmsg": "物資已達庫存上限，獎勵將透過郵件發放",
+      "Nazo": 0
     },
     "10034": {
       "Cuid": 10034,
       "Errld": 10034,
-      "LangStringTable": {
-        "Errmsg": "該功能暫未開放"
-      }
+      "Errmsg": "該功能暫未開放",
+      "Nazo": 0
     },
     "10036": {
       "Cuid": 10036,
       "Errld": 10036,
-      "LangStringTable": {
-        "Errmsg": "倉庫空間不足，請先清理"
-      }
+      "Errmsg": "倉庫空間不足，請先清理",
+      "Nazo": 0
     },
     "10037": {
       "Cuid": 10037,
       "Errld": 10037,
-      "LangStringTable": {
-        "Errmsg": "代幣數量不足"
-      }
+      "Errmsg": "代幣數量不足",
+      "Nazo": 0
     },
     "20100": {
       "Cuid": 20100,
       "Errld": 20100,
-      "LangStringTable": {
-        "Errmsg": "帳號不能為空"
-      }
+      "Errmsg": "帳號不能為空",
+      "Nazo": 0
     },
     "20101": {
       "Cuid": 20101,
       "Errld": 20101,
-      "LangStringTable": {
-        "Errmsg": "請輸入2-22位中文、數字或字母的帳號"
-      }
+      "Errmsg": "請輸入2-22位中文、數字或字母的帳號",
+      "Nazo": 0
     },
     "20102": {
       "Cuid": 20102,
       "Errld": 20102,
-      "LangStringTable": {
-        "Errmsg": "密碼不能為空"
-      }
+      "Errmsg": "密碼不能為空",
+      "Nazo": 0
     },
     "20103": {
       "Cuid": 20103,
       "Errld": 20103,
-      "LangStringTable": {
-        "Errmsg": "請輸入6-20位數字或字母"
-      }
+      "Errmsg": "請輸入6-20位數字或字母",
+      "Nazo": 0
     },
     "20104": {
       "Cuid": 20104,
       "Errld": 20104,
-      "LangStringTable": {
-        "Errmsg": "該代號已存在"
-      }
+      "Errmsg": "該代號已存在",
+      "Nazo": 0
     },
     "20105": {
       "Cuid": 20105,
       "Errld": 20105,
-      "LangStringTable": {
-        "Errmsg": "註冊失敗"
-      }
+      "Errmsg": "註冊失敗",
+      "Nazo": 0
     },
     "20106": {
       "Cuid": 20106,
       "Errld": 20106,
-      "LangStringTable": {
-        "Errmsg": "註冊成功"
-      }
+      "Errmsg": "註冊成功",
+      "Nazo": 0
     },
     "30001": {
       "Cuid": 30001,
       "Errld": 30001,
-      "LangStringTable": {
-        "Errmsg": "資料庫載入失敗"
-      }
+      "Errmsg": "資料庫載入失敗",
+      "Nazo": 0
     },
     "60001": {
       "Cuid": 60001,
       "Errld": 60001,
-      "LangStringTable": {
-        "Errmsg": "帳號、區服ID、平台ID不能為空"
-      }
+      "Errmsg": "帳號、區服ID、平台ID不能為空",
+      "Nazo": 0
     },
     "60002": {
       "Cuid": 60002,
       "Errld": 60002,
-      "LangStringTable": {
-        "Errmsg": "登入資訊失效，請重新登入"
-      }
+      "Errmsg": "登入資訊失效，請重新登入",
+      "Nazo": 0
     },
     "60003": {
       "Cuid": 60003,
       "Errld": 60003,
-      "LangStringTable": {
-        "Errmsg": "資料庫載入錯誤"
-      }
+      "Errmsg": "資料庫載入錯誤",
+      "Nazo": 0
     },
     "60004": {
       "Cuid": 60004,
       "Errld": 60004,
-      "LangStringTable": {
-        "Errmsg": "通訊出現異常，請重新連接黑潮系統"
-      }
+      "Errmsg": "通訊出現異常，請重新連接黑潮系統",
+      "Nazo": 0
     },
     "60005": {
       "Cuid": 60005,
       "Errld": 60005,
-      "LangStringTable": {
-        "Errmsg": "區服ID、平台ID不能為空"
-      }
+      "Errmsg": "區服ID、平台ID不能為空",
+      "Nazo": 0
     },
     "60006": {
       "Cuid": 60006,
       "Errld": 60006,
-      "LangStringTable": {
-        "Errmsg": "不在同一區服"
-      }
+      "Errmsg": "不在同一區服",
+      "Nazo": 0
     },
     "60007": {
       "Cuid": 60007,
       "Errld": 60007,
-      "LangStringTable": {
-        "Errmsg": "無編隊資訊"
-      }
+      "Errmsg": "無編隊資訊",
+      "Nazo": 0
     },
     "60008": {
       "Cuid": 60008,
       "Errld": 60008,
-      "LangStringTable": {
-        "Errmsg": "沒有港口資訊"
-      }
+      "Errmsg": "沒有港口資訊",
+      "Nazo": 0
     },
     "60009": {
       "Cuid": 60009,
       "Errld": 60009,
-      "LangStringTable": {
-        "Errmsg": "沒有據點資訊"
-      }
+      "Errmsg": "沒有據點資訊",
+      "Nazo": 0
     },
     "60010": {
       "Cuid": 60010,
       "Errld": 60010,
-      "LangStringTable": {
-        "Errmsg": "並非我方回合"
-      }
+      "Errmsg": "並非我方回合",
+      "Nazo": 0
     },
     "60011": {
       "Cuid": 60011,
       "Errld": 60011,
-      "LangStringTable": {
-        "Errmsg": "並非敵方勢力"
-      }
+      "Errmsg": "並非敵方勢力",
+      "Nazo": 0
     },
     "60012": {
       "Cuid": 60012,
       "Errld": 60012,
-      "LangStringTable": {
-        "Errmsg": "行動點不足"
-      }
+      "Errmsg": "行動點不足",
+      "Nazo": 0
     },
     "60013": {
       "Cuid": 60013,
       "Errld": 60013,
-      "LangStringTable": {
-        "Errmsg": "編隊不可用"
-      }
+      "Errmsg": "編隊不可用",
+      "Nazo": 0
     },
     "60014": {
       "Cuid": 60014,
       "Errld": 60014,
-      "LangStringTable": {
-        "Errmsg": "已偵察"
-      }
+      "Errmsg": "已偵察",
+      "Nazo": 0
     },
     "60015": {
       "Cuid": 60015,
       "Errld": 60015,
-      "LangStringTable": {
-        "Errmsg": "伺服器環境配置錯誤"
-      }
+      "Errmsg": "伺服器環境配置錯誤",
+      "Nazo": 0
     },
     "60016": {
       "Cuid": 60016,
       "Errld": 60016,
-      "LangStringTable": {
-        "Errmsg": "伺服器維護中"
-      }
+      "Errmsg": "伺服器維護中",
+      "Nazo": 0
     },
     "60017": {
       "Cuid": 60017,
       "Errld": 60017,
-      "LangStringTable": {
-        "Errmsg": "IP、設備號不能為空"
-      }
+      "Errmsg": "IP、設備號不能為空",
+      "Nazo": 0
     },
     "60018": {
       "Cuid": 60018,
       "Errld": 60018,
-      "LangStringTable": {
-        "Errmsg": "只可使用大小寫字母和數字"
-      }
+      "Errmsg": "只可使用大小寫字母和數字",
+      "Nazo": 0
     },
     "60100": {
       "Cuid": 60100,
       "Errld": 60100,
-      "LangStringTable": {
-        "Errmsg": "參數錯誤"
-      }
+      "Errmsg": "參數錯誤",
+      "Nazo": 0
     },
     "60101": {
       "Cuid": 60101,
       "Errld": 60101,
-      "LangStringTable": {
-        "Errmsg": "平台不存在"
-      }
+      "Errmsg": "平台不存在",
+      "Nazo": 0
     },
     "60102": {
       "Cuid": 60102,
       "Errld": 60102,
-      "LangStringTable": {
-        "Errmsg": "區服資訊不存在"
-      }
+      "Errmsg": "區服資訊不存在",
+      "Nazo": 0
     },
     "60111": {
       "Cuid": 60111,
       "Errld": 60111,
-      "LangStringTable": {
-        "Errmsg": "登入資訊錯誤，請重新登入"
-      }
+      "Errmsg": "登入資訊錯誤，請重新登入",
+      "Nazo": 0
     },
     "60112": {
       "Cuid": 60112,
       "Errld": 60112,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "61004": {
       "Cuid": 61004,
       "Errld": 61004,
-      "LangStringTable": {
-        "Errmsg": "郵件ID不合法"
-      }
+      "Errmsg": "郵件ID不合法",
+      "Nazo": 0
     },
     "61006": {
       "Cuid": 61006,
       "Errld": 61006,
-      "LangStringTable": {
-        "Errmsg": "郵件不可讀"
-      }
+      "Errmsg": "郵件不可讀",
+      "Nazo": 0
     },
     "61007": {
       "Cuid": 61007,
       "Errld": 61007,
-      "LangStringTable": {
-        "Errmsg": "郵件已領取"
-      }
+      "Errmsg": "郵件已領取",
+      "Nazo": 0
     },
     "61008": {
       "Cuid": 61008,
       "Errld": 61008,
-      "LangStringTable": {
-        "Errmsg": "郵件不可領取"
-      }
+      "Errmsg": "郵件不可領取",
+      "Nazo": 0
     },
     "61009": {
       "Cuid": 61009,
       "Errld": 61009,
-      "LangStringTable": {
-        "Errmsg": "郵件已過期"
-      }
+      "Errmsg": "郵件已過期",
+      "Nazo": 0
     },
     "61015": {
       "Cuid": 61015,
       "Errld": 61015,
-      "LangStringTable": {
-        "Errmsg": "並非敵方回合資訊"
-      }
+      "Errmsg": "並非敵方回合資訊",
+      "Nazo": 0
     },
     "61016": {
       "Cuid": 61016,
       "Errld": 61016,
-      "LangStringTable": {
-        "Errmsg": "並非我方據點，不能駐守"
-      }
+      "Errmsg": "並非我方據點，不能駐守",
+      "Nazo": 0
     },
     "61017": {
       "Cuid": 61017,
       "Errld": 61017,
-      "LangStringTable": {
-        "Errmsg": "沒有敵方配置"
-      }
+      "Errmsg": "沒有敵方配置",
+      "Nazo": 0
     },
     "61018": {
       "Cuid": 61018,
       "Errld": 61018,
-      "LangStringTable": {
-        "Errmsg": "沒有敵方進攻配置"
-      }
+      "Errmsg": "沒有敵方進攻配置",
+      "Nazo": 0
     },
     "61019": {
       "Cuid": 61019,
       "Errld": 61019,
-      "LangStringTable": {
-        "Errmsg": "請選擇相鄰據點進行移動"
-      }
+      "Errmsg": "請選擇相鄰據點進行移動",
+      "Nazo": 0
     },
     "61020": {
       "Cuid": 61020,
       "Errld": 61020,
-      "LangStringTable": {
-        "Errmsg": "資源不足"
-      }
+      "Errmsg": "資源不足",
+      "Nazo": 0
     },
     "61021": {
       "Cuid": 61021,
       "Errld": 61021,
-      "LangStringTable": {
-        "Errmsg": "不能同時進攻2個港口"
-      }
+      "Errmsg": "不能同時進攻2個港口",
+      "Nazo": 0
     },
     "61022": {
       "Cuid": 61022,
       "Errld": 61022,
-      "LangStringTable": {
-        "Errmsg": "該區域已壓制，若要再次探索請先重置"
-      }
+      "Errmsg": "該區域已壓制，若要再次探索請先重置",
+      "Nazo": 0
     },
     "61023": {
       "Cuid": 61023,
       "Errld": 61023,
-      "LangStringTable": {
-        "Errmsg": "無需重置"
-      }
+      "Errmsg": "無需重置",
+      "Nazo": 0
     },
     "61024": {
       "Cuid": 61024,
       "Errld": 61024,
-      "LangStringTable": {
-        "Errmsg": "功能暫未開放"
-      }
+      "Errmsg": "功能暫未開放",
+      "Nazo": 0
     },
     "61025": {
       "Cuid": 61025,
       "Errld": 61025,
-      "LangStringTable": {
-        "Errmsg": "戰鬥已結束"
-      }
+      "Errmsg": "戰鬥已結束",
+      "Nazo": 0
     },
     "61026": {
       "Cuid": 61026,
       "Errld": 61026,
-      "LangStringTable": {
-        "Errmsg": "未開始戰鬥"
-      }
+      "Errmsg": "未開始戰鬥",
+      "Nazo": 0
     },
     "61027": {
       "Cuid": 61027,
       "Errld": 61027,
-      "LangStringTable": {
-        "Errmsg": "敵方未進攻"
-      }
+      "Errmsg": "敵方未進攻",
+      "Nazo": 0
     },
     "61028": {
       "Cuid": 61028,
       "Errld": 61028,
-      "LangStringTable": {
-        "Errmsg": "未回應敵方進攻事件"
-      }
+      "Errmsg": "未回應敵方進攻事件",
+      "Nazo": 0
     },
     "61029": {
       "Cuid": 61029,
       "Errld": 61029,
-      "LangStringTable": {
-        "Errmsg": "據點不可見"
-      }
+      "Errmsg": "據點不可見",
+      "Nazo": 0
     },
     "61030": {
       "Cuid": 61030,
       "Errld": 61030,
-      "LangStringTable": {
-        "Errmsg": "編隊超過上限"
-      }
+      "Errmsg": "編隊超過上限",
+      "Nazo": 0
     },
     "61031": {
       "Cuid": 61031,
       "Errld": 61031,
-      "LangStringTable": {
-        "Errmsg": "編隊不可用"
-      }
+      "Errmsg": "編隊不可用",
+      "Nazo": 0
     },
     "61032": {
       "Cuid": 61032,
       "Errld": 61032,
-      "LangStringTable": {
-        "Errmsg": "編隊錯誤"
-      }
+      "Errmsg": "編隊錯誤",
+      "Nazo": 0
     },
     "61033": {
       "Cuid": 61033,
       "Errld": 61033,
-      "LangStringTable": {
-        "Errmsg": "未達到關卡准入戒備值"
-      }
+      "Errmsg": "未達到關卡准入戒備值",
+      "Nazo": 0
     },
     "61034": {
       "Cuid": 61034,
       "Errld": 61034,
-      "LangStringTable": {
-        "Errmsg": "人偶不在編隊中"
-      }
+      "Errmsg": "人偶不在編隊中",
+      "Nazo": 0
     },
     "61035": {
       "Cuid": 61035,
       "Errld": 61035,
-      "LangStringTable": {
-        "Errmsg": "好友數量已達上限"
-      }
+      "Errmsg": "好友數量已達上限",
+      "Nazo": 0
     },
     "61036": {
       "Cuid": 61036,
       "Errld": 61036,
-      "LangStringTable": {
-        "Errmsg": "已有該好友"
-      }
+      "Errmsg": "已有該好友",
+      "Nazo": 0
     },
     "61037": {
       "Cuid": 61037,
       "Errld": 61037,
-      "LangStringTable": {
-        "Errmsg": "對方並未發送好友申請"
-      }
+      "Errmsg": "對方並未發送好友申請",
+      "Nazo": 0
     },
     "61038": {
       "Cuid": 61038,
       "Errld": 61038,
-      "LangStringTable": {
-        "Errmsg": "不能向自己發送好友申請"
-      }
+      "Errmsg": "不能向自己發送好友申請",
+      "Nazo": 0
     },
     "61039": {
       "Cuid": 61039,
       "Errld": 61039,
-      "LangStringTable": {
-        "Errmsg": "該使用者非好友"
-      }
+      "Errmsg": "該使用者非好友",
+      "Nazo": 0
     },
     "61040": {
       "Cuid": 61040,
       "Errld": 61040,
-      "LangStringTable": {
-        "Errmsg": "好友ID不存在"
-      }
+      "Errmsg": "好友ID不存在",
+      "Nazo": 0
     },
     "61041": {
       "Cuid": 61041,
       "Errld": 61041,
-      "LangStringTable": {
-        "Errmsg": "非法使用者ID"
-      }
+      "Errmsg": "非法使用者ID",
+      "Nazo": 0
     },
     "61042": {
       "Cuid": 61042,
       "Errld": 61042,
-      "LangStringTable": {
-        "Errmsg": "並未進行戰鬥"
-      }
+      "Errmsg": "並未進行戰鬥",
+      "Nazo": 0
     },
     "61043": {
       "Cuid": 61043,
       "Errld": 61043,
-      "LangStringTable": {
-        "Errmsg": "對方好友已滿，無法發送申請"
-      }
+      "Errmsg": "對方好友已滿，無法發送申請",
+      "Nazo": 0
     },
     "61044": {
       "Cuid": 61044,
       "Errld": 61044,
-      "LangStringTable": {
-        "Errmsg": "任務進行中"
-      }
+      "Errmsg": "任務進行中",
+      "Nazo": 0
     },
     "61045": {
       "Cuid": 61045,
       "Errld": 61045,
-      "LangStringTable": {
-        "Errmsg": "任務已過期"
-      }
+      "Errmsg": "任務已過期",
+      "Nazo": 0
     },
     "61046": {
       "Cuid": 61046,
       "Errld": 61046,
-      "LangStringTable": {
-        "Errmsg": "任務未完成"
-      }
+      "Errmsg": "任務未完成",
+      "Nazo": 0
     },
     "61047": {
       "Cuid": 61047,
       "Errld": 61047,
-      "LangStringTable": {
-        "Errmsg": "任務已完成"
-      }
+      "Errmsg": "任務已完成",
+      "Nazo": 0
     },
     "61048": {
       "Cuid": 61048,
       "Errld": 61048,
-      "LangStringTable": {
-        "Errmsg": "已達購買上限"
-      }
+      "Errmsg": "已達購買上限",
+      "Nazo": 0
     },
     "61049": {
       "Cuid": 61049,
       "Errld": 61049,
-      "LangStringTable": {
-        "Errmsg": "該人偶出戰或整備中"
-      }
+      "Errmsg": "該人偶出戰或整備中",
+      "Nazo": 0
     },
     "61050": {
       "Cuid": 61050,
       "Errld": 61050,
-      "LangStringTable": {
-        "Errmsg": "艦種限制"
-      }
+      "Errmsg": "艦種限制",
+      "Nazo": 0
     },
     "61051": {
       "Cuid": 61051,
       "Errld": 61051,
-      "LangStringTable": {
-        "Errmsg": "勢力限制"
-      }
+      "Errmsg": "勢力限制",
+      "Nazo": 0
     },
     "61052": {
       "Cuid": 61052,
       "Errld": 61052,
-      "LangStringTable": {
-        "Errmsg": "任務已失效"
-      }
+      "Errmsg": "任務已失效",
+      "Nazo": 0
     },
     "61053": {
       "Cuid": 61053,
       "Errld": 61053,
-      "LangStringTable": {
-        "Errmsg": "任務未開始"
-      }
+      "Errmsg": "任務未開始",
+      "Nazo": 0
     },
     "61054": {
       "Cuid": 61054,
       "Errld": 61054,
-      "LangStringTable": {
-        "Errmsg": "未滿足巡航條件"
-      }
+      "Errmsg": "未滿足巡航條件",
+      "Nazo": 0
     },
     "61055": {
       "Cuid": 61055,
       "Errld": 61055,
-      "LangStringTable": {
-        "Errmsg": "整備隊伍上限"
-      }
+      "Errmsg": "整備隊伍上限",
+      "Nazo": 0
     },
     "61056": {
       "Cuid": 61056,
       "Errld": 61056,
-      "LangStringTable": {
-        "Errmsg": "無此任務"
-      }
+      "Errmsg": "無此任務",
+      "Nazo": 0
     },
     "61057": {
       "Cuid": 61057,
       "Errld": 61057,
-      "LangStringTable": {
-        "Errmsg": "人偶數量未滿"
-      }
+      "Errmsg": "人偶數量未滿",
+      "Nazo": 0
     },
     "61058": {
       "Cuid": 61058,
       "Errld": 61058,
-      "LangStringTable": {
-        "Errmsg": "沒有解鎖"
-      }
+      "Errmsg": "沒有解鎖",
+      "Nazo": 0
     },
     "61059": {
       "Cuid": 61059,
       "Errld": 61059,
-      "LangStringTable": {
-        "Errmsg": "沒有相鄰"
-      }
+      "Errmsg": "沒有相鄰",
+      "Nazo": 0
     },
     "61060": {
       "Cuid": 61060,
       "Errld": 61060,
-      "LangStringTable": {
-        "Errmsg": "不能重複標籤"
-      }
+      "Errmsg": "不能重複標籤",
+      "Nazo": 0
     },
     "61061": {
       "Cuid": 61061,
       "Errld": 61061,
-      "LangStringTable": {
-        "Errmsg": "標籤已滿"
-      }
+      "Errmsg": "標籤已滿",
+      "Nazo": 0
     },
     "61062": {
       "Cuid": 61062,
       "Errld": 61062,
-      "LangStringTable": {
-        "Errmsg": "標籤重複"
-      }
+      "Errmsg": "標籤重複",
+      "Nazo": 0
     },
     "61063": {
       "Cuid": 61063,
       "Errld": 61063,
-      "LangStringTable": {
-        "Errmsg": "不能重複對標籤按讚"
-      }
+      "Errmsg": "不能重複對標籤按讚",
+      "Nazo": 0
     },
     "61064": {
       "Cuid": 61064,
       "Errld": 61064,
-      "LangStringTable": {
-        "Errmsg": "沒有該標籤"
-      }
+      "Errmsg": "沒有該標籤",
+      "Nazo": 0
     },
     "61065": {
       "Cuid": 61065,
       "Errld": 61065,
-      "LangStringTable": {
-        "Errmsg": "沒有對該標籤按過讚"
-      }
+      "Errmsg": "沒有對該標籤按過讚",
+      "Nazo": 0
     },
     "61066": {
       "Cuid": 61066,
       "Errld": 61066,
-      "LangStringTable": {
-        "Errmsg": "請稍後再試"
-      }
+      "Errmsg": "請稍後再試",
+      "Nazo": 0
     },
     "61067": {
       "Cuid": 61067,
       "Errld": 61067,
-      "LangStringTable": {
-        "Errmsg": "人偶數量不足"
-      }
+      "Errmsg": "人偶數量不足",
+      "Nazo": 0
     },
     "61068": {
       "Cuid": 61068,
       "Errld": 61068,
-      "LangStringTable": {
-        "Errmsg": "不可重複領取"
-      }
+      "Errmsg": "不可重複領取",
+      "Nazo": 0
     },
     "61069": {
       "Cuid": 61069,
       "Errld": 61069,
-      "LangStringTable": {
-        "Errmsg": "人偶星級不足"
-      }
+      "Errmsg": "人偶星級不足",
+      "Nazo": 0
     },
     "61070": {
       "Cuid": 61070,
       "Errld": 61070,
-      "LangStringTable": {
-        "Errmsg": "對方好友已滿"
-      }
+      "Errmsg": "對方好友已滿",
+      "Nazo": 0
     },
     "61072": {
       "Cuid": 61072,
       "Errld": 61072,
-      "LangStringTable": {
-        "Errmsg": "事件不足，暫未觸發"
-      }
+      "Errmsg": "事件不足，暫未觸發",
+      "Nazo": 0
     },
     "61073": {
       "Cuid": 61073,
       "Errld": 61073,
-      "LangStringTable": {
-        "Errmsg": "參數錯誤"
-      }
+      "Errmsg": "參數錯誤",
+      "Nazo": 0
     },
     "61074": {
       "Cuid": 61074,
       "Errld": 61074,
-      "LangStringTable": {
-        "Errmsg": "不能按讚"
-      }
+      "Errmsg": "不能按讚",
+      "Nazo": 0
     },
     "61075": {
       "Cuid": 61075,
       "Errld": 61075,
-      "LangStringTable": {
-        "Errmsg": "沒有解鎖"
-      }
+      "Errmsg": "沒有解鎖",
+      "Nazo": 0
     },
     "61076": {
       "Cuid": 61076,
       "Errld": 61076,
-      "LangStringTable": {
-        "Errmsg": "該彩蛋據點不存在"
-      }
+      "Errmsg": "該彩蛋據點不存在",
+      "Nazo": 0
     },
     "61077": {
       "Cuid": 61077,
       "Errld": 61077,
-      "LangStringTable": {
-        "Errmsg": "該港口未解鎖"
-      }
+      "Errmsg": "該港口未解鎖",
+      "Nazo": 0
     },
     "61078": {
       "Cuid": 61078,
       "Errld": 61078,
-      "LangStringTable": {
-        "Errmsg": "該據點不可重複探索"
-      }
+      "Errmsg": "該據點不可重複探索",
+      "Nazo": 0
     },
     "61079": {
       "Cuid": 61079,
       "Errld": 61079,
-      "LangStringTable": {
-        "Errmsg": "不正確的兌換碼"
-      }
+      "Errmsg": "不正確的兌換碼",
+      "Nazo": 0
     },
     "61080": {
       "Cuid": 61080,
       "Errld": 61080,
-      "LangStringTable": {
-        "Errmsg": "此兌換碼已被使用"
-      }
+      "Errmsg": "此兌換碼已被使用",
+      "Nazo": 0
     },
     "61081": {
       "Cuid": 61081,
       "Errld": 61081,
-      "LangStringTable": {
-        "Errmsg": "此兌換碼不能在該平台使用"
-      }
+      "Errmsg": "此兌換碼不能在該平台使用",
+      "Nazo": 0
     },
     "61082": {
       "Cuid": 61082,
       "Errld": 61082,
-      "LangStringTable": {
-        "Errmsg": "此兌換碼不能在該管道使用"
-      }
+      "Errmsg": "此兌換碼不能在該管道使用",
+      "Nazo": 0
     },
     "61083": {
       "Cuid": 61083,
       "Errld": 61083,
-      "LangStringTable": {
-        "Errmsg": "未達成獎勵領取條件"
-      }
+      "Errmsg": "未達成獎勵領取條件",
+      "Nazo": 0
     },
     "61084": {
       "Cuid": 61084,
       "Errld": 61084,
-      "LangStringTable": {
-        "Errmsg": "不能重複領取"
-      }
+      "Errmsg": "不能重複領取",
+      "Nazo": 0
     },
     "61085": {
       "Cuid": 61085,
       "Errld": 61085,
-      "LangStringTable": {
-        "Errmsg": "登入天數不足"
-      }
+      "Errmsg": "登入天數不足",
+      "Nazo": 0
     },
     "61086": {
       "Cuid": 61086,
       "Errld": 61086,
-      "LangStringTable": {
-        "Errmsg": "不能重複答題"
-      }
+      "Errmsg": "不能重複答題",
+      "Nazo": 0
     },
     "61087": {
       "Cuid": 61087,
       "Errld": 61087,
-      "LangStringTable": {
-        "Errmsg": "請在規定時間段領取"
-      }
+      "Errmsg": "請在規定時間段領取",
+      "Nazo": 0
     },
     "61088": {
       "Cuid": 61088,
       "Errld": 61088,
-      "LangStringTable": {
-        "Errmsg": "請先完成問卷調查"
-      }
+      "Errmsg": "請先完成問卷調查",
+      "Nazo": 0
     },
     "61089": {
       "Cuid": 61089,
       "Errld": 61089,
-      "LangStringTable": {
-        "Errmsg": "帳號或密碼錯誤"
-      }
+      "Errmsg": "帳號或密碼錯誤",
+      "Nazo": 0
     },
     "61090": {
       "Cuid": 61090,
       "Errld": 61090,
-      "LangStringTable": {
-        "Errmsg": "帳號已被註冊"
-      }
+      "Errmsg": "帳號已被註冊",
+      "Nazo": 0
     },
     "61091": {
       "Cuid": 61091,
       "Errld": 61091,
-      "LangStringTable": {
-        "Errmsg": "兩次密碼輸入不一致"
-      }
+      "Errmsg": "兩次密碼輸入不一致",
+      "Nazo": 0
     },
     "61092": {
       "Cuid": 61092,
       "Errld": 61092,
-      "LangStringTable": {
-        "Errmsg": "請指揮官珍惜自身帳號財產，不要使用任何協力廠商手段干預遊戲過程"
-      }
+      "Errmsg": "請指揮官珍惜自身帳號財產，不要使用任何協力廠商手段干預遊戲過程",
+      "Nazo": 0
     },
     "61093": {
       "Cuid": 61093,
       "Errld": 61093,
-      "LangStringTable": {
-        "Errmsg": "檢測到日期變更，請重新登入黑潮系統"
-      }
+      "Errmsg": "檢測到日期變更，請重新登入黑潮系統",
+      "Nazo": 0
     },
     "61094": {
       "Cuid": 61094,
       "Errld": 61094,
-      "LangStringTable": {
-        "Errmsg": "檢測到資源更新，前往更新"
-      }
+      "Errmsg": "檢測到資源更新，前往更新",
+      "Nazo": 0
     },
     "61095": {
       "Cuid": 61095,
       "Errld": 61095,
-      "LangStringTable": {
-        "Errmsg": "一台設備只能註冊一個遊戲帳號，感謝各位指揮官的支援與關注"
-      }
+      "Errmsg": "一台設備只能註冊一個遊戲帳號，感謝各位指揮官的支援與關注",
+      "Nazo": 0
     },
     "61096": {
       "Cuid": 61096,
       "Errld": 61096,
-      "LangStringTable": {
-        "Errmsg": "已達本次測試人數限制，感謝各位指揮官的支援與關注"
-      }
+      "Errmsg": "已達本次測試人數限制，感謝各位指揮官的支援與關注",
+      "Nazo": 0
     },
     "61097": {
       "Cuid": 61097,
       "Errld": 61097,
-      "LangStringTable": {
-        "Errmsg": "該聯盟名已存在，請重新取名"
-      }
+      "Errmsg": "該聯盟名已存在，請重新取名",
+      "Nazo": 0
     },
     "61098": {
       "Cuid": 61098,
       "Errld": 61098,
-      "LangStringTable": {
-        "Errmsg": "玩家已加入其他聯盟"
-      }
+      "Errmsg": "玩家已加入其他聯盟",
+      "Nazo": 0
     },
     "61099": {
       "Cuid": 61099,
       "Errld": 61099,
-      "LangStringTable": {
-        "Errmsg": "本次測試人數已達上限，感謝各位指揮官的支援與關注"
-      }
+      "Errmsg": "本次測試人數已達上限，感謝各位指揮官的支援與關注",
+      "Nazo": 0
     },
     "61100": {
       "Cuid": 61100,
       "Errld": 61100,
-      "LangStringTable": {
-        "Errmsg": "戰鬥結果異常"
-      }
+      "Errmsg": "戰鬥結果異常",
+      "Nazo": 0
     },
     "61101": {
       "Cuid": 61101,
       "Errld": 61101,
-      "LangStringTable": {
-        "Errmsg": "利維坦深淵暫未解鎖"
-      }
+      "Errmsg": "利維坦深淵暫未解鎖",
+      "Nazo": 0
     },
     "61102": {
       "Cuid": 61102,
       "Errld": 61102,
-      "LangStringTable": {
-        "Errmsg": "該港口本日挑戰次數已滿"
-      }
+      "Errmsg": "該港口本日挑戰次數已滿",
+      "Nazo": 0
     },
     "61103": {
       "Cuid": 61103,
       "Errld": 61103,
-      "LangStringTable": {
-        "Errmsg": "不在開放時間內"
-      }
+      "Errmsg": "不在開放時間內",
+      "Nazo": 0
     },
     "61104": {
       "Cuid": 61104,
       "Errld": 61104,
-      "LangStringTable": {
-        "Errmsg": "該港口暫未解鎖，請先壓制其他港口"
-      }
+      "Errmsg": "該港口暫未解鎖，請先壓制其他港口",
+      "Nazo": 0
     },
     "61105": {
       "Cuid": 61105,
       "Errld": 61105,
-      "LangStringTable": {
-        "Errmsg": "劇情副本未解鎖"
-      }
+      "Errmsg": "劇情副本未解鎖",
+      "Nazo": 0
     },
     "61106": {
       "Cuid": 61106,
       "Errld": 61106,
-      "LangStringTable": {
-        "Errmsg": "戒備值不足"
-      }
+      "Errmsg": "戒備值不足",
+      "Nazo": 0
     },
     "61107": {
       "Cuid": 61107,
       "Errld": 61107,
-      "LangStringTable": {
-        "Errmsg": "等級不足"
-      }
+      "Errmsg": "等級不足",
+      "Nazo": 0
     },
     "61108": {
       "Cuid": 61108,
       "Errld": 61108,
-      "LangStringTable": {
-        "Errmsg": "該大洲暫未解鎖，請先壓制其他大洲"
-      }
+      "Errmsg": "該大洲暫未解鎖，請先壓制其他大洲",
+      "Nazo": 0
     },
     "61121": {
       "Cuid": 61121,
       "Errld": 61121,
-      "LangStringTable": {
-        "Errmsg": "該港口本日已達壓制次數上限"
-      }
+      "Errmsg": "該港口本日已達壓制次數上限",
+      "Nazo": 0
     },
     "61122": {
       "Cuid": 61122,
       "Errld": 61122,
-      "LangStringTable": {
-        "Errmsg": "戰鬥失敗，關閉自動打撈"
-      }
+      "Errmsg": "戰鬥失敗，關閉自動打撈",
+      "Nazo": 0
     },
     "61123": {
       "Cuid": 61123,
       "Errld": 61123,
-      "LangStringTable": {
-        "Errmsg": "完成了{0}次自動打撈，自動打撈結束"
-      }
+      "Errmsg": "完成了{0}次自動打撈，自動打撈結束",
+      "Nazo": 0
     },
     "61124": {
       "Cuid": 61124,
       "Errld": 61124,
-      "LangStringTable": {
-        "Errmsg": "自動打撈關閉"
-      }
+      "Errmsg": "自動打撈關閉",
+      "Nazo": 0
+    },
+    "61130": {
+      "Cuid": 61130,
+      "Errld": 61130,
+      "Errmsg": "沒有可領取的經驗！",
+      "Nazo": 0
+    },
+    "61131": {
+      "Cuid": 61131,
+      "Errld": 61131,
+      "Errmsg": "打撈編隊沒有人偶！",
+      "Nazo": 0
     },
     "61201": {
       "Cuid": 61201,
       "Errld": 61201,
-      "LangStringTable": {
-        "Errmsg": "首儲獎勵已領取"
-      }
+      "Errmsg": "首儲獎勵已領取",
+      "Nazo": 0
     },
     "61202": {
       "Cuid": 61202,
       "Errld": 61202,
-      "LangStringTable": {
-        "Errmsg": "未達到領取條件"
-      }
+      "Errmsg": "未達到領取條件",
+      "Nazo": 0
     },
     "61203": {
       "Cuid": 61203,
       "Errld": 61203,
-      "LangStringTable": {
-        "Errmsg": "活動已結束，感謝您的參與"
-      }
+      "Errmsg": "活動已結束，感謝您的參與",
+      "Nazo": 0
     },
     "61204": {
       "Cuid": 61204,
       "Errld": 61204,
-      "LangStringTable": {
-        "Errmsg": "活動異常"
-      }
+      "Errmsg": "活動異常",
+      "Nazo": 0
     },
     "61205": {
       "Cuid": 61205,
       "Errld": 61205,
-      "LangStringTable": {
-        "Errmsg": "已使用過同種兌換碼"
-      }
+      "Errmsg": "已使用過同種兌換碼",
+      "Nazo": 0
     },
     "62001": {
       "Cuid": 62001,
       "Errld": 62001,
-      "LangStringTable": {
-        "Errmsg": "已經反對過該條評論，不能再點啦"
-      }
+      "Errmsg": "已經反對過該條評論，不能再點啦",
+      "Nazo": 0
     },
     "62002": {
       "Cuid": 62002,
       "Errld": 62002,
-      "LangStringTable": {
-        "Errmsg": "您今日的反對權限次數已用完"
-      }
+      "Errmsg": "您今日的反對權限次數已用完",
+      "Nazo": 0
     },
     "62003": {
       "Cuid": 62003,
       "Errld": 62003,
-      "LangStringTable": {
-        "Errmsg": "該評論已被清除，感謝您對評論區的維護"
-      }
+      "Errmsg": "該評論已被清除，感謝您對評論區的維護",
+      "Nazo": 0
     },
     "62101": {
       "Cuid": 62101,
       "Errld": 62101,
-      "LangStringTable": {
-        "Errmsg": "評論發布失敗"
-      }
+      "Errmsg": "評論發布失敗",
+      "Nazo": 0
     },
     "63000": {
       "Cuid": 63000,
       "Errld": 63000,
-      "LangStringTable": {
-        "Errmsg": "與伺服器不同步"
-      }
+      "Errmsg": "與伺服器不同步",
+      "Nazo": 0
     },
     "63001": {
       "Cuid": 63001,
       "Errld": 63001,
-      "LangStringTable": {
-        "Errmsg": "參數為空"
-      }
+      "Errmsg": "參數為空",
+      "Nazo": 0
     },
     "63002": {
       "Cuid": 63002,
       "Errld": 63002,
-      "LangStringTable": {
-        "Errmsg": "數量不足"
-      }
+      "Errmsg": "數量不足",
+      "Nazo": 0
     },
     "63003": {
       "Cuid": 63003,
       "Errld": 63003,
-      "LangStringTable": {
-        "Errmsg": "人偶ID不存在"
-      }
+      "Errmsg": "人偶ID不存在",
+      "Nazo": 0
     },
     "63004": {
       "Cuid": 63004,
       "Errld": 63004,
-      "LangStringTable": {
-        "Errmsg": "配置資料不存在"
-      }
+      "Errmsg": "配置資料不存在",
+      "Nazo": 0
     },
     "63005": {
       "Cuid": 63005,
       "Errld": 63005,
-      "LangStringTable": {
-        "Errmsg": "未達到使用條件"
-      }
+      "Errmsg": "未達到使用條件",
+      "Nazo": 0
     },
     "63006": {
       "Cuid": 63006,
       "Errld": 63006,
-      "LangStringTable": {
-        "Errmsg": "素材數量不足"
-      }
+      "Errmsg": "素材數量不足",
+      "Nazo": 0
     },
     "63007": {
       "Cuid": 63007,
       "Errld": 63007,
-      "LangStringTable": {
-        "Errmsg": "素材ID不符合條件"
-      }
+      "Errmsg": "素材ID不符合條件",
+      "Nazo": 0
     },
     "63008": {
       "Cuid": 63008,
       "Errld": 63008,
-      "LangStringTable": {
-        "Errmsg": "已突破至最高星級"
-      }
+      "Errmsg": "已突破至最高星級",
+      "Nazo": 0
     },
     "63009": {
       "Cuid": 63009,
       "Errld": 63009,
-      "LangStringTable": {
-        "Errmsg": "已達最高等級，無法繼續獲取經驗"
-      }
+      "Errmsg": "已達最高等級，無法繼續獲取經驗",
+      "Nazo": 0
     },
     "63010": {
       "Cuid": 63010,
       "Errld": 63010,
-      "LangStringTable": {
-        "Errmsg": "非法參數"
-      }
+      "Errmsg": "非法參數",
+      "Nazo": 0
     },
     "63011": {
       "Cuid": 63011,
       "Errld": 63011,
-      "LangStringTable": {
-        "Errmsg": "技能尚未解鎖"
-      }
+      "Errmsg": "技能尚未解鎖",
+      "Nazo": 0
     },
     "63012": {
       "Cuid": 63012,
       "Errld": 63012,
-      "LangStringTable": {
-        "Errmsg": "已達最高等級"
-      }
+      "Errmsg": "已達最高等級",
+      "Nazo": 0
     },
     "63013": {
       "Cuid": 63013,
       "Errld": 63013,
-      "LangStringTable": {
-        "Errmsg": "已解鎖深海化權限"
-      }
+      "Errmsg": "已解鎖深海化權限",
+      "Nazo": 0
     },
     "63014": {
       "Cuid": 63014,
       "Errld": 63014,
-      "LangStringTable": {
-        "Errmsg": "暫未解鎖深海化權限"
-      }
+      "Errmsg": "暫未解鎖深海化權限",
+      "Nazo": 0
     },
     "63015": {
       "Cuid": 63015,
       "Errld": 63015,
-      "LangStringTable": {
-        "Errmsg": "不能分解該人偶"
-      }
+      "Errmsg": "不能分解該人偶",
+      "Nazo": 0
     },
     "63016": {
       "Cuid": 63016,
       "Errld": 63016,
-      "LangStringTable": {
-        "Errmsg": "人偶巡航中，無法進行培養"
-      }
+      "Errmsg": "人偶出擊中，無法進行操作",
+      "Nazo": 0
     },
     "63017": {
       "Cuid": 63017,
       "Errld": 63017,
-      "LangStringTable": {
-        "Errmsg": "人偶已鎖定"
-      }
+      "Errmsg": "人偶已鎖定",
+      "Nazo": 0
     },
     "63018": {
       "Cuid": 63018,
       "Errld": 63018,
-      "LangStringTable": {
-        "Errmsg": "劇情已解鎖"
-      }
+      "Errmsg": "劇情已解鎖",
+      "Nazo": 0
     },
     "63019": {
       "Cuid": 63019,
       "Errld": 63019,
-      "LangStringTable": {
-        "Errmsg": "裝備尚未解鎖"
-      }
+      "Errmsg": "裝備尚未解鎖",
+      "Nazo": 0
     },
     "63020": {
       "Cuid": 63020,
       "Errld": 63020,
-      "LangStringTable": {
-        "Errmsg": "暫未開放該欄位"
-      }
+      "Errmsg": "暫未開放該欄位",
+      "Nazo": 0
     },
     "63021": {
       "Cuid": 63021,
       "Errld": 63021,
-      "LangStringTable": {
-        "Errmsg": "相同的裝備"
-      }
+      "Errmsg": "相同的裝備",
+      "Nazo": 0
     },
     "63022": {
       "Cuid": 63022,
       "Errld": 63022,
-      "LangStringTable": {
-        "Errmsg": "裝備的欄位有誤"
-      }
+      "Errmsg": "裝備的欄位有誤",
+      "Nazo": 0
     },
     "63023": {
       "Cuid": 63023,
       "Errld": 63023,
-      "LangStringTable": {
-        "Errmsg": "裝備對應艦種有誤"
-      }
+      "Errmsg": "裝備對應艦種有誤",
+      "Nazo": 0
     },
     "63024": {
       "Cuid": 63024,
       "Errld": 63024,
-      "LangStringTable": {
-        "Errmsg": "今日購買次數已達上限"
-      }
+      "Errmsg": "今日購買次數已達上限",
+      "Nazo": 0
     },
     "63025": {
       "Cuid": 63025,
       "Errld": 63025,
-      "LangStringTable": {
-        "Errmsg": "該任務不存在"
-      }
+      "Errmsg": "該任務不存在",
+      "Nazo": 0
     },
     "63026": {
       "Cuid": 63026,
       "Errld": 63026,
-      "LangStringTable": {
-        "Errmsg": "該任務已過期"
-      }
+      "Errmsg": "該任務已過期",
+      "Nazo": 0
     },
     "63027": {
       "Cuid": 63027,
       "Errld": 63027,
-      "LangStringTable": {
-        "Errmsg": "任務尚未完成"
-      }
+      "Errmsg": "任務尚未完成",
+      "Nazo": 0
     },
     "63028": {
       "Cuid": 63028,
       "Errld": 63028,
-      "LangStringTable": {
-        "Errmsg": "物品已鎖定"
-      }
+      "Errmsg": "物品已鎖定",
+      "Nazo": 0
     },
     "63029": {
       "Cuid": 63029,
       "Errld": 63029,
-      "LangStringTable": {
-        "Errmsg": "該物品不能出售"
-      }
+      "Errmsg": "該物品不能出售",
+      "Nazo": 0
     },
     "63030": {
       "Cuid": 63030,
       "Errld": 63030,
-      "LangStringTable": {
-        "Errmsg": "該物品不能拆解"
-      }
+      "Errmsg": "該物品不能拆解",
+      "Nazo": 0
     },
     "63031": {
       "Cuid": 63031,
       "Errld": 63031,
-      "LangStringTable": {
-        "Errmsg": "好感度不足"
-      }
+      "Errmsg": "好感度不足",
+      "Nazo": 0
     },
     "63032": {
       "Cuid": 63032,
       "Errld": 63032,
-      "LangStringTable": {
-        "Errmsg": "已達單次操作數量上限"
-      }
+      "Errmsg": "已達單次操作數量上限",
+      "Nazo": 0
     },
     "63033": {
       "Cuid": 63033,
       "Errld": 63033,
-      "LangStringTable": {
-        "Errmsg": "您已加入聯盟【{$1}】"
-      }
+      "Errmsg": "您已加入聯盟【{$1}】",
+      "Nazo": 0
     },
     "63034": {
       "Cuid": 63034,
       "Errld": 63034,
-      "LangStringTable": {
-        "Errmsg": "創建聯盟失敗"
-      }
+      "Errmsg": "創建聯盟失敗",
+      "Nazo": 0
     },
     "63035": {
       "Cuid": 63035,
       "Errld": 63035,
-      "LangStringTable": {
-        "Errmsg": "已發送聯盟申請"
-      }
+      "Errmsg": "已發送聯盟申請",
+      "Nazo": 0
     },
     "63036": {
       "Cuid": 63036,
       "Errld": 63036,
-      "LangStringTable": {
-        "Errmsg": "聯盟不存在"
-      }
+      "Errmsg": "聯盟不存在",
+      "Nazo": 0
     },
     "63037": {
       "Cuid": 63037,
       "Errld": 63037,
-      "LangStringTable": {
-        "Errmsg": "尚未加入聯盟"
-      }
+      "Errmsg": "尚未加入聯盟",
+      "Nazo": 0
     },
     "63038": {
       "Cuid": 63038,
       "Errld": 63038,
-      "LangStringTable": {
-        "Errmsg": "退出聯盟失敗"
-      }
+      "Errmsg": "退出聯盟失敗",
+      "Nazo": 0
     },
     "63039": {
       "Cuid": 63039,
       "Errld": 63039,
-      "LangStringTable": {
-        "Errmsg": "聯盟成員已滿"
-      }
+      "Errmsg": "聯盟成員已滿",
+      "Nazo": 0
     },
     "63040": {
       "Cuid": 63040,
       "Errld": 63040,
-      "LangStringTable": {
-        "Errmsg": "未滿足聯盟創建條件"
-      }
+      "Errmsg": "未滿足聯盟創建條件",
+      "Nazo": 0
     },
     "63041": {
       "Cuid": 63041,
       "Errld": 63041,
-      "LangStringTable": {
-        "Errmsg": "未滿足加入聯盟條件"
-      }
+      "Errmsg": "未滿足加入聯盟條件",
+      "Nazo": 0
     },
     "63042": {
       "Cuid": 63042,
       "Errld": 63042,
-      "LangStringTable": {
-        "Errmsg": "權限不足，無法執行該操作"
-      }
+      "Errmsg": "權限不足，無法執行該操作",
+      "Nazo": 0
     },
     "63043": {
       "Cuid": 63043,
       "Errld": 63043,
-      "LangStringTable": {
-        "Errmsg": "聯盟名稱最長6個中文字或12個字元"
-      }
+      "Errmsg": "聯盟名稱最長6個中文字或12個字元",
+      "Nazo": 0
     },
     "63044": {
       "Cuid": 63044,
       "Errld": 63044,
-      "LangStringTable": {
-        "Errmsg": "聯盟宣言最多25個中文字或50個字元"
-      }
+      "Errmsg": "聯盟宣言最多25個中文字或50個字元",
+      "Nazo": 0
     },
     "63045": {
       "Cuid": 63045,
       "Errld": 63045,
-      "LangStringTable": {
-        "Errmsg": "聯盟標籤不符合規範！"
-      }
+      "Errmsg": "聯盟標籤不符合規範！",
+      "Nazo": 0
     },
     "63046": {
       "Cuid": 63046,
       "Errld": 63046,
-      "LangStringTable": {
-        "Errmsg": "無移除權限"
-      }
+      "Errmsg": "無移除權限",
+      "Nazo": 0
     },
     "63047": {
       "Cuid": 63047,
       "Errld": 63047,
-      "LangStringTable": {
-        "Errmsg": "該職務人數已滿"
-      }
+      "Errmsg": "該職務人數已滿",
+      "Nazo": 0
     },
     "63048": {
       "Cuid": 63048,
       "Errld": 63048,
-      "LangStringTable": {
-        "Errmsg": "該外觀與人偶不相容"
-      }
+      "Errmsg": "該外觀與人偶不相容",
+      "Nazo": 0
     },
     "63049": {
       "Cuid": 63049,
       "Errld": 63049,
-      "LangStringTable": {
-        "Errmsg": "尚未獲得該外觀"
-      }
+      "Errmsg": "尚未獲得該外觀",
+      "Nazo": 0
     },
     "63050": {
       "Cuid": 63050,
       "Errld": 63050,
-      "LangStringTable": {
-        "Errmsg": "外觀更換失敗"
-      }
+      "Errmsg": "外觀更換失敗",
+      "Nazo": 0
     },
     "63051": {
       "Cuid": 63051,
       "Errld": 63051,
-      "LangStringTable": {
-        "Errmsg": "資訊沒有任何修改，無需儲存"
-      }
+      "Errmsg": "資訊沒有任何修改，無需儲存",
+      "Nazo": 0
     },
     "63052": {
       "Cuid": 63052,
       "Errld": 63052,
-      "LangStringTable": {
-        "Errmsg": "轉移目標未滿足司令條件"
-      }
+      "Errmsg": "轉移目標未滿足司令條件",
+      "Nazo": 0
     },
     "63053": {
       "Cuid": 63053,
       "Errld": 63053,
-      "LangStringTable": {
-        "Errmsg": "CD中，無法轉移司令職位"
-      }
+      "Errmsg": "CD中，無法轉移司令職位",
+      "Nazo": 0
     },
     "63054": {
       "Cuid": 63054,
       "Errld": 63054,
-      "LangStringTable": {
-        "Errmsg": "已擁有該外觀"
-      }
+      "Errmsg": "已擁有該外觀",
+      "Nazo": 0
     },
     "63055": {
       "Cuid": 63055,
       "Errld": 63055,
-      "LangStringTable": {
-        "Errmsg": "調試任務"
-      }
+      "Errmsg": "調試任務",
+      "Nazo": 0
     },
     "63056": {
       "Cuid": 63056,
       "Errld": 63056,
-      "LangStringTable": {
-        "Errmsg": "戰鬥資料獲取失敗"
-      }
+      "Errmsg": "戰鬥資料獲取失敗",
+      "Nazo": 0
     },
     "63057": {
       "Cuid": 63057,
       "Errld": 63057,
-      "LangStringTable": {
-        "Errmsg": "戰鬥伺服器發送資料失敗"
-      }
+      "Errmsg": "戰鬥伺服器發送資料失敗",
+      "Nazo": 0
     },
     "63058": {
       "Cuid": 63058,
       "Errld": 63058,
-      "LangStringTable": {
-        "Errmsg": "戰鬥伺服器接收資料失敗"
-      }
+      "Errmsg": "戰鬥伺服器接收資料失敗",
+      "Nazo": 0
     },
     "63059": {
       "Cuid": 63059,
       "Errld": 63059,
-      "LangStringTable": {
-        "Errmsg": "戰鬥伺服器接收資料格式錯誤"
-      }
+      "Errmsg": "戰鬥伺服器接收資料格式錯誤",
+      "Nazo": 0
     },
     "63060": {
       "Cuid": 63060,
       "Errld": 63060,
-      "LangStringTable": {
-        "Errmsg": "socket創建失敗"
-      }
+      "Errmsg": "socket創建失敗",
+      "Nazo": 0
     },
     "63061": {
       "Cuid": 63061,
       "Errld": 63061,
-      "LangStringTable": {
-        "Errmsg": "功能調整中，接口暫時無法使用"
-      }
+      "Errmsg": "功能調整中，接口暫時無法使用",
+      "Nazo": 0
     },
     "63062": {
       "Cuid": 63062,
       "Errld": 63062,
-      "LangStringTable": {
-        "Errmsg": "新手引導參數錯誤"
-      }
+      "Errmsg": "新手引導參數錯誤",
+      "Nazo": 0
     },
     "63063": {
       "Cuid": 63063,
       "Errld": 63063,
-      "LangStringTable": {
-        "Errmsg": "新手引導配置錯誤"
-      }
+      "Errmsg": "新手引導配置錯誤",
+      "Nazo": 0
     },
     "63064": {
       "Cuid": 63064,
       "Errld": 63064,
-      "LangStringTable": {
-        "Errmsg": "批量出售道具超過上限"
-      }
+      "Errmsg": "批量出售道具超過上限",
+      "Nazo": 0
     },
     "63070": {
       "Cuid": 63070,
       "Errld": 63070,
-      "LangStringTable": {
-        "Errmsg": "素材過多"
-      }
+      "Errmsg": "素材過多",
+      "Nazo": 0
     },
     "63071": {
       "Cuid": 63071,
       "Errld": 63071,
-      "LangStringTable": {
-        "Errmsg": "標籤長度不得超過{$1}個字"
-      }
+      "Errmsg": "標籤長度不得超過{$1}個字",
+      "Nazo": 0
     },
     "63072": {
       "Cuid": 63072,
       "Errld": 63072,
-      "LangStringTable": {
-        "Errmsg": "該裝備為專屬裝備，僅供特定人偶穿戴"
-      }
+      "Errmsg": "該裝備為專屬裝備，僅供特定人偶穿戴",
+      "Nazo": 0
     },
     "63073": {
       "Cuid": 63073,
       "Errld": 63073,
-      "LangStringTable": {
-        "Errmsg": "外觀資源尚未送達，敬請期待"
-      }
+      "Errmsg": "外觀資源尚未送達，敬請期待",
+      "Nazo": 0
     },
     "63100": {
       "Cuid": 63100,
       "Errld": 63100,
-      "LangStringTable": {
-        "Errmsg": "人偶數量已達上限，請前往船塢整理"
-      }
+      "Errmsg": "人偶數量已達上限，請前往船塢整理",
+      "Nazo": 0
     },
     "63103": {
       "Cuid": 63103,
       "Errld": 63103,
-      "LangStringTable": {
-        "Errmsg": "該隊列已解鎖，無需重複操作"
-      }
+      "Errmsg": "該隊列已解鎖，無需重複操作",
+      "Nazo": 0
     },
     "63104": {
       "Cuid": 63104,
       "Errld": 63104,
-      "LangStringTable": {
-        "Errmsg": "招募隊列可用數量不足"
-      }
+      "Errmsg": "招募隊列可用數量不足",
+      "Nazo": 0
     },
     "63105": {
       "Cuid": 63105,
       "Errld": 63105,
-      "LangStringTable": {
-        "Errmsg": "招募資料配置有誤"
-      }
+      "Errmsg": "招募資料配置有誤",
+      "Nazo": 0
     },
     "63106": {
       "Cuid": 63106,
       "Errld": 63106,
-      "LangStringTable": {
-        "Errmsg": "非正確操作"
-      }
+      "Errmsg": "非正確操作",
+      "Nazo": 0
     },
     "63107": {
       "Cuid": 63107,
       "Errld": 63107,
-      "LangStringTable": {
-        "Errmsg": "招募出的人偶ID在表中不存在"
-      }
+      "Errmsg": "招募出的人偶ID在表中不存在",
+      "Nazo": 0
     },
     "63108": {
       "Cuid": 63108,
       "Errld": 63108,
-      "LangStringTable": {
-        "Errmsg": "完成隊列已滿，請及時領取"
-      }
+      "Errmsg": "完成隊列已滿，請及時領取",
+      "Nazo": 0
     },
     "63109": {
       "Cuid": 63109,
       "Errld": 63109,
-      "LangStringTable": {
-        "Errmsg": "隊列已完成，無需加速"
-      }
+      "Errmsg": "隊列已完成，無需加速",
+      "Nazo": 0
     },
     "63110": {
       "Cuid": 63110,
       "Errld": 63110,
-      "LangStringTable": {
-        "Errmsg": "擴展隊列超過上限"
-      }
+      "Errmsg": "擴展隊列超過上限",
+      "Nazo": 0
     },
     "63111": {
       "Cuid": 63111,
       "Errld": 63111,
-      "LangStringTable": {
-        "Errmsg": "卡池未開啟"
-      }
+      "Errmsg": "卡池未開啟",
+      "Nazo": 0
     },
     "63112": {
       "Cuid": 63112,
       "Errld": 63112,
-      "LangStringTable": {
-        "Errmsg": "卡池已關閉"
-      }
+      "Errmsg": "卡池已關閉",
+      "Nazo": 0
     },
     "63113": {
       "Cuid": 63113,
       "Errld": 63113,
-      "LangStringTable": {
-        "Errmsg": "該卡池已達最大抽卡上限"
-      }
+      "Errmsg": "該卡池已達最大抽卡上限",
+      "Nazo": 0
     },
     "63200": {
       "Cuid": 63200,
       "Errld": 63200,
-      "LangStringTable": {
-        "Errmsg": "超過最長代號字數，無法識別"
-      }
+      "Errmsg": "超過最長代號字數，無法識別",
+      "Nazo": 0
     },
     "63201": {
       "Cuid": 63201,
       "Errld": 63201,
-      "LangStringTable": {
-        "Errmsg": "代號中含有禁止字！"
-      }
+      "Errmsg": "代號中含有禁止字！",
+      "Nazo": 0
     },
     "63202": {
       "Cuid": 63202,
       "Errld": 63202,
-      "LangStringTable": {
-        "Errmsg": "簽名中含有禁止字！"
-      }
+      "Errmsg": "簽名中含有禁止字！",
+      "Nazo": 0
     },
     "63203": {
       "Cuid": 63203,
       "Errld": 63203,
-      "LangStringTable": {
-        "Errmsg": "代號未修改"
-      }
+      "Errmsg": "代號未修改",
+      "Nazo": 0
     },
     "63204": {
       "Cuid": 63204,
       "Errld": 63204,
-      "LangStringTable": {
-        "Errmsg": "代號已存在"
-      }
+      "Errmsg": "代號已存在",
+      "Nazo": 0
     },
     "63205": {
       "Cuid": 63205,
       "Errld": 63205,
-      "LangStringTable": {
-        "Errmsg": "最多輸入18字喔"
-      }
+      "Errmsg": "最多輸入18字喔",
+      "Nazo": 0
     },
     "63206": {
       "Cuid": 63206,
       "Errld": 63206,
-      "LangStringTable": {
-        "Errmsg": "簡介未修改"
-      }
+      "Errmsg": "簡介未修改",
+      "Nazo": 0
     },
     "63207": {
       "Cuid": 63207,
       "Errld": 63207,
-      "LangStringTable": {
-        "Errmsg": "大頭貼不存在"
-      }
+      "Errmsg": "大頭貼不存在",
+      "Nazo": 0
     },
     "63208": {
       "Cuid": 63208,
       "Errld": 63208,
-      "LangStringTable": {
-        "Errmsg": "大頭貼未更換"
-      }
+      "Errmsg": "大頭貼未更換",
+      "Nazo": 0
     },
     "64001": {
       "Cuid": 64001,
       "Errld": 64001,
-      "LangStringTable": {
-        "Errmsg": "編隊資訊為空"
-      }
+      "Errmsg": "編隊資訊為空",
+      "Nazo": 0
     },
     "64002": {
       "Cuid": 64002,
       "Errld": 64002,
-      "LangStringTable": {
-        "Errmsg": "編隊解散失敗，請重試"
-      }
+      "Errmsg": "編隊解散失敗，請重試",
+      "Nazo": 0
     },
     "64003": {
       "Cuid": 64003,
       "Errld": 64003,
-      "LangStringTable": {
-        "Errmsg": "編隊名稱變更失敗"
-      }
+      "Errmsg": "編隊名稱變更失敗",
+      "Nazo": 0
     },
     "64004": {
       "Cuid": 64004,
       "Errld": 64004,
-      "LangStringTable": {
-        "Errmsg": "編隊更新失敗"
-      }
+      "Errmsg": "編隊更新失敗",
+      "Nazo": 0
     },
     "64005": {
       "Cuid": 64005,
       "Errld": 64005,
-      "LangStringTable": {
-        "Errmsg": "編隊初始化失敗"
-      }
+      "Errmsg": "編隊初始化失敗",
+      "Nazo": 0
     },
     "64006": {
       "Cuid": 64006,
       "Errld": 64006,
-      "LangStringTable": {
-        "Errmsg": "編隊人偶更新失敗"
-      }
+      "Errmsg": "編隊人偶更新失敗",
+      "Nazo": 0
     },
     "64007": {
       "Cuid": 64007,
       "Errld": 64007,
-      "LangStringTable": {
-        "Errmsg": "編隊人偶未發生變動"
-      }
+      "Errmsg": "編隊人偶未發生變動",
+      "Nazo": 0
     },
     "64008": {
       "Cuid": 64008,
       "Errld": 64008,
-      "LangStringTable": {
-        "Errmsg": "編隊人偶位置拖動失敗"
-      }
+      "Errmsg": "編隊人偶位置拖動失敗",
+      "Nazo": 0
     },
     "64009": {
       "Cuid": 64009,
       "Errld": 64009,
-      "LangStringTable": {
-        "Errmsg": "編隊人偶位置資訊錯誤"
-      }
+      "Errmsg": "編隊人偶位置資訊錯誤",
+      "Nazo": 0
     },
     "64010": {
       "Cuid": 64010,
       "Errld": 64010,
-      "LangStringTable": {
-        "Errmsg": "編隊狀態更新失敗"
-      }
+      "Errmsg": "編隊狀態更新失敗",
+      "Nazo": 0
     },
     "64011": {
       "Cuid": 64011,
       "Errld": 64011,
-      "LangStringTable": {
-        "Errmsg": "目前人偶出戰或整備中，不可改變編隊"
-      }
+      "Errmsg": "目前人偶出戰或整備中，不可改變編隊",
+      "Nazo": 0
     },
     "64012": {
       "Cuid": 64012,
       "Errld": 64012,
-      "LangStringTable": {
-        "Errmsg": "參數錯誤"
-      }
+      "Errmsg": "參數錯誤",
+      "Nazo": 0
     },
     "64013": {
       "Cuid": 64013,
       "Errld": 64013,
-      "LangStringTable": {
-        "Errmsg": "不符合編隊規則"
-      }
+      "Errmsg": "不符合編隊規則",
+      "Nazo": 0
     },
     "64014": {
       "Cuid": 64014,
       "Errld": 64014,
-      "LangStringTable": {
-        "Errmsg": "隊伍名含有禁止字！"
-      }
+      "Errmsg": "隊伍名含有禁止字！",
+      "Nazo": 0
     },
     "64015": {
       "Cuid": 64015,
       "Errld": 64015,
-      "LangStringTable": {
-        "Errmsg": "旗艦不能下陣"
-      }
+      "Errmsg": "旗艦不能下陣",
+      "Nazo": 0
     },
     "64016": {
       "Cuid": 64016,
       "Errld": 64016,
-      "LangStringTable": {
-        "Errmsg": "編隊序列已達上限，無法繼續擴展"
-      }
+      "Errmsg": "編隊序列已達上限，無法繼續擴展",
+      "Nazo": 0
     },
     "64017": {
       "Cuid": 64017,
       "Errld": 64017,
-      "LangStringTable": {
-        "Errmsg": "整備隊列已達上限，無法繼續擴展"
-      }
+      "Errmsg": "整備隊列已達上限，無法繼續擴展",
+      "Nazo": 0
     },
     "64018": {
       "Cuid": 64018,
       "Errld": 64018,
-      "LangStringTable": {
-        "Errmsg": "艙位已達上限，無法繼續擴展"
-      }
+      "Errmsg": "艙位已達上限，無法繼續擴展",
+      "Nazo": 0
     },
     "64019": {
       "Cuid": 64019,
       "Errld": 64019,
-      "LangStringTable": {
-        "Errmsg": "訂單隊列已達上限，無法繼續擴展"
-      }
+      "Errmsg": "訂單隊列已達上限，無法繼續擴展",
+      "Nazo": 0
     },
     "65001": {
       "Cuid": 65001,
       "Errld": 65001,
-      "LangStringTable": {
-        "Errmsg": "已購買月卡"
-      }
+      "Errmsg": "已購買月卡",
+      "Nazo": 0
     },
     "65002": {
       "Cuid": 65002,
       "Errld": 65002,
-      "LangStringTable": {
-        "Errmsg": "該貿易港尚未開啟"
-      }
+      "Errmsg": "該貿易港尚未開啟",
+      "Nazo": 0
     },
     "65003": {
       "Cuid": 65003,
       "Errld": 65003,
-      "LangStringTable": {
-        "Errmsg": "該商品尚未上架"
-      }
+      "Errmsg": "該商品尚未上架",
+      "Nazo": 0
     },
     "65004": {
       "Cuid": 65004,
       "Errld": 65004,
-      "LangStringTable": {
-        "Errmsg": "該商品購買數量已達上限"
-      }
+      "Errmsg": "該商品購買數量已達上限",
+      "Nazo": 0
     },
     "65005": {
       "Cuid": 65005,
       "Errld": 65005,
-      "LangStringTable": {
-        "Errmsg": "交易已過期或尚未創建"
-      }
+      "Errmsg": "交易已過期或尚未創建",
+      "Nazo": 0
     },
     "65006": {
       "Cuid": 65006,
       "Errld": 65006,
-      "LangStringTable": {
-        "Errmsg": "該時裝已經下架"
-      }
+      "Errmsg": "該時裝已經下架",
+      "Nazo": 0
     },
     "66001": {
       "Cuid": 66001,
       "Errld": 66001,
-      "LangStringTable": {
-        "Errmsg": "不在活動期內"
-      }
+      "Errmsg": "不在活動期內",
+      "Nazo": 0
     },
     "66002": {
       "Cuid": 66002,
       "Errld": 66002,
-      "LangStringTable": {
-        "Errmsg": "等級尚未達到領取要求"
-      }
+      "Errmsg": "等級尚未達到領取要求",
+      "Nazo": 0
     },
     "66003": {
       "Cuid": 66003,
       "Errld": 66003,
-      "LangStringTable": {
-        "Errmsg": "沒有可領的獎勵"
-      }
+      "Errmsg": "沒有可領的獎勵",
+      "Nazo": 0
     },
     "66004": {
       "Cuid": 66004,
       "Errld": 66004,
-      "LangStringTable": {
-        "Errmsg": "已購買通行證"
-      }
+      "Errmsg": "已購買通行證",
+      "Nazo": 0
     },
     "66005": {
       "Cuid": 66005,
       "Errld": 66005,
-      "LangStringTable": {
-        "Errmsg": "投票目標不存在"
-      }
+      "Errmsg": "投票目標不存在",
+      "Nazo": 0
     },
     "66006": {
       "Cuid": 66006,
       "Errld": 66006,
-      "LangStringTable": {
-        "Errmsg": "持有票數不夠"
-      }
+      "Errmsg": "持有票數不夠",
+      "Nazo": 0
     },
     "66007": {
       "Cuid": 66007,
       "Errld": 66007,
-      "LangStringTable": {
-        "Errmsg": "不在投票時間內"
-      }
+      "Errmsg": "不在投票時間內",
+      "Nazo": 0
     },
     "67001": {
       "Cuid": 67001,
       "Errld": 67001,
-      "LangStringTable": {
-        "Errmsg": "佈局儲存失敗"
-      }
+      "Errmsg": "佈局儲存失敗",
+      "Nazo": 0
     },
     "67002": {
       "Cuid": 67002,
       "Errld": 67002,
-      "LangStringTable": {
-        "Errmsg": "人偶放置儲存失敗"
-      }
+      "Errmsg": "人偶放置儲存失敗",
+      "Nazo": 0
     },
     "67003": {
       "Cuid": 67003,
       "Errld": 67003,
-      "LangStringTable": {
-        "Errmsg": "房間不存在"
-      }
+      "Errmsg": "房間不存在",
+      "Nazo": 0
     },
     "67004": {
       "Cuid": 67004,
       "Errld": 67004,
-      "LangStringTable": {
-        "Errmsg": "人偶放置數量超過房間上限"
-      }
+      "Errmsg": "人偶放置數量超過房間上限",
+      "Nazo": 0
     },
     "67005": {
       "Cuid": 67005,
       "Errld": 67005,
-      "LangStringTable": {
-        "Errmsg": "人偶重複放置"
-      }
+      "Errmsg": "人偶重複放置",
+      "Nazo": 0
     },
     "67006": {
       "Cuid": 67006,
       "Errld": 67006,
-      "LangStringTable": {
-        "Errmsg": "人偶不存在"
-      }
+      "Errmsg": "人偶不存在",
+      "Nazo": 0
     },
     "67007": {
       "Cuid": 67007,
       "Errld": 67007,
-      "LangStringTable": {
-        "Errmsg": "人偶已放置在其他房間"
-      }
+      "Errmsg": "人偶已放置在其他房間",
+      "Nazo": 0
     },
     "67101": {
       "Cuid": 67101,
       "Errld": 67101,
-      "LangStringTable": {
-        "Errmsg": "好友已離開房間"
-      }
+      "Errmsg": "好友已離開房間",
+      "Nazo": 0
     },
     "67102": {
       "Cuid": 67102,
       "Errld": 67102,
-      "LangStringTable": {
-        "Errmsg": "好友忙碌中，無法接受互動請求"
-      }
+      "Errmsg": "好友忙碌中，無法接受互動請求",
+      "Nazo": 0
     },
     "67104": {
       "Cuid": 67104,
       "Errld": 67104,
-      "LangStringTable": {
-        "Errmsg": "有待處理的互動請求"
-      }
+      "Errmsg": "有待處理的互動請求",
+      "Nazo": 0
     },
     "67105": {
       "Cuid": 67105,
       "Errld": 67105,
-      "LangStringTable": {
-        "Errmsg": "處於互動CD中，無法互動"
-      }
+      "Errmsg": "處於互動CD中，無法互動",
+      "Nazo": 0
     },
     "67106": {
       "Cuid": 67106,
       "Errld": 67106,
-      "LangStringTable": {
-        "Errmsg": "該位置無法建造裝備"
-      }
+      "Errmsg": "該位置無法建造裝備",
+      "Nazo": 0
     },
     "67107": {
       "Cuid": 67107,
       "Errld": 67107,
-      "LangStringTable": {
-        "Errmsg": "沒有閒置製作台"
-      }
+      "Errmsg": "沒有閒置製作台",
+      "Nazo": 0
     },
     "67108": {
       "Cuid": 67108,
       "Errld": 67108,
-      "LangStringTable": {
-        "Errmsg": "裝備還未完成"
-      }
+      "Errmsg": "裝備還未完成",
+      "Nazo": 0
     },
     "67109": {
       "Cuid": 67109,
       "Errld": 67109,
-      "LangStringTable": {
-        "Errmsg": "沒有可獲取的裝備"
-      }
+      "Errmsg": "沒有可獲取的裝備",
+      "Nazo": 0
     },
     "67110": {
       "Cuid": 67110,
       "Errld": 67110,
-      "LangStringTable": {
-        "Errmsg": "添加家具失敗"
-      }
+      "Errmsg": "添加家具失敗",
+      "Nazo": 0
     },
     "67111": {
       "Cuid": 67111,
       "Errld": 67111,
-      "LangStringTable": {
-        "Errmsg": "該家具無法升級"
-      }
+      "Errmsg": "該家具無法升級",
+      "Nazo": 0
     },
     "67112": {
       "Cuid": 67112,
       "Errld": 67112,
-      "LangStringTable": {
-        "Errmsg": "家具升級出錯"
-      }
+      "Errmsg": "家具升級出錯",
+      "Nazo": 0
     },
     "67113": {
       "Cuid": 67113,
       "Errld": 67113,
-      "LangStringTable": {
-        "Errmsg": "已有家具正在升級中"
-      }
+      "Errmsg": "已有家具正在升級中",
+      "Nazo": 0
     },
     "67114": {
       "Cuid": 67114,
       "Errld": 67114,
-      "LangStringTable": {
-        "Errmsg": "裝備類型錯誤"
-      }
+      "Errmsg": "裝備類型錯誤",
+      "Nazo": 0
     },
     "67115": {
       "Cuid": 67115,
       "Errld": 67115,
-      "LangStringTable": {
-        "Errmsg": "家具升級未完成"
-      }
+      "Errmsg": "家具升級未完成",
+      "Nazo": 0
     },
     "67116": {
       "Cuid": 67116,
       "Errld": 67116,
-      "LangStringTable": {
-        "Errmsg": "房間名過長"
-      }
+      "Errmsg": "房間名過長",
+      "Nazo": 0
     },
     "67117": {
       "Cuid": 67117,
       "Errld": 67117,
-      "LangStringTable": {
-        "Errmsg": "房間名包含禁止字！"
-      }
+      "Errmsg": "房間名包含禁止字！",
+      "Nazo": 0
     },
     "67118": {
       "Cuid": 67118,
       "Errld": 67118,
-      "LangStringTable": {
-        "Errmsg": "房間不存在"
-      }
+      "Errmsg": "房間不存在",
+      "Nazo": 0
     },
     "67119": {
       "Cuid": 67119,
       "Errld": 67119,
-      "LangStringTable": {
-        "Errmsg": "該房間名不可修改"
-      }
+      "Errmsg": "該房間名不可修改",
+      "Nazo": 0
     },
     "67120": {
       "Cuid": 67120,
       "Errld": 67120,
-      "LangStringTable": {
-        "Errmsg": "資料出錯，請稍後再試！"
-      }
+      "Errmsg": "資料出錯，請稍後再試！",
+      "Nazo": 0
     },
     "68001": {
       "Cuid": 68001,
       "Errld": 68001,
-      "LangStringTable": {
-        "Errmsg": "參數錯誤"
-      }
+      "Errmsg": "參數錯誤",
+      "Nazo": 0
     },
     "68002": {
       "Cuid": 68002,
       "Errld": 68002,
-      "LangStringTable": {
-        "Errmsg": "配置資料不存在"
-      }
+      "Errmsg": "配置資料不存在",
+      "Nazo": 0
     },
     "68003": {
       "Cuid": 68003,
       "Errld": 68003,
-      "LangStringTable": {
-        "Errmsg": "資料庫寫入失敗"
-      }
+      "Errmsg": "資料庫寫入失敗",
+      "Nazo": 0
     },
     "68004": {
       "Cuid": 68004,
       "Errld": 68004,
-      "LangStringTable": {
-        "Errmsg": "訂單不存在"
-      }
+      "Errmsg": "訂單不存在",
+      "Nazo": 0
     },
     "68005": {
       "Cuid": 68005,
       "Errld": 68005,
-      "LangStringTable": {
-        "Errmsg": "SDK請求超時"
-      }
+      "Errmsg": "SDK請求超時",
+      "Nazo": 0
     },
     "68006": {
       "Cuid": 68006,
       "Errld": 68006,
-      "LangStringTable": {
-        "Errmsg": "訂單資料異常"
-      }
+      "Errmsg": "訂單資料異常",
+      "Nazo": 0
     },
     "68007": {
       "Cuid": 68007,
       "Errld": 68007,
-      "LangStringTable": {
-        "Errmsg": "更新資料失敗"
-      }
+      "Errmsg": "更新資料失敗",
+      "Nazo": 0
     },
     "68101": {
       "Cuid": 68101,
       "Errld": 68101,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68102": {
       "Cuid": 68102,
       "Errld": 68102,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68103": {
       "Cuid": 68103,
       "Errld": 68103,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68104": {
       "Cuid": 68104,
       "Errld": 68104,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68105": {
       "Cuid": 68105,
       "Errld": 68105,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68106": {
       "Cuid": 68106,
       "Errld": 68106,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68107": {
       "Cuid": 68107,
       "Errld": 68107,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68108": {
       "Cuid": 68108,
       "Errld": 68108,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68109": {
       "Cuid": 68109,
       "Errld": 68109,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68110": {
       "Cuid": 68110,
       "Errld": 68110,
-      "LangStringTable": {
-        "Errmsg": "SDK驗證失敗"
-      }
+      "Errmsg": "SDK驗證失敗",
+      "Nazo": 0
     },
     "68113": {
       "Cuid": 68113,
       "Errld": 68113,
-      "LangStringTable": {
-        "Errmsg": "調用速度過快"
-      }
+      "Errmsg": "調用速度過快",
+      "Nazo": 0
     },
     "68114": {
       "Cuid": 68114,
       "Errld": 68114,
-      "LangStringTable": {
-        "Errmsg": "哎啊，黑潮基地已經人滿為患停止進入了!請關注下次測試哦~"
-      }
+      "Errmsg": "哎啊，黑潮基地已經人滿為患停止進入了!請關注下次測試哦~",
+      "Nazo": 0
     },
     "68115": {
       "Cuid": 68115,
       "Errld": 68115,
-      "LangStringTable": {
-        "Errmsg": "該裝備已接入人偶武裝"
-      }
+      "Errmsg": "該裝備已接入人偶武裝",
+      "Nazo": 0
     },
     "69001": {
       "Cuid": 69001,
       "Errld": 69001,
-      "LangStringTable": {
-        "Errmsg": "祭典活動關閉"
-      }
+      "Errmsg": "祭典活動關閉",
+      "Nazo": 0
     },
     "69002": {
       "Cuid": 69002,
       "Errld": 69002,
-      "LangStringTable": {
-        "Errmsg": "獲取祭典資訊失敗"
-      }
+      "Errmsg": "獲取祭典資訊失敗",
+      "Nazo": 0
     },
     "69003": {
       "Cuid": 69003,
       "Errld": 69003,
-      "LangStringTable": {
-        "Errmsg": "分頁參數傳遞錯誤"
-      }
+      "Errmsg": "分頁參數傳遞錯誤",
+      "Nazo": 0
     },
     "69004": {
       "Cuid": 69004,
       "Errld": 69004,
-      "LangStringTable": {
-        "Errmsg": "購買門票成功，但發放獎勵流程失敗"
-      }
+      "Errmsg": "購買門票成功，但發放獎勵流程失敗",
+      "Nazo": 0
     },
     "69005": {
       "Cuid": 69005,
       "Errld": 69005,
-      "LangStringTable": {
-        "Errmsg": "領取獎勵參數錯誤"
-      }
+      "Errmsg": "領取獎勵參數錯誤",
+      "Nazo": 0
     },
     "69006": {
       "Cuid": 69006,
       "Errld": 69006,
-      "LangStringTable": {
-        "Errmsg": "該獎勵無法領取，需先購買門票"
-      }
+      "Errmsg": "該獎勵無法領取，需先購買門票",
+      "Nazo": 0
     },
     "69007": {
       "Cuid": 69007,
       "Errld": 69007,
-      "LangStringTable": {
-        "Errmsg": "伺服器端異常，領取失敗"
-      }
+      "Errmsg": "伺服器端異常，領取失敗",
+      "Nazo": 0
     },
     "69008": {
       "Cuid": 69008,
       "Errld": 69008,
-      "LangStringTable": {
-        "Errmsg": "伺服器端異常，創建使用者可領紀錄失敗"
-      }
+      "Errmsg": "伺服器端異常，創建使用者可領紀錄失敗",
+      "Nazo": 0
     },
     "69009": {
       "Cuid": 69009,
       "Errld": 69009,
-      "LangStringTable": {
-        "Errmsg": "扣除BP失敗"
-      }
+      "Errmsg": "扣除BP失敗",
+      "Nazo": 0
     },
     "69010": {
       "Cuid": 69010,
       "Errld": 69010,
-      "LangStringTable": {
-        "Errmsg": "獎勵領取失敗"
-      }
+      "Errmsg": "獎勵領取失敗",
+      "Nazo": 0
     },
     "69011": {
       "Cuid": 69011,
       "Errld": 69011,
-      "LangStringTable": {
-        "Errmsg": "該獎勵已領取"
-      }
+      "Errmsg": "該獎勵已領取",
+      "Nazo": 0
     },
     "69012": {
       "Cuid": 69012,
       "Errld": 69012,
-      "LangStringTable": {
-        "Errmsg": "暫無任務可處理"
-      }
+      "Errmsg": "暫無任務可處理",
+      "Nazo": 0
     },
     "69013": {
       "Cuid": 69013,
       "Errld": 69013,
-      "LangStringTable": {
-        "Errmsg": "任務獎勵無法領取"
-      }
+      "Errmsg": "任務獎勵無法領取",
+      "Nazo": 0
     },
     "69014": {
       "Cuid": 69014,
       "Errld": 69014,
-      "LangStringTable": {
-        "Errmsg": "任務獎勵領取失敗"
-      }
+      "Errmsg": "任務獎勵領取失敗",
+      "Nazo": 0
     },
     "69015": {
       "Cuid": 69015,
       "Errld": 69015,
-      "LangStringTable": {
-        "Errmsg": "購買門票失敗"
-      }
+      "Errmsg": "購買門票失敗",
+      "Nazo": 0
     },
     "70001": {
       "Cuid": 70001,
       "Errld": 70001,
-      "LangStringTable": {
-        "Errmsg": "頻道人數已達上限"
-      }
+      "Errmsg": "頻道人數已達上限",
+      "Nazo": 0
     },
     "70002": {
       "Cuid": 70002,
       "Errld": 70002,
-      "LangStringTable": {
-        "Errmsg": "尚未加入任何聯盟，無法加入聯盟聊天"
-      }
+      "Errmsg": "尚未加入任何聯盟，無法加入聯盟聊天",
+      "Nazo": 0
     },
     "70003": {
       "Cuid": 70003,
       "Errld": 70003,
-      "LangStringTable": {
-        "Errmsg": "您並未建立該聊天房間"
-      }
+      "Errmsg": "您並未建立該聊天房間",
+      "Nazo": 0
     },
     "70004": {
       "Cuid": 70004,
       "Errld": 70004,
-      "LangStringTable": {
-        "Errmsg": "您已被禁言"
-      }
+      "Errmsg": "您已被禁言",
+      "Nazo": 0
     },
     "70005": {
       "Cuid": 70005,
       "Errld": 70005,
-      "LangStringTable": {
-        "Errmsg": "發送頻繁"
-      }
+      "Errmsg": "發送頻繁",
+      "Nazo": 0
     },
     "70006": {
       "Cuid": 70006,
       "Errld": 70006,
-      "LangStringTable": {
-        "Errmsg": "聊天頻道資訊錯誤"
-      }
+      "Errmsg": "聊天頻道資訊錯誤",
+      "Nazo": 0
     },
     "70007": {
       "Cuid": 70007,
       "Errld": 70007,
-      "LangStringTable": {
-        "Errmsg": "該頻道不存在"
-      }
+      "Errmsg": "該頻道不存在",
+      "Nazo": 0
     },
     "70008": {
       "Cuid": 70008,
       "Errld": 70008,
-      "LangStringTable": {
-        "Errmsg": "您的指揮官權限在另一地點接入！點擊重新登入"
-      }
+      "Errmsg": "您的指揮官權限在另一地點接入！點擊重新登入",
+      "Nazo": 0
     },
     "70009": {
       "Cuid": 70009,
       "Errld": 70009,
-      "LangStringTable": {
-        "Errmsg": "發送內容為空"
-      }
+      "Errmsg": "發送內容為空",
+      "Nazo": 0
     },
     "70011": {
       "Cuid": 70011,
       "Errld": 70011,
-      "LangStringTable": {
-        "Errmsg": "本日檢舉次數已達上限！"
-      }
+      "Errmsg": "本日檢舉次數已達上限！",
+      "Nazo": 0
     },
     "61109": {
       "Cuid": 61109,
       "Errld": 61109,
-      "LangStringTable": {
-        "Errmsg": "迂迴作戰事件觸發"
-      }
+      "Errmsg": "迂迴作戰事件觸發",
+      "Nazo": 0
     },
     "63131": {
       "Cuid": 63131,
       "Errld": 63131,
-      "LangStringTable": {
-        "Errmsg": "該位置已有建造隊列"
-      }
+      "Errmsg": "該位置已有建造隊列",
+      "Nazo": 0
     },
     "63132": {
       "Cuid": 63132,
       "Errld": 63132,
-      "LangStringTable": {
-        "Errmsg": "沒有建造隊列，請先進行研發建造！"
-      }
+      "Errmsg": "沒有建造隊列，請先進行研發建造！",
+      "Nazo": 0
     },
     "61208": {
       "Cuid": 61208,
       "Errld": 61208,
-      "LangStringTable": {
-        "Errmsg": "本週獎勵超過領取上限"
-      }
+      "Errmsg": "本週獎勵超過領取上限",
+      "Nazo": 0
     },
     "61207": {
       "Cuid": 61207,
       "Errld": 61207,
-      "LangStringTable": {
-        "Errmsg": "當前港口壓制未成功"
-      }
+      "Errmsg": "當前港口壓制未成功",
+      "Nazo": 0
     },
     "63181": {
       "Cuid": 63181,
       "Errld": 63181,
-      "LangStringTable": {
-        "Errmsg": "請勿重複購買喔"
-      }
+      "Errmsg": "請勿重複購買喔",
+      "Nazo": 0
     },
     "63182": {
       "Cuid": 63182,
       "Errld": 63182,
-      "LangStringTable": {
-        "Errmsg": "活動已失效，感謝您的參與"
-      }
+      "Errmsg": "活動已失效，感謝您的參與",
+      "Nazo": 0
     },
     "63183": {
       "Cuid": 63183,
       "Errld": 63183,
-      "LangStringTable": {
-        "Errmsg": "已達最大招募上限"
-      }
+      "Errmsg": "已達最大招募上限",
+      "Nazo": 0
     },
     "63184": {
       "Cuid": 63184,
       "Errld": 63184,
-      "LangStringTable": {
-        "Errmsg": "已達最大購買次數"
-      }
+      "Errmsg": "已達最大購買次數",
+      "Nazo": 0
     },
     "61110": {
       "Cuid": 61110,
       "Errld": 61110,
-      "LangStringTable": {
-        "Errmsg": "兌換碼尚未開放領取"
-      }
+      "Errmsg": "兌換碼尚未開放領取",
+      "Nazo": 0
     },
     "61111": {
       "Cuid": 61111,
       "Errld": 61111,
-      "LangStringTable": {
-        "Errmsg": "兌換碼已過期，無法兌換喲"
-      }
+      "Errmsg": "兌換碼已過期，無法兌換喲",
+      "Nazo": 0
     },
     "61112": {
       "Cuid": 61112,
       "Errld": 61112,
-      "LangStringTable": {
-        "Errmsg": "兌換碼已下架，無法兌換喲"
-      }
+      "Errmsg": "兌換碼已下架，無法兌換喲",
+      "Nazo": 0
     },
     "63133": {
       "Cuid": 63133,
       "Errld": 63133,
-      "LangStringTable": {
-        "Errmsg": "人偶資料錯誤！"
-      }
+      "Errmsg": "人偶資料錯誤！",
+      "Nazo": 0
     },
     "63134": {
       "Cuid": 63134,
       "Errld": 63134,
-      "LangStringTable": {
-        "Errmsg": "超過單次可回收人偶數量上限！"
-      }
+      "Errmsg": "超過單次可回收人偶數量上限！",
+      "Nazo": 0
     },
     "63080": {
       "Cuid": 63080,
       "Errld": 63080,
-      "LangStringTable": {
-        "Errmsg": "更新次數不足"
-      }
+      "Errmsg": "更新次數不足",
+      "Nazo": 0
     },
     "63081": {
       "Cuid": 63081,
       "Errld": 63081,
-      "LangStringTable": {
-        "Errmsg": "挑戰次數不足"
-      }
+      "Errmsg": "挑戰次數不足",
+      "Nazo": 0
     },
     "67131": {
       "Cuid": 67131,
       "Errld": 67131,
-      "LangStringTable": {
-        "Errmsg": "其中一些素材人偶為後宅房主，無法訓練"
-      }
+      "Errmsg": "其中一些素材人偶為後宅房主，無法訓練",
+      "Nazo": 0
     },
     "67121": {
       "Cuid": 67121,
       "Errld": 67121,
-      "LangStringTable": {
-        "Errmsg": "其中一些素材有人偶正在拜訪房間，無法訓練"
-      }
+      "Errmsg": "其中一些素材有人偶正在拜訪房間，無法訓練",
+      "Nazo": 0
     },
     "67122": {
       "Cuid": 67122,
       "Errld": 67122,
-      "LangStringTable": {
-        "Errmsg": "已解鎖房間"
-      }
+      "Errmsg": "已解鎖房間",
+      "Nazo": 0
     },
     "67123": {
       "Cuid": 67123,
       "Errld": 67123,
-      "LangStringTable": {
-        "Errmsg": "條件不足，無法解鎖房間"
-      }
+      "Errmsg": "條件不足，無法解鎖房間",
+      "Nazo": 0
     },
     "67124": {
       "Cuid": 67124,
       "Errld": 67124,
-      "LangStringTable": {
-        "Errmsg": "收藏房間已刪除"
-      }
+      "Errmsg": "收藏房間已刪除",
+      "Nazo": 0
     },
     "67125": {
       "Cuid": 67125,
       "Errld": 67125,
-      "LangStringTable": {
-        "Errmsg": "該房間已收藏"
-      }
+      "Errmsg": "該房間已收藏",
+      "Nazo": 0
     },
     "67126": {
       "Cuid": 67126,
       "Errld": 67126,
-      "LangStringTable": {
-        "Errmsg": "已達最大分享數量"
-      }
+      "Errmsg": "已達最大分享數量",
+      "Nazo": 0
     },
     "67127": {
       "Cuid": 67127,
       "Errld": 67127,
-      "LangStringTable": {
-        "Errmsg": "已達最大收藏數量"
-      }
+      "Errmsg": "已達最大收藏數量",
+      "Nazo": 0
     },
     "67128": {
       "Cuid": 67128,
       "Errld": 67128,
-      "LangStringTable": {
-        "Errmsg": "該房間正在接待人偶，無法更換房主"
-      }
+      "Errmsg": "該房間正在接待人偶，無法更換房主",
+      "Nazo": 0
     },
     "67129": {
       "Cuid": 67129,
       "Errld": 67129,
-      "LangStringTable": {
-        "Errmsg": "該房主正在拜訪別的房間，無法更換"
-      }
+      "Errmsg": "該房主正在拜訪別的房間，無法更換",
+      "Nazo": 0
     },
     "67130": {
       "Cuid": 67130,
       "Errld": 67130,
-      "LangStringTable": {
-        "Errmsg": "指揮官等級尚不足以解鎖後宅"
-      }
+      "Errmsg": "指揮官等級尚不足以解鎖後宅",
+      "Nazo": 0
     },
     "70010": {
       "Cuid": 70010,
       "Errld": 70010,
-      "LangStringTable": {
-        "Errmsg": "不得於公告頻道聊天"
-      }
+      "Errmsg": "不得於公告頻道聊天",
+      "Nazo": 0
     },
     "67132": {
       "Cuid": 67132,
       "Errld": 67132,
-      "LangStringTable": {
-        "Errmsg": "人偶行動中，無法回收"
-      }
+      "Errmsg": "人偶行動中，無法回收",
+      "Nazo": 0
     },
     "10038": {
       "Cuid": 10038,
       "Errld": 10038,
-      "LangStringTable": {
-        "Errmsg": "BP已達資源上限，無法領取！"
-      }
+      "Errmsg": "BP已達資源上限，無法領取！",
+      "Nazo": 0
     },
     "10039": {
       "Cuid": 10039,
       "Errld": 10039,
-      "LangStringTable": {
-        "Errmsg": "鑽石已達資源上限，無法領取！"
-      }
+      "Errmsg": "鑽石已達資源上限，無法領取！",
+      "Nazo": 0
     },
     "10040": {
       "Cuid": 10040,
       "Errld": 10040,
-      "LangStringTable": {
-        "Errmsg": "能源已達資源上限，無法領取！"
-      }
+      "Errmsg": "能源已達資源上限，無法領取！",
+      "Nazo": 0
+    },
+    "10041": {
+      "Cuid": 10041,
+      "Errld": 10041,
+      "Errmsg": "目前該伺服器爆滿，煩請指揮官移步其它伺服器~",
+      "Nazo": 0
+    },
+    "10042": {
+      "Cuid": 10042,
+      "Errld": 10042,
+      "Errmsg": "黑潮系統數據進行更新，請指揮官重新連接系統！",
+      "Nazo": 0
     },
     "67133": {
       "Cuid": 67133,
       "Errld": 67133,
-      "LangStringTable": {
-        "Errmsg": "後宅家具擺放數量已達上限！"
-      }
+      "Errmsg": "後宅家具擺放數量已達上限！",
+      "Nazo": 0
     },
     "68116": {
       "Cuid": 68116,
       "Errld": 68116,
-      "LangStringTable": {
-        "Errmsg": "本伺服器限制使用"
-      }
-    },
-    "67134": {
-      "Cuid": 67134,
-      "Errld": 67134,
-      "LangStringTable": {
-        "Errmsg": "單次可邀請人偶數量超過上限！"
-      }
-    },
-    "67135": {
-      "Cuid": 67135,
-      "Errld": 67135,
-      "LangStringTable": {
-        "Errmsg": "對方尚未解鎖後宅"
-      }
-    },
-    "67136": {
-      "Cuid": 67136,
-      "Errld": 67136,
-      "LangStringTable": {
-        "Errmsg": "該人偶正在拜訪別的房間，無法任命"
-      }
-    },
-    "70101": {
-      "Cuid": 70101,
-      "Errld": 70101,
-      "LangStringTable": {
-        "Errmsg": "目前背景尚未獲得或暫時無法使用"
-      }
-    },
-    "70201": {
-      "Cuid": 70201,
-      "Errld": 70201,
-      "LangStringTable": {
-        "Errmsg": "此港口未被敵人勢力佔領"
-      }
-    },
-    "70202": {
-      "Cuid": 70202,
-      "Errld": 70202,
-      "LangStringTable": {
-        "Errmsg": "產出速率為0，不可使用"
-      }
-    },
-    "70203": {
-      "Cuid": 70203,
-      "Errld": 70203,
-      "LangStringTable": {
-        "Errmsg": "調整防守編隊時間已結束"
-      }
-    },
-    "70204": {
-      "Cuid": 70204,
-      "Errld": 70204,
-      "LangStringTable": {
-        "Errmsg": "此港口已被敵人反攻佔領"
-      }
-    },
-    "61401": {
-      "Cuid": 61401,
-      "Errld": 61401,
-      "LangStringTable": {
-        "Errmsg": "人偶等級不足"
-      }
-    },
-    "61402": {
-      "Cuid": 61402,
-      "Errld": 61402,
-      "LangStringTable": {
-        "Errmsg": "已破損人偶無法上陣"
-      }
-    },
-    "61303": {
-      "Cuid": 61303,
-      "Errld": 61303,
-      "LangStringTable": {
-        "Errmsg": "排行榜內找不到該指揮官"
-      }
-    },
-    "61403": {
-      "Cuid": 61403,
-      "Errld": 61403,
-      "LangStringTable": {
-        "Errmsg": "前置發源地尚未閃擊成功"
-      }
-    },
-    "63082": {
-      "Cuid": 63082,
-      "Errld": 63082,
-      "LangStringTable": {
-        "Errmsg": "活動暫未開放，請耐心等待"
-      }
-    },
-    "63083": {
-      "Cuid": 63083,
-      "Errld": 63083,
-      "LangStringTable": {
-        "Errmsg": "已評價成功，請不要重複評價"
-      }
-    },
-    "63084": {
-      "Cuid": 63084,
-      "Errld": 63084,
-      "LangStringTable": {
-        "Errmsg": "評價次數達到上限"
-      }
-    },
-    "61501": {
-      "Cuid": 61501,
-      "Errld": 61501,
-      "LangStringTable": {
-        "Errmsg": "挑戰次數不足，請等待時間恢復"
-      }
-    },
-    "61404": {
-      "Cuid": 61404,
-      "Errld": 61404,
-      "LangStringTable": {
-        "Errmsg": "閃擊次數不足，請等待時間恢復"
-      }
-    },
-    "61601": {
-      "Cuid": 61601,
-      "Errld": 61601,
-      "LangStringTable": {
-        "Errmsg": "敵方港口正在發動反攻，請先攔截反攻部隊！"
-      }
-    },
-    "61602": {
-      "Cuid": 61602,
-      "Errld": 61602,
-      "LangStringTable": {
-        "Errmsg": "港口沒有駐紮編隊，無法進行攔截"
-      }
+      "Errmsg": "本伺服器限制使用",
+      "Nazo": 0
     },
     "68117": {
       "Cuid": 68117,
       "Errld": 68117,
-      "LangStringTable": {
-        "Errmsg": "目前伺服器繁忙，請稍後嘗試重連"
-      }
+      "Errmsg": "目前伺服器繁忙，請稍後嘗試重連",
+      "Nazo": 0
     },
     "68118": {
       "Cuid": 68118,
       "Errld": 68118,
-      "LangStringTable": {
-        "Errmsg": "收藏港口數量已達上限，請先取消部分港口"
-      }
+      "Errmsg": "收藏港口數量已達上限，請先取消部分港口",
+      "Nazo": 0
     },
-    "61701": {
-      "Cuid": 61701,
-      "Errld": 61701,
-      "LangStringTable": {
-        "Errmsg": "演習隊伍為空，請先選擇演習人偶"
-      }
+    "67134": {
+      "Cuid": 67134,
+      "Errld": 67134,
+      "Errmsg": "單次可邀請人偶數量超過上限！",
+      "Nazo": 0
     },
-    "61702": {
-      "Cuid": 61702,
-      "Errld": 61702,
-      "LangStringTable": {
-        "Errmsg": "賽季已結束，不可進行挑戰"
-      }
+    "67135": {
+      "Cuid": 67135,
+      "Errld": 67135,
+      "Errmsg": "對方尚未解鎖後宅",
+      "Nazo": 0
     },
-    "61703": {
-      "Cuid": 61703,
-      "Errld": 61703,
-      "LangStringTable": {
-        "Errmsg": "目前賽季已變更，請重新進入演習"
-      }
+    "67136": {
+      "Cuid": 67136,
+      "Errld": 67136,
+      "Errmsg": "該人偶正在拜訪別的房間，無法任命",
+      "Nazo": 0
+    },
+    "67137": {
+      "Cuid": 67137,
+      "Errld": 67137,
+      "Errmsg": "該房間正在接待訪客中，無法進行此操作",
+      "Nazo": 0
+    },
+    "67138": {
+      "Cuid": 67138,
+      "Errld": 67138,
+      "Errmsg": "創建聯盟",
+      "Nazo": 0
+    },
+    "67139": {
+      "Cuid": 67139,
+      "Errld": 67139,
+      "Errmsg": "已加入",
+      "Nazo": 0
+    },
+    "67140": {
+      "Cuid": 67140,
+      "Errld": 67140,
+      "Errmsg": "已退出",
+      "Nazo": 0
+    },
+    "70101": {
+      "Cuid": 70101,
+      "Errld": 70101,
+      "Errmsg": "目前背景尚未獲得或暫時無法使用",
+      "Nazo": 0
+    },
+    "70201": {
+      "Cuid": 70201,
+      "Errld": 70201,
+      "Errmsg": "此港口未被敵人勢力佔領",
+      "Nazo": 0
+    },
+    "70202": {
+      "Cuid": 70202,
+      "Errld": 70202,
+      "Errmsg": "產出速率為0，不可使用",
+      "Nazo": 0
+    },
+    "70203": {
+      "Cuid": 70203,
+      "Errld": 70203,
+      "Errmsg": "調整防守編隊時間已結束",
+      "Nazo": 0
+    },
+    "70204": {
+      "Cuid": 70204,
+      "Errld": 70204,
+      "Errmsg": "此港口已被敵人反攻佔領",
+      "Nazo": 0
+    },
+    "61401": {
+      "Cuid": 61401,
+      "Errld": 61401,
+      "Errmsg": "人偶等級不足",
+      "Nazo": 0
+    },
+    "61402": {
+      "Cuid": 61402,
+      "Errld": 61402,
+      "Errmsg": "已破損人偶無法上陣",
+      "Nazo": 0
+    },
+    "61303": {
+      "Cuid": 61303,
+      "Errld": 61303,
+      "Errmsg": "排行榜內找不到該指揮官",
+      "Nazo": 0
+    },
+    "61403": {
+      "Cuid": 61403,
+      "Errld": 61403,
+      "Errmsg": "前置發源地尚未閃擊成功",
+      "Nazo": 0
+    },
+    "61404": {
+      "Cuid": 61404,
+      "Errld": 61404,
+      "Errmsg": "閃擊次數不足，請等待時間恢復",
+      "Nazo": 0
     },
     "61405": {
       "Cuid": 61405,
       "Errld": 61405,
-      "LangStringTable": {
-        "Errmsg": "閃擊隊伍為空，請先選擇出戰人偶"
-      }
+      "Errmsg": "閃擊隊伍為空，請先選擇出戰人偶",
+      "Nazo": 0
+    },
+    "61501": {
+      "Cuid": 61501,
+      "Errld": 61501,
+      "Errmsg": "挑戰次數不足，請等待時間恢復",
+      "Nazo": 0
+    },
+    "61601": {
+      "Cuid": 61601,
+      "Errld": 61601,
+      "Errmsg": "敵方港口正在發動反攻，請先攔截反攻部隊！",
+      "Nazo": 0
+    },
+    "61602": {
+      "Cuid": 61602,
+      "Errld": 61602,
+      "Errmsg": "港口沒有駐紮編隊，無法進行攔截",
+      "Nazo": 0
+    },
+    "61701": {
+      "Cuid": 61701,
+      "Errld": 61701,
+      "Errmsg": "演習隊伍為空，請先選擇演習人偶",
+      "Nazo": 0
+    },
+    "61702": {
+      "Cuid": 61702,
+      "Errld": 61702,
+      "Errmsg": "賽季已結束，不可進行挑戰",
+      "Nazo": 0
+    },
+    "61703": {
+      "Cuid": 61703,
+      "Errld": 61703,
+      "Errmsg": "目前賽季已變更，請重新進入演習",
+      "Nazo": 0
+    },
+    "63082": {
+      "Cuid": 63082,
+      "Errld": 63082,
+      "Errmsg": "活動暫未開放，請耐心等待",
+      "Nazo": 0
+    },
+    "63083": {
+      "Cuid": 63083,
+      "Errld": 63083,
+      "Errmsg": "已評價成功，請不要重複評價",
+      "Nazo": 0
+    },
+    "63084": {
+      "Cuid": 63084,
+      "Errld": 63084,
+      "Errmsg": "評價次數達到上限",
+      "Nazo": 0
+    },
+    "63085": {
+      "Cuid": 63085,
+      "Errld": 63085,
+      "Errmsg": "人偶處於大漁祭編隊中，無法進行巡航",
+      "Nazo": 0
     }
   }
 }

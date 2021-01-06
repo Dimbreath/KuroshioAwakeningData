@@ -3,1753 +3,1650 @@
     "1008": {
       "Cuid": 1008,
       "Furnitureid": 1008,
+      "Furniturename": "地毯",
       "Furnituretype": 205,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1000001",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "6,8",
       "Offset": "-0.313,-0.752",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "地毯"
-      }
+      "Nazo": 0
     },
     "1031": {
       "Cuid": 1031,
       "Furnitureid": 1031,
+      "Furniturename": "椅子",
       "Furnituretype": 201,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1000002",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "0.007,0.399",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "椅子"
-      }
+      "Nazo": 0
     },
     "1010": {
       "Cuid": 1010,
       "Furnitureid": 1010,
+      "Furniturename": "組合壁櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000003",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,7",
       "Offset": "-0.952,0.981",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "組合壁櫃"
-      }
+      "Nazo": 0
     },
     "1011": {
       "Cuid": 1011,
       "Furnitureid": 1011,
+      "Furniturename": "擺飾臺",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000004",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.155,0.406",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "擺飾臺"
-      }
+      "Nazo": 0
     },
     "1012": {
       "Cuid": 1012,
       "Furnitureid": 1012,
+      "Furniturename": "置物櫃",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000005",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,3",
       "Offset": "-0.330,0.471",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "置物櫃"
-      }
+      "Nazo": 0
     },
     "1013": {
       "Cuid": 1013,
       "Furnitureid": 1013,
+      "Furniturename": "工作臺",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000006",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,3",
       "Offset": "-0.147,0.440",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "工作臺"
-      }
+      "Nazo": 0
     },
     "1014": {
       "Cuid": 1014,
       "Furnitureid": 1014,
+      "Furniturename": "電視櫃",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000007",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,7",
       "Offset": "-0.808,0.152",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "電視櫃"
-      }
+      "Nazo": 0
     },
     "1015": {
       "Cuid": 1015,
       "Furnitureid": 1015,
+      "Furniturename": "小桌子",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000008",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,4",
       "Offset": "-0.135,0.105",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "小桌子"
-      }
+      "Nazo": 0
     },
     "1016": {
       "Cuid": 1016,
       "Furnitureid": 1016,
+      "Furniturename": "牆柱掛飾",
       "Furnituretype": 200,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1000009",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
       "Offset": "0.006,1.330",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "牆柱掛飾"
-      }
+      "Nazo": 0
     },
     "1017": {
       "Cuid": 1017,
       "Furnitureid": 1017,
+      "Furniturename": "裝飾掛鐘",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000011",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "-0.315,0.244",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝飾掛鐘"
-      }
+      "Nazo": 0
     },
     "1018": {
       "Cuid": 1018,
       "Furnitureid": 1018,
+      "Furniturename": "裝飾掛畫",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1000010",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "4,3",
       "Offset": "-0.636,0.212",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝飾掛畫"
-      }
+      "Nazo": 0
     },
     "1019": {
       "Cuid": 1019,
       "Furnitureid": 1019,
+      "Furniturename": "純色牆面",
       "Furnituretype": 101,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1000012",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "純色牆面"
-      }
+      "Nazo": 0
     },
     "1020": {
       "Cuid": 1020,
       "Furnitureid": 1020,
+      "Furniturename": "木質地板",
       "Furnituretype": 102,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1000013",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "木質地板"
-      }
+      "Nazo": 0
     },
     "2001001": {
       "Cuid": 2001001,
       "Furnitureid": 2001001,
+      "Furniturename": "裝備製作室牆面",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001001",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝備製作室牆面"
-      }
+      "Nazo": 0
     },
     "2001002": {
       "Cuid": 2001002,
       "Furnitureid": 2001002,
+      "Furniturename": "裝備製作室地板",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001002",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝備製作室地板"
-      }
+      "Nazo": 0
     },
     "2001101": {
       "Cuid": 2001101,
       "Furnitureid": 2001101,
+      "Furniturename": "製作總控臺",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001101",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "4,9",
       "Offset": "-0.966,-0.329",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "製作總控臺"
-      }
+      "Nazo": 0
     },
     "2001201": {
       "Cuid": 2001201,
       "Furnitureid": 2001201,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001201",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,2",
       "Offset": "0.490,0.266",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001202": {
       "Cuid": 2001202,
       "Furnitureid": 2001202,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001201",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,2",
       "Offset": "0.490,0.266",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001203": {
       "Cuid": 2001203,
       "Furnitureid": 2001203,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001201",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,2",
       "Offset": "0.490,0.266",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001204": {
       "Cuid": 2001204,
       "Furnitureid": 2001204,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001201",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,2",
       "Offset": "0.490,0.266",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001205": {
       "Cuid": 2001205,
       "Furnitureid": 2001205,
+      "Furniturename": "裝備收納箱",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001201",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,2",
       "Offset": "0.490,0.266",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "裝備收納箱"
-      }
+      "Nazo": 0
     },
     "2001301": {
       "Cuid": 2001301,
       "Furnitureid": 2001301,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001301",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,6",
       "Offset": "-0.482,0.280",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001302": {
       "Cuid": 2001302,
       "Furnitureid": 2001302,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001301",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,6",
       "Offset": "-0.482,0.280",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001303": {
       "Cuid": 2001303,
       "Furnitureid": 2001303,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001301",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,6",
       "Offset": "-0.482,0.280",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001304": {
       "Cuid": 2001304,
       "Furnitureid": 2001304,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001301",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,6",
       "Offset": "-0.482,0.280",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001305": {
       "Cuid": 2001305,
       "Furnitureid": 2001305,
+      "Furniturename": "工程圖紙桌",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001301",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,6",
       "Offset": "-0.482,0.280",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "工程圖紙桌"
-      }
+      "Nazo": 0
     },
     "2001401": {
       "Cuid": 2001401,
       "Furnitureid": 2001401,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001401",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.498,0.452",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001402": {
       "Cuid": 2001402,
       "Furnitureid": 2001402,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001401",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.498,0.452",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001403": {
       "Cuid": 2001403,
       "Furnitureid": 2001403,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001401",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.498,0.452",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001404": {
       "Cuid": 2001404,
       "Furnitureid": 2001404,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001401",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.498,0.452",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "2001405": {
       "Cuid": 2001405,
       "Furnitureid": 2001405,
+      "Furniturename": "3D印表機",
       "Furnituretype": 300,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_2001401",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.498,0.452",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "3D印表機"
-      }
+      "Nazo": 0
     },
     "1001001": {
       "Cuid": 1001001,
       "Furnitureid": 1001001,
+      "Furniturename": "銀翼沙發",
       "Furnituretype": 201,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1001001",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,10",
       "Offset": "-1.288,-0.311",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼沙發"
-      }
+      "Nazo": 0
     },
     "1001002": {
       "Cuid": 1001002,
       "Furnitureid": 1001002,
+      "Furniturename": "銀翼地毯",
       "Furnituretype": 205,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001002",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,8",
       "Offset": "-0.478,-0.693",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼地毯"
-      }
+      "Nazo": 0
     },
     "1001003": {
       "Cuid": 1001003,
       "Furnitureid": 1001003,
+      "Furniturename": "銀翼長條地毯",
       "Furnituretype": 205,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1001003",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "4,16",
       "Offset": "-1.920,-1.068",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼長條地毯"
-      }
+      "Nazo": 0
     },
     "1001004": {
       "Cuid": 1001004,
       "Furnitureid": 1001004,
+      "Furniturename": "銀翼電視機",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001004",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,5",
       "Offset": "-0.635,1.088",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼電視機"
-      }
+      "Nazo": 0
     },
     "1001005": {
       "Cuid": 1001005,
       "Furnitureid": 1001005,
+      "Furniturename": "銀翼收納櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001005",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.160,1.246",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼收納櫃"
-      }
+      "Nazo": 0
     },
     "1001006": {
       "Cuid": 1001006,
       "Furnitureid": 1001006,
+      "Furniturename": "銀翼矮櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001006",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,3",
       "Offset": "-0.334,0.472",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼矮櫃"
-      }
+      "Nazo": 0
     },
     "1001007": {
       "Cuid": 1001007,
       "Furnitureid": 1001007,
+      "Furniturename": "銀翼立櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001007",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,4",
       "Offset": "-0.478,1.004",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼立櫃"
-      }
+      "Nazo": 0
     },
     "1001008": {
       "Cuid": 1001008,
       "Furnitureid": 1001008,
+      "Furniturename": "銀翼展示櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001008",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.167,1.063",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼展示櫃"
-      }
+      "Nazo": 0
     },
     "1001009": {
       "Cuid": 1001009,
       "Furnitureid": 1001009,
+      "Furniturename": "銀翼書櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001009",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,3",
       "Offset": "-0.315,1.187",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼書櫃"
-      }
+      "Nazo": 0
     },
     "1001010": {
       "Cuid": 1001010,
       "Furnitureid": 1001010,
+      "Furniturename": "收納旅行箱",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001010",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.244,-0.013",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "收納旅行箱"
-      }
+      "Nazo": 0
     },
     "1001011": {
       "Cuid": 1001011,
       "Furnitureid": 1001011,
+      "Furniturename": "木質椅子",
       "Furnituretype": 201,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001011",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "-0.052,0.123",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "木質椅子"
-      }
+      "Nazo": 0
     },
     "1001012": {
       "Cuid": 1001012,
       "Furnitureid": 1001012,
+      "Furniturename": "銀翼桌子",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001012",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,5",
       "Offset": "-0.502,0.137",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼桌子"
-      }
+      "Nazo": 0
     },
     "1001013": {
       "Cuid": 1001013,
       "Furnitureid": 1001013,
+      "Furniturename": "銀翼茶几",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001013",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,7",
       "Offset": "-0.634,-0.390",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼茶几"
-      }
+      "Nazo": 0
     },
     "1001014": {
       "Cuid": 1001014,
       "Furnitureid": 1001014,
+      "Furniturename": "銀翼地板",
       "Furnituretype": 102,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1001014",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼地板"
-      }
+      "Nazo": 0
     },
     "1001015": {
       "Cuid": 1001015,
       "Furnitureid": 1001015,
+      "Furniturename": "石磚壁紙",
       "Furnituretype": 101,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1001015",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "石磚壁紙"
-      }
+      "Nazo": 0
     },
     "1001016": {
       "Cuid": 1001016,
       "Furnitureid": 1001016,
+      "Furniturename": "銀翼海域地圖",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001016",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "7,6",
       "Offset": "-1.070,0.707",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼海域地圖"
-      }
+      "Nazo": 0
     },
     "1001017": {
       "Cuid": 1001017,
       "Furnitureid": 1001017,
+      "Furniturename": "銀翼掛畫",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001017",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,3",
       "Offset": "-0.461,0.374",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼掛畫"
-      }
+      "Nazo": 0
     },
     "1001018": {
       "Cuid": 1001018,
       "Furnitureid": 1001018,
+      "Furniturename": "銀翼告示板",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001018",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,3",
       "Offset": "-0.477,0.352",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼告示板"
-      }
+      "Nazo": 0
     },
     "1001019": {
       "Cuid": 1001019,
       "Furnitureid": 1001019,
+      "Furniturename": "銀翼桌櫃",
       "Furnituretype": 201,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1001019",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.332,0.209",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "銀翼桌櫃"
-      }
+      "Nazo": 0
     },
     "1001020": {
       "Cuid": 1001020,
       "Furnitureid": 1001020,
+      "Furniturename": "磚石壁紙",
       "Furnituretype": 103,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1001020",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,8",
       "Offset": "-0.313,1.291",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "磚石壁紙"
-      }
+      "Nazo": 0
     },
     "1002001": {
       "Cuid": 1002001,
       "Furnitureid": 1002001,
+      "Furniturename": "神代床舖三件組",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002001",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,3",
       "Offset": "-0.123,-0.110",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代床舖三件組"
-      }
+      "Nazo": 0
     },
     "1002002": {
       "Cuid": 1002002,
       "Furnitureid": 1002002,
+      "Furniturename": "神代復古矮櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002002",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,3",
       "Offset": "-0.328,0.485",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代復古矮櫃"
-      }
+      "Nazo": 0
     },
     "1002003": {
       "Cuid": 1002003,
       "Furnitureid": 1002003,
+      "Furniturename": "神代復古立櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002003",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,3",
       "Offset": "-0.328,1.133",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代復古立櫃"
-      }
+      "Nazo": 0
     },
     "1002004": {
       "Cuid": 1002004,
       "Furnitureid": 1002004,
+      "Furniturename": "神代坐墊",
       "Furnituretype": 201,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002004",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "0.029,-0.133",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代坐墊"
-      }
+      "Nazo": 0
     },
     "1002005": {
       "Cuid": 1002005,
       "Furnitureid": 1002005,
+      "Furniturename": "神代暖桌",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002005",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "6,6",
       "Offset": "0.006,-0.123",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代暖桌"
-      }
+      "Nazo": 0
     },
     "1002006": {
       "Cuid": 1002006,
       "Furnitureid": 1002006,
+      "Furniturename": "神代地毯",
       "Furnituretype": 205,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1002006",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,5",
       "Offset": "-0.313,-0.431",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代地毯"
-      }
+      "Nazo": 0
     },
     "1002007": {
       "Cuid": 1002007,
       "Furnitureid": 1002007,
+      "Furniturename": "神代掛畫",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002007",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,3",
       "Offset": "-0.504,0.436",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代掛畫"
-      }
+      "Nazo": 0
     },
     "1002008": {
       "Cuid": 1002008,
       "Furnitureid": 1002008,
+      "Furniturename": "神代復古壁櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002008",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,6",
       "Offset": "-0.640,0.978",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代復古壁櫃"
-      }
+      "Nazo": 0
     },
     "1002009": {
       "Cuid": 1002009,
       "Furnitureid": 1002009,
+      "Furniturename": "神代立櫃",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002009",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,3",
       "Offset": "-0.342,1.023",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代立櫃"
-      }
+      "Nazo": 0
     },
     "1002010": {
       "Cuid": 1002010,
       "Furnitureid": 1002010,
+      "Furniturename": "神代木桌",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002010",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,3",
       "Offset": "-0.185,0.046",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代木桌"
-      }
+      "Nazo": 0
     },
     "1002011": {
       "Cuid": 1002011,
       "Furnitureid": 1002011,
+      "Furniturename": "留聲機組",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002011",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.167,0.874",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "留聲機組"
-      }
+      "Nazo": 0
     },
     "1002012": {
       "Cuid": 1002012,
       "Furnitureid": 1002012,
+      "Furniturename": "神代暖爐",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002012",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "0.009,0.326",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代暖爐"
-      }
+      "Nazo": 0
     },
     "1002013": {
       "Cuid": 1002013,
       "Furnitureid": 1002013,
+      "Furniturename": "神代立櫥",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002013",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,4",
       "Offset": "-0.480,1.140",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代立櫥"
-      }
+      "Nazo": 0
     },
     "1002014": {
       "Cuid": 1002014,
       "Furnitureid": 1002014,
+      "Furniturename": "神代小立櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002014",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.183,0.664",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代小立櫃"
-      }
+      "Nazo": 0
     },
     "1002015": {
       "Cuid": 1002015,
       "Furnitureid": 1002015,
+      "Furniturename": "神代矮箱",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1002015",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "0.001,0.307",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代矮箱"
-      }
+      "Nazo": 0
     },
     "1002016": {
       "Cuid": 1002016,
       "Furnitureid": 1002016,
+      "Furniturename": "神代地板",
       "Furnituretype": 102,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1002016",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代地板"
-      }
+      "Nazo": 0
     },
     "1002017": {
       "Cuid": 1002017,
       "Furnitureid": 1002017,
+      "Furniturename": "神代壁紙",
       "Furnituretype": 101,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1002017",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "神代壁紙"
-      }
+      "Nazo": 0
     },
     "1003001": {
       "Cuid": 1003001,
       "Furnitureid": 1003001,
+      "Furniturename": "黑鋒電話組",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003001",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "0.001,0.198",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒電話組"
-      }
+      "Nazo": 0
     },
     "1003002": {
       "Cuid": 1003002,
       "Furnitureid": 1003002,
+      "Furniturename": "黑鋒壁櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003002",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,6",
       "Offset": "-0.641,0.954",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒壁櫃"
-      }
+      "Nazo": 0
     },
     "1003003": {
       "Cuid": 1003003,
       "Furnitureid": 1003003,
+      "Furniturename": "黑鋒立櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003003",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.162,0.875",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒立櫃"
-      }
+      "Nazo": 0
     },
     "1003004": {
       "Cuid": 1003004,
       "Furnitureid": 1003004,
+      "Furniturename": "黑鋒收納箱",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003004",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.164,0.132",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒收納箱"
-      }
+      "Nazo": 0
     },
     "1003005": {
       "Cuid": 1003005,
       "Furnitureid": 1003005,
+      "Furniturename": "黑鋒組合壁櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003005",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,6",
       "Offset": "-0.643,0.953",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒組合壁櫃"
-      }
+      "Nazo": 0
     },
     "1003006": {
       "Cuid": 1003006,
       "Furnitureid": 1003006,
+      "Furniturename": "黑鋒組合椅",
       "Furnituretype": 201,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003006",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,4",
       "Offset": "-0.491,0.031",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒組合椅"
-      }
+      "Nazo": 0
     },
     "1003007": {
       "Cuid": 1003007,
       "Furnitureid": 1003007,
+      "Furniturename": "黑鋒圓桌",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003007",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,5",
       "Offset": "0.009,0.184",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒圓桌"
-      }
+      "Nazo": 0
     },
     "1003008": {
       "Cuid": 1003008,
       "Furnitureid": 1003008,
+      "Furniturename": "黑鋒高腳椅",
       "Furnituretype": 201,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1003008",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
       "Offset": "0.000,0.251",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒高腳椅"
-      }
+      "Nazo": 0
     },
     "1003009": {
       "Cuid": 1003009,
       "Furnitureid": 1003009,
+      "Furniturename": "黑鋒沙發",
       "Furnituretype": 201,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1003009",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,7",
       "Offset": "-0.772,0.005",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒沙發"
-      }
+      "Nazo": 0
     },
     "1003010": {
       "Cuid": 1003010,
       "Furnitureid": 1003010,
+      "Furniturename": "黑鋒茶几",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003010",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.334,0.046",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒茶几"
-      }
+      "Nazo": 0
     },
     "1003011": {
       "Cuid": 1003011,
       "Furnitureid": 1003011,
+      "Furniturename": "黑鋒立鐘",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003011",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.136,1.241",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒立鐘"
-      }
+      "Nazo": 0
     },
     "1003012": {
       "Cuid": 1003012,
       "Furnitureid": 1003012,
+      "Furniturename": "黑鋒掛畫",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003012",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "-0.313,0.248",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒掛畫"
-      }
+      "Nazo": 0
     },
     "1003013": {
       "Cuid": 1003013,
       "Furnitureid": 1003013,
+      "Furniturename": "黑鋒空調",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003013",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,4",
       "Offset": "-0.792,0.460",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒空調"
-      }
+      "Nazo": 0
     },
     "1003014": {
       "Cuid": 1003014,
       "Furnitureid": 1003014,
+      "Furniturename": "黑鋒加濕器",
       "Furnituretype": 200,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1003014",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.173,1.133",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒加濕器"
-      }
+      "Nazo": 0
     },
     "1003015": {
       "Cuid": 1003015,
       "Furnitureid": 1003015,
+      "Furniturename": "黑鋒地毯",
       "Furnituretype": 205,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003015",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,4",
       "Offset": "-0.156,-0.381",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒地毯"
-      }
+      "Nazo": 0
     },
     "1003016": {
       "Cuid": 1003016,
       "Furnitureid": 1003016,
+      "Furniturename": "黑鋒高級地毯",
       "Furnituretype": 205,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1003016",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,7",
       "Offset": "-0.318,-0.647",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒高級地毯"
-      }
+      "Nazo": 0
     },
     "1003017": {
       "Cuid": 1003017,
       "Furnitureid": 1003017,
+      "Furniturename": "冷酷地毯",
       "Furnituretype": 205,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1003017",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,9",
       "Offset": "-0.633,-0.749",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "冷酷地毯"
-      }
+      "Nazo": 0
     },
     "1003018": {
       "Cuid": 1003018,
       "Furnitureid": 1003018,
+      "Furniturename": "黑鋒地板",
       "Furnituretype": 102,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1003018",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒地板"
-      }
+      "Nazo": 0
     },
     "1003019": {
       "Cuid": 1003019,
       "Furnitureid": 1003019,
+      "Furniturename": "黑鋒壁紙",
       "Furnituretype": 101,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1003019",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "黑鋒壁紙"
-      }
+      "Nazo": 0
     },
     "1004001": {
       "Cuid": 1004001,
       "Furnitureid": 1004001,
+      "Furniturename": "薔薇立櫃",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004001",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.151,1.253",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇立櫃"
-      }
+      "Nazo": 0
     },
     "1004002": {
       "Cuid": 1004002,
       "Furnitureid": 1004002,
+      "Furniturename": "薔薇羊毛地毯",
       "Furnituretype": 205,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1004002",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "7,9",
       "Offset": "-0.317,-0.863",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇羊毛地毯"
-      }
+      "Nazo": 0
     },
     "1004003": {
       "Cuid": 1004003,
       "Furnitureid": 1004003,
+      "Furniturename": "薔薇椅子",
       "Furnituretype": 201,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004003",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.344,-0.138",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇椅子"
-      }
+      "Nazo": 0
     },
     "1004004": {
       "Cuid": 1004004,
       "Furnitureid": 1004004,
+      "Furniturename": "薔薇立櫥",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004004",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.163,0.545",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇立櫥"
-      }
+      "Nazo": 0
     },
     "1004005": {
       "Cuid": 1004005,
       "Furnitureid": 1004005,
+      "Furniturename": "薔薇沙發",
       "Furnituretype": 201,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004005",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,5",
       "Offset": "-0.352,0.107",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇沙發"
-      }
+      "Nazo": 0
     },
     "1004006": {
       "Cuid": 1004006,
       "Furnitureid": 1004006,
+      "Furniturename": "薔薇書桌",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004006",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.339,0.562",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇書桌"
-      }
+      "Nazo": 0
     },
     "1004007": {
       "Cuid": 1004007,
       "Furnitureid": 1004007,
+      "Furniturename": "薔薇牆櫃",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004007",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "5,5",
       "Offset": "-0.800,0.614",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇牆櫃"
-      }
+      "Nazo": 0
     },
     "1004008": {
       "Cuid": 1004008,
       "Furnitureid": 1004008,
+      "Furniturename": "薔薇衣架",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004008",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,3",
       "Offset": "-0.317,1.067",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇衣架"
-      }
+      "Nazo": 0
     },
     "1004009": {
       "Cuid": 1004009,
       "Furnitureid": 1004009,
+      "Furniturename": "薔薇掛畫",
       "Furnituretype": 206,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004009",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "4,3",
       "Offset": "-0.634,0.220",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇掛畫"
-      }
+      "Nazo": 0
     },
     "1004010": {
       "Cuid": 1004010,
       "Furnitureid": 1004010,
+      "Furniturename": "薔薇餐桌",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004010",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "4,5",
       "Offset": "-0.178,0.199",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇餐桌"
-      }
+      "Nazo": 0
     },
     "1004011": {
       "Cuid": 1004011,
       "Furnitureid": 1004011,
+      "Furniturename": "薔薇立櫥",
       "Furnituretype": 200,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004011",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,4",
       "Offset": "-0.313,0.902",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇立櫥"
-      }
+      "Nazo": 0
     },
     "1004012": {
       "Cuid": 1004012,
       "Furnitureid": 1004012,
+      "Furniturename": "薔薇床頭櫃",
       "Furnituretype": 203,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004012",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,2",
       "Offset": "-0.183,0.332",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇床頭櫃"
-      }
+      "Nazo": 0
     },
     "1004013": {
       "Cuid": 1004013,
       "Furnitureid": 1004013,
+      "Furniturename": "薔薇書桌",
       "Furnituretype": 202,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004013",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "3,5",
       "Offset": "-0.309,0.084",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇書桌"
-      }
+      "Nazo": 0
     },
     "1004014": {
       "Cuid": 1004014,
       "Furnitureid": 1004014,
+      "Furniturename": "薔薇工作椅",
       "Furnituretype": 201,
       "Thumbnail": 1,
       "Mainfurnitureart": "basefurniture_1004014",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "2,2",
       "Offset": "-0.014,-0.052",
-      "Subsize": null,
-      "Subcoord": null,
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇工作椅"
-      }
+      "Nazo": 0
     },
     "1004015": {
       "Cuid": 1004015,
       "Furnitureid": 1004015,
+      "Furniturename": "薔薇地板",
       "Furnituretype": 102,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1004015",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇地板"
-      }
+      "Nazo": 0
     },
     "1004016": {
       "Cuid": 1004016,
       "Furnitureid": 1004016,
+      "Furniturename": "薔薇壁紙",
       "Furnituretype": 101,
       "Thumbnail": 0,
       "Mainfurnitureart": "basefurniture_1004016",
       "Substitute": 0,
-      "Subfurnitureart": null,
+      "Subfurnitureart": "",
       "Mainsize": "1,1",
-      "Offset": null,
-      "Subsize": null,
-      "Subcoord": null,
+      "Offset": "",
+      "Subsize": "",
+      "Subcoord": "",
       "Boxcollider": 1,
-      "LangStringTable": {
-        "Furniturename": "薔薇壁紙"
-      }
+      "Nazo": 0
     }
   }
 }

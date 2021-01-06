@@ -1,18 +1,19 @@
-local FormationConfig = {
-	[1] = {1,"1","2,3","4,5",
-	},
+local FormationConfig = {}
 
+FormationConfig.Values = {
+	[1] = {1,"1","2,3","4,5",0,},
 }
+
 function FormationConfig.GetConfig(key)
-	local Values = FormationConfig[key]
-	if not Values then
+	local tb = FormationConfig.Values[key]
+	if not tb then
 		print_error(key)
 		return nil
 	end
-	local Fields = {["id"] = 1,["formation_front"] = 2,["formation_middle"] = 3,["formation_after"] = 4,}
-	for k,v in pairs(Fields) do
-		Fields[k] = Values[v]
+	local config = {["id"] = 1,["formation_front"] = 2,["formation_middle"] = 3,["formation_after"] = 4,["nazo"] = 5,}
+	for k,v in pairs(config) do
+		config[k] = tb[v]
 	end
-	return Fields 
+	return config 
 end
 return FormationConfig

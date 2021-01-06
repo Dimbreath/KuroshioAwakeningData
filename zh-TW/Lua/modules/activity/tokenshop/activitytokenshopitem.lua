@@ -1,4 +1,3 @@
-local ActivityBase = require"Modules/Activity/ActivityBase"
 local ActivityTokenShopItem  = class("ActivityTokenShopItem")
 local CoinExchangeConfig = require "Configs/CoinExchangeConfig"
 local GlobalConfig = require "Configs/GlobalConfigConfig"

@@ -99,8 +99,9 @@ function MonopolyMap:CheckOpenDialog()
         content = GetDefaultText("mono_bottom_02")
     end
 
+    local func = function(obj) self:ToNextFloor() end
     local params = {title = "",confirmText = GetDefaultText("awasrd_tip_confirm"),cancelText = GetDefaultText("equip_choose_cancel"),message = content}
-    LuaBridge.OpenDialog(1,params,nil,function(obj) self:ToNextFloor() end, nil, function(obj) self:ToNextFloor() end)
+    LuaBridge.OpenDialog(1,params,nil,func, func, func)
 end
 
 function MonopolyMap:ToNextFloor()

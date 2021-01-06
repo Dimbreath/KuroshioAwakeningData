@@ -3,6 +3,7 @@
     "110010": {
       "Cuid": 110010,
       "Id": 110010,
+      "Typename": "中途島",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -13,14 +14,13 @@
       "Activeskill": 1100102,
       "Skincfg": "1001000",
       "Battlecfg": 11001000,
-      "LangStringTable": {
-        "Typename": "中途島",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110020": {
       "Cuid": 110020,
       "Id": 110020,
+      "Typename": "翔鶴",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 3,
@@ -31,14 +31,13 @@
       "Activeskill": 1100202,
       "Skincfg": "1002000",
       "Battlecfg": 11002000,
-      "LangStringTable": {
-        "Typename": "翔鶴",
-        "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "110030": {
       "Cuid": 110030,
       "Id": 110030,
+      "Typename": "瑞鶴",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 3,
@@ -49,14 +48,13 @@
       "Activeskill": 1100302,
       "Skincfg": "1003000",
       "Battlecfg": 11003000,
-      "LangStringTable": {
-        "Typename": "瑞鶴",
-        "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "110050": {
       "Cuid": 110050,
       "Id": 110050,
+      "Typename": "胡蜂",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -67,14 +65,13 @@
       "Activeskill": 1100502,
       "Skincfg": "1005000",
       "Battlecfg": 11005000,
-      "LangStringTable": {
-        "Typename": "胡蜂",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110080": {
       "Cuid": 110080,
       "Id": 110080,
+      "Typename": "蘭利",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -85,14 +82,13 @@
       "Activeskill": 1100802,
       "Skincfg": "1008000",
       "Battlecfg": 11008000,
-      "LangStringTable": {
-        "Typename": "蘭利",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110100": {
       "Cuid": 110100,
       "Id": 110100,
+      "Typename": "企業",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -103,14 +99,13 @@
       "Activeskill": 1101002,
       "Skincfg": "1010000",
       "Battlecfg": 11010000,
-      "LangStringTable": {
-        "Typename": "企業",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110101": {
       "Cuid": 110101,
       "Id": 110101,
+      "Typename": "企業",
       "Fettermonster": 0,
       "Typeship": 1,
       "Country": 4,
@@ -121,14 +116,13 @@
       "Activeskill": 0,
       "Skincfg": "1010100",
       "Battlecfg": 11010100,
-      "LangStringTable": {
-        "Typename": "企業",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110110": {
       "Cuid": 110110,
       "Id": 110110,
+      "Typename": "好人理查",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -139,14 +133,13 @@
       "Activeskill": 1101102,
       "Skincfg": "1011000",
       "Battlecfg": 11011000,
-      "LangStringTable": {
-        "Typename": "好人理查",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110120": {
       "Cuid": 110120,
       "Id": 110120,
+      "Typename": "獨角獸",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 2,
@@ -157,14 +150,13 @@
       "Activeskill": 1101202,
       "Skincfg": "1012000",
       "Battlecfg": 11012000,
-      "LangStringTable": {
-        "Typename": "獨角獸",
-        "Monsterintro": "隸屬於薔薇帝國的航母型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的航母型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "110150": {
       "Cuid": 110150,
       "Id": 110150,
+      "Typename": "艾塞克斯",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -175,14 +167,13 @@
       "Activeskill": 1101502,
       "Skincfg": "1015000",
       "Battlecfg": 11015000,
-      "LangStringTable": {
-        "Typename": "艾塞克斯",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110160": {
       "Cuid": 110160,
       "Id": 110160,
+      "Typename": "約克鎮",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -193,14 +184,13 @@
       "Activeskill": 1101602,
       "Skincfg": "1016000",
       "Battlecfg": 11016000,
-      "LangStringTable": {
-        "Typename": "約克鎮",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110180": {
       "Cuid": 110180,
       "Id": 110180,
+      "Typename": "大黃蜂",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 4,
@@ -211,14 +201,13 @@
       "Activeskill": 1101802,
       "Skincfg": "1018000",
       "Battlecfg": 11018000,
-      "LangStringTable": {
-        "Typename": "大黃蜂",
-        "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的航母型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "110240": {
       "Cuid": 110240,
       "Id": 110240,
+      "Typename": "皇家方舟",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 2,
@@ -229,14 +218,13 @@
       "Activeskill": 1102402,
       "Skincfg": "1024000",
       "Battlecfg": 11024000,
-      "LangStringTable": {
-        "Typename": "皇家方舟",
-        "Monsterintro": "隸屬於薔薇帝國的航母型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的航母型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "120010": {
       "Cuid": 120010,
       "Id": 120010,
+      "Typename": "飛鷹",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 3,
@@ -247,14 +235,13 @@
       "Activeskill": 1200102,
       "Skincfg": "2001000",
       "Battlecfg": 12001000,
-      "LangStringTable": {
-        "Typename": "飛鷹",
-        "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "120020": {
       "Cuid": 120020,
       "Id": 120020,
+      "Typename": "競技神",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 2,
@@ -265,14 +252,13 @@
       "Activeskill": 1200202,
       "Skincfg": "2002000",
       "Battlecfg": 12002000,
-      "LangStringTable": {
-        "Typename": "競技神",
-        "Monsterintro": "隸屬於薔薇帝國的航母型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的航母型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "120030": {
       "Cuid": 120030,
       "Id": 120030,
+      "Typename": "千歲",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 3,
@@ -283,14 +269,13 @@
       "Activeskill": 1200302,
       "Skincfg": "2003000",
       "Battlecfg": 12003000,
-      "LangStringTable": {
-        "Typename": "千歲",
-        "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "120090": {
       "Cuid": 120090,
       "Id": 120090,
+      "Typename": "千代田",
       "Fettermonster": 1,
       "Typeship": 1,
       "Country": 3,
@@ -301,14 +286,13 @@
       "Activeskill": 1200902,
       "Skincfg": "2009000",
       "Battlecfg": 12009000,
-      "LangStringTable": {
-        "Typename": "千代田",
-        "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的航母型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "130010": {
       "Cuid": 130010,
       "Id": 130010,
+      "Typename": "亞特蘭大",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 4,
@@ -319,14 +303,13 @@
       "Activeskill": 1300102,
       "Skincfg": "3001000",
       "Battlecfg": 13001000,
-      "LangStringTable": {
-        "Typename": "亞特蘭大",
-        "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "130020": {
       "Cuid": 130020,
       "Id": 130020,
+      "Typename": "利安德",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 2,
@@ -337,14 +320,13 @@
       "Activeskill": 1300202,
       "Skincfg": "3002000",
       "Battlecfg": 13002000,
-      "LangStringTable": {
-        "Typename": "利安德",
-        "Monsterintro": "隸屬於薔薇帝國的輕巡型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的輕巡型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "130040": {
       "Cuid": 130040,
       "Id": 130040,
+      "Typename": "克里夫蘭",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 4,
@@ -355,14 +337,13 @@
       "Activeskill": 1300402,
       "Skincfg": "3004000",
       "Battlecfg": 13004000,
-      "LangStringTable": {
-        "Typename": "克里夫蘭",
-        "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "130050": {
       "Cuid": 130050,
       "Id": 130050,
+      "Typename": "川內",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 3,
@@ -373,14 +354,13 @@
       "Activeskill": 1300502,
       "Skincfg": "3005000",
       "Battlecfg": 13005000,
-      "LangStringTable": {
-        "Typename": "川內",
-        "Monsterintro": "隸屬於神代會社的輕巡型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的輕巡型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "130100": {
       "Cuid": 130100,
       "Id": 130100,
+      "Typename": "萊比錫",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 1,
@@ -391,14 +371,13 @@
       "Activeskill": 1301002,
       "Skincfg": "3010000",
       "Battlecfg": 13010000,
-      "LangStringTable": {
-        "Typename": "萊比錫",
-        "Monsterintro": "隸屬於黑鋒重工的輕巡型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的輕巡型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "130130": {
       "Cuid": 130130,
       "Id": 130130,
+      "Typename": "海王星",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 2,
@@ -409,14 +388,13 @@
       "Activeskill": 1301302,
       "Skincfg": "3013000",
       "Battlecfg": 13013000,
-      "LangStringTable": {
-        "Typename": "海王星",
-        "Monsterintro": "隸屬於薔薇帝國的輕巡型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的輕巡型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "130140": {
       "Cuid": 130140,
       "Id": 130140,
+      "Typename": "弗林特",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 4,
@@ -427,14 +405,13 @@
       "Activeskill": 1301402,
       "Skincfg": "3014000",
       "Battlecfg": 13014000,
-      "LangStringTable": {
-        "Typename": "弗林特",
-        "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "130150": {
       "Cuid": 130150,
       "Id": 130150,
+      "Typename": "柯尼斯堡",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 1,
@@ -445,14 +422,13 @@
       "Activeskill": 1301502,
       "Skincfg": "3015000",
       "Battlecfg": 13015000,
-      "LangStringTable": {
-        "Typename": "柯尼斯堡",
-        "Monsterintro": "隸屬於黑鋒重工的輕巡型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的輕巡型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "130160": {
       "Cuid": 130160,
       "Id": 130160,
+      "Typename": "愛丁堡",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 2,
@@ -463,14 +439,13 @@
       "Activeskill": 1301602,
       "Skincfg": "3016000",
       "Battlecfg": 13016000,
-      "LangStringTable": {
-        "Typename": "愛丁堡",
-        "Monsterintro": "隸屬於薔薇帝國的輕巡型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的輕巡型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "130170": {
       "Cuid": 130170,
       "Id": 130170,
+      "Typename": "夕張",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 3,
@@ -481,14 +456,13 @@
       "Activeskill": 1301702,
       "Skincfg": "3017000",
       "Battlecfg": 13017000,
-      "LangStringTable": {
-        "Typename": "夕張",
-        "Monsterintro": "隸屬於神代會社的輕巡型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的輕巡型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "130180": {
       "Cuid": 130180,
       "Id": 130180,
+      "Typename": "海倫娜",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 4,
@@ -499,14 +473,13 @@
       "Activeskill": 1301802,
       "Skincfg": "3018000",
       "Battlecfg": 13018000,
-      "LangStringTable": {
-        "Typename": "海倫娜",
-        "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "130190": {
       "Cuid": 130190,
       "Id": 130190,
+      "Typename": "朱諾",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 4,
@@ -517,14 +490,13 @@
       "Activeskill": 1301902,
       "Skincfg": "3019000",
       "Battlecfg": 13019000,
-      "LangStringTable": {
-        "Typename": "朱諾",
-        "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "130330": {
       "Cuid": 130330,
       "Id": 130330,
+      "Typename": "哥倫比亞",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 4,
@@ -535,14 +507,13 @@
       "Activeskill": 1303302,
       "Skincfg": "3033000",
       "Battlecfg": 13033000,
-      "LangStringTable": {
-        "Typename": "哥倫比亞",
-        "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的輕巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "130350": {
       "Cuid": 130350,
       "Id": 130350,
+      "Typename": "紐倫堡",
       "Fettermonster": 1,
       "Typeship": 3,
       "Country": 1,
@@ -553,14 +524,13 @@
       "Activeskill": 1303502,
       "Skincfg": "3035000",
       "Battlecfg": 13035000,
-      "LangStringTable": {
-        "Typename": "紐倫堡",
-        "Monsterintro": "隸屬於黑鋒重工的輕巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的輕巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "140020": {
       "Cuid": 140020,
       "Id": 140020,
+      "Typename": "妙高",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 3,
@@ -571,14 +541,13 @@
       "Activeskill": 1400202,
       "Skincfg": "4002000",
       "Battlecfg": 14002000,
-      "LangStringTable": {
-        "Typename": "妙高",
-        "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。",
+      "Nazo": 0
     },
     "140030": {
       "Cuid": 140030,
       "Id": 140030,
+      "Typename": "那智",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 3,
@@ -589,14 +558,13 @@
       "Activeskill": 1400302,
       "Skincfg": "4003000",
       "Battlecfg": 14003000,
-      "LangStringTable": {
-        "Typename": "那智",
-        "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。",
+      "Nazo": 0
     },
     "140050": {
       "Cuid": 140050,
       "Id": 140050,
+      "Typename": "羽黑",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 3,
@@ -607,14 +575,13 @@
       "Activeskill": 1400502,
       "Skincfg": "4005000",
       "Battlecfg": 14005000,
-      "LangStringTable": {
-        "Typename": "羽黑",
-        "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。",
+      "Nazo": 0
     },
     "140060": {
       "Cuid": 140060,
       "Id": 140060,
+      "Typename": "足柄",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 3,
@@ -625,14 +592,13 @@
       "Activeskill": 1400602,
       "Skincfg": "4006000",
       "Battlecfg": 14006000,
-      "LangStringTable": {
-        "Typename": "足柄",
-        "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。",
+      "Nazo": 0
     },
     "140070": {
       "Cuid": 140070,
       "Id": 140070,
+      "Typename": "希佩爾",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 1,
@@ -643,14 +609,13 @@
       "Activeskill": 1400702,
       "Skincfg": "4007000",
       "Battlecfg": 14007000,
-      "LangStringTable": {
-        "Typename": "希佩爾",
-        "Monsterintro": "隸屬於黑鋒重工的重巡型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的重巡型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "140090": {
       "Cuid": 140090,
       "Id": 140090,
+      "Typename": "塞德利茨",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 1,
@@ -661,14 +626,13 @@
       "Activeskill": 1400902,
       "Skincfg": "4009000",
       "Battlecfg": 14009000,
-      "LangStringTable": {
-        "Typename": "塞德利茨",
-        "Monsterintro": "隸屬於黑鋒重工的重巡型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的重巡型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "140100": {
       "Cuid": 140100,
       "Id": 140100,
+      "Typename": "呂佐夫",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 1,
@@ -679,14 +643,13 @@
       "Activeskill": 1401002,
       "Skincfg": "4010000",
       "Battlecfg": 14010000,
-      "LangStringTable": {
-        "Typename": "呂佐夫",
-        "Monsterintro": "隸屬於黑鋒重工的重巡型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的重巡型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "140130": {
       "Cuid": 140130,
       "Id": 140130,
+      "Typename": "彭薩科拉",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 4,
@@ -697,14 +660,13 @@
       "Activeskill": 1401302,
       "Skincfg": "4013000",
       "Battlecfg": 14013000,
-      "LangStringTable": {
-        "Typename": "彭薩科拉",
-        "Monsterintro": "隸屬於銀翼財團的重巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的重巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "140150": {
       "Cuid": 140150,
       "Id": 140150,
+      "Typename": "北安普頓",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 4,
@@ -715,14 +677,13 @@
       "Activeskill": 1401502,
       "Skincfg": "4015000",
       "Battlecfg": 14015000,
-      "LangStringTable": {
-        "Typename": "北安普頓",
-        "Monsterintro": "隸屬於銀翼財團的重巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的重巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "140151": {
       "Cuid": 140151,
       "Id": 140151,
+      "Typename": "北安普頓",
       "Fettermonster": 0,
       "Typeship": 4,
       "Country": 4,
@@ -733,14 +694,13 @@
       "Activeskill": 0,
       "Skincfg": "4015100",
       "Battlecfg": 14015100,
-      "LangStringTable": {
-        "Typename": "北安普頓",
-        "Monsterintro": "隸屬於銀翼財團的重巡型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的重巡型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "140160": {
       "Cuid": 140160,
       "Id": 140160,
+      "Typename": "最上",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 3,
@@ -751,14 +711,13 @@
       "Activeskill": 1401602,
       "Skincfg": "4016000",
       "Battlecfg": 14016000,
-      "LangStringTable": {
-        "Typename": "最上",
-        "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。",
+      "Nazo": 0
     },
     "140200": {
       "Cuid": 140200,
       "Id": 140200,
+      "Typename": "高雄",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 3,
@@ -769,14 +728,13 @@
       "Activeskill": 1402002,
       "Skincfg": "4020000",
       "Battlecfg": 14020000,
-      "LangStringTable": {
-        "Typename": "高雄",
-        "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。",
+      "Nazo": 0
     },
     "140210": {
       "Cuid": 140210,
       "Id": 140210,
+      "Typename": "愛宕",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 3,
@@ -787,14 +745,13 @@
       "Activeskill": 1402102,
       "Skincfg": "4021000",
       "Battlecfg": 14021000,
-      "LangStringTable": {
-        "Typename": "愛宕",
-        "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的重巡型人偶，擅長團隊火力作戰。",
+      "Nazo": 0
     },
     "140300": {
       "Cuid": 140300,
       "Id": 140300,
+      "Typename": "諾福克",
       "Fettermonster": 1,
       "Typeship": 4,
       "Country": 2,
@@ -805,14 +762,13 @@
       "Activeskill": 1403002,
       "Skincfg": "4030000",
       "Battlecfg": 14030000,
-      "LangStringTable": {
-        "Typename": "諾福克",
-        "Monsterintro": "隸屬於薔薇帝國的重巡型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的重巡型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150030": {
       "Cuid": 150030,
       "Id": 150030,
+      "Typename": "朱比特",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 2,
@@ -823,14 +779,13 @@
       "Activeskill": 1500302,
       "Skincfg": "5003000",
       "Battlecfg": 15003000,
-      "LangStringTable": {
-        "Typename": "朱比特",
-        "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150031": {
       "Cuid": 150031,
       "Id": 150031,
+      "Typename": "朱比特",
       "Fettermonster": 0,
       "Typeship": 5,
       "Country": 2,
@@ -841,14 +796,13 @@
       "Activeskill": 0,
       "Skincfg": "5003100",
       "Battlecfg": 15003100,
-      "LangStringTable": {
-        "Typename": "朱比特",
-        "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150060": {
       "Cuid": 150060,
       "Id": 150060,
+      "Typename": "陽炎",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 3,
@@ -859,14 +813,13 @@
       "Activeskill": 1500602,
       "Skincfg": "5006000",
       "Battlecfg": 15006000,
-      "LangStringTable": {
-        "Typename": "陽炎",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150061": {
       "Cuid": 150061,
       "Id": 150061,
+      "Typename": "陽炎",
       "Fettermonster": 0,
       "Typeship": 5,
       "Country": 3,
@@ -877,14 +830,13 @@
       "Activeskill": 1500612,
       "Skincfg": "5006100",
       "Battlecfg": 15006100,
-      "LangStringTable": {
-        "Typename": "陽炎",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊協同作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊協同作戰。",
+      "Nazo": 0
     },
     "150080": {
       "Cuid": 150080,
       "Id": 150080,
+      "Typename": "不知火",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 3,
@@ -895,14 +847,13 @@
       "Activeskill": 1500802,
       "Skincfg": "5008000",
       "Battlecfg": 15008000,
-      "LangStringTable": {
-        "Typename": "不知火",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150081": {
       "Cuid": 150081,
       "Id": 150081,
+      "Typename": "不知火",
       "Fettermonster": 0,
       "Typeship": 5,
       "Country": 3,
@@ -913,14 +864,13 @@
       "Activeskill": 1500812,
       "Skincfg": "5008100",
       "Battlecfg": 15008100,
-      "LangStringTable": {
-        "Typename": "不知火",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150090": {
       "Cuid": 150090,
       "Id": 150090,
+      "Typename": "馬漢",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 4,
@@ -931,14 +881,13 @@
       "Activeskill": 1500902,
       "Skincfg": "5009000",
       "Battlecfg": 15009000,
-      "LangStringTable": {
-        "Typename": "馬漢",
-        "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "150100": {
       "Cuid": 150100,
       "Id": 150100,
+      "Typename": "小獵犬",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 2,
@@ -949,14 +898,13 @@
       "Activeskill": 1501002,
       "Skincfg": "5010000",
       "Battlecfg": 15010000,
-      "LangStringTable": {
-        "Typename": "小獵犬",
-        "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150120": {
       "Cuid": 150120,
       "Id": 150120,
+      "Typename": "卡辛",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 4,
@@ -967,14 +915,13 @@
       "Activeskill": 1501202,
       "Skincfg": "5012000",
       "Battlecfg": 15012000,
-      "LangStringTable": {
-        "Typename": "卡辛",
-        "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "150150": {
       "Cuid": 150150,
       "Id": 150150,
+      "Typename": "白露",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 3,
@@ -985,14 +932,13 @@
       "Activeskill": 1501502,
       "Skincfg": "5015000",
       "Battlecfg": 15015000,
-      "LangStringTable": {
-        "Typename": "白露",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150190": {
       "Cuid": 150190,
       "Id": 150190,
+      "Typename": "小天鵝",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 2,
@@ -1003,14 +949,13 @@
       "Activeskill": 1501902,
       "Skincfg": "5019000",
       "Battlecfg": 15019000,
-      "LangStringTable": {
-        "Typename": "小天鵝",
-        "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150210": {
       "Cuid": 150210,
       "Id": 150210,
+      "Typename": "戴爾",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 4,
@@ -1021,14 +966,13 @@
       "Activeskill": 1502102,
       "Skincfg": "5021000",
       "Battlecfg": 15021000,
-      "LangStringTable": {
-        "Typename": "戴爾",
-        "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "150220": {
       "Cuid": 150220,
       "Id": 150220,
+      "Typename": "康納",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 4,
@@ -1039,14 +983,13 @@
       "Activeskill": 1502202,
       "Skincfg": "5022000",
       "Battlecfg": 15022000,
-      "LangStringTable": {
-        "Typename": "康納",
-        "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "150250": {
       "Cuid": 150250,
       "Id": 150250,
+      "Typename": "吸血鬼",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 2,
@@ -1057,14 +1000,13 @@
       "Activeskill": 1502502,
       "Skincfg": "5025000",
       "Battlecfg": 15025000,
-      "LangStringTable": {
-        "Typename": "吸血鬼",
-        "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150260": {
       "Cuid": 150260,
       "Id": 150260,
+      "Typename": "螢火蟲",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 2,
@@ -1075,14 +1017,13 @@
       "Activeskill": 1502602,
       "Skincfg": "5026000",
       "Battlecfg": 15026000,
-      "LangStringTable": {
-        "Typename": "螢火蟲",
-        "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150290": {
       "Cuid": 150290,
       "Id": 150290,
+      "Typename": "早霜",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 3,
@@ -1093,14 +1034,13 @@
       "Activeskill": 1502902,
       "Skincfg": "5029000",
       "Battlecfg": 15029000,
-      "LangStringTable": {
-        "Typename": "早霜",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150310": {
       "Cuid": 150310,
       "Id": 150310,
+      "Typename": "萩風",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 3,
@@ -1111,14 +1051,13 @@
       "Activeskill": 1503102,
       "Skincfg": "5031000",
       "Battlecfg": 15031000,
-      "LangStringTable": {
-        "Typename": "萩風",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150320": {
       "Cuid": 150320,
       "Id": 150320,
+      "Typename": "黃泉",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 2,
@@ -1129,14 +1068,13 @@
       "Activeskill": 1503202,
       "Skincfg": "5032000",
       "Battlecfg": 15032000,
-      "LangStringTable": {
-        "Typename": "黃泉",
-        "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的驅逐型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "150330": {
       "Cuid": 150330,
       "Id": 150330,
+      "Typename": "Z26",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 1,
@@ -1147,14 +1085,13 @@
       "Activeskill": 1503302,
       "Skincfg": "5033000",
       "Battlecfg": 15033000,
-      "LangStringTable": {
-        "Typename": "Z26",
-        "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "150340": {
       "Cuid": 150340,
       "Id": 150340,
+      "Typename": "夕立",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 3,
@@ -1165,14 +1102,13 @@
       "Activeskill": 1503402,
       "Skincfg": "5034000",
       "Battlecfg": 15034000,
-      "LangStringTable": {
-        "Typename": "夕立",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150400": {
       "Cuid": 150400,
       "Id": 150400,
+      "Typename": "唐斯",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 4,
@@ -1183,14 +1119,13 @@
       "Activeskill": 1504002,
       "Skincfg": "5040000",
       "Battlecfg": 15040000,
-      "LangStringTable": {
-        "Typename": "唐斯",
-        "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "150430": {
       "Cuid": 150430,
       "Id": 150430,
+      "Typename": "親潮",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 3,
@@ -1201,14 +1136,13 @@
       "Activeskill": 1504302,
       "Skincfg": "5043000",
       "Battlecfg": 15043000,
-      "LangStringTable": {
-        "Typename": "親潮",
-        "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的驅逐型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "150470": {
       "Cuid": 150470,
       "Id": 150470,
+      "Typename": "弗萊徹",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 4,
@@ -1219,14 +1153,13 @@
       "Activeskill": 1504702,
       "Skincfg": "5047000",
       "Battlecfg": 15047000,
-      "LangStringTable": {
-        "Typename": "弗萊徹",
-        "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的驅逐型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "150490": {
       "Cuid": 150490,
       "Id": 150490,
+      "Typename": "Z1",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 1,
@@ -1237,14 +1170,13 @@
       "Activeskill": 1504902,
       "Skincfg": "5049000",
       "Battlecfg": 15049000,
-      "LangStringTable": {
-        "Typename": "Z1",
-        "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "150510": {
       "Cuid": 150510,
       "Id": 150510,
+      "Typename": "Z3",
       "Fettermonster": 1,
       "Typeship": 5,
       "Country": 1,
@@ -1255,14 +1187,13 @@
       "Activeskill": 1505102,
       "Skincfg": "5051000",
       "Battlecfg": 15051000,
-      "LangStringTable": {
-        "Typename": "Z3",
-        "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "150511": {
       "Cuid": 150511,
       "Id": 150511,
+      "Typename": "Z3",
       "Fettermonster": 0,
       "Typeship": 5,
       "Country": 1,
@@ -1273,14 +1204,13 @@
       "Activeskill": 1505112,
       "Skincfg": "5051100",
       "Battlecfg": 15051100,
-      "LangStringTable": {
-        "Typename": "Z3",
-        "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的驅逐型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "160050": {
       "Cuid": 160050,
       "Id": 160050,
+      "Typename": "胡德",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 2,
@@ -1291,14 +1221,13 @@
       "Activeskill": 1600502,
       "Skincfg": "6005000",
       "Battlecfg": 16005000,
-      "LangStringTable": {
-        "Typename": "胡德",
-        "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "160051": {
       "Cuid": 160051,
       "Id": 160051,
+      "Typename": "胡德",
       "Fettermonster": 0,
       "Typeship": 6,
       "Country": 2,
@@ -1309,14 +1238,13 @@
       "Activeskill": 1600512,
       "Skincfg": "6005100",
       "Battlecfg": 16005100,
-      "LangStringTable": {
-        "Typename": "胡德",
-        "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "160070": {
       "Cuid": 160070,
       "Id": 160070,
+      "Typename": "沙恩霍斯特",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 1,
@@ -1327,14 +1255,13 @@
       "Activeskill": 1600702,
       "Skincfg": "6007000",
       "Battlecfg": 16007000,
-      "LangStringTable": {
-        "Typename": "沙恩霍斯特",
-        "Monsterintro": "隸屬於黑鋒重工的戰艦型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的戰艦型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "160071": {
       "Cuid": 160071,
       "Id": 160071,
+      "Typename": "沙恩霍斯特",
       "Fettermonster": 0,
       "Typeship": 6,
       "Country": 1,
@@ -1345,14 +1272,13 @@
       "Activeskill": 1600712,
       "Skincfg": "6007100",
       "Battlecfg": 16007100,
-      "LangStringTable": {
-        "Typename": "沙恩霍斯特",
-        "Monsterintro": "隸屬於黑鋒重工的戰艦型人偶，裝載強大的火力設備。"
-      }
+      "Monsterintro": "隸屬於黑鋒重工的戰艦型人偶，裝載強大的火力設備。",
+      "Nazo": 0
     },
     "160080": {
       "Cuid": 160080,
       "Id": 160080,
+      "Typename": "扶桑",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 3,
@@ -1363,14 +1289,13 @@
       "Activeskill": 1600802,
       "Skincfg": "6008000",
       "Battlecfg": 16008000,
-      "LangStringTable": {
-        "Typename": "扶桑",
-        "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "160090": {
       "Cuid": 160090,
       "Id": 160090,
+      "Typename": "山城",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 3,
@@ -1381,14 +1306,13 @@
       "Activeskill": 1600902,
       "Skincfg": "6009000",
       "Battlecfg": 16009000,
-      "LangStringTable": {
-        "Typename": "山城",
-        "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "160120": {
       "Cuid": 160120,
       "Id": 160120,
+      "Typename": "威爾士親王",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 2,
@@ -1399,14 +1323,13 @@
       "Activeskill": 1601202,
       "Skincfg": "6012000",
       "Battlecfg": 16012000,
-      "LangStringTable": {
-        "Typename": "威爾士親王",
-        "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "160140": {
       "Cuid": 160140,
       "Id": 160140,
+      "Typename": "南達科他",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 4,
@@ -1417,14 +1340,13 @@
       "Activeskill": 1601402,
       "Skincfg": "6014000",
       "Battlecfg": 16014000,
-      "LangStringTable": {
-        "Typename": "南達科他",
-        "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "160160": {
       "Cuid": 160160,
       "Id": 160160,
+      "Typename": "納爾遜",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 2,
@@ -1435,14 +1357,13 @@
       "Activeskill": 1601602,
       "Skincfg": "6016000",
       "Battlecfg": 16016000,
-      "LangStringTable": {
-        "Typename": "納爾遜",
-        "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "160170": {
       "Cuid": 160170,
       "Id": 160170,
+      "Typename": "賓夕法尼亞",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 4,
@@ -1453,14 +1374,13 @@
       "Activeskill": 1601702,
       "Skincfg": "6017000",
       "Battlecfg": 16017000,
-      "LangStringTable": {
-        "Typename": "賓夕法尼亞",
-        "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "160171": {
       "Cuid": 160171,
       "Id": 160171,
+      "Typename": "賓夕法尼亞",
       "Fettermonster": 0,
       "Typeship": 6,
       "Country": 4,
@@ -1471,14 +1391,13 @@
       "Activeskill": 1601712,
       "Skincfg": "6017100",
       "Battlecfg": 16017100,
-      "LangStringTable": {
-        "Typename": "賓夕法尼亞",
-        "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "160210": {
       "Cuid": 160210,
       "Id": 160210,
+      "Typename": "北卡羅萊納",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 4,
@@ -1489,15 +1408,14 @@
       "Activeskill": 1602102,
       "Skincfg": "6021000",
       "Battlecfg": 16021000,
-      "LangStringTable": {
-        "Typename": "北卡羅萊納",
-        "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "160230": {
       "Cuid": 160230,
       "Id": 160230,
-      "Fettermonster": 1,
+      "Typename": "大和",
+      "Fettermonster": 0,
       "Typeship": 6,
       "Country": 3,
       "Fetterstype": "0",
@@ -1507,14 +1425,13 @@
       "Activeskill": 1602302,
       "Skincfg": "6023000",
       "Battlecfg": 16023000,
-      "LangStringTable": {
-        "Typename": "大和",
-        "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "160250": {
       "Cuid": 160250,
       "Id": 160250,
+      "Typename": "金剛",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 3,
@@ -1525,14 +1442,13 @@
       "Activeskill": 1602502,
       "Skincfg": "6025000",
       "Battlecfg": 16025000,
-      "LangStringTable": {
-        "Typename": "金剛",
-        "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。"
-      }
+      "Monsterintro": "隸屬於神代會社的戰艦型人偶，擅長團隊合作作戰。",
+      "Nazo": 0
     },
     "160310": {
       "Cuid": 160310,
       "Id": 160310,
+      "Typename": "英王喬治五世",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 2,
@@ -1543,14 +1459,13 @@
       "Activeskill": 1603102,
       "Skincfg": "6031000",
       "Battlecfg": 16031000,
-      "LangStringTable": {
-        "Typename": "英王喬治五世",
-        "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。"
-      }
+      "Monsterintro": "隸屬於薔薇帝國的戰艦型人偶，擅長多樣化的作戰方式。",
+      "Nazo": 0
     },
     "160340": {
       "Cuid": 160340,
       "Id": 160340,
+      "Typename": "懷俄明",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 4,
@@ -1561,14 +1476,13 @@
       "Activeskill": 1603402,
       "Skincfg": "6034000",
       "Battlecfg": 16034000,
-      "LangStringTable": {
-        "Typename": "懷俄明",
-        "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "160380": {
       "Cuid": 160380,
       "Id": 160380,
+      "Typename": "科羅拉多",
       "Fettermonster": 1,
       "Typeship": 6,
       "Country": 4,
@@ -1579,50 +1493,13 @@
       "Activeskill": 1603802,
       "Skincfg": "6038000",
       "Battlecfg": 16038000,
-      "LangStringTable": {
-        "Typename": "科羅拉多",
-        "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。"
-      }
-    },
-    "199001": {
-      "Cuid": 199001,
-      "Id": 199001,
-      "Fettermonster": 0,
-      "Typeship": 3,
-      "Country": 0,
-      "Fetterstype": "0",
-      "Priority": 100,
-      "Normalskill": "0",
-      "Atkskill": 19901,
-      "Activeskill": 0,
-      "Skincfg": "19900100",
-      "Battlecfg": 199001,
-      "LangStringTable": {
-        "Typename": "機械殲滅兵",
-        "Monsterintro": "各國大量生產的普通型殲滅兵，適合各種陣型。"
-      }
-    },
-    "199002": {
-      "Cuid": 199002,
-      "Id": 199002,
-      "Fettermonster": 0,
-      "Typeship": 0,
-      "Country": 0,
-      "Fetterstype": "0",
-      "Priority": 100,
-      "Normalskill": "0",
-      "Atkskill": 19901,
-      "Activeskill": 0,
-      "Skincfg": "19900100",
-      "Battlecfg": 199001,
-      "LangStringTable": {
-        "Typename": "機械殲滅兵",
-        "Monsterintro": "各國大量生產的普通型殲滅兵，適合各種陣型。"
-      }
+      "Monsterintro": "隸屬於銀翼財團的戰艦型人偶，擁有頂尖的科技武裝。",
+      "Nazo": 0
     },
     "191001": {
       "Cuid": 191001,
       "Id": 191001,
+      "Typename": "黑鋒空襲機",
       "Fettermonster": 0,
       "Typeship": 6,
       "Country": 1,
@@ -1633,14 +1510,47 @@
       "Activeskill": 1910012,
       "Skincfg": "19100100",
       "Battlecfg": 19100100,
-      "LangStringTable": {
-        "Typename": "黑鋒空襲機",
-        "Monsterintro": "黑鋒重工生產的空襲型殲滅兵，可進行空中火力輸出。"
-      }
+      "Monsterintro": "黑鋒重工生產的空襲型殲滅兵，可進行空中火力輸出。",
+      "Nazo": 0
+    },
+    "199001": {
+      "Cuid": 199001,
+      "Id": 199001,
+      "Typename": "機械殲滅兵",
+      "Fettermonster": 0,
+      "Typeship": 3,
+      "Country": 0,
+      "Fetterstype": "0",
+      "Priority": 100,
+      "Normalskill": "0",
+      "Atkskill": 19901,
+      "Activeskill": 0,
+      "Skincfg": "19900100",
+      "Battlecfg": 199001,
+      "Monsterintro": "各國大量生產的普通型殲滅兵，適合各種陣型。",
+      "Nazo": 0
+    },
+    "199002": {
+      "Cuid": 199002,
+      "Id": 199002,
+      "Typename": "機械殲滅兵",
+      "Fettermonster": 0,
+      "Typeship": 0,
+      "Country": 0,
+      "Fetterstype": "0",
+      "Priority": 100,
+      "Normalskill": "0",
+      "Atkskill": 19901,
+      "Activeskill": 0,
+      "Skincfg": "19900100",
+      "Battlecfg": 199001,
+      "Monsterintro": "各國大量生產的普通型殲滅兵，適合各種陣型。",
+      "Nazo": 0
     },
     "191004": {
       "Cuid": 191004,
       "Id": 191004,
+      "Typename": "黑鋒砲擊手",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 1,
@@ -1651,14 +1561,13 @@
       "Activeskill": 1910042,
       "Skincfg": "19100400",
       "Battlecfg": 19100400,
-      "LangStringTable": {
-        "Typename": "黑鋒砲擊手",
-        "Monsterintro": "黑鋒重工生產的通用型殲滅兵，適配各種陣型。"
-      }
+      "Monsterintro": "黑鋒重工生產的通用型殲滅兵，適配各種陣型。",
+      "Nazo": 0
     },
     "192001": {
       "Cuid": 192001,
       "Id": 192001,
+      "Typename": "薔薇雷擊兵",
       "Fettermonster": 0,
       "Typeship": 5,
       "Country": 2,
@@ -1669,14 +1578,13 @@
       "Activeskill": 1920012,
       "Skincfg": "19200100",
       "Battlecfg": 19200100,
-      "LangStringTable": {
-        "Typename": "薔薇雷擊兵",
-        "Monsterintro": "薔薇帝國生產的魚雷型殲滅兵，可裝載大量魚雷。"
-      }
+      "Monsterintro": "薔薇帝國生產的魚雷型殲滅兵，可裝載大量魚雷。",
+      "Nazo": 0
     },
     "193003": {
       "Cuid": 193003,
       "Id": 193003,
+      "Typename": "神代機械兵",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 3,
@@ -1687,14 +1595,13 @@
       "Activeskill": 1930032,
       "Skincfg": "19300300",
       "Battlecfg": 19300300,
-      "LangStringTable": {
-        "Typename": "神代機械兵",
-        "Monsterintro": "神代會社生產的普通型殲滅兵，適合各種陣型。"
-      }
+      "Monsterintro": "神代會社生產的普通型殲滅兵，適合各種陣型。",
+      "Nazo": 0
     },
     "194001": {
       "Cuid": 194001,
       "Id": 194001,
+      "Typename": "銀翼機械兵",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 4,
@@ -1705,14 +1612,13 @@
       "Activeskill": 1940012,
       "Skincfg": "19400100",
       "Battlecfg": 19400100,
-      "LangStringTable": {
-        "Typename": "銀翼機械兵",
-        "Monsterintro": "神代會社生產的普通型殲滅兵，適合各種陣型。"
-      }
+      "Monsterintro": "神代會社生產的普通型殲滅兵，適合各種陣型。",
+      "Nazo": 0
     },
     "194003": {
       "Cuid": 194003,
       "Id": 194003,
+      "Typename": "銀翼重砲兵",
       "Fettermonster": 0,
       "Typeship": 6,
       "Country": 4,
@@ -1723,14 +1629,13 @@
       "Activeskill": 1940032,
       "Skincfg": "19400300",
       "Battlecfg": 19400300,
-      "LangStringTable": {
-        "Typename": "銀翼重砲兵",
-        "Monsterintro": "銀翼財團生產的砲擊殲滅兵，可進行強火力輸出。"
-      }
+      "Monsterintro": "銀翼財團生產的砲擊殲滅兵，可進行強火力輸出。",
+      "Nazo": 0
     },
     "194004": {
       "Cuid": 194004,
       "Id": 194004,
+      "Typename": "銀翼空襲機械",
       "Fettermonster": 0,
       "Typeship": 1,
       "Country": 4,
@@ -1741,14 +1646,13 @@
       "Activeskill": 1940042,
       "Skincfg": "19400400",
       "Battlecfg": 19400400,
-      "LangStringTable": {
-        "Typename": "銀翼空襲機械",
-        "Monsterintro": "銀翼財團生產的空襲型殲滅兵，可進行空中火力輸出。"
-      }
+      "Monsterintro": "銀翼財團生產的空襲型殲滅兵，可進行空中火力輸出。",
+      "Nazo": 0
     },
     "291001": {
       "Cuid": 291001,
       "Id": 291001,
+      "Typename": "黑鋒湮滅機甲",
       "Fettermonster": 0,
       "Typeship": 7,
       "Country": 1,
@@ -1759,14 +1663,13 @@
       "Activeskill": 0,
       "Skincfg": "291000100",
       "Battlecfg": 29100100,
-      "LangStringTable": {
-        "Typename": "黑鋒湮滅機甲",
-        "Monsterintro": null
-      }
+      "Monsterintro": "",
+      "Nazo": 0
     },
     "301101": {
       "Cuid": 301101,
       "Id": 301101,
+      "Typename": "毒液怪魚",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 0,
@@ -1777,14 +1680,13 @@
       "Activeskill": 0,
       "Skincfg": "30110100",
       "Battlecfg": 30110100,
-      "LangStringTable": {
-        "Typename": "毒液怪魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301102": {
       "Cuid": 301102,
       "Id": 301102,
+      "Typename": "異首怪魚",
       "Fettermonster": 0,
       "Typeship": 4,
       "Country": 0,
@@ -1795,14 +1697,13 @@
       "Activeskill": 3011022,
       "Skincfg": "30110200",
       "Battlecfg": 30110200,
-      "LangStringTable": {
-        "Typename": "異首怪魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301103": {
       "Cuid": 301103,
       "Id": 301103,
+      "Typename": "刺豚怪魚",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 0,
@@ -1813,14 +1714,13 @@
       "Activeskill": 0,
       "Skincfg": "30110300",
       "Battlecfg": 30110300,
-      "LangStringTable": {
-        "Typename": "刺豚怪魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301104": {
       "Cuid": 301104,
       "Id": 301104,
+      "Typename": "獨角怪魚",
       "Fettermonster": 0,
       "Typeship": 5,
       "Country": 0,
@@ -1831,14 +1731,13 @@
       "Activeskill": 0,
       "Skincfg": "30110400",
       "Battlecfg": 30110400,
-      "LangStringTable": {
-        "Typename": "獨角怪魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301105": {
       "Cuid": 301105,
       "Id": 301105,
+      "Typename": "巨砲怪魚",
       "Fettermonster": 0,
       "Typeship": 6,
       "Country": 0,
@@ -1849,14 +1748,13 @@
       "Activeskill": 0,
       "Skincfg": "30110500",
       "Battlecfg": 30110500,
-      "LangStringTable": {
-        "Typename": "巨砲怪魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301106": {
       "Cuid": 301106,
       "Id": 301106,
+      "Typename": "魔鬼怪魚",
       "Fettermonster": 0,
       "Typeship": 1,
       "Country": 0,
@@ -1867,64 +1765,59 @@
       "Activeskill": 0,
       "Skincfg": "30110600",
       "Battlecfg": 30110600,
-      "LangStringTable": {
-        "Typename": "魔鬼怪魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301201": {
       "Cuid": 301201,
       "Id": 301201,
+      "Typename": "巨蝕骨魚",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 0,
       "Fetterstype": "0",
       "Priority": 407,
-      "Normalskill": "0",
+      "Normalskill": "3012013",
       "Atkskill": 3012011,
-      "Activeskill": 0,
+      "Activeskill": 3012012,
       "Skincfg": "30120100",
       "Battlecfg": 30120100,
-      "LangStringTable": {
-        "Typename": "巨蝕骨魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301202": {
       "Cuid": 301202,
       "Id": 301202,
+      "Typename": "深海龍魚",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 0,
       "Fetterstype": "0",
       "Priority": 408,
-      "Normalskill": "0",
+      "Normalskill": "3012023",
       "Atkskill": 3012021,
-      "Activeskill": 0,
+      "Activeskill": 3012022,
       "Skincfg": "30120200",
       "Battlecfg": 30120200,
-      "LangStringTable": {
-        "Typename": "深海龍魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     },
     "301203": {
       "Cuid": 301203,
       "Id": 301203,
+      "Typename": "變異爪魚",
       "Fettermonster": 0,
       "Typeship": 3,
       "Country": 0,
       "Fetterstype": "0",
       "Priority": 409,
-      "Normalskill": "0",
+      "Normalskill": "3012033,3012034",
       "Atkskill": 3012031,
-      "Activeskill": 0,
+      "Activeskill": 3012032,
       "Skincfg": "30120300",
       "Battlecfg": 30120300,
-      "LangStringTable": {
-        "Typename": "變異爪魚",
-        "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。"
-      }
+      "Monsterintro": "來源不明的變異魚類，對人類有很強的攻擊性。",
+      "Nazo": 0
     }
   }
 }

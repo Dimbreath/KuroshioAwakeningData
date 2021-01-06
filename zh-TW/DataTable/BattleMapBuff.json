@@ -8,7 +8,8 @@
       "Numtype": 2,
       "Num": 15,
       "Icon": "battle_1_icon_buff_2002",
-      "Buffeffect": "9,2,150"
+      "Buffeffect": "9,2,150",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -18,7 +19,8 @@
       "Numtype": 2,
       "Num": 15,
       "Icon": "battle_1_icon_buff_2005",
-      "Buffeffect": "8,2,150"
+      "Buffeffect": "8,2,150",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -28,7 +30,8 @@
       "Numtype": 2,
       "Num": 10,
       "Icon": "battle_1_icon_buff_2001",
-      "Buffeffect": "2,2,100"
+      "Buffeffect": "2,2,100",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
@@ -38,7 +41,8 @@
       "Numtype": 2,
       "Num": 10,
       "Icon": "battle_1_icon_buff_2001",
-      "Buffeffect": "2,2,100"
+      "Buffeffect": "2,2,100",
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
@@ -48,7 +52,8 @@
       "Numtype": 2,
       "Num": 10,
       "Icon": "battle_1_icon_buff_2001",
-      "Buffeffect": "2,2,100"
+      "Buffeffect": "2,2,100",
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
@@ -58,7 +63,8 @@
       "Numtype": 2,
       "Num": 15,
       "Icon": "battle_1_icon_buff_2003",
-      "Buffeffect": "28,2,150"
+      "Buffeffect": "28,2,150",
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
@@ -68,7 +74,8 @@
       "Numtype": 2,
       "Num": 15,
       "Icon": "battle_1_icon_buff_2005",
-      "Buffeffect": "8,2,150"
+      "Buffeffect": "8,2,150",
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
@@ -78,7 +85,8 @@
       "Numtype": 2,
       "Num": 10,
       "Icon": "battle_1_icon_buff_2001",
-      "Buffeffect": "2,2,100"
+      "Buffeffect": "2,2,100",
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
@@ -88,7 +96,8 @@
       "Numtype": 2,
       "Num": 10,
       "Icon": "battle_1_icon_buff_2005",
-      "Buffeffect": "8,2,100"
+      "Buffeffect": "8,2,100",
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
@@ -98,7 +107,338 @@
       "Numtype": 2,
       "Num": 10,
       "Icon": "battle_1_icon_buff_2001",
-      "Buffeffect": "2,2,100"
+      "Buffeffect": "2,2,100",
+      "Nazo": 0
+    },
+    "106003": {
+      "Cuid": 106003,
+      "Id": 106003,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,200",
+      "Nazo": 0
+    },
+    "10600501": {
+      "Cuid": 10600501,
+      "Id": 10600501,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,200",
+      "Nazo": 0
+    },
+    "10600502": {
+      "Cuid": 10600502,
+      "Id": 10600502,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,200",
+      "Nazo": 0
+    },
+    "106011": {
+      "Cuid": 106011,
+      "Id": 106011,
+      "Bufftype": 28,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2003",
+      "Buffeffect": "28,2,200",
+      "Nazo": 0
+    },
+    "106012": {
+      "Cuid": 106012,
+      "Id": 106012,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,200",
+      "Nazo": 0
+    },
+    "106013": {
+      "Cuid": 106013,
+      "Id": 106013,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,200",
+      "Nazo": 0
+    },
+    "106014": {
+      "Cuid": 106014,
+      "Id": 106014,
+      "Bufftype": 4,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2006",
+      "Buffeffect": "4,2,200",
+      "Nazo": 0
+    },
+    "106015": {
+      "Cuid": 106015,
+      "Id": 106015,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,200",
+      "Nazo": 0
+    },
+    "106016": {
+      "Cuid": 106016,
+      "Id": 106016,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,200",
+      "Nazo": 0
+    },
+    "106017": {
+      "Cuid": 106017,
+      "Id": 106017,
+      "Bufftype": 28,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2003",
+      "Buffeffect": "28,2,200",
+      "Nazo": 0
+    },
+    "106018": {
+      "Cuid": 106018,
+      "Id": 106018,
+      "Bufftype": 4,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 20,
+      "Icon": "battle_1_icon_buff_2006",
+      "Buffeffect": "4,2,200",
+      "Nazo": 0
+    },
+    "107004": {
+      "Cuid": 107004,
+      "Id": 107004,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,100",
+      "Nazo": 0
+    },
+    "107007": {
+      "Cuid": 107007,
+      "Id": 107007,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,100",
+      "Nazo": 0
+    },
+    "107010": {
+      "Cuid": 107010,
+      "Id": 107010,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,100",
+      "Nazo": 0
+    },
+    "107012": {
+      "Cuid": 107012,
+      "Id": 107012,
+      "Bufftype": 28,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2003",
+      "Buffeffect": "28,2,100",
+      "Nazo": 0
+    },
+    "107016": {
+      "Cuid": 107016,
+      "Id": 107016,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,100",
+      "Nazo": 0
+    },
+    "107018": {
+      "Cuid": 107018,
+      "Id": 107018,
+      "Bufftype": 3,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 10,
+      "Icon": "battle_1_icon_buff_2007",
+      "Buffeffect": "3,2,100",
+      "Nazo": 0
+    },
+    "108007": {
+      "Cuid": 108007,
+      "Id": 108007,
+      "Bufftype": 28,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2003",
+      "Buffeffect": "28,2,150",
+      "Nazo": 0
+    },
+    "108008": {
+      "Cuid": 108008,
+      "Id": 108008,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,150",
+      "Nazo": 0
+    },
+    "108010": {
+      "Cuid": 108010,
+      "Id": 108010,
+      "Bufftype": 3,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2007",
+      "Buffeffect": "3,2,150",
+      "Nazo": 0
+    },
+    "108012": {
+      "Cuid": 108012,
+      "Id": 108012,
+      "Bufftype": 28,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2003",
+      "Buffeffect": "28,2,150",
+      "Nazo": 0
+    },
+    "108015": {
+      "Cuid": 108015,
+      "Id": 108015,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,150",
+      "Nazo": 0
+    },
+    "108016": {
+      "Cuid": 108016,
+      "Id": 108016,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,150",
+      "Nazo": 0
+    },
+    "108018": {
+      "Cuid": 108018,
+      "Id": 108018,
+      "Bufftype": 28,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2003",
+      "Buffeffect": "28,2,150",
+      "Nazo": 0
+    },
+    "109003": {
+      "Cuid": 109003,
+      "Id": 109003,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,150",
+      "Nazo": 0
+    },
+    "109005": {
+      "Cuid": 109005,
+      "Id": 109005,
+      "Bufftype": 4,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2006",
+      "Buffeffect": "4,2,150",
+      "Nazo": 0
+    },
+    "109008": {
+      "Cuid": 109008,
+      "Id": 109008,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,150",
+      "Nazo": 0
+    },
+    "109011": {
+      "Cuid": 109011,
+      "Id": 109011,
+      "Bufftype": 5,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2008",
+      "Buffeffect": "5,2,150",
+      "Nazo": 0
+    },
+    "109017": {
+      "Cuid": 109017,
+      "Id": 109017,
+      "Bufftype": 3,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2007",
+      "Buffeffect": "3,2,150",
+      "Nazo": 0
+    },
+    "109018": {
+      "Cuid": 109018,
+      "Id": 109018,
+      "Bufftype": 2,
+      "Target": "3,1",
+      "Numtype": 2,
+      "Num": 15,
+      "Icon": "battle_1_icon_buff_2001",
+      "Buffeffect": "2,2,150",
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
@@ -108,7 +448,8 @@
       "Numtype": 2,
       "Num": 20,
       "Icon": "battle_1_icon_buff_2002",
-      "Buffeffect": "9,2,200"
+      "Buffeffect": "9,2,200",
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
@@ -118,7 +459,8 @@
       "Numtype": 2,
       "Num": 20,
       "Icon": "battle_1_icon_buff_2005",
-      "Buffeffect": "8,2,200"
+      "Buffeffect": "8,2,200",
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
@@ -128,7 +470,8 @@
       "Numtype": 2,
       "Num": 15,
       "Icon": "battle_1_icon_buff_2001",
-      "Buffeffect": "2,2,150"
+      "Buffeffect": "2,2,150",
+      "Nazo": 0
     }
   }
 }

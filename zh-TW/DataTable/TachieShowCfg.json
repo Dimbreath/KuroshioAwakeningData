@@ -5,60 +5,65 @@
       "Tachieshowid": 1,
       "Bottom": 1,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Tachieshowid": 2,
       "Bottom": 0,
       "Initialposition": 1,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Tachieshowid": 3,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 1,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Tachieshowid": 4,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Tachieshowid": 5,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
@@ -66,11 +71,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "1,2,0.5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
@@ -78,11 +84,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "2,2,1",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
@@ -90,11 +97,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "3,4,0.5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
@@ -102,11 +110,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "1,4,0.5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
@@ -114,11 +123,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "2,4,0.5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
@@ -126,11 +136,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "3,8,1",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
@@ -138,83 +149,90 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "1,4,1",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Tachieshowid": 13,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
+      "Shake": "",
       "Shift": "3000,0,4",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Tachieshowid": 14,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
+      "Shake": "",
       "Shift": "3000,0,4",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Tachieshowid": 15,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
+      "Shake": "",
       "Shift": "-3000,0,4",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Tachieshowid": 16,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
+      "Shake": "",
       "Shift": "-3000,0,4",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Tachieshowid": 17,
       "Bottom": 0,
       "Initialposition": 1,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Tachieshowid": 18,
       "Bottom": 0,
       "Initialposition": 1,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
@@ -225,8 +243,9 @@
       "Shift": "3000,0,2",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
@@ -237,8 +256,9 @@
       "Shift": "3000,0,2",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
@@ -246,11 +266,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "2,4,1",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
@@ -258,35 +279,38 @@
       "Bottom": 0,
       "Initialposition": 1,
       "Shake": "1,2,0.5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
       "Tachieshowid": 23,
       "Bottom": 1,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "24": {
       "Cuid": 24,
       "Tachieshowid": 24,
       "Bottom": 1,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "25": {
       "Cuid": 25,
@@ -294,143 +318,155 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "1,14,1",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "26": {
       "Cuid": 26,
       "Tachieshowid": 26,
       "Bottom": 1,
       "Initialposition": 1,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "27": {
       "Cuid": 27,
       "Tachieshowid": 27,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
+      "Fadein": "",
       "Move": "-6,-440,2",
-      "Scale": null
+      "Scale": "",
+      "Nazo": 0
     },
     "28": {
       "Cuid": 28,
       "Tachieshowid": 28,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
       "Move": "-6,-1500,1.5",
-      "Scale": "0.6,0.6"
+      "Scale": "0.6,0.6",
+      "Nazo": 0
     },
     "29": {
       "Cuid": 29,
       "Tachieshowid": 29,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": "0.8,0.8"
+      "Fadein": "",
+      "Move": "",
+      "Scale": "0.8,0.8",
+      "Nazo": 0
     },
     "30": {
       "Cuid": 30,
       "Tachieshowid": 30,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": "0.3,0.3"
+      "Fadein": "",
+      "Move": "",
+      "Scale": "0.3,0.3",
+      "Nazo": 0
     },
     "31": {
       "Cuid": 31,
       "Tachieshowid": 31,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
       "Move": "-6,412,2",
-      "Scale": "0.3,0.3"
+      "Scale": "0.3,0.3",
+      "Nazo": 0
     },
     "32": {
       "Cuid": 32,
       "Tachieshowid": 32,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
       "Move": "-6,3000,2",
-      "Scale": null
+      "Scale": "",
+      "Nazo": 0
     },
     "33": {
       "Cuid": 33,
       "Tachieshowid": 33,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": "0.8,0.8"
+      "Move": "",
+      "Scale": "0.8,0.8",
+      "Nazo": 0
     },
     "34": {
       "Cuid": 34,
       "Tachieshowid": 34,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": "0.3,0.3"
+      "Move": "",
+      "Scale": "0.3,0.3",
+      "Nazo": 0
     },
     "35": {
       "Cuid": 35,
       "Tachieshowid": 35,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 1,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "36": {
       "Cuid": 36,
       "Tachieshowid": 36,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 1,
       "Fadein": "0,0.3",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "37": {
       "Cuid": 37,
@@ -438,11 +474,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "1,2,0.5,5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "38": {
       "Cuid": 38,
@@ -450,11 +487,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "1,2,1,5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "39": {
       "Cuid": 39,
@@ -462,11 +500,12 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "2,2,0.5,5",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "40": {
       "Cuid": 40,
@@ -474,23 +513,25 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "1,2,0.5,10",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 1,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "41": {
       "Cuid": 41,
       "Tachieshowid": 41,
       "Bottom": 1,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 1,
-      "Fadein": null,
-      "Move": null,
-      "Scale": null
+      "Fadein": "",
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "42": {
       "Cuid": 42,
@@ -498,23 +539,25 @@
       "Bottom": 0,
       "Initialposition": 0,
       "Shake": "2,4,1",
-      "Shift": null,
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
-      "Move": null,
-      "Scale": null
+      "Move": "",
+      "Scale": "",
+      "Nazo": 0
     },
     "43": {
       "Cuid": 43,
       "Tachieshowid": 43,
       "Bottom": 0,
       "Initialposition": 0,
-      "Shake": null,
-      "Shift": null,
+      "Shake": "",
+      "Shift": "",
       "Communicationscreen": 0,
       "Fadein": "1,0.4",
       "Move": "-1550,-293,1",
-      "Scale": null
+      "Scale": "",
+      "Nazo": 0
     }
   }
 }

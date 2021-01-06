@@ -47,7 +47,18 @@ end
 function MonopolyChess:UpdateChessPosition()
     local currMapGrid = self:GetGridInfo(self.model.currStep)
     self.ChessObj.transform.localPosition = currMapGrid:GetLocalPosition()
-    self.ChessObj.transform:DORotate(Vector3.zero, 0.05)
+
+    local nextStep = self:NextStep()
+    local nextGrid = self:GetGridInfo(nextStep)
+    if nextGrid then 
+        local nextGridPos = nextGrid:GetLocalPosition()
+        local rotateVector = self:RotateVector(self.ChessObj.transform.localPosition,nextGridPos)
+        self.ChessObj.transform:DORotate(rotateVector, 0.05) --只转0、180两个角度。
+    end
+end
+
+function MonopolyChess:NextStep()
+    return self.model.currStep + 1
 end
 
 function MonopolyChess:StartMove(stepList)
@@ -115,6 +126,10 @@ function MonopolyChess:Move()
 end
 
 function MonopolyChess:RotateVector(currPos,targetPos)
+    if currPos == nil or targetPos == nil then
+        return Vector3.zero
+    end
+
     if targetPos.x - currPos.x > 0 then
         return Vector3.zero
     else
@@ -160,11 +175,9 @@ function MonopolyChess:CheckMoveDialog(callBack)
 
     message = self.model:GetItemMessage(self.model.currFloor,self.model.currStep,self.data.itemList,self.data.rand_id)
     local params = {title = "",confirmText = confirmText,cancelText = "",message = message}
-    LuaBridge.OpenDialog(model,params,items, function(obj)
-       self:ToNextFloorWithCallBack(callBack)
-    end,nil, function(obj)
-        self:ToNextFloorWithCallBack(callBack)
-    end)
+
+    local func = function(obj)  self:ToNextFloorWithCallBack(callBack) end
+    LuaBridge.OpenDialog(model,params,items,func ,func, func)
 end
 
 function MonopolyChess:ToNextFloorWithCallBack(callBack)
@@ -184,7 +197,7 @@ function MonopolyChess:ToNextFloor()
 end
 
 function MonopolyChess:GetGridInfo(gridId)
-    if gridId > self.model.currFloorMaxStep then return nil end
+    if gridId > self.model.currFloorMaxStep then print_error("gridId > self.model.currFloorMaxStep") return nil end
 
     local configId = MakeJointKey(self.model.currFloor,gridId)
     local config = self.model:GetMonopolyPointConfig(configId)
@@ -194,7 +207,7 @@ function MonopolyChess:GetGridInfo(gridId)
         local mapGrid = self.mapGrids[mapId]
 
         if mapGrid then
-        return mapGrid,configId,config
+            return mapGrid,configId,config
         else
             print_error("mapGrid = nil,mapId = ",mapId)
         end

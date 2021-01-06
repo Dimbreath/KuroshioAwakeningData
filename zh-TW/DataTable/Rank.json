@@ -7,14 +7,13 @@
       "Sectype": 0,
       "Ranknum": 0,
       "Playerranknum": 0,
+      "Destxt": "",
+      "Btnname": "綜合實力",
       "Btnicon": "rank_1_icon_tab_01",
-      "Btnenname": null,
+      "Btnenname": "",
+      "Typename": "",
       "Open": 1,
-      "LangStringTable": {
-        "Destxt": null,
-        "Btnname": "綜合實力",
-        "Typename": null
-      }
+      "Nazo": 0
     },
     "101": {
       "Cuid": 101,
@@ -23,14 +22,13 @@
       "Sectype": 1,
       "Ranknum": 100,
       "Playerranknum": 1000,
-      "Btnicon": null,
+      "Destxt": "說明：\n\n艦隊實力=所有編隊內所有成員的評分總和",
+      "Btnname": "艦隊排行",
+      "Btnicon": "",
       "Btnenname": "ARMADA",
+      "Typename": "艦隊實力",
       "Open": 0,
-      "LangStringTable": {
-        "Destxt": "說明：\n\n艦隊實力=所有編隊內所有成員的評分總和",
-        "Btnname": "艦隊排行",
-        "Typename": "艦隊實力"
-      }
+      "Nazo": 0
     },
     "102": {
       "Cuid": 102,
@@ -39,14 +37,13 @@
       "Sectype": 2,
       "Ranknum": 100,
       "Playerranknum": 1000,
-      "Btnicon": null,
+      "Destxt": "說明：\n\n人偶排行是根據所有指揮官擁有的單一人偶評分進行總排行榜排序",
+      "Btnname": "人偶排行",
+      "Btnicon": "",
       "Btnenname": "DOLL",
+      "Typename": "個人實力",
       "Open": 1,
-      "LangStringTable": {
-        "Destxt": "說明：\n\n人偶排行是根據所有指揮官擁有的單一人偶評分進行總排行榜排序",
-        "Btnname": "人偶排行",
-        "Typename": "個人實力"
-      }
+      "Nazo": 0
     },
     "200": {
       "Cuid": 200,
@@ -55,14 +52,13 @@
       "Sectype": 0,
       "Ranknum": 0,
       "Playerranknum": 0,
+      "Destxt": "",
+      "Btnname": "人偶收藏",
       "Btnicon": "rank_1_icon_tab_02",
-      "Btnenname": null,
+      "Btnenname": "",
+      "Typename": "",
       "Open": 1,
-      "LangStringTable": {
-        "Destxt": null,
-        "Btnname": "人偶收藏",
-        "Typename": null
-      }
+      "Nazo": 0
     },
     "201": {
       "Cuid": 201,
@@ -71,14 +67,13 @@
       "Sectype": 1,
       "Ranknum": 100,
       "Playerranknum": 1000,
-      "Btnicon": null,
+      "Destxt": "說明：\n\n收藏數量是根據指揮官個人擁有的不同人偶數量為排行依據",
+      "Btnname": "招募排行",
+      "Btnicon": "",
       "Btnenname": "COLLECTION",
+      "Typename": "收藏數量",
       "Open": 1,
-      "LangStringTable": {
-        "Destxt": "說明：\n\n收藏數量是根據指揮官個人擁有的不同人偶數量為排行依據",
-        "Btnname": "招募排行",
-        "Typename": "收藏數量"
-      }
+      "Nazo": 0
     },
     "202": {
       "Cuid": 202,
@@ -87,14 +82,13 @@
       "Sectype": 2,
       "Ranknum": 100,
       "Playerranknum": 1000,
-      "Btnicon": null,
+      "Destxt": "說明：\n\n深海排行是根據所有指揮官擁有的不同深海化人偶數量進行總排行榜排序",
+      "Btnname": "深海排行",
+      "Btnicon": "",
       "Btnenname": "GHOST",
+      "Typename": "深海數量",
       "Open": 1,
-      "LangStringTable": {
-        "Destxt": "說明：\n\n深海排行是根據所有指揮官擁有的不同深海化人偶數量進行總排行榜排序",
-        "Btnname": "深海排行",
-        "Typename": "深海數量"
-      }
+      "Nazo": 0
     },
     "300": {
       "Cuid": 300,
@@ -103,14 +97,13 @@
       "Sectype": 0,
       "Ranknum": 0,
       "Playerranknum": 0,
+      "Destxt": "",
+      "Btnname": "港口攻略",
       "Btnicon": "rank_1_icon_tab_03",
-      "Btnenname": null,
+      "Btnenname": "",
+      "Typename": "",
       "Open": 0,
-      "LangStringTable": {
-        "Destxt": null,
-        "Btnname": "港口攻略",
-        "Typename": null
-      }
+      "Nazo": 0
     },
     "301": {
       "Cuid": 301,
@@ -119,14 +112,13 @@
       "Sectype": 1,
       "Ranknum": 100,
       "Playerranknum": 1000,
-      "Btnicon": null,
+      "Destxt": "說明：\n\n壓制率=（已攻略港口數÷總港口數）x100%",
+      "Btnname": "攻略排行",
+      "Btnicon": "",
       "Btnenname": "SUPPRESS",
+      "Typename": "壓制率",
       "Open": 0,
-      "LangStringTable": {
-        "Destxt": "說明：\n\n壓制率=（已攻略港口數÷總港口數）x100%",
-        "Btnname": "攻略排行",
-        "Typename": "壓制率"
-      }
+      "Nazo": 0
     }
   }
 }

@@ -5,320 +5,288 @@
       "Id": 10000,
       "Type": 100,
       "Parameternum": 0,
-      "Config": null,
-      "LangStringTable": {
-        "Describe": "該大洲尚未解鎖"
-      }
+      "Describe": "該大洲尚未解鎖",
+      "Config": "",
+      "Nazo": 0
     },
     "10001": {
       "Cuid": 10001,
       "Id": 10001,
       "Type": 100,
       "Parameternum": 0,
-      "Config": null,
-      "LangStringTable": {
-        "Describe": "困難模式暫未開放，敬請期待"
-      }
+      "Describe": "困難模式暫未開放，敬請期待",
+      "Config": "",
+      "Nazo": 0
     },
     "10101": {
       "Cuid": 10101,
       "Id": 10101,
       "Type": 101,
       "Parameternum": 1,
+      "Describe": "指揮官等級達到Lv{0}時開啟",
       "Config": "CommanderBase.level",
-      "LangStringTable": {
-        "Describe": "指揮官等級達到Lv{0}時開啟"
-      }
+      "Nazo": 0
     },
     "10102": {
       "Cuid": 10102,
       "Id": 10102,
       "Type": 101,
       "Parameternum": 1,
+      "Describe": "指揮官等級達到Lv{0}",
       "Config": "CommanderBase.level",
-      "LangStringTable": {
-        "Describe": "指揮官等級達到Lv{0}"
-      }
+      "Nazo": 0
     },
     "10103": {
       "Cuid": 10103,
       "Id": 10103,
       "Type": 101,
       "Parameternum": 1,
+      "Describe": "指揮官等級達到Lv{0}時開放",
       "Config": "CommanderBase.level",
-      "LangStringTable": {
-        "Describe": "指揮官等級達到Lv{0}時開放"
-      }
+      "Nazo": 0
     },
     "10104": {
       "Cuid": 10104,
       "Id": 10104,
       "Type": 101,
       "Parameternum": 1,
+      "Describe": "等級達到{0}解鎖",
       "Config": "CommanderBase.level",
-      "LangStringTable": {
-        "Describe": "等級達到{0}解鎖"
-      }
+      "Nazo": 0
     },
     "10201": {
       "Cuid": 10201,
       "Id": 10201,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "壓制港口：{0}後開啟",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制港口：{0}後開啟"
-      }
+      "Nazo": 0
     },
     "10202": {
       "Cuid": 10202,
       "Id": 10202,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "壓制港口：{0}",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制港口：{0}"
-      }
+      "Nazo": 0
     },
     "10203": {
       "Cuid": 10203,
       "Id": 10203,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "壓制普通模式：{0}後開啟",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制普通模式：{0}後開啟"
-      }
+      "Nazo": 0
     },
     "10204": {
       "Cuid": 10204,
       "Id": 10204,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "壓制困難模式：{0}後開啟",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制困難模式：{0}後開啟"
-      }
+      "Nazo": 0
     },
     "10301": {
       "Cuid": 10301,
       "Id": 10301,
       "Type": 103,
       "Parameternum": 1,
-      "Config": null,
-      "LangStringTable": {
-        "Describe": "人偶等級達到Lv {0}"
-      }
+      "Describe": "人偶等級達到Lv {0}",
+      "Config": "",
+      "Nazo": 0
     },
     "10401": {
       "Cuid": 10401,
       "Id": 10401,
       "Type": 104,
       "Parameternum": 1,
+      "Describe": "{0}探索度達到100%",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "{0}探索度達到100%"
-      }
+      "Nazo": 0
     },
     "10501": {
       "Cuid": 10501,
       "Id": 10501,
       "Type": 105,
       "Parameternum": 1,
+      "Describe": "壓制{0}內所有港口後開啟",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制{0}內所有港口後開啟"
-      }
+      "Nazo": 0
     },
     "10502": {
       "Cuid": 10502,
       "Id": 10502,
       "Type": 105,
       "Parameternum": 1,
+      "Describe": "壓制困難模式下{0}所有港口後開啟",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制困難模式下{0}所有港口後開啟"
-      }
+      "Nazo": 0
     },
     "10503": {
       "Cuid": 10503,
       "Id": 10503,
       "Type": 105,
       "Parameternum": 1,
+      "Describe": "壓制普通模式下所有大洲港口後開啟",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制普通模式下所有大洲港口後開啟"
-      }
+      "Nazo": 0
     },
     "10601": {
       "Cuid": 10601,
       "Id": 10601,
       "Type": 106,
       "Parameternum": 2,
+      "Describe": "{0}深度作戰任務達到S級",
       "Config": "HarbourInfo.harbourId;BattleMaterialDifficulty.difficultyId",
-      "LangStringTable": {
-        "Describe": "{0}深度作戰任務達到S級"
-      }
+      "Nazo": 0
     },
     "10701": {
       "Cuid": 10701,
       "Id": 10701,
       "Type": 107,
       "Parameternum": 2,
+      "Describe": "好感度達到{0}後解鎖",
       "Config": "AttributeBoat.id;X",
-      "LangStringTable": {
-        "Describe": "好感度達到{0}後解鎖"
-      }
+      "Nazo": 0
     },
     "10801": {
       "Cuid": 10801,
       "Id": 10801,
       "Type": 108,
       "Parameternum": 1,
+      "Describe": "獲得人偶{0}後解鎖",
       "Config": "AttributeBoat.id",
-      "LangStringTable": {
-        "Describe": "獲得人偶{0}後解鎖"
-      }
+      "Nazo": 0
     },
     "10901": {
       "Cuid": 10901,
       "Id": 10901,
       "Type": 109,
       "Parameternum": 1,
+      "Describe": "深海化後解鎖",
       "Config": "AttributeBoat.id",
-      "LangStringTable": {
-        "Describe": "深海化後解鎖"
-      }
+      "Nazo": 0
     },
     "11001": {
       "Cuid": 11001,
       "Id": 11001,
       "Type": 110,
       "Parameternum": 1,
+      "Describe": "誓約後解鎖",
       "Config": "AttributeBoat.id",
-      "LangStringTable": {
-        "Describe": "誓約後解鎖"
-      }
+      "Nazo": 0
     },
     "11101": {
       "Cuid": 11101,
       "Id": 11101,
       "Type": 111,
       "Parameternum": 2,
+      "Describe": "等級達到{0}後解鎖",
       "Config": "AttributeBoat.id;X",
-      "LangStringTable": {
-        "Describe": "等級達到{0}後解鎖"
-      }
+      "Nazo": 0
     },
     "11201": {
       "Cuid": 11201,
       "Id": 11201,
       "Type": 112,
       "Parameternum": 1,
+      "Describe": "解鎖{0}功能後開啟",
       "Config": "UICfg.id",
-      "LangStringTable": {
-        "Describe": "解鎖{0}功能後開啟"
-      }
+      "Nazo": 0
     },
     "11301": {
       "Cuid": 11301,
       "Id": 11301,
       "Type": 113,
       "Parameternum": 1,
+      "Describe": "擁有道具{0}",
       "Config": "Item.id",
-      "LangStringTable": {
-        "Describe": "擁有道具{0}"
-      }
+      "Nazo": 0
     },
     "12001": {
       "Cuid": 12001,
       "Id": 12001,
       "Type": 120,
       "Parameternum": 1,
+      "Describe": "解鎖{0}港口且未通關",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "解鎖{0}港口且未通關"
-      }
+      "Nazo": 0
     },
     "30001": {
       "Cuid": 30001,
       "Id": 30001,
       "Type": 301,
       "Parameternum": 1,
+      "Describe": "強引導組是否完成",
       "Config": "GuideConfig.group",
-      "LangStringTable": {
-        "Describe": "強引導組是否完成"
-      }
+      "Nazo": 0
     },
     "30002": {
       "Cuid": 30002,
       "Id": 30002,
       "Type": 302,
       "Parameternum": 1,
+      "Describe": "強引導步驟是否完成",
       "Config": "GuideConfig.id",
-      "LangStringTable": {
-        "Describe": "強引導步驟是否完成"
-      }
+      "Nazo": 0
     },
     "10205": {
       "Cuid": 10205,
       "Id": 10205,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "成功閃擊：{0}1層後解鎖",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "成功閃擊：{0}1層後解鎖"
-      }
+      "Nazo": 0
     },
     "10206": {
       "Cuid": 10206,
       "Id": 10206,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "成功閃擊：{0}2層後解鎖",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "成功閃擊：{0}2層後解鎖"
-      }
+      "Nazo": 0
     },
     "10207": {
       "Cuid": 10207,
       "Id": 10207,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "成功閃擊：{0}3層後解鎖",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "成功閃擊：{0}3層後解鎖"
-      }
+      "Nazo": 0
     },
     "10208": {
       "Cuid": 10208,
       "Id": 10208,
       "Type": 102,
       "Parameternum": 1,
+      "Describe": "壓制港口後開啟{0}或{1}",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制港口後開啟{0}或{1}"
-      }
+      "Nazo": 0
     },
     "10209": {
       "Cuid": 10209,
       "Id": 10209,
       "Type": 202,
       "Parameternum": 1,
+      "Describe": "壓制港口{0}後，{1}秒，駐紮戰力低於連線港口戰力{2}",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "壓制港口{0}後，{1}秒，駐紮戰力低於連線港口戰力{2}"
-      }
+      "Nazo": 0
     },
     "10210": {
       "Cuid": 10210,
       "Id": 10210,
       "Type": 203,
       "Parameternum": 1,
+      "Describe": "在{0}港口駐紮後{1}秒，駐紮戰力低於連敵方線港口戰力{2}",
       "Config": "HarbourInfo.harbourId",
-      "LangStringTable": {
-        "Describe": "在{0}港口駐紮後{1}秒，駐紮戰力低於連敵方線港口戰力{2}"
-      }
+      "Nazo": 0
     }
   }
 }

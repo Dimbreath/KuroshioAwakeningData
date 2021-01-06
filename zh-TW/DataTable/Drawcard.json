@@ -3,29 +3,30 @@
     "1": {
       "Cuid": 1,
       "Groupid": 1,
+      "Groupname": "SSR卡池",
+      "Groupdes": "SSR卡池，所有SSR卡隨機掉落",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 1,
       "Securityway": "0",
       "Recruittype": 1,
-      "Bgpic": null,
-      "Banner": null,
-      "Queuepic": null,
-      "Label": null,
-      "Labellocation": null,
-      "Recruitweight": null,
-      "Previewlocation": null,
+      "Bgpic": "",
+      "Banner": "",
+      "Queuepic": "",
+      "Label": "",
+      "Labellocation": "",
+      "Recruitweight": "",
+      "Previewlocation": "",
       "Security": 0,
       "Guaranteetime": 50,
       "Guaranteerate": 1.0,
-      "LangStringTable": {
-        "Groupname": "SSR卡池",
-        "Groupdes": "SSR卡池，所有SSR卡隨機掉落"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Groupid": 2,
+      "Groupname": "全艦種招募",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 99,
@@ -35,20 +36,19 @@
       "Banner": "recruit_1_tab_text_b_0020",
       "Queuepic": "character_lay_20",
       "Label": "character_lay_20",
-      "Labellocation": null,
+      "Labellocation": "",
       "Recruitweight": "2,24;3,62;4,10;5,4",
-      "Previewlocation": null,
+      "Previewlocation": "",
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "全艦種招募",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "20": {
       "Cuid": 20,
       "Groupid": 20,
+      "Groupname": "全壘出擊",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即至多57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 17,
@@ -64,14 +64,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "全壘出擊",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即至多57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。"
-      }
+      "Nazo": 0
     },
     "21": {
       "Cuid": 21,
       "Groupid": 21,
+      "Groupname": "厄運逆轉日",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即至多57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 18,
@@ -87,14 +86,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "厄運逆轉日",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即至多57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。"
-      }
+      "Nazo": 0
     },
     "22": {
       "Cuid": 22,
       "Groupid": 22,
+      "Groupname": "冰海守望者",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即至多57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 19,
@@ -110,14 +108,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "冰海守望者",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即至多57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。"
-      }
+      "Nazo": 0
     },
     "23": {
       "Cuid": 23,
       "Groupid": 23,
+      "Groupname": "驍勇之騎",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即最多至57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 9,
@@ -133,14 +130,57 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "驍勇之騎",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即最多至57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。"
-      }
+      "Nazo": 0
+    },
+    "24": {
+      "Cuid": 24,
+      "Groupid": 24,
+      "Groupname": "逐風拂曉",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
+      "ValueGold": "1,2,0",
+      "ValueItem": "1,160001,1",
+      "Sort": 9,
+      "Securityway": "1,10,4",
+      "Recruittype": 1,
+      "Bgpic": "recruit_1_stand_zffx_20201205",
+      "Banner": "recruit_1_tab_text_zffx_20201205",
+      "Queuepic": "character_lay_6025000",
+      "Label": "character_lay_6025000",
+      "Labellocation": "50,-24,16,2",
+      "Recruitweight": "2,24;3,62;4,10;5,4",
+      "Previewlocation": "60250,498,-160;50020,98,-160",
+      "Security": 1,
+      "Guaranteetime": 25,
+      "Guaranteerate": 3.0,
+      "Nazo": 0
+    },
+    "26": {
+      "Cuid": 26,
+      "Groupid": 26,
+      "Groupname": "怒斬狂瀾",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
+      "ValueGold": "1,2,0",
+      "ValueItem": "1,160001,1",
+      "Sort": 17,
+      "Securityway": "1,10,4",
+      "Recruittype": 1,
+      "Bgpic": "recruit_1_stand_nzkl_20201215",
+      "Banner": "recruit_1_tab_text_nzkl_20201215",
+      "Queuepic": "character_lay_5011000",
+      "Label": "character_lay_5011000",
+      "Labellocation": "85,-25,16,2",
+      "Recruitweight": "2,24;3,62;4,10;5,4",
+      "Previewlocation": "50110,498,60;",
+      "Security": 1,
+      "Guaranteetime": 25,
+      "Guaranteerate": 3.0,
+      "Nazo": 0
     },
     "9": {
       "Cuid": 9,
       "Groupid": 9,
+      "Groupname": "斯諾普特派",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，卡池僅可抽取10次，10抽內將至少獲得1個SSR級人偶（海倫娜/呂佐夫/黃泉三者中隨機）；抽取次數用盡後，卡池將自動消失。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 3,
@@ -150,20 +190,19 @@
       "Banner": "recruit_1_tab_text_b_0030",
       "Queuepic": "character_lay_30",
       "Label": "character_lay_30",
-      "Labellocation": null,
+      "Labellocation": "",
       "Recruitweight": "2,0;3,86;4,10;5,4",
       "Previewlocation": "30180,-85,-300;40100,-173,-54;50320,323,-116",
       "Security": 1,
       "Guaranteetime": 9,
       "Guaranteerate": 100.0,
-      "LangStringTable": {
-        "Groupname": "斯諾普特派",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，卡池僅可抽取10次，10抽內將至少獲得1個SSR級人偶（海倫娜/呂佐夫/黃泉三者中隨機）；抽取次數用盡後，卡池將自動消失。"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Groupid": 4,
+      "Groupname": "鶴之舞．上",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 6,
@@ -179,37 +218,35 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "鶴之舞．上",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Groupid": 5,
+      "Groupname": "新手SR卡池",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 2,
       "Securityway": "0",
       "Recruittype": 1,
-      "Bgpic": null,
-      "Banner": null,
-      "Queuepic": null,
+      "Bgpic": "",
+      "Banner": "",
+      "Queuepic": "",
       "Label": "character_lay_20",
-      "Labellocation": null,
-      "Recruitweight": null,
-      "Previewlocation": null,
+      "Labellocation": "",
+      "Recruitweight": "",
+      "Previewlocation": "",
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "新手SR卡池",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Groupid": 6,
+      "Groupname": "所羅門惡魔",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 5,
@@ -225,14 +262,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "所羅門惡魔",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Groupid": 7,
+      "Groupname": "鶴之舞．下",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 7,
@@ -248,14 +284,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "鶴之舞．下",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "8": {
       "Cuid": 8,
       "Groupid": 8,
+      "Groupname": "湛藍之眼",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 8,
@@ -271,14 +306,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "湛藍之眼",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "10": {
       "Cuid": 10,
       "Groupid": 10,
+      "Groupname": "黑鋒獸牙",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 9,
@@ -294,14 +328,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "黑鋒獸牙",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "11": {
       "Cuid": 11,
       "Groupid": 11,
+      "Groupname": "歸國利劍",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 10,
@@ -317,14 +350,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "歸國利劍",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "12": {
       "Cuid": 12,
       "Groupid": 12,
+      "Groupname": "灰色幽靈",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 11,
@@ -340,14 +372,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "灰色幽靈",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "13": {
       "Cuid": 13,
       "Groupid": 13,
+      "Groupname": "帝國巡遊",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 10,
@@ -363,14 +394,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "帝國巡遊",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "14": {
       "Cuid": 14,
       "Groupid": 14,
+      "Groupname": "皇家巧手",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 12,
@@ -386,14 +416,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "皇家巧手",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "15": {
       "Cuid": 15,
       "Groupid": 15,
+      "Groupname": "海上輕騎兵",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 13,
@@ -409,14 +438,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "海上輕騎兵",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "16": {
       "Cuid": 16,
       "Groupid": 16,
+      "Groupname": "中流砥柱",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 14,
@@ -432,17 +460,16 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "中流砥柱",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "17": {
       "Cuid": 17,
       "Groupid": 17,
+      "Groupname": "攻守兼備",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
-      "Sort": 15,
+      "Sort": 4,
       "Securityway": "1,10,4",
       "Recruittype": 1,
       "Bgpic": "recruit_1_stand_ndkt_20200624",
@@ -455,17 +482,16 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "攻守兼備",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "18": {
       "Cuid": 18,
       "Groupid": 18,
+      "Groupname": "出鞘利劍",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
-      "Sort": 4,
+      "Sort": 5,
       "Securityway": "1,10,4",
       "Recruittype": 1,
       "Bgpic": "recruit_1_stand_ztd_20200702",
@@ -478,14 +504,13 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "出鞘利劍",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "19": {
       "Cuid": 19,
       "Groupid": 19,
+      "Groupname": "御海神祇",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 16,
@@ -501,129 +526,123 @@
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "御海神祇",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的初始機率為4%，若下訂單累積達25次未獲得SSR級人偶，此後每筆訂單獲取SSR級人偶的機率都將提升3%，即至多於57筆訂單後必定獲得SSR級人偶（種類取決於卡池）；每次獲得SSR級人偶後，都將重置該卡池的人偶獲取機率與累積訂單數，每個卡池獨立計算。"
-      }
+      "Nazo": 0
     },
     "101": {
       "Cuid": 101,
       "Groupid": 101,
+      "Groupname": "延時1",
+      "Groupdes": "1",
       "ValueGold": "0",
       "ValueItem": "0",
       "Sort": 0,
       "Securityway": "0",
       "Recruittype": 2,
-      "Bgpic": null,
-      "Banner": null,
-      "Queuepic": null,
-      "Label": null,
-      "Labellocation": null,
+      "Bgpic": "",
+      "Banner": "",
+      "Queuepic": "",
+      "Label": "",
+      "Labellocation": "",
       "Recruitweight": "2,40;3,60;4,0;5,0",
-      "Previewlocation": null,
+      "Previewlocation": "",
       "Security": 0,
       "Guaranteetime": 50,
       "Guaranteerate": 1.0,
-      "LangStringTable": {
-        "Groupname": "延時1",
-        "Groupdes": "1"
-      }
+      "Nazo": 0
     },
     "102": {
       "Cuid": 102,
       "Groupid": 102,
+      "Groupname": "延時2",
+      "Groupdes": "2",
       "ValueGold": "0",
       "ValueItem": "0",
       "Sort": 0,
       "Securityway": "0",
       "Recruittype": 2,
-      "Bgpic": null,
-      "Banner": null,
-      "Queuepic": null,
-      "Label": null,
-      "Labellocation": null,
+      "Bgpic": "",
+      "Banner": "",
+      "Queuepic": "",
+      "Label": "",
+      "Labellocation": "",
       "Recruitweight": "2,40;3,56;4,4;5,0",
-      "Previewlocation": null,
+      "Previewlocation": "",
       "Security": 0,
       "Guaranteetime": 50,
       "Guaranteerate": 1.0,
-      "LangStringTable": {
-        "Groupname": "延時2",
-        "Groupdes": "2"
-      }
+      "Nazo": 0
     },
     "103": {
       "Cuid": 103,
       "Groupid": 103,
+      "Groupname": "延時3",
+      "Groupdes": "3",
       "ValueGold": "0",
       "ValueItem": "0",
       "Sort": 0,
       "Securityway": "0",
       "Recruittype": 2,
-      "Bgpic": null,
-      "Banner": null,
-      "Queuepic": null,
-      "Label": null,
-      "Labellocation": null,
+      "Bgpic": "",
+      "Banner": "",
+      "Queuepic": "",
+      "Label": "",
+      "Labellocation": "",
       "Recruitweight": "2,40;3,52;4,8;5,0",
-      "Previewlocation": null,
+      "Previewlocation": "",
       "Security": 0,
       "Guaranteetime": 50,
       "Guaranteerate": 1.0,
-      "LangStringTable": {
-        "Groupname": "延時3",
-        "Groupdes": "3"
-      }
+      "Nazo": 0
     },
     "104": {
       "Cuid": 104,
       "Groupid": 104,
+      "Groupname": "延時4",
+      "Groupdes": "4",
       "ValueGold": "0",
       "ValueItem": "0",
       "Sort": 0,
       "Securityway": "0",
       "Recruittype": 2,
-      "Bgpic": null,
-      "Banner": null,
-      "Queuepic": null,
-      "Label": null,
-      "Labellocation": null,
+      "Bgpic": "",
+      "Banner": "",
+      "Queuepic": "",
+      "Label": "",
+      "Labellocation": "",
       "Recruitweight": "2,35;3,48;4,16;5,1",
-      "Previewlocation": null,
+      "Previewlocation": "",
       "Security": 0,
       "Guaranteetime": 50,
       "Guaranteerate": 1.0,
-      "LangStringTable": {
-        "Groupname": "延時4",
-        "Groupdes": "4"
-      }
+      "Nazo": 0
     },
     "105": {
       "Cuid": 105,
       "Groupid": 105,
+      "Groupname": "延時5",
+      "Groupdes": "5",
       "ValueGold": "0",
       "ValueItem": "0",
       "Sort": 0,
       "Securityway": "0",
       "Recruittype": 2,
-      "Bgpic": null,
-      "Banner": null,
-      "Queuepic": null,
-      "Label": null,
-      "Labellocation": null,
+      "Bgpic": "",
+      "Banner": "",
+      "Queuepic": "",
+      "Label": "",
+      "Labellocation": "",
       "Recruitweight": "2,20;3,48;4,30;5,2",
-      "Previewlocation": null,
+      "Previewlocation": "",
       "Security": 0,
       "Guaranteetime": 50,
       "Guaranteerate": 1.0,
-      "LangStringTable": {
-        "Groupname": "延時5",
-        "Groupdes": "5"
-      }
+      "Nazo": 0
     },
     "1001": {
       "Cuid": 1001,
       "Groupid": 1001,
+      "Groupname": "斯諾普定向支援",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，卡池每日可以免費抽取10次並選擇其中某次結果進行付費僱傭，卡池持續時間為7天，活動期間一共可以進行3次付費僱傭，僱傭次數用盡或卡池持續時間結束後卡池將自動消失。",
       "ValueGold": "1,2,0",
       "ValueItem": "1,160001,1",
       "Sort": 98,
@@ -633,16 +652,13 @@
       "Banner": "recruit_1_tab_text_b__20200204",
       "Queuepic": "character_lay_80",
       "Label": "character_lay_80",
-      "Labellocation": null,
+      "Labellocation": "",
       "Recruitweight": "2,24;3,62;4,10;5,4",
-      "Previewlocation": null,
+      "Previewlocation": "",
       "Security": 1,
       "Guaranteetime": 25,
       "Guaranteerate": 3.0,
-      "LangStringTable": {
-        "Groupname": "斯諾普定向支援",
-        "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，卡池每日可以免費抽取10次並選擇其中某次結果進行付費僱傭，卡池持續時間為7天，活動期間一共可以進行3次付費僱傭，僱傭次數用盡或卡池持續時間結束後卡池將自動消失。"
-      }
+      "Nazo": 0
     }
   }
 }

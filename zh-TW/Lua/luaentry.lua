@@ -11,6 +11,7 @@ require "Lua4CSharp"
 JSON        = require("Core/dkjson")
 print       = print_log
 Game        = require "Game"
+inspect     = require("Core/inspect")
 
 
 

@@ -3,44 +3,198 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
-      "Rewards": "1,160001,1;1,260002,20",
-      "Specialawards": 0
+      "Rewards": "1,160001,2;1,260002,12",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "10": {
+      "Cuid": 10,
+      "Id": 10,
+      "Rewards": "1,160001,1;1,145002,1200",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "11": {
+      "Cuid": 11,
+      "Id": 11,
+      "Rewards": "1,240042,2;1,260001,20",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "12": {
+      "Cuid": 12,
+      "Id": 12,
+      "Rewards": "1,145001,400;1,1,100",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "13": {
+      "Cuid": 13,
+      "Id": 13,
+      "Rewards": "1,240021,1;1,260001,20",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "14": {
+      "Cuid": 14,
+      "Id": 14,
+      "Rewards": "1,160001,1;1,240021,1",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "15": {
+      "Cuid": 15,
+      "Id": 15,
+      "Rewards": "1,160001,1;1,260001,12",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "16": {
+      "Cuid": 16,
+      "Id": 16,
+      "Rewards": "1,240042,2;1,240021,1",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "17": {
+      "Cuid": 17,
+      "Id": 17,
+      "Rewards": "2,90010,1;1,260002,12",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "18": {
+      "Cuid": 18,
+      "Id": 18,
+      "Rewards": "1,3,300;1,260001,12",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "19": {
+      "Cuid": 19,
+      "Id": 19,
+      "Rewards": "1,240021,1;1,1,100",
+      "Specialawards": 0,
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
-      "Rewards": "1,2,50000;1,1,100",
-      "Specialawards": 0
+      "Rewards": "1,240021,2;1,1,100",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "Rewards": "1,3,300;1,160001,1",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "21": {
+      "Cuid": 21,
+      "Id": 21,
+      "Rewards": "2,90010,1;1,260002,12",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "22": {
+      "Cuid": 22,
+      "Id": 22,
+      "Rewards": "1,3,300;1,240042,2",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "23": {
+      "Cuid": 23,
+      "Id": 23,
+      "Rewards": "1,1,100;1,260001,24",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "24": {
+      "Cuid": 24,
+      "Id": 24,
+      "Rewards": "1,160001,1;1,260002,24",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "25": {
+      "Cuid": 25,
+      "Id": 25,
+      "Rewards": "2,90010,1;1,240042,2",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "26": {
+      "Cuid": 26,
+      "Id": 26,
+      "Rewards": "1,145001,200;1,145002,600",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "27": {
+      "Cuid": 27,
+      "Id": 27,
+      "Rewards": "1,3,300;1,260001,48",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "28": {
+      "Cuid": 28,
+      "Id": 28,
+      "Rewards": "1,160001,1;1,260002,48",
+      "Specialawards": 0,
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
-      "Rewards": "1,160001,1;1,145002,1200",
-      "Specialawards": 0
+      "Rewards": "2,90010,1;1,240006,20",
+      "Specialawards": 1,
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
-      "Rewards": "1,240042,2;1,260001,20",
-      "Specialawards": 0
+      "Rewards": "1,3,300;1,260002,12",
+      "Specialawards": 0,
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
-      "Rewards": "1,145001,400;1,1,100",
-      "Specialawards": 0
+      "Rewards": "1,240021,2;1,1,200",
+      "Specialawards": 0,
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
-      "Rewards": "1,240021,1;1,260001,20",
-      "Specialawards": 0
+      "Rewards": "1,3,500;1,160001,2",
+      "Specialawards": 0,
+      "Nazo": 0
     },
     "7": {
       "Cuid": 7,
       "Id": 7,
-      "Rewards": "1,160001,1;1,240021,1",
-      "Specialawards": 0
+      "Rewards": "2,90011,1;1,260002,12",
+      "Specialawards": 1,
+      "Nazo": 0
+    },
+    "8": {
+      "Cuid": 8,
+      "Id": 8,
+      "Rewards": "1,160001,1;1,260002,20",
+      "Specialawards": 0,
+      "Nazo": 0
+    },
+    "9": {
+      "Cuid": 9,
+      "Id": 9,
+      "Rewards": "1,2,50000;1,1,100",
+      "Specialawards": 0,
+      "Nazo": 0
     }
   }
 }

@@ -1,28 +1,22 @@
-local FleetMemberConfig = {
-	[1] = {1,1,1,1,
-		[[司令]],
-	},
-	[2] = {2,2,0,1,
-		[[副司令]],
-	},
-	[3] = {3,5,0,0,
-		[[精英]],
-	},
-	[4] = {4,29,0,0,
-		[[普通成員]],
-	},
+local FleetMemberConfig = {}
 
+FleetMemberConfig.Values = {
+	[1] = {1,[[司令]],1,1,1,0,},
+	[2] = {2,[[副司令]],2,0,1,0,},
+	[3] = {3,[[精英]],5,0,0,0,},
+	[4] = {4,[[普通成員]],29,0,0,0,},
 }
+
 function FleetMemberConfig.GetConfig(key)
-	local Values = FleetMemberConfig[key]
-	if not Values then
+	local tb = FleetMemberConfig.Values[key]
+	if not tb then
 		print_error(key)
 		return nil
 	end
-	local Fields = {["id"] = 1,["membermax"] = 2,["admininfo"] = 3,["adminmember"] = 4,["title"] = 5,}
-	for k,v in pairs(Fields) do
-		Fields[k] = Values[v]
+	local config = {["id"] = 1,["title"] = 2,["membermax"] = 3,["admininfo"] = 4,["adminmember"] = 5,["nazo"] = 6,}
+	for k,v in pairs(config) do
+		config[k] = tb[v]
 	end
-	return Fields 
+	return config 
 end
 return FleetMemberConfig

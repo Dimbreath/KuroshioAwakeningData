@@ -11,9 +11,10 @@
       "Specialvoice": "40101,krs40101_0101",
       "Normalvideo": "lvzuofu_1",
       "Normalbg": "activity_1_bg_vedio4",
-      "Specialbg": null,
+      "Specialbg": "",
       "Normalpic": "activity_1_pic1_20191022",
-      "Specialpic": "activity_1_pic10_20191022"
+      "Specialpic": "activity_1_pic10_20191022",
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
@@ -26,9 +27,10 @@
       "Specialvoice": "50321,krs50321_0101",
       "Normalvideo": "huangquan_1",
       "Normalbg": "activity_1_bg_vedio3",
-      "Specialbg": null,
+      "Specialbg": "",
       "Normalpic": "activity_1_pic2_20191022",
-      "Specialpic": "activity_1_pic20_20191022"
+      "Specialpic": "activity_1_pic20_20191022",
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
@@ -41,9 +43,10 @@
       "Specialvoice": "30181,krs30181_0101",
       "Normalvideo": "hailunna_1",
       "Normalbg": "activity_1_bg_vedio2",
-      "Specialbg": null,
+      "Specialbg": "",
       "Normalpic": "activity_1_pic3_20191022",
-      "Specialpic": "activity_1_pic30_20191022"
+      "Specialpic": "activity_1_pic30_20191022",
+      "Nazo": 0
     }
   }
 }

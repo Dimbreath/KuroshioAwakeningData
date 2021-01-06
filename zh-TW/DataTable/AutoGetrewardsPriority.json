@@ -3,34 +3,33 @@
     "1": {
       "Cuid": 1,
       "Id": 1,
+      "Name": "功能開啟",
       "Open": 1,
       "Type": 1,
       "Activitytype": 0,
-      "Parameter": null,
+      "Parameter": "",
       "Jumpmode": 0,
       "Jumptype": 0,
       "Priority": 0,
-      "LangStringTable": {
-        "Name": "功能開啟"
-      }
+      "Nazo": 0
     },
     "2": {
       "Cuid": 2,
       "Id": 2,
+      "Name": "月簽到",
       "Open": 1,
       "Type": 2,
       "Activitytype": 0,
-      "Parameter": null,
+      "Parameter": "",
       "Jumpmode": 0,
       "Jumptype": 0,
       "Priority": 0,
-      "LangStringTable": {
-        "Name": "月簽到"
-      }
+      "Nazo": 0
     },
     "3": {
       "Cuid": 3,
       "Id": 3,
+      "Name": "追憶前夕",
       "Open": 1,
       "Type": 3,
       "Activitytype": 1,
@@ -38,13 +37,12 @@
       "Jumpmode": 1,
       "Jumptype": 2,
       "Priority": 1,
-      "LangStringTable": {
-        "Name": "追憶前夕"
-      }
+      "Nazo": 0
     },
     "4": {
       "Cuid": 4,
       "Id": 4,
+      "Name": "虛海之約",
       "Open": 1,
       "Type": 3,
       "Activitytype": 1,
@@ -52,13 +50,12 @@
       "Jumpmode": 1,
       "Jumptype": 2,
       "Priority": 2,
-      "LangStringTable": {
-        "Name": "虛海之約"
-      }
+      "Nazo": 0
     },
     "5": {
       "Cuid": 5,
       "Id": 5,
+      "Name": "魚潮禮祭",
       "Open": 1,
       "Type": 3,
       "Activitytype": 1,
@@ -66,23 +63,20 @@
       "Jumpmode": 1,
       "Jumptype": 2,
       "Priority": 3,
-      "LangStringTable": {
-        "Name": "魚潮禮祭"
-      }
+      "Nazo": 0
     },
     "6": {
       "Cuid": 6,
       "Id": 6,
+      "Name": "逐風拂曉",
       "Open": 1,
       "Type": 3,
       "Activitytype": 1,
-      "Parameter": "48",
+      "Parameter": "71",
       "Jumpmode": 1,
       "Jumptype": 2,
       "Priority": 4,
-      "LangStringTable": {
-        "Name": "出鞘利劍"
-      }
+      "Nazo": 0
     }
   }
 }
