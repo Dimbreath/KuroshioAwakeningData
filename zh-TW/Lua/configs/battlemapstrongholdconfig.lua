@@ -99,7 +99,7 @@ BattleMapStrongHoldConfig.Values = {
 function BattleMapStrongHoldConfig.GetConfig(key)
 	local tb = BattleMapStrongHoldConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["strongholdid"] = 1,["harbourid"] = 2,["neighborid"] = 3,["battleid"] = 4,["lordexp"] = 5,["exp"] = 6,["cost"] = 7,["friendlyexp"] = 8,["drop"] = 9,["initialstatus"] = 10,["status"] = 11,["battleart"] = 12,["eventinfo"] = 13,["nazo"] = 14,}

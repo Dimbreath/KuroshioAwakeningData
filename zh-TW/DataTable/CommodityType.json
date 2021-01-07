@@ -57,6 +57,27 @@
       "Groupid": 0,
       "Nazo": 0
     },
+    "30": {
+      "Cuid": 30,
+      "Id": 30,
+      "Name": "兌換中心",
+      "Activity": 79,
+      "Starttime": "0",
+      "Endtime": "0",
+      "Renovate": "0",
+      "Manual": "0",
+      "Sort": 0,
+      "Icon": "trading_1_icon_107",
+      "CommodityCoin": "41,42",
+      "BoatPainting": [
+        "2,60060,1"
+      ],
+      "Title": "hunterprey_1_head_tittle",
+      "Timetxt": "activity_shop_text_02",
+      "Diff": 0,
+      "Groupid": 0,
+      "Nazo": 0
+    },
     "4": {
       "Cuid": 4,
       "Id": 4,
@@ -405,6 +426,27 @@
       "BoatPainting": [],
       "Title": "",
       "Timetxt": "",
+      "Diff": 0,
+      "Groupid": 0,
+      "Nazo": 0
+    },
+    "29": {
+      "Cuid": 29,
+      "Id": 29,
+      "Name": "兌換中心",
+      "Activity": 78,
+      "Starttime": "0",
+      "Endtime": "0",
+      "Renovate": "0",
+      "Manual": "0",
+      "Sort": 0,
+      "Icon": "trading_1_icon_107",
+      "CommodityCoin": "41,42",
+      "BoatPainting": [
+        "2,60060,1"
+      ],
+      "Title": "hunterprey_1_head_tittle",
+      "Timetxt": "activity_shop_text_02",
       "Diff": 0,
       "Groupid": 0,
       "Nazo": 0

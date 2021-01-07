@@ -27,7 +27,7 @@ FettersRelationConfig.Values = {
 function FettersRelationConfig.GetConfig(key)
 	local tb = FettersRelationConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["id1"] = 2,["id2"] = 3,["fetters"] = 4,["relationattr"] = 5,["describe1"] = 6,["describe2"] = 7,["describe3"] = 8,["nazo"] = 9,}

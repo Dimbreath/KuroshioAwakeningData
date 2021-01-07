@@ -84,15 +84,34 @@ function SetLuaBattleMark(value)
 end
 
 function DoAfterLuaBattle()
-    print("----DoAfterLuaBattle")
+    -- print("----DoAfterLuaBattle")
     local battleManager = Game:GetManager("BattleManager")
     battleManager:DoAfterLuaBattle()
 end
 
 function DoBattleEnd(battleResult, battleEndDataMsg, jsonStr)
-    print("----DoBattleEnd")
+    -- print("----DoBattleEnd")
     local battleManager = Game:GetManager("BattleManager")
     battleManager:DoBattleEnd(battleResult, battleEndDataMsg, jsonStr)
+end
+
+function NewYearWebSocketMessage()
+    -- print("----NewYearWebSocketMessage")
+    local newYearManager = Game:GetManager("AcNewYearManager")
+    newYearManager:ReqNewYearInfo()
+end
+
+function NewYearInfoRefresh()
+    -- print("----NewYearInfoRefresh")
+    local newYearManager = Game:GetManager("AcNewYearManager")
+    newYearManager:ReqNewYearInfo()
+end
+
+function NewYearTaskRedPoint()
+    print("----NewYearInfoRefresh")
+    local newYearManager = Game:GetManager("AcNewYearManager")
+    local event = newYearManager:GetEvent()
+    event.RefreshTaskRedPoint:Invoke()
 end
 
 AcNewYearLevelRewardForm_OnStationCheckIsSelect = function() end--避免框架报错

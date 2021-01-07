@@ -68,11 +68,11 @@ UIFormConfig.Values = {
 	[6060] = {6060,"MonthCardHelpForm","Tips",false,false,'',0,'',"-1",1,1,false,2,false,'',0,},
 	[610] = {610,"FriendInfoForm","Tips",false,false,'',0,'',"-1",0,1,false,2,false,'',0,},
 	[700] = {700,"MailForm","Default",false,false,'',2,"mailbox_1_head_tittle",'',1,2,false,2,false,'',0,},
-	[7070] = {7070,"AcNewYearLevelRewardForm","Default",false,false,'',2,"mailbox_1_head_tittle",'',1,2,false,2,false,'',0,},
-	[7073] = {7073,"AcNewYearLevelForm","Default",false,false,'',2,"formation_1_head_tittle",'',1,1,false,2,false,'',0,},
-	[7074] = {7074,"AcNewYearMainForm","Default",false,false,'',2,"formation_1_head_tittle",'',1,1,false,2,false,'',0,},
-	[7075] = {7075,"AcNewYearScoreRankForm","Default",false,false,'',4,"rank_1_head_tittle","-1",0,2,false,2,false,'',0,},
-	[7076] = {7076,"AcNewYearMoralePayForm","Default",false,false,'',4,"rank_1_head_tittle","-1",0,2,false,2,false,'',0,},
+	[7070] = {7070,"AcNewYearLevelRewardForm","Default",false,false,'',2,"formation2_1_head_tittle",'',1,2,false,2,false,'',0,},
+	[7073] = {7073,"AcNewYearLevelForm","Default",false,false,'',2,"hunterprey_1_head_tittle",'',1,1,false,2,false,'',0,},
+	[7074] = {7074,"AcNewYearMainForm","Default",false,false,'',12,"hunterprey_1_head_tittle",'',1,1,false,2,false,'',0,},
+	[7075] = {7075,"AcNewYearScoreRankForm","Default",false,false,'',2,"rank_1_head_tittle","-1",0,2,false,2,false,'',0,},
+	[7076] = {7076,"AcNewYearMoralePayForm","Default",false,false,'',2,"hunterprey_1_head_tittle","-1",0,2,false,2,false,'',0,},
 	[7077] = {7077,"AcNewYearBuffForm","Default",false,false,'',0,"formation_1_head_tittle",'',1,1,false,2,false,'',0,},
 	[800] = {800,"AlbumForm","Default",false,false,'',6,"illustration_1_head_tittle_2",'',0,2,false,2,false,'',0,},
 	[820] = {820,"AlbumInfoForm","Default",false,false,'',2,"illustration_1_head_tittle_detail",'',1,1,false,2,false,'',0,},
@@ -193,7 +193,7 @@ UIFormConfig.Values = {
 function UIFormConfig.GetConfig(key)
 	local tb = UIFormConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["assetname"] = 2,["groupname"] = 3,["allowmultiinstance"] = 4,["pausecovereduiform"] = 5,["bgm"] = 6,["menutype"] = 7,["titleassetname"] = 8,["monetary"] = 9,["anitype"] = 10,["enableopentype"] = 11,["enableclosecutto"] = 12,["exittype"] = 13,["loadingcutto"] = 14,["precondi"] = 15,["nazo"] = 16,}

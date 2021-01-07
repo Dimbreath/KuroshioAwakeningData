@@ -10,7 +10,7 @@ NDaysLoginTypeConfig.Values = {
 function NDaysLoginTypeConfig.GetConfig(key)
 	local tb = NDaysLoginTypeConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["background"] = 2,["drawing"] = 3,["coordinate1"] = 4,["title"] = 5,["coordinate2"] = 6,["color"] = 7,["reward"] = 8,["default"] = 9,["nazo"] = 10,}

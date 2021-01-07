@@ -15,6 +15,7 @@ end
 function AcNewYearScoreAwardsItem:InjectComponent()
     self.RankLower = self.injections.RankLower
     self.RankUpper = self.injections.RankUpper
+    self.RankLine = self.injections.RankLine
     self.AwardRoot = self.injections.AwardRoot
     self.LoseRank = self.injections.LoseRank
 end
@@ -50,11 +51,16 @@ function AcNewYearScoreAwardsItem:LUA_SetData(obj)
         if awardData.upperLimit <=0 then
            self.LoseRank.gameObject:SetActive(true)
            self.RankUpper.gameObject:SetActive(false)
-        else
+        else           
            self.RankLower.text = awardData.lowerLimit
-        self.RankUpper.text = awardData.upperLimit 
+           self.RankUpper.text = awardData.upperLimit 
            self.LoseRank.gameObject:SetActive(false)
            self.RankUpper.gameObject:SetActive(true)
+           if awardData.upperLimit == awardData.lowerLimit then
+              self.RankLine.gameObject:SetActive(false)
+           else
+              self.RankLine.gameObject:SetActive(true)
+           end
         end                
     end 
     self:SetAwardShowUI(awardData)

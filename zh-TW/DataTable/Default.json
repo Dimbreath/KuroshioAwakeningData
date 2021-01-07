@@ -1308,6 +1308,204 @@
       "Value": "跨年夜的市集會場，一場狩獵遊戲正在進行。被小惡魔\r\n薩拉托加邀請的你們既是獵人，也是獵物。而這場遊戲，似乎還關係著\r\n黑潮的年終評定……",
       "Nazo": 0
     },
+    "newyear_boss_lv": {
+      "Cuid": "newyear_boss_lv",
+      "Stringkey": "newyear_boss_lv",
+      "Value": "-等級不足-",
+      "Nazo": 0
+    },
+    "newyear_boss_lv_tips": {
+      "Cuid": "newyear_boss_lv_tips",
+      "Stringkey": "newyear_boss_lv_tips",
+      "Value": "該人偶等級不足，無法上陣",
+      "Nazo": 0
+    },
+    "newyear_boss_name": {
+      "Cuid": "newyear_boss_name",
+      "Stringkey": "newyear_boss_name",
+      "Value": "SP試煉",
+      "Nazo": 0
+    },
+    "newyear_boss_tips": {
+      "Cuid": "newyear_boss_tips",
+      "Stringkey": "newyear_boss_tips",
+      "Value": "D A N G E R",
+      "Nazo": 0
+    },
+    "NewYear_Boss_tips_01": {
+      "Cuid": "NewYear_Boss_tips_01",
+      "Stringkey": "NewYear_Boss_tips_01",
+      "Value": "活動倒數計時",
+      "Nazo": 0
+    },
+    "NewYear_Boss_tips_02": {
+      "Cuid": "NewYear_Boss_tips_02",
+      "Stringkey": "NewYear_Boss_tips_02",
+      "Value": "攜帶獎勵",
+      "Nazo": 0
+    },
+    "newyear_buff_looktips": {
+      "Cuid": "newyear_buff_looktips",
+      "Stringkey": "newyear_buff_looktips",
+      "Value": "完成任務【%s】後解鎖",
+      "Nazo": 0
+    },
+    "NewYear_Buff_tips_01": {
+      "Cuid": "NewYear_Buff_tips_01",
+      "Stringkey": "NewYear_Buff_tips_01",
+      "Value": "敵方BUFF",
+      "Nazo": 0
+    },
+    "NewYear_Buff_tips_02": {
+      "Cuid": "NewYear_Buff_tips_02",
+      "Stringkey": "NewYear_Buff_tips_02",
+      "Value": "我方BUFF",
+      "Nazo": 0
+    },
+    "NewYear_Buff_tips_03": {
+      "Cuid": "NewYear_Buff_tips_03",
+      "Stringkey": "NewYear_Buff_tips_03",
+      "Value": "COIN：",
+      "Nazo": 0
+    },
+    "newyear_coin_lose": {
+      "Cuid": "newyear_coin_lose",
+      "Stringkey": "newyear_coin_lose",
+      "Value": "剩餘coin點不足",
+      "Nazo": 0
+    },
+    "NewYear_Map_button_01": {
+      "Cuid": "NewYear_Map_button_01",
+      "Stringkey": "NewYear_Map_button_01",
+      "Value": "上繳",
+      "Nazo": 0
+    },
+    "NewYear_Map_button_02": {
+      "Cuid": "NewYear_Map_button_02",
+      "Stringkey": "NewYear_Map_button_02",
+      "Value": "兌換中心",
+      "Nazo": 0
+    },
+    "NewYear_Map_button_03": {
+      "Cuid": "NewYear_Map_button_03",
+      "Stringkey": "NewYear_Map_button_03",
+      "Value": "活動任務",
+      "Nazo": 0
+    },
+    "NewYear_Map_button_04": {
+      "Cuid": "NewYear_Map_button_04",
+      "Stringkey": "NewYear_Map_button_04",
+      "Value": "積分排行",
+      "Nazo": 0
+    },
+    "NewYear_Map_tips_01": {
+      "Cuid": "NewYear_Map_tips_01",
+      "Stringkey": "NewYear_Map_tips_01",
+      "Value": "我方士氣",
+      "Nazo": 0
+    },
+    "NewYear_Map_tips_02": {
+      "Cuid": "NewYear_Map_tips_02",
+      "Stringkey": "NewYear_Map_tips_02",
+      "Value": "新年市集",
+      "Nazo": 0
+    },
+    "NewYear_Map_tips_03": {
+      "Cuid": "NewYear_Map_tips_03",
+      "Stringkey": "NewYear_Map_tips_03",
+      "Value": "新年擂臺",
+      "Nazo": 0
+    },
+    "NewYear_Port_tips_01": {
+      "Cuid": "NewYear_Port_tips_01",
+      "Stringkey": "NewYear_Port_tips_01",
+      "Value": "危險係數",
+      "Nazo": 0
+    },
+    "NewYear_Port_tips_02": {
+      "Cuid": "NewYear_Port_tips_02",
+      "Stringkey": "NewYear_Port_tips_02",
+      "Value": "編輯",
+      "Nazo": 0
+    },
+    "NewYear_Rank_Label_1": {
+      "Cuid": "NewYear_Rank_Label_1",
+      "Stringkey": "NewYear_Rank_Label_1",
+      "Value": "排行榜",
+      "Nazo": 0
+    },
+    "NewYear_Rank_Label_2": {
+      "Cuid": "NewYear_Rank_Label_2",
+      "Stringkey": "NewYear_Rank_Label_2",
+      "Value": "每日獎勵",
+      "Nazo": 0
+    },
+    "NewYear_Rank_Label_3": {
+      "Cuid": "NewYear_Rank_Label_3",
+      "Stringkey": "NewYear_Rank_Label_3",
+      "Value": "最終獎勵",
+      "Nazo": 0
+    },
+    "NewYear_Rank_tips_01": {
+      "Cuid": "NewYear_Rank_tips_01",
+      "Stringkey": "NewYear_Rank_tips_01",
+      "Value": "每天4點透過郵件發送",
+      "Nazo": 0
+    },
+    "NewYear_Rank_tips_02": {
+      "Cuid": "NewYear_Rank_tips_02",
+      "Stringkey": "NewYear_Rank_tips_02",
+      "Value": "排行獎勵",
+      "Nazo": 0
+    },
+    "NewYear_Rank_tips_03": {
+      "Cuid": "NewYear_Rank_tips_03",
+      "Stringkey": "NewYear_Rank_tips_03",
+      "Value": "我的排行",
+      "Nazo": 0
+    },
+    "NewYear_Rank_tips_04": {
+      "Cuid": "NewYear_Rank_tips_04",
+      "Stringkey": "NewYear_Rank_tips_04",
+      "Value": "指揮官",
+      "Nazo": 0
+    },
+    "NewYear_Rank_tips_05": {
+      "Cuid": "NewYear_Rank_tips_05",
+      "Stringkey": "NewYear_Rank_tips_05",
+      "Value": "活動積分",
+      "Nazo": 0
+    },
+    "NewYear_Rank_tips_06": {
+      "Cuid": "NewYear_Rank_tips_06",
+      "Stringkey": "NewYear_Rank_tips_06",
+      "Value": "REWARD",
+      "Nazo": 0
+    },
+    "newyear_reward_tips": {
+      "Cuid": "newyear_reward_tips",
+      "Stringkey": "newyear_reward_tips",
+      "Value": "所有國家士氣為0時才可領取獎勵",
+      "Nazo": 0
+    },
+    "newyear_tips": {
+      "Cuid": "newyear_tips",
+      "Stringkey": "newyear_tips",
+      "Value": "BOSS出現期間無法進行上繳",
+      "Nazo": 0
+    },
+    "NewYear_turnin_tips_01": {
+      "Cuid": "NewYear_turnin_tips_01",
+      "Stringkey": "NewYear_turnin_tips_01",
+      "Value": "請先選擇上繳物資",
+      "Nazo": 0
+    },
+    "newyearlabel_01": {
+      "Cuid": "newyearlabel_01",
+      "Stringkey": "newyearlabel_01",
+      "Value": "新年委託",
+      "Nazo": 0
+    },
     "network_context": {
       "Cuid": "network_context",
       "Stringkey": "network_context",
@@ -5650,6 +5848,24 @@
       "Cuid": "BP_purchase_tips",
       "Stringkey": "BP_purchase_tips",
       "Value": "獲得BP：{0}",
+      "Nazo": 0
+    },
+    "Button_eng_tips_01": {
+      "Cuid": "Button_eng_tips_01",
+      "Stringkey": "Button_eng_tips_01",
+      "Value": "Activity Shop",
+      "Nazo": 0
+    },
+    "Button_eng_tips_02": {
+      "Cuid": "Button_eng_tips_02",
+      "Stringkey": "Button_eng_tips_02",
+      "Value": "Activity Task",
+      "Nazo": 0
+    },
+    "Button_eng_tips_03": {
+      "Cuid": "Button_eng_tips_03",
+      "Stringkey": "Button_eng_tips_03",
+      "Value": "Activity Rank",
       "Nazo": 0
     },
     "buy_max": {
@@ -11244,6 +11460,12 @@
       "Value": "經驗",
       "Nazo": 0
     },
+    "warehouse_type_90": {
+      "Cuid": "warehouse_type_90",
+      "Stringkey": "warehouse_type_90",
+      "Value": "元旦物資",
+      "Nazo": 0
+    },
     "task_get_reward_01": {
       "Cuid": "task_get_reward_01",
       "Stringkey": "task_get_reward_01",
@@ -12106,6 +12328,36 @@
       "Cuid": "activity_resource_05",
       "Stringkey": "activity_resource_05",
       "Value": "%02d月%02d日 %02d:%02d - %02d月%02d日 %02d:%02d",
+      "Nazo": 0
+    },
+    "activity_resourcetime_01": {
+      "Cuid": "activity_resourcetime_01",
+      "Stringkey": "activity_resourcetime_01",
+      "Value": "打撈掉落",
+      "Nazo": 0
+    },
+    "activity_resourcetime_02": {
+      "Cuid": "activity_resourcetime_02",
+      "Stringkey": "activity_resourcetime_02",
+      "Value": "{0}掉落{1}UP",
+      "Nazo": 0
+    },
+    "activity_resourcetime_03": {
+      "Cuid": "activity_resourcetime_03",
+      "Stringkey": "activity_resourcetime_03",
+      "Value": "剩餘時間：",
+      "Nazo": 0
+    },
+    "activity_resourcetime_04": {
+      "Cuid": "activity_resourcetime_04",
+      "Stringkey": "activity_resourcetime_04",
+      "Value": "<color=#00FFFF>{0}天</color>",
+      "Nazo": 0
+    },
+    "activity_resourcetime_05": {
+      "Cuid": "activity_resourcetime_05",
+      "Stringkey": "activity_resourcetime_05",
+      "Value": "<color=#00FFFF>{0}</color>",
       "Nazo": 0
     },
     "daily_task_text_01": {
@@ -15078,6 +15330,12 @@
       "Value": "前往渦漩",
       "Nazo": 0
     },
+    "activity_go_text_newyear": {
+      "Cuid": "activity_go_text_newyear",
+      "Stringkey": "activity_go_text_newyear",
+      "Value": "前往狩獵遊戲",
+      "Nazo": 0
+    },
     "activity_surface_des_03": {
       "Cuid": "activity_surface_des_03",
       "Stringkey": "activity_surface_des_03",
@@ -15363,7 +15621,7 @@
     "blackshop_text_01_lua": {
       "Cuid": "blackshop_text_01_lua",
       "Stringkey": "blackshop_text_01_lua",
-      "Value": "%s前,<color=#00ffff>逐風拂曉</color>招募即可獲得黑石鑄幣",
+      "Value": "%s前,<color=#00ffff>浴火飛翎</color>招募即可獲得黑石鑄幣",
       "Nazo": 0
     },
     "blackshop_text_02": {
@@ -17472,6 +17730,12 @@
       "Value": "虛海死局活動加成",
       "Nazo": 0
     },
+    "activity_buff_04": {
+      "Cuid": "activity_buff_04",
+      "Stringkey": "activity_buff_04",
+      "Value": "狩獵遊戲活動加成",
+      "Nazo": 0
+    },
     "activity_troop_buff_02": {
       "Cuid": "activity_troop_buff_02",
       "Stringkey": "activity_troop_buff_02",
@@ -18249,7 +18513,7 @@
     "occupy_harbourInfo_156": {
       "Cuid": "occupy_harbourInfo_156",
       "Stringkey": "occupy_harbourInfo_156",
-      "Value": "攔截失敗<color=#FF64A5><a href={0}>{1}</a></color>地區已被敵方部隊佔領，請盡快<color=#FF64A5>派遣人偶奪回</color >。",
+      "Value": "攔截失敗<color=#FF64A5><a href={0}>{1}</a></color>地區已被敵方部隊佔領，請盡快<color=#FF64A5>派遣人偶奪回</color>。",
       "Nazo": 0
     },
     "occupy_harbourInfo_157": {

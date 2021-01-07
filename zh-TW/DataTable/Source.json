@@ -306,7 +306,7 @@
       "Text": "狩獵遊戲",
       "Icon": "illustration_1_char_icon_3",
       "Type": "14",
-      "Value": "4",
+      "Value": "5",
       "Value2": "",
       "Nazo": 0
     },
@@ -320,6 +320,16 @@
       "Value2": "",
       "Nazo": 0
     },
+    "99": {
+      "Cuid": 99,
+      "Id": 99,
+      "Text": "浴火飛翎",
+      "Icon": "illustration_1_char_icon_3",
+      "Type": "12",
+      "Value": "80",
+      "Value2": "",
+      "Nazo": 0
+    },
     "10": {
       "Cuid": 10,
       "Id": 10,
@@ -328,6 +338,16 @@
       "Type": "6",
       "Value": "0",
       "Value2": "",
+      "Nazo": 0
+    },
+    "100": {
+      "Cuid": 100,
+      "Id": 100,
+      "Text": "狩獵遊戲",
+      "Icon": "illustration_1_char_icon_3",
+      "Type": "14",
+      "Value": "5",
+      "Value2": "2",
       "Nazo": 0
     },
     "11": {

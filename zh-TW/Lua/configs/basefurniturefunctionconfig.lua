@@ -24,7 +24,7 @@ BaseFurnitureFunctionConfig.Values = {
 function BaseFurnitureFunctionConfig.GetConfig(key)
 	local tb = BaseFurnitureFunctionConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["furniturename"] = 2,["furnituretype"] = 3,["furnitureart"] = 4,["level"] = 5,["nextfurniture"] = 6,["function"] = 7,["furniturequality"] = 8,["precondi"] = 9,["cost"] = 10,["time"] = 11,["desc"] = 12,["nazo"] = 13,}

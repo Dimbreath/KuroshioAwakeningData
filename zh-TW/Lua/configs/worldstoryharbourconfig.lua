@@ -23,7 +23,7 @@ WorldStoryHarbourConfig.Values = {
 function WorldStoryHarbourConfig.GetConfig(key)
 	local tb = WorldStoryHarbourConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["harbourid"] = 1,["partid"] = 2,["shortname"] = 3,["recommendboat"] = 4,["nazo"] = 5,}

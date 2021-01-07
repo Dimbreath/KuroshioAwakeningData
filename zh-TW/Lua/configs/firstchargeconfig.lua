@@ -9,7 +9,7 @@ FirstChargeConfig.Values = {
 function FirstChargeConfig.GetConfig(key)
 	local tb = FirstChargeConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["charge"] = 2,["gift"] = 3,["sequence"] = 4,["titlepic"] = 5,["cost"] = 6,["overview"] = 7,["normalpic"] = 8,["specialpic"] = 9,["normalvideopic"] = 10,["specialvideopic"] = 11,["video"] = 12,["normalvoice"] = 13,["specialvoice"] = 14,["nazo"] = 15,}

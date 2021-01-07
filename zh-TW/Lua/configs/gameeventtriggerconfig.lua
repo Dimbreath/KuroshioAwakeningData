@@ -85,7 +85,7 @@ GameEventTriggerConfig.Values = {
 function GameEventTriggerConfig.GetConfig(key)
 	local tb = GameEventTriggerConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["triggerid"] = 1,["triggername"] = 2,["triggertype"] = 3,["triggerparm"] = 4,["triggerconditionsrelation"] = 5,["triggerconditions"] = 6,["resulttype"] = 7,["resultparm"] = 8,["nazo"] = 9,}

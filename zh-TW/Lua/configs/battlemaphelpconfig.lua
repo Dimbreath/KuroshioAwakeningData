@@ -16,7 +16,7 @@ BattleMapHelpConfig.Values = {
 function BattleMapHelpConfig.GetConfig(key)
 	local tb = BattleMapHelpConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["helptype"] = 2,["helpid"] = 3,["order"] = 4,["title"] = 5,["content"] = 6,["icon"] = 7,["pagenum"] = 8,["color"] = 9,["nazo"] = 10,}

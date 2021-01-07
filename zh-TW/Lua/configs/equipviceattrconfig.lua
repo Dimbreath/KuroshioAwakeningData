@@ -34,7 +34,7 @@ EquipViceAttrConfig.Values = {
 function EquipViceAttrConfig.GetConfig(key)
 	local tb = EquipViceAttrConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["attrname"] = 2,["values"] = 3,["weight"] = 4,["nazo"] = 5,}

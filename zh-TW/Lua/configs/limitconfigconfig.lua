@@ -11,7 +11,7 @@ LimitConfigConfig.Values = {
 function LimitConfigConfig.GetConfig(key)
 	local tb = LimitConfigConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["key"] = 1,["type"] = 2,["id"] = 3,["value"] = 4,["buffer"] = 5,["defaultkey"] = 6,["sourceid"] = 7,["errcode"] = 8,["nazo"] = 9,}

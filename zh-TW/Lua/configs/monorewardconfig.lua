@@ -12,7 +12,7 @@ MonorewardConfig.Values = {
 function MonorewardConfig.GetConfig(key)
 	local tb = MonorewardConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["plotid"] = 1,["type"] = 2,["itemid"] = 3,["plotdesc"] = 4,["nazo"] = 5,}

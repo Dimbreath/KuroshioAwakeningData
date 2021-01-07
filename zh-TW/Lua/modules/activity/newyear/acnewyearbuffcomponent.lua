@@ -140,6 +140,17 @@ end
 
 function AcNewYearBuffComponent:InitScrollList()
 
+	if self.ItemTemplate == nil then
+		return
+	end
+	
+	table.sort(self.AllBuffs, function(a,b)
+		local ta, tb = self.model:IsSelectBuff(a.id),  self.model:IsSelectBuff(b.id)
+		local dta = ta and 1 or 0
+		local dtb = tb and 1 or 0
+
+		return dta > dtb
+	end)
 	local OnRenderBuffItem = function(index, child)
         local buffItem = AcNewYearBuffComponentItem.new(child)
         local config  = self.AllBuffs[index + 1]
@@ -156,7 +167,6 @@ function AcNewYearBuffComponent:InitScrollList()
 	self.ScrollList.onItemRender = OnRenderBuffItem
 	self.ScrollList:ReBuild()
 end
-
 
 
 return AcNewYearBuffComponent

@@ -25,7 +25,7 @@ LottoTaskConfig.Values = {
 function LottoTaskConfig.GetConfig(key)
 	local tb = LottoTaskConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["groupid"] = 1,["taskid"] = 2,["weight"] = 3,["integral"] = 4,["refresh"] = 5,}

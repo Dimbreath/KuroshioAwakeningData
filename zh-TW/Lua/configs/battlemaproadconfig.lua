@@ -21,7 +21,7 @@ BattleMapRoadConfig.Values = {
 function BattleMapRoadConfig.GetConfig(key)
 	local tb = BattleMapRoadConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["frtharbourid"] = 1,["secharbourid"] = 2,["harbourid"] = 3,["roadtype"] = 4,["numtype"] = 5,["iconpos"] = 6,["rotation"] = 7,["nazo"] = 8,}

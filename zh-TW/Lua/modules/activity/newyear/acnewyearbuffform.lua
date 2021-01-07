@@ -1,5 +1,7 @@
 local AcNewYearBuffForm  = class("AcNewYearBuffForm", BaseForm)
 local AcNewYearBuffItem = require"Modules/Activity/NewYear/AcNewYearBuffItem"
+local TaskConfig = require"Configs/TaskConfig"
+
 function AcNewYearBuffForm:LUA_OnInit(gameObject,userParamData)
     self.super:LUA_OnInit(gameObject,userParamData)
 	self.injections = ParseInjections(gameObject)
@@ -47,6 +49,8 @@ function AcNewYearBuffForm:LUA_OnOpen(userData)
     self.traEnemy.gameObject:SetActive(self.isEnemy)
     self:RefreshBuffList()
     self:RefreshBuffValue()
+
+    DarkBoomUtility.ToBlur(self.uguiForm.UIForm);
 end
 
 function AcNewYearBuffForm:RefreshBuffList()
@@ -65,6 +69,21 @@ function AcNewYearBuffForm:RefreshBuffList()
 end
 
 function AcNewYearBuffForm:OnSelectBuff(buffItem)
+
+    if not self.model:IsActiveBuff(buffItem:GetBuffId()) then
+        local config = buffItem:GetBuffConfig()
+        if config ~= nil then
+            local taskId = config.taskid
+            local taskCfg = TaskConfig.GetConfig(taskId)
+            if taskCfg ~= nil then
+                local msg = string.format(GetDefaultText("newyear_buff_looktips"), taskCfg.taskname)
+                GameEntry.UI:OpenMsgTipsUIForm(msg, DarkBoom.SoundEffectType.Tips)
+            end            
+        end
+        
+        return
+    end
+    
     local select = buffItem:IsSelect()
     select = not select
     local buffValue = buffItem:GetBuffValue()
@@ -116,7 +135,9 @@ end
 
 function AcNewYearBuffForm:RemoveListeners()
 	self.btnClose.onClick:RemoveAllListeners()
-	self.btnClose.onClick:Invoke()
+    self.btnClose.onClick:Invoke()
+    self.btnEnsure.onClick:RemoveAllListeners()
+	self.btnEnsure.onClick:Invoke()
 end
 
 function AcNewYearBuffForm:LUA_OnClose()
@@ -124,7 +145,9 @@ function AcNewYearBuffForm:LUA_OnClose()
         v:OnRelease()
     end
     self.buffItemList = {}
+    self.showBuffList = {}
     self:RemoveListeners()
+    DarkBoomUtility.RegainBlur(self.uguiForm.UIForm);
 end
 
 return AcNewYearBuffForm

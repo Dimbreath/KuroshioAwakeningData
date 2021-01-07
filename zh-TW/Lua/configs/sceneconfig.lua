@@ -11,7 +11,7 @@ SceneConfig.Values = {
 function SceneConfig.GetConfig(key)
 	local tb = SceneConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["assetname"] = 2,["backgroundmusicid"] = 3,["nazo"] = 4,}

@@ -186,7 +186,7 @@ OccupyBountyConfig.Values = {
 function OccupyBountyConfig.GetConfig(key)
 	local tb = OccupyBountyConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["taskid"] = 1,["tasktype"] = 2,["limittime"] = 3,["taskname"] = 4,["difficulty"] = 5,["quality"] = 6,["type"] = 7,["reward"] = 8,["costtime"] = 9,["limitlevel"] = 10,["limitstar"] = 11,["limitquality"] = 12,["exp"] = 13,["nazo"] = 14,}

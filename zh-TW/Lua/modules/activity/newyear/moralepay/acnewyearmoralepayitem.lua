@@ -1,4 +1,5 @@
 local AcNewYearMoralePayItem  = class("AcNewYearMoralePayItem")
+local AcNewYearPersistentPress = require"Modules/Activity/NewYear/MoralePay/AcNewYearPersistentPress"
 
 function AcNewYearMoralePayItem:ctor(gameObject)
    if  IsGameObjectNull(gameObject) then
@@ -27,7 +28,15 @@ end
 function AcNewYearMoralePayItem:Init()
 	self.manager = Game:GetManager("AcNewYearManager")
 	self.model = self.manager:GetModel()
-	self.event = self.manager:GetEvent()	
+	self.event = self.manager:GetEvent()
+	self.addBtnPress = AcNewYearPersistentPress.new(self.AddBtn)
+	self.subBtnPress = AcNewYearPersistentPress.new(self.SubBtn)
+	self.addBtnPress:SetPressFunc(function()
+        self:OnAddBtnPress()
+    end)	
+	self.subBtnPress:SetPressFunc(function()
+        self:OnSubBtnPress()
+    end)	
 	self:AddListeners()
 end
 
@@ -49,6 +58,16 @@ function AcNewYearMoralePayItem:AddListeners()
 	end)
 end
 
+function AcNewYearMoralePayItem:OnAddBtnPress()
+	DarkBoomUtility.PlayClick(DarkBoom.SoundEffectType.Add)
+	self:OnAddBtnClick()
+end
+
+function AcNewYearMoralePayItem:OnSubBtnPress()
+	DarkBoomUtility.PlayClick(DarkBoom.SoundEffectType.Close)
+	self:OnSubBtnClick()
+end
+
 function AcNewYearMoralePayItem:OnMinBtnClick()
 	self.curPayNum = 0
 	self:UpdatePayNum()
@@ -58,6 +77,8 @@ function AcNewYearMoralePayItem:OnAddBtnClick()
 	if self.curPayNum < self.maxPayNum then
 	   self.curPayNum = self.curPayNum + 1
 	   self:UpdatePayNum()
+	else
+	   DarkBoom.GameEntry.UI:OpenMsgTipsUIForm(DarkBoom.GameEntry.Localization:GetString("buy_tips_max"))
 	end
 end
 
@@ -65,6 +86,8 @@ function AcNewYearMoralePayItem:OnSubBtnClick()
 	if self.curPayNum >= 1 then
 	   self.curPayNum = self.curPayNum - 1
 	   self:UpdatePayNum()
+	else
+	   DarkBoom.GameEntry.UI:OpenMsgTipsUIForm(DarkBoom.GameEntry.Localization:GetString("buy_tips_min"))
 	end
 end
 
@@ -131,13 +154,16 @@ end
 
 
 function AcNewYearMoralePayItem:LUA_OnUpdate(elapseSeconds,realElapseSeconds)
-	
+	self.addBtnPress:LUA_OnUpdate(elapseSeconds,realElapseSeconds)
+	self.subBtnPress:LUA_OnUpdate(elapseSeconds,realElapseSeconds)
 end
 
 function AcNewYearMoralePayItem:OnRelease()
 	self.injections = {}
     self.injections = nil
 	self:RemoveListeners()
+	self.addBtnPress:OnRelease()
+	self.subBtnPress:OnRelease()
 
 	self.MinBtn = nil
 	self.AddBtn = nil

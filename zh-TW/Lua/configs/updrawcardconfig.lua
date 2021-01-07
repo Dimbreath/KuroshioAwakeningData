@@ -3,6 +3,7 @@ local UpDrawCardConfig = {}
 UpDrawCardConfig.Values = {
 	[1] = {1,"activity_1_menu_bg_20191019",'',"activity_1_title_20191019",'','','','','','',"activity_1_pic02_20191019","activity_1_pic_20191019","40070,krs40070_0501","40071,krs40071_0701",'',[[<color=#F8E698>SSR</color> 瑞鶴]],[[<color=#05E6E6>CV:</color>佐藤利奈]],0,},
 	[2] = {2,"activity_1_menu_bg_20191119",'',"activity_1_title_20191119",'','','','','','',"activity_1_pic_20191128","activity_1_pic02_20191128","10020,krs10020_0201","10021,krs10021_0101",'',[[<color=#F8E698>SSR</color> 翔鶴]],[[<color=#05E6E6>CV:</color>能登麻美子]],0,},
+	[20] = {20,"activity_1_menu_bg_yhfl_20201229","-225,-71","activity_1_name_yhfl_20201229",'','','','',"477,63","260,-47","activity_1_pic_yhfl_20201229","activity_1_pic2_yhfl_20201229","50140,krs50140_0201","50141,krs50141_0101","468,-110",[[<color=#F8E698>SSR</color> 響]],[[<color=#05E6E6>CV:</color>暫無]],0,},
 	[3] = {3,"activity_1_menu_bg_60070","-266,122","activity_1_title_60070",'','','','',"482,122",'',"activity_1_pic_60070","activity_1_pic02_60071","60070,krs60070_0201","60071,krs60071_0101","418,-17",[[<color=#F8E698>SSR</color> 沙恩霍斯特]],[[<color=#05E6E6>CV:</color>齋藤千和]],0,},
 	[4] = {4,"activity_1_menu_bg_20200116",'',"activity_1_title_20200116",'','','','','','',"activity_1_pic_20200116","activity_1_pic02_20200116","30180,krs30180_0201","30181,krs30181_0101",'',[[<color=#F8E698>SSR</color> 海倫娜]],[[<color=#05E6E6>CV:</color>阿澄佳奈]],0,},
 	[5] = {5,"activity_1_menu_bg_20200306","-174,86","activity_1_title_20200914",'','','','',"537,127","295,-40","activity_1_pic_20200306","activity_1_pic02_20200306",'','',"451,10",[[<color=#F8E698>SSR</color> 金剛]],[[<color=#05E6E6>CV:</color>暫無]],0,},
@@ -25,7 +26,7 @@ UpDrawCardConfig.Values = {
 function UpDrawCardConfig.GetConfig(key)
 	local tb = UpDrawCardConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["bgpic"] = 2,["updecpos"] = 3,["updec"] = 4,["videopos"] = 5,["normalvideo"] = 6,["normalbg"] = 7,["specialbg"] = 8,["specialbtnpos"] = 9,["picposition"] = 10,["normalpic"] = 11,["specialpic"] = 12,["normalvoice"] = 13,["specialvoice"] = 14,["cvdecpos"] = 15,["cvdec1"] = 16,["cvdec2"] = 17,["nazo"] = 18,}

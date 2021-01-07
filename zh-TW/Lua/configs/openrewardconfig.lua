@@ -9,7 +9,7 @@ OpenRewardConfig.Values = {
 function OpenRewardConfig.GetConfig(key)
 	local tb = OpenRewardConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["itemid"] = 1,["normalreward"] = 2,["seniorreward"] = 3,["num"] = 4,}

@@ -14,7 +14,7 @@ RankConfig.Values = {
 function RankConfig.GetConfig(key)
 	local tb = RankConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["type"] = 2,["sectype"] = 3,["ranknum"] = 4,["playerranknum"] = 5,["destxt"] = 6,["btnname"] = 7,["btnicon"] = 8,["btnenname"] = 9,["typename"] = 10,["open"] = 11,["nazo"] = 12,}

@@ -50,7 +50,7 @@ RechargeConfig.Values = {
 function RechargeConfig.GetConfig(key)
 	local tb = RechargeConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["platformid"] = 2,["rmbqty"] = 3,["rmb"] = 4,["coinqty"] = 5,["icon"] = 6,["firstextra"] = 7,["extra"] = 8,["productname"] = 9,["description"] = 10,["productid"] = 11,["commodity"] = 12,["item"] = 13,["pay"] = 14,["firstgift"] = 15,["gift"] = 16,["paynum"] = 17,["backtype"] = 18,["nazo"] = 19,}

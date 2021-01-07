@@ -136,7 +136,7 @@ NameRandomConfig.Values = {
 function NameRandomConfig.GetConfig(key)
 	local tb = NameRandomConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["front"] = 2,["adj"] = 3,["behind"] = 4,["nazo"] = 5,}

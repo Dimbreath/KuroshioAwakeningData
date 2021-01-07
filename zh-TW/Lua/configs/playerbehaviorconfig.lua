@@ -15,7 +15,7 @@ PlayerBehaviorConfig.Values = {
 function PlayerBehaviorConfig.GetConfig(key)
 	local tb = PlayerBehaviorConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["module"] = 2,["effective_time"] = 3,["channel"] = 4,["describe"] = 5,["reward"] = 6,["limit"] = 7,["order"] = 8,["nazo"] = 9,}

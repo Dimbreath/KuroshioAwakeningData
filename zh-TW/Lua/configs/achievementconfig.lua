@@ -13,7 +13,7 @@ AchievementConfig.Values = {
 function AchievementConfig.GetConfig(key)
 	local tb = AchievementConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["icon"] = 3,["smallicon"] = 4,["badge"] = 5,["show"] = 6,["specialtask"] = 7,["task"] = 8,["nazo"] = 9,}

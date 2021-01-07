@@ -15,7 +15,7 @@ BackGroundConfig.Values = {
 function BackGroundConfig.GetConfig(key)
 	local tb = BackGroundConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["backgroundname"] = 2,["unlocking"] = 3,["display"] = 4,["tips"] = 5,["default"] = 6,["backgroundtype"] = 7,["backgroundres"] = 8,["thumbnail"] = 9,["nazo"] = 10,}

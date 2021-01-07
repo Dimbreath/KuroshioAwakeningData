@@ -9,7 +9,7 @@ NovicePreferentialConfig.Values = {
 function NovicePreferentialConfig.GetConfig(key)
 	local tb = NovicePreferentialConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["teamid"] = 2,["roleid"] = 3,["btnpic"] = 4,["tabpic"] = 5,["normalvoice"] = 6,["specialvoice"] = 7,["normalvideo"] = 8,["normalbg"] = 9,["specialbg"] = 10,["normalpic"] = 11,["specialpic"] = 12,["nazo"] = 13,}

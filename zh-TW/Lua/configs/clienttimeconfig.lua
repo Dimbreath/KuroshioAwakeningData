@@ -474,7 +474,7 @@ ClientTimeConfig.Values = {
 function ClientTimeConfig.GetConfig(key)
 	local tb = ClientTimeConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["name"] = 1,["clienttimetype"] = 2,["parameter"] = 3,["parameter2"] = 4,["server"] = 5,["serverarg"] = 6,["nazo"] = 7,}

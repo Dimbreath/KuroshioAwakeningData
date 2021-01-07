@@ -11,6 +11,7 @@ function AcNewYearDefendPanel:ctor(gameObject,mask)
     self.injections = ParseInjections(gameObject)
     self.gameObject = gameObject
     self.mask = mask
+    self.isOpened = false
 	self:InjectComponent()
 	self:Init()
 end
@@ -26,7 +27,13 @@ function AcNewYearDefendPanel:InjectComponent()
     self.btnTurnIn = self.injections.btnTurnIn
     self.txtMaxMorale = self.injections.txtMaxMorale
 	self.txtCurMorale = self.injections.txtCurMorale
-	self.traResItem = self.injections.traResItem
+    self.traResItem = self.injections.traResItem
+    self.btnBossLevel = self.injections.btnBossLevel
+    self.imgBossLevel = self.injections.imgBossLevel
+    self.scrollMap = self.injections.scrollMap
+    CS.SafeAreaUtility.SafeAreaToBlack(self.scrollMap:GetComponent("RectTransform"), true)
+    self.aniDirector = self.injections.aniDirector.gameObject:GetComponent(typeof(CS.DarkBoom.BackHouseNew.Animator.AnimatorDirector))
+    self.aniMove = self.injections.move_Root.gameObject:GetComponent(typeof(CS.DarkBoom.BackHouseNew.Animator.AnimationMove))
 end
 
 function AcNewYearDefendPanel:Init()
@@ -38,6 +45,10 @@ function AcNewYearDefendPanel:Init()
     self.turnInItemList = {}
     self.bossLevelPoint = nil
     self:AddListeners()
+    if self.model.endBattleScrollPos ~= nil then
+        self.traMapRoot:GetComponent("RectTransform").anchoredPosition = self.model.endBattleScrollPos
+        self.model.endBattleScrollPos = nil
+    end
 end
 
 function AcNewYearDefendPanel:Update()
@@ -52,13 +63,20 @@ function AcNewYearDefendPanel:RefreshBossLevelInfo()
     if self.bossLevelPoint == nil then
         return
     end
-    self.bossLevelPoint:SetActive(self.model:IsBossLevelOpen())
-    self.btnTurnIn.gameObject:SetActive(not self.model:IsBossLevelOpen())
+    local isOpen = self.model:IsBossLevelOpen()
+    self.bossLevelPoint:SetActive(isOpen)
+    self.btnTurnIn.gameObject:SetActive(not isOpen)
+    self.layoutResource.gameObject:SetActive(not isOpen)
+    self.btnBossLevel.gameObject:SetActive(isOpen)
+    self.imgBossLevel.gameObject:SetActive(isOpen)
 end
 
 function AcNewYearDefendPanel:AddListeners()
     self.btnTurnIn.onClick:AddListener(function()
 		self:OnbtnTurnInClick()
+    end)
+    self.btnBossLevel.onClick:AddListener(function()
+		self:OnbtnBossLevelClick()
     end)
     self.event.OpenLevelForm:AddListener(self.OnChangeUIShow,self)
     self.event.TurnInResourceFinish:AddListener(self.RefreshMorale,self)
@@ -67,8 +85,15 @@ end
 function AcNewYearDefendPanel:RemoveListeners()
     self.btnTurnIn.onClick:RemoveAllListeners()
     self.btnTurnIn.onClick:Invoke()
+    self.btnBossLevel.onClick:RemoveAllListeners()
+    self.btnBossLevel.onClick:Invoke()
     self.event.OpenLevelForm:RemoveListener(self.OnChangeUIShow,self)
     self.event.TurnInResourceFinish:RemoveListener(self.RefreshMorale,self)
+end
+
+--- 打开调用此函数
+function AcNewYearDefendPanel:OnOpen()
+    self:MoveToDefault()
 end
 
 function AcNewYearDefendPanel:RefreshView()
@@ -81,6 +106,10 @@ function AcNewYearDefendPanel:RefreshView()
     end)
     self:RefreshNpcPoint()
     self:RefreshMorale()
+    if  not self.isOpened  then
+        self:OnOpen()
+        self.isOpened = true
+    end
 end
 
 function AcNewYearDefendPanel:RefreshLevelPoint(clickCallback)
@@ -96,7 +125,11 @@ function AcNewYearDefendPanel:RefreshLevelPoint(clickCallback)
                 self.bossLevelPoint = levelPoint
             end
         end
+
         self.levelPointList[k]:SetData(k,v,clickCallback)
+    end
+    if self.bossLevelPoint ~= nil then
+        self.bossLevelPoint.gameObject:GetComponent("RectTransform").anchoredPosition = Vector2(9999,9999)--boss关卡旧逻辑保留，防止策划又要
     end
 end
 
@@ -115,15 +148,75 @@ function AcNewYearDefendPanel:RefreshNpcPoint()
 end
 
 function AcNewYearDefendPanel:OnLevelPointClick(harbourId,harbourInfoConfig)
-    self.event.OpenLevelForm:Invoke(false)
-    local userData = {}
-    userData.harbourId =  harbourId
-    userData.harbourInfoConfig = harbourInfoConfig
-    GameEntry.UI:OpenUIForm(7073,userData)
+    --local callBack = clickCallback
+    --clickCallback = function(harbourId,harbourInfoConfig)
+    --    self.MoveTo(levelPoint.transform.position,function()
+    --        if callBack ~= nil then
+    --            callBack(harbourId,harbourInfoConfig)
+    --        end
+    --    end)
+    --end
+    local point = self.levelPointList[harbourId]
+    local position = - point.gameObject:GetComponent("RectTransform").anchoredPosition3D;
+    position.x =  position.x - 220
+    self:MoveTo(position,nil)
+    self.manager:ReqNewYearInfo(function()
+        self.event.OpenLevelForm:Invoke(false)
+        local userData = {}
+        userData.harbourId =  harbourId
+        userData.harbourInfoConfig = harbourInfoConfig
+        GameEntry.UI:OpenUIForm(7073,userData)
+        self.model.endBattleScrollPos = self.traMapRoot:GetComponent("RectTransform").anchoredPosition
+    end)
 end
 
+function AcNewYearDefendPanel:MoveToDefault()
+    local harbourId = self:GetDefaultMoveHarbourID()
+    local point = self.levelPointList[harbourId]
+    if point~=nil then
+        local position = - point.gameObject:GetComponent("RectTransform").anchoredPosition3D;
+        position.x =  position.x
+        self:MoveTo(position,nil)
+    end
+    --self.manager:ReqNewYearInfo(function()
+    --    self.event.OpenLevelForm:Invoke(false)
+    --    local userData = {}
+    --    userData.harbourId =  harbourId
+    --    userData.harbourInfoConfig = harbourInfoConfig
+    --    GameEntry.UI:OpenUIForm(7073,userData)
+    --    self.model.endBattleScrollPos = self.traMapRoot:GetComponent("RectTransform").anchoredPosition
+    --end)
+end
+
+
+function AcNewYearDefendPanel:MoveTo(targetPos,callBack)
+    self.aniMove.TargetPosition = targetPos
+    self.aniDirector:Play(callBack)
+end
+
+function AcNewYearDefendPanel:GetDefaultMoveHarbourID()
+    local harbourList = self.model:GetHarbourList(self.model.defendActivityId)
+    local id  = 999999999
+    ---TODO 这里取第一个未解锁值
+    for k,v in pairs(harbourList) do
+        if k< id then
+            id = k
+        end
+    end
+    return id
+end
+
+---@param harbourId number
+---@harbourInfoConfig  harbourInfoConfig  HarbourInfoConfig
 function AcNewYearDefendPanel:OnRewardPointClick(harbourId,harbourInfoConfig)
 	self.manager:OpenAcNewYearLevelRewardForm(harbourId)
+end
+
+function AcNewYearDefendPanel:OnbtnBossLevelClick()
+    if self.bossLevelPoint == nil then
+        return
+    end
+    self.manager:OpenAcNewYearLevelRewardForm(self.bossLevelPoint.harbourId)
 end
 
 function AcNewYearDefendPanel:OnbtnTurnInClick()
@@ -142,7 +235,7 @@ function AcNewYearDefendPanel:RefreshMorale()
         end
         self.turnInItemList[v]:SetData(v,self.mask)
     end
-    self.btnTurnIn.gameObject:SetActive(not self.model:IsBossLevelOpen())
+    self:RefreshBossLevelInfo()
     self:RefreshMoraleProcess()
 end
 
@@ -162,6 +255,9 @@ end
 
 function AcNewYearDefendPanel:OnChangeUIShow(show)
 	self.traRightTop.gameObject:SetActive(show)
+    --if not self.gameObject:IsActive() and show then
+    --    self:OnOpen()
+    --end
 end
 
 function AcNewYearDefendPanel:OnRelease()
@@ -173,6 +269,8 @@ function AcNewYearDefendPanel:OnRelease()
     end
     self.levelPointList = {}
     self.npcPointList = {}
+    self.turnInItemList = {}
+    self.bossLevelPoint = nil
     self:RemoveListeners()
 end
 

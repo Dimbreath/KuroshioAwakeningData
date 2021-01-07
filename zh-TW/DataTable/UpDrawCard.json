@@ -42,6 +42,27 @@
       "Cvdec2": "<color=#05E6E6>CV:</color>能登麻美子",
       "Nazo": 0
     },
+    "20": {
+      "Cuid": 20,
+      "Id": 20,
+      "Bgpic": "activity_1_menu_bg_yhfl_20201229",
+      "Updecpos": "-225,-71",
+      "Updec": "activity_1_name_yhfl_20201229",
+      "Videopos": "",
+      "Normalvideo": "",
+      "Normalbg": "",
+      "Specialbg": "",
+      "Specialbtnpos": "477,63",
+      "Picposition": "260,-47",
+      "Normalpic": "activity_1_pic_yhfl_20201229",
+      "Specialpic": "activity_1_pic2_yhfl_20201229",
+      "Normalvoice": "50140,krs50140_0201",
+      "Specialvoice": "50141,krs50141_0101",
+      "Cvdecpos": "468,-110",
+      "Cvdec1": "<color=#F8E698>SSR</color> 響",
+      "Cvdec2": "<color=#05E6E6>CV:</color>暫無",
+      "Nazo": 0
+    },
     "3": {
       "Cuid": 3,
       "Id": 3,

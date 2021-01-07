@@ -418,6 +418,7 @@ LangConfig.Values = {
 	[67138] = {67138,[[創建聯盟]],0,},
 	[67139] = {67139,[[已加入]],0,},
 	[67140] = {67140,[[已退出]],0,},
+	[67141] = {67141,[[士氣已經達到最大值，無法上繳]],0,},
 	[70101] = {70101,[[目前背景尚未獲得或暫時無法使用]],0,},
 	[70201] = {70201,[[此港口未被敵人勢力佔領]],0,},
 	[70202] = {70202,[[產出速率為0，不可使用]],0,},
@@ -444,7 +445,7 @@ LangConfig.Values = {
 function LangConfig.GetConfig(key)
 	local tb = LangConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["errld"] = 1,["errmsg"] = 2,["nazo"] = 3,}

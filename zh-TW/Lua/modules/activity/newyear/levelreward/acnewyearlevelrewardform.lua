@@ -40,6 +40,7 @@ function AcNewYearLevelRewardForm:LUA_OnInit(gameObject, userData)
 	self.refMask = self.luaUGUIForm:GetMask()
     self:InjectComponent()
 	self:AddListeners()
+	self.ArrangeButton.gameObject:SetActive(false)--屏蔽调遣编队按钮。
 end
 
 function AcNewYearLevelRewardForm:LUA_OnOpen(userData)
@@ -107,6 +108,15 @@ function AcNewYearLevelRewardForm:LUA_OnClose(userData)
 	self.model = nil
 	self.manager = nil
 	self.gameObject = nil
+	if self.stationSelectParam then
+		self.stationSelectParam.m_OnClickAction = nil
+		self.stationSelectParam.m_OnCheckIsSelect = nil
+		self.stationSelectParam.m_OnCheckIsSelectText = nil
+		self.stationSelectParam.m_OnSort = nil
+		self.stationSelectParam.m_OnClickSpineItem = nil
+		self.stationSelectParam = nil
+	end
+	self.c2sSetBattleFormationCallBack = nil
 	AcNewYearLevelRewardForm_OnStationCheckIsSelect = function() end--避免框架报错
 	AcNewYearLevelRewardForm_OnStationCheckIsSelectText = function() end--避免框架报错
 end
@@ -204,13 +214,14 @@ function AcNewYearLevelRewardForm:AddListeners()
 	self.FightButton.onClick:AddListener(function()
 		self:OnClickFightButton()
 	end)
-	
+	self.event.SetFormation:AddListener(self.OnSetFormationRet,self)
 	self.event.UpdateBossInfo:AddListener(self.UpdateBossInfo, self)
 end
 
 function AcNewYearLevelRewardForm:RemoveListeners()
 	self.ArrangeButton.onClick:RemoveAllListeners()
 	self.FightButton.onClick:RemoveAllListeners()
+	self.event.SetFormation:RemoveListener(self.OnSetFormationRet,self)
 	self.event.UpdateBossInfo:RemoveListener(self.UpdateBossInfo, self)
 end
 
@@ -228,6 +239,7 @@ function AcNewYearLevelRewardForm:GoToFight()
 		return
 	end
 	self.manager:ReqStartBattle(self.harbourID,"")
+	self.model.endBattleSwitchTog = self.model.curTog
 	self.luaUGUIForm:Close()
 end
 
@@ -299,15 +311,18 @@ end
 --给服务器发送改变编队的协议
 function AcNewYearLevelRewardForm:C2SSetBattleFormation(callBack)
 	self.defaultFormationChanged = nil
-	CS.DarkBoom.AtkFormationDataMgr.GetInstance():SetBattleFormation(self.teamID, self.defaultFormation, 
-	function(mb)
-		if self.luaUGUIForm then
-			self:RefreshRight()
-			if callBack then
-				callBack(self)
-			end
-		end
-	end)
+	self.c2sSetBattleFormationCallBack = callBack
+	
+	local charaJson = DarkBoom.AtkFormationUtility.GetFormationString(self.defaultFormation)
+	self.manager:ReqSetFormation(self.teamID, charaJson)
+end
+
+function AcNewYearLevelRewardForm:OnSetFormationRet(data)
+	CS.DarkBoom.GameEntry.PlayerData:UpdateAtkFormations(data)
+	self:RefreshRight()
+	if self.c2sSetBattleFormationCallBack then
+		self.c2sSetBattleFormationCallBack(self)
+	end
 end
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -430,7 +445,9 @@ function AcNewYearLevelRewardForm:RefreshRight()
 	local showList = CS.System.Collections.Generic.List(CS.DarkBoom.CharacterInfo)()
 	local dic = CS.DarkBoom.GameEntry.PlayerData.Characters.Values
 	for k, v in pairs(dic) do
-		showList:Add(v)
+		if v.typeShip ~= CS.CharacterShipType.Fodder then --素材人偶不能上阵
+			showList:Add(v)
+		end
 	end
 	self.stationSelectParam.m_InitList = showList
 	self.stationSelectParam.m_OnGetHpPer = nil

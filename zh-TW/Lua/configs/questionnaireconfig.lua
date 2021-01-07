@@ -35,7 +35,7 @@ QuestionnaireConfig.Values = {
 function QuestionnaireConfig.GetConfig(key)
 	local tb = QuestionnaireConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["groupid"] = 2,["type"] = 3,["no"] = 4,["title"] = 5,["options"] = 6,["blank"] = 7,["duration"] = 8,["nazo"] = 9,}

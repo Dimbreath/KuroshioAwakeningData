@@ -11,7 +11,7 @@ BaseFurnitureSuitConfig.Values = {
 function BaseFurnitureSuitConfig.GetConfig(key)
 	local tb = BaseFurnitureSuitConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["suitname"] = 2,["quality"] = 3,["suitbuff"] = 4,["nazo"] = 5,}

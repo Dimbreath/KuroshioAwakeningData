@@ -10,11 +10,13 @@ function AcNewYearEvent:ctor()
     self.EndBattle = Event.new()
     self.MoralePayBtnSateRefresh = Event.new()
     self.TurnInResourceFinish = Event.new()
+    self.TurnInResourceError = Event.new()
     self.RefreshRankList = Event.new()
     self.RefreshAwardCd = Event.new()
     self.UpdateBossInfo = Event.new()
     self.GetFinalReward = Event.new()
     self.RefreshBuff = Event.new()
+    self.RefreshTaskRedPoint = Event.new()
 end
 
 return AcNewYearEvent

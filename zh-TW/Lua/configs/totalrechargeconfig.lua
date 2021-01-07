@@ -13,7 +13,7 @@ TotalrechargeConfig.Values = {
 function TotalrechargeConfig.GetConfig(key)
 	local tb = TotalrechargeConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["num"] = 2,["reward"] = 3,["describe"] = 4,["nazo"] = 5,}

@@ -8,7 +8,7 @@ VipCardConfig.Values = {
 function VipCardConfig.GetConfig(key)
 	local tb = VipCardConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["btnpic"] = 2,["price"] = 3,["time"] = 4,["mailform"] = 5,["mail"] = 6,["buff"] = 7,["nazo"] = 8,}

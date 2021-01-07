@@ -47,13 +47,14 @@ function AcNewYearMoralePayForm:AddListeners()
     end)
     self.event.MoralePayBtnSateRefresh:AddListener(self.OnMoralePayBtnSateRefresh,self)
     self.event.TurnInResourceFinish:AddListener(self.OnTurnInResourceFinish,self)
+    self.event.TurnInResourceError:AddListener(self.OnTurnInResourceError,self)    
 end
 
 function AcNewYearMoralePayForm:OnPayBtnClick()
     if self.PayButtonValid then
         local resToturnIn = {}
         if self.primaryLvMoralePayItem.curPayNum > 0 then
-            self.primaryToTurnIn["num"] = CS.UnityEngine.Mathf.CeilToInt(self.primaryLvMoralePayItem.CurPayNum)
+            self.primaryToTurnIn["num"] = CS.UnityEngine.Mathf.CeilToInt(self.primaryLvMoralePayItem.curPayNum)
             table.insert(resToturnIn,self.primaryToTurnIn) 
         end
         if self.middleLvMoralePayItem.curPayNum > 0 then
@@ -102,8 +103,9 @@ end
 
 function AcNewYearMoralePayForm:RefreshMoraleUI()
     local morale = tonumber(self.model.curMorale)
-    if morale > self.model.maxMorale then
+    if morale >= self.model.maxMorale then
        morale = self.model.maxMorale
+       self.manager:ReqNewYearInfo()
     end
     self.MoraleSliderFill.transform.localScale = Vector3(morale/self.model.maxMorale,1,1)
     self.MoraleCurValue.text = morale
@@ -118,6 +120,11 @@ function AcNewYearMoralePayForm:OnTurnInResourceFinish(serverdata)
     self.highLvMoralePayItem:ResetItem()
     --显示奖励
     DarkBoomUtility.ShowRewardUIForm(serverdata.user)
+end
+
+function AcNewYearMoralePayForm:OnTurnInResourceError(str1,str2)
+    self.manager:ReqNewYearInfo()
+    self.uguiForm:OnCloseForm()
 end
 
 function AcNewYearMoralePayForm:OnMoralePayBtnSateRefresh()
@@ -141,6 +148,9 @@ function AcNewYearMoralePayForm:LUA_OnUpdate(elapseSeconds,realElapseSeconds)
            self:SetPayButtonState(false)
         end
     end
+    self.primaryLvMoralePayItem:LUA_OnUpdate(elapseSeconds,realElapseSeconds)
+    self.middleLvMoralePayItem:LUA_OnUpdate(elapseSeconds,realElapseSeconds)
+    self.highLvMoralePayItem:LUA_OnUpdate(elapseSeconds,realElapseSeconds)
 end
 
 function AcNewYearMoralePayForm:RemoveListeners()
@@ -148,6 +158,7 @@ function AcNewYearMoralePayForm:RemoveListeners()
     self.PayButton.onClick:Invoke()
     self.event.MoralePayBtnSateRefresh:RemoveListener(self.OnMoralePayBtnSateRefresh,self)
     self.event.TurnInResourceFinish:RemoveListener(self.OnTurnInResourceFinish,self)
+    self.event.TurnInResourceError:RemoveListener(self.OnTurnInResourceError,self) 
 end
 
 function AcNewYearMoralePayForm:LUA_OnClose()

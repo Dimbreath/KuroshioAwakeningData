@@ -36,7 +36,7 @@ FleetTaskConfig.Values = {
 function FleetTaskConfig.GetConfig(key)
 	local tb = FleetTaskConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["type"] = 2,["actionreward"] = 3,["actionrewardmax"] = 4,["taskgroup"] = 5,["actionnum"] = 6,["nazo"] = 7,}

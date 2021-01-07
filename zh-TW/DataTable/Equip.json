@@ -1520,6 +1520,25 @@
       "Exclusive": "",
       "Nazo": 0
     },
+    "101029001": {
+      "Cuid": 101029001,
+      "Id": 101029001,
+      "Smalltype": 4,
+      "Quality": 5,
+      "Qualityname": "超稀有",
+      "Name": "F6F地獄貓戰鬥機",
+      "Describe": "薩拉托加專屬版戰鬥機。",
+      "Mainattrvalues": "5,77",
+      "Viceattrvalues": "5101,5107,5102",
+      "Icon": "item_1_iconequ_101029001",
+      "Sale": "1,2,10000",
+      "Exp": 200,
+      "Sortid": 70000,
+      "Dialogue": "99999",
+      "Gainway": "12",
+      "Exclusive": "10290",
+      "Nazo": 0
+    },
     "103001002": {
       "Cuid": 103001002,
       "Id": 103001002,
@@ -4596,6 +4615,25 @@
       "Dialogue": "99999",
       "Gainway": "12",
       "Exclusive": "50090",
+      "Nazo": 0
+    },
+    "205014001": {
+      "Cuid": 205014001,
+      "Id": 205014001,
+      "Smalltype": 7,
+      "Quality": 5,
+      "Qualityname": "超稀有",
+      "Name": "三聯裝九三式氧氣魚雷",
+      "Describe": "響專屬魚雷",
+      "Mainattrvalues": "4,77",
+      "Viceattrvalues": "5101,5107,5103",
+      "Icon": "item_1_iconequ_205014001",
+      "Sale": "1,2,10000",
+      "Exp": 200,
+      "Sortid": 50000,
+      "Dialogue": "99999",
+      "Gainway": "12",
+      "Exclusive": "50140",
       "Nazo": 0
     },
     "205032002": {

@@ -23,7 +23,7 @@ AttributeCalculateBaseConfig.Values = {
 function AttributeCalculateBaseConfig.GetConfig(key)
 	local tb = AttributeCalculateBaseConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["calctypecn"] = 3,["calctypetw"] = 4,["calctypeen"] = 5,["calctypejp"] = 6,["nazo"] = 7,}

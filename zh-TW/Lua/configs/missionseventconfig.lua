@@ -13,7 +13,7 @@ MissionsEventConfig.Values = {
 function MissionsEventConfig.GetConfig(key)
 	local tb = MissionsEventConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["batch"] = 2,["storygroupid"] = 3,["taskid"] = 4,["nazo"] = 5,}

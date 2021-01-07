@@ -44,7 +44,7 @@ AttributeBaseConfig.Values = {
 function AttributeBaseConfig.GetConfig(key)
 	local tb = AttributeBaseConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["score"] = 3,["attrtype"] = 4,["icon"] = 5,["nazo"] = 6,}

@@ -7,7 +7,7 @@ AdvanceDrawCardConfig.Values = {
 function AdvanceDrawCardConfig.GetConfig(key)
 	local tb = AdvanceDrawCardConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["precondi_1"] = 2,["precondi_2"] = 3,["duringtime"] = 4,["drawcardid"] = 5,["usetime"] = 6,["paytime"] = 7,["freetime"] = 8,["resettime"] = 9,["banner_1"] = 10,["banner_2"] = 11,["nazo"] = 12,}

@@ -11,7 +11,7 @@ BoatReformSlotConfig.Values = {
 function BoatReformSlotConfig.GetConfig(key)
 	local tb = BoatReformSlotConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["slotid"] = 1,["slotname"] = 2,["sloteng"] = 3,["initialgrade"] = 4,["starattr"] = 5,["nazo"] = 6,}

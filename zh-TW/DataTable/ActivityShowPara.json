@@ -79,6 +79,46 @@
       "BuffPos": "",
       "BuffRes": "",
       "Nazo": 0
+    },
+    "5": {
+      "Cuid": 5,
+      "Id": 5,
+      "Shopcn": "blacksea_shop_1,blacksea_task_0",
+      "Shopen": "blacksea_shop_2,blacksea_task_5",
+      "BtnRes": "main_1_function_icon_combat_seebestattung",
+      "ActPicBg": "",
+      "ActBtnTxt": "activity_go_text_10",
+      "ActTextDes": "activity_surface_des_04",
+      "ActTextDesPos": "18,-184",
+      "ActTitleRes": "",
+      "ActTitleResPos": "292,-30",
+      "SubRule": 2,
+      "BuffDoll": "",
+      "BuffCoin": "",
+      "BuffAttr": "",
+      "BuffPos": "",
+      "BuffRes": "",
+      "Nazo": 0
+    },
+    "6": {
+      "Cuid": 6,
+      "Id": 6,
+      "Shopcn": "NewYear_Map_button_02",
+      "Shopen": "Button_eng_tips_01",
+      "BtnRes": "main_1_function_icon_combat_slyx",
+      "ActPicBg": "activity_1_menu_bg_slyx",
+      "ActBtnTxt": "activity_go_text_newyear",
+      "ActTextDes": "",
+      "ActTextDesPos": "",
+      "ActTitleRes": "",
+      "ActTitleResPos": "",
+      "SubRule": 1,
+      "BuffDoll": "",
+      "BuffCoin": "",
+      "BuffAttr": "",
+      "BuffPos": "",
+      "BuffRes": "",
+      "Nazo": 0
     }
   }
 }

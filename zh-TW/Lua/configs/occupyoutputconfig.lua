@@ -88,7 +88,7 @@ OccupyOutputConfig.Values = {
 function OccupyOutputConfig.GetConfig(key)
 	local tb = OccupyOutputConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["harbourid"] = 1,["unlockcondition"] = 2,["areaid"] = 3,["fight"] = 4,["mainid"] = 5,["operatetype"] = 6,["reward"] = 7,["defaultid"] = 8,["minimumtime"] = 9,["onereward"] = 10,["prioritylevel"] = 11,["defaultid2"] = 12,["minimumtime2"] = 13,["nazo"] = 14,}

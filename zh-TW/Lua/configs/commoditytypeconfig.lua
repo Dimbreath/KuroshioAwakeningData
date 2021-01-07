@@ -4,6 +4,7 @@ CommodityTypeConfig.Values = {
 	[1] = {1,[[原石切割]],0,"0","0","0","0",3,"trading_1_icon_102",'','','','',0,0,0,},
 	[2] = {2,[[蜃海禮裝]],0,"1577808000","0","0","0",5,"trading_1_icon_105",'','','','',0,0,0,},
 	[3] = {3,[[資源補給]],0,"0","0","0","0",4,"trading_1_icon_103",'','','','',0,0,0,},
+	[30] = {30,[[兌換中心]],79,"0","0","0","0",0,"trading_1_icon_107","41,42",{"2,60060,1"},"hunterprey_1_head_tittle","activity_shop_text_02",0,0,0,},
 	[4] = {4,[[供給箱]],0,"0","0","0","0",1,"trading_1_icon_104",'','','','',0,0,0,},
 	[5] = {5,[[黑市]],0,"0","0","1,4","4;1,100",2,"trading_1_icon_101",'','','','',0,0,0,},
 	[6] = {6,[[基地工程]],0,"0","0","0","0",6,"trading_1_icon_106",'','','','',0,0,0,},
@@ -22,6 +23,7 @@ CommodityTypeConfig.Values = {
 	[24] = {24,[[超值供給]],0,"1577808000","1577808001","0","0",4,"trading_1_icon_104",'','','','',0,0,0,},
 	[25] = {25,[[每日供給]],0,"1577808000","1577808001","0","0",1,"trading_1_icon_104",'','','','',0,0,0,},
 	[26] = {26,[[黑石商店]],60,"0","0","0","0",1,"trading_1_icon_106","33",'','','',0,0,0,},
+	[29] = {29,[[兌換中心]],78,"0","0","0","0",0,"trading_1_icon_107","41,42",{"2,60060,1"},"hunterprey_1_head_tittle","activity_shop_text_02",0,0,0,},
 	[17] = {17,[[核心商店α]],33,"0","0","0","0",0,"trading_1_icon_107","20,21",{"2,30191,1"},"map_1_head_tittle_recallshaft","activity_shop_text_02",1,0,0,},
 	[16] = {16,[[核心商店β]],34,"0","0","0","0",0,"trading_1_icon_107","20,21",{"2,30191,1"},"map_1_head_tittle_recallshaft","activity_shop_text_02",1,0,0,},
 	[18] = {18,[[資料回收α]],36,"0","0","0","0",0,"trading_1_icon_107","22,23",{"5,3009900,1"},"map_1_head_tittle_virtual","activity_shop_text_02",1,0,0,},
@@ -36,7 +38,7 @@ CommodityTypeConfig.Values = {
 function CommodityTypeConfig.GetConfig(key)
 	local tb = CommodityTypeConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["activity"] = 3,["starttime"] = 4,["endtime"] = 5,["renovate"] = 6,["manual"] = 7,["sort"] = 8,["icon"] = 9,["commodity_coin"] = 10,["boat_painting"] = 11,["title"] = 12,["timetxt"] = 13,["diff"] = 14,["groupid"] = 15,["nazo"] = 16,}

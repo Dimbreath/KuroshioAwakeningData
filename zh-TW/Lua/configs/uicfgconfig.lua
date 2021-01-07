@@ -70,7 +70,7 @@ UICfgConfig.Values = {
 function UICfgConfig.GetConfig(key)
 	local tb = UICfgConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["lv"] = 2,["map"] = 3,["hide"] = 4,["priority"] = 5,["name"] = 6,["icon"] = 7,["unlock_icon"] = 8,["source"] = 9,["guide"] = 10,["iconfolder"] = 11,["default"] = 12,["show"] = 13,["storyguide"] = 14,["nazo"] = 15,}

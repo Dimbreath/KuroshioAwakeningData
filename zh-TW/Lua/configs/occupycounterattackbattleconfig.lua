@@ -1266,7 +1266,7 @@ OccupyCounterattackbattleConfig.Values = {
 function OccupyCounterattackbattleConfig.GetConfig(key)
 	local tb = OccupyCounterattackbattleConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["taskid"] = 1,["occupytype"] = 2,["areaid"] = 3,["limittime"] = 4,["taskname"] = 5,["difficulty"] = 6,["quality"] = 7,["type"] = 8,["reward"] = 9,["addedreward"] = 10,["battle"] = 11,["comateffectiveness"] = 12,["nazo"] = 13,}

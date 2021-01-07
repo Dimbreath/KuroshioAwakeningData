@@ -46,6 +46,8 @@ function AcNewYearStagePoint:InitSpine()
 		go.transform.localScale = Vector3(self.scalex,1,1)
 		go.transform.localPosition = Vector3.zero
 		go:GetComponent("RectTransform").anchoredPosition = Vector2(0,-80)
+		go.transform:Find("Click").gameObject:SetActive(false)
+		go.transform:Find("Model"):GetComponent(typeof(CS.Spine.Unity.SkeletonGraphic)).raycastTarget = false
 		local spine = go:AddComponent(typeof(DarkBoom.SpineModel))
 		spine:PlayAnimation("Talk", true)
 	end,self.mask)

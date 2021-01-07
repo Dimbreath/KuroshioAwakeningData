@@ -8,7 +8,7 @@ IntervalRewardsConfig.Values = {
 function IntervalRewardsConfig.GetConfig(key)
 	local tb = IntervalRewardsConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["countdown"] = 2,["rewards"] = 3,["nazo"] = 4,}

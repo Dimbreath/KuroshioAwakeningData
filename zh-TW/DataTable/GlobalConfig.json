@@ -1452,28 +1452,28 @@
     "newYear_boss_1": {
       "Cuid": "newYear_boss_1",
       "Key": "newYear_boss_1",
-      "Value": "3010000",
+      "Value": "4009000",
       "Remarks": "",
       "Nazo": 0
     },
     "newYear_boss_2": {
       "Cuid": "newYear_boss_2",
       "Key": "newYear_boss_2",
-      "Value": "3016000",
+      "Value": "5042000",
       "Remarks": "",
       "Nazo": 0
     },
     "newYear_boss_3": {
       "Cuid": "newYear_boss_3",
       "Key": "newYear_boss_3",
-      "Value": "5002000",
+      "Value": "5014000",
       "Remarks": "",
       "Nazo": 0
     },
     "newYear_boss_4": {
       "Cuid": "newYear_boss_4",
       "Key": "newYear_boss_4",
-      "Value": "4009000",
+      "Value": "6006000",
       "Remarks": "",
       "Nazo": 0
     },
@@ -1487,7 +1487,7 @@
     "NewYear_boss_dmg_reward": {
       "Cuid": "NewYear_boss_dmg_reward",
       "Key": "NewYear_boss_dmg_reward",
-      "Value": "1,1,1",
+      "Value": "1,2,138;1,24,138",
       "Remarks": "",
       "Nazo": 0
     },
@@ -1501,7 +1501,7 @@
     "NewYear_boss_rate": {
       "Cuid": "NewYear_boss_rate",
       "Key": "NewYear_boss_rate",
-      "Value": "100,10",
+      "Value": "1250,1",
       "Remarks": "",
       "Nazo": 0
     },
@@ -1515,7 +1515,7 @@
     "NewYear_item": {
       "Cuid": "NewYear_item",
       "Key": "NewYear_item",
-      "Value": "360001360002360000",
+      "Value": "360001,360002,360003",
       "Remarks": "",
       "Nazo": 0
     },
@@ -1526,24 +1526,38 @@
       "Remarks": "",
       "Nazo": 0
     },
+    "NewYearBoss_lv": {
+      "Cuid": "NewYearBoss_lv",
+      "Key": "NewYearBoss_lv",
+      "Value": "100",
+      "Remarks": "",
+      "Nazo": 0
+    },
+    "NewYearBoss_lv_up": {
+      "Cuid": "NewYearBoss_lv_up",
+      "Key": "NewYearBoss_lv_up",
+      "Value": "50",
+      "Remarks": "",
+      "Nazo": 0
+    },
     "NewYearBoss_up": {
       "Cuid": "NewYearBoss_up",
       "Key": "NewYearBoss_up",
-      "Value": "100",
+      "Value": "10000",
       "Remarks": "",
       "Nazo": 0
     },
     "NewYearMorale": {
       "Cuid": "NewYearMorale",
       "Key": "NewYearMorale",
-      "Value": "10000",
+      "Value": "900000",
       "Remarks": "",
       "Nazo": 0
     },
     "NewYearMorale_enemy": {
       "Cuid": "NewYearMorale_enemy",
       "Key": "NewYearMorale_enemy",
-      "Value": "10000",
+      "Value": "600",
       "Remarks": "",
       "Nazo": 0
     },
@@ -1564,7 +1578,7 @@
     "NewYearReward_personal": {
       "Cuid": "NewYearReward_personal",
       "Key": "NewYearReward_personal",
-      "Value": "1,1,100",
+      "Value": "2,90011,1",
       "Remarks": "",
       "Nazo": 0
     },
@@ -1578,14 +1592,14 @@
     "NewYearReward_service_num": {
       "Cuid": "NewYearReward_service_num",
       "Key": "NewYearReward_service_num",
-      "Value": "10",
+      "Value": "5000",
       "Remarks": "",
       "Nazo": 0
     },
     "NewYearReward_surprise": {
       "Cuid": "NewYearReward_surprise",
       "Key": "NewYearReward_surprise",
-      "Value": "1800",
+      "Value": "3600",
       "Remarks": "",
       "Nazo": 0
     },

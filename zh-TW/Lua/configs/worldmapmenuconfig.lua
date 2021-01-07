@@ -13,13 +13,13 @@ WorldMapMenuConfig.Values = {
 	[10] = {10,5,0,"collect_title_text;collect_title_text_EN",2,1,1,2,"worldmap_menu_num_text_03",'',"map_1_sidebar_icon_5",0,11,0,},
 	[11] = {11,6,0,'',1,1,1,1,"worldmap_menu_harbour_text_01",'','',0,10,0,},
 	[12] = {12,7,0,"books_title_text;books_title_text_EN",1,1,1,0,'','',"map_1_sidebar_icon_11",0,16,0,},
-	[13] = {13,4,4,'',1,1,2,0,'',"map_1_active_right_banner_07",'',97,15,0,},
+	[13] = {13,4,5,'',1,1,2,0,'',"map_1_active_right_banner_07",'',97,15,0,},
 }
 
 function WorldMapMenuConfig.GetConfig(key)
 	local tb = WorldMapMenuConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["functype"] = 2,["funcpara"] = 3,["title"] = 4,["usetype"] = 5,["opentype"] = 6,["showtype"] = 7,["numtype"] = 8,["numtext"] = 9,["pic"] = 10,["icon"] = 11,["sourceid"] = 12,["order"] = 13,["nazo"] = 14,}

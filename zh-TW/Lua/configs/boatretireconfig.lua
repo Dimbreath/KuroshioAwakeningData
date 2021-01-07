@@ -112,7 +112,7 @@ BoatRetireConfig.Values = {
 function BoatRetireConfig.GetConfig(key)
 	local tb = BoatRetireConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["type"] = 1,["level"] = 2,["reward"] = 3,["nazo"] = 4,}

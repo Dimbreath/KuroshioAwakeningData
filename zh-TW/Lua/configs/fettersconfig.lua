@@ -24,7 +24,7 @@ FettersConfig.Values = {
 function FettersConfig.GetConfig(key)
 	local tb = FettersConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["condition1"] = 3,["describe1"] = 4,["condition2"] = 5,["describe2"] = 6,["condition3"] = 7,["describe3"] = 8,["icon"] = 9,["fetterstype"] = 10,["parameter"] = 11,["attrtype"] = 12,["upgrade"] = 13,["expcoefficient"] = 14,["summary"] = 15,["groupid"] = 16,["onoff"] = 17,["fetterstips"] = 18,["nazo"] = 19,}

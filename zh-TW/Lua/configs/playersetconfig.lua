@@ -41,7 +41,7 @@ PlayerSetConfig.Values = {
 function PlayerSetConfig.GetConfig(key)
 	local tb = PlayerSetConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["key"] = 2,["type"] = 3,["is_reset"] = 4,["nazo"] = 5,}

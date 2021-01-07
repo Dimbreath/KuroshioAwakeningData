@@ -1074,7 +1074,7 @@ BoatStarConfig.Values = {
 function BoatStarConfig.GetConfig(key)
 	local tb = BoatStarConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["star"] = 2,["value"] = 3,["lvmax"] = 4,["cond1"] = 5,["consumenum"] = 6,["cond2"] = 7,["coin"] = 8,["precondi"] = 9,["nazo"] = 10,}

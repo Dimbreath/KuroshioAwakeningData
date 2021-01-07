@@ -16,7 +16,7 @@ BaseRoomConfig.Values = {
 function BaseRoomConfig.GetConfig(key)
 	local tb = BaseRoomConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["roomtype"] = 2,["weight"] = 3,["roomname"] = 4,["roomlocation"] = 5,["smallroomlocation"] = 6,["floorarea"] = 7,["carpetarea"] = 8,["furniturearea"] = 9,["wallarea"] = 10,["wallpicturearea1"] = 11,["wallpicturearea2"] = 12,["wallpaperarea1"] = 13,["wallpaperarea2"] = 14,["unlock"] = 15,["precondi"] = 16,["cost"] = 17,["nazo"] = 18,}

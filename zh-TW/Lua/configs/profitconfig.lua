@@ -12,7 +12,7 @@ ProfitConfig.Values = {
 function ProfitConfig.GetConfig(key)
 	local tb = ProfitConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["superposition"] = 2,["type"] = 3,["value"] = 4,["describe"] = 5,["valuetype"] = 6,["nazo"] = 7,}

@@ -16,7 +16,7 @@ PushGiftConfig.Values = {
 function PushGiftConfig.GetConfig(key)
 	local tb = PushGiftConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["check"] = 2,["giftid"] = 3,["story"] = 4,["rewards"] = 5,["title"] = 6,["text"] = 7,["limittime"] = 8,["giftboat"] = 9,["boatcoordinate"] = 10,["broadsideboat"] = 11,["titleicon"] = 12,["titleresource"] = 13,["android"] = 14,["ios"] = 15,["mainboat"] = 16,["nazo"] = 17,}

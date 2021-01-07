@@ -451,7 +451,7 @@ FriendlyLevelCfgConfig.Values = {
 function FriendlyLevelCfgConfig.GetConfig(key)
 	local tb = FriendlyLevelCfgConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["boatid"] = 1,["levelpoint1"] = 2,["levelpoint2"] = 3,["levelpoint3"] = 4,["levelpoint4"] = 5,["levelpoint5"] = 6,["levelpoint6"] = 7,["levelpoint7"] = 8,["levelpoint8"] = 9,["levelpoint9"] = 10,["levelpoint10"] = 11,["levelpoint11"] = 12,["levelpoint12"] = 13,["levelpoint13"] = 14,["levelpoint14"] = 15,["levelpoint15"] = 16,["levelpoint16"] = 17,["levelpoint17"] = 18,["levelpoint18"] = 19,["levelpoint19"] = 20,["levelpoint20"] = 21,["levelpointother"] = 22,["nazo"] = 23,}

@@ -961,25 +961,22 @@
       "Precondi": [
         "10101,14"
       ],
-      "Harbourid": "2401,2402,2403,2404,2405,2406,2407",
-      "Continentpos": "2390,-110",
+      "Harbourid": "2701,2702,2703,2704,2705,2706,2707,2708,2709,2710,2711,2712",
+      "Continentpos": "3090,-110",
       "Locbutton": 1,
       "Locbuttonicon": "map_1_eve_icon_arrow_out_4",
       "Checkarea": "293,103.4",
-      "Iconname": "common_1_icon_xhsj_buff",
+      "Iconname": "common_1_icon_slyx_buff",
       "Iconpos": "-115,33",
-      "Dollbuff": "10010",
-      "Coinid": "23",
-      "Buffeffect": "7",
-      "Battleattrbonusboats": "10010;10011",
-      "Battleattrs": "1,2,1000;5,2,1000",
+      "Dollbuff": "50140",
+      "Coinid": "41",
+      "Buffeffect": "70",
+      "Battleattrbonusboats": "50140;50141",
+      "Battleattrs": "2,2,1000;4,2,1000",
       "Firsttimestoryid": [
-        8027
+        8111
       ],
-      "Linkareaid": [
-        25,
-        26
-      ],
+      "Linkareaid": [],
       "Parameter": "7074",
       "Statename": "activity_xhsj_state_txt_01,activity_xhsj_state_txt_04",
       "Icon": "",
@@ -1006,25 +1003,22 @@
       "Precondi": [
         "10101,14"
       ],
-      "Harbourid": "2501,2502,2503,2504,2505,2506,2507",
-      "Continentpos": "2390,-110",
+      "Harbourid": "2801,2802,2803,2804",
+      "Continentpos": "3090,-110",
       "Locbutton": 1,
       "Locbuttonicon": "map_1_eve_icon_arrow_out_4",
       "Checkarea": "293,103.4",
-      "Iconname": "common_1_icon_xhsj_buff",
+      "Iconname": "common_1_icon_slyx_buff",
       "Iconpos": "-115,33",
-      "Dollbuff": "10010",
-      "Coinid": "23",
-      "Buffeffect": "9",
-      "Battleattrbonusboats": "10010;10011",
-      "Battleattrs": "1,2,1000;5,2,1000",
+      "Dollbuff": "50140",
+      "Coinid": "42",
+      "Buffeffect": "80",
+      "Battleattrbonusboats": "50140;50141",
+      "Battleattrs": "2,2,1000;4,2,1000",
       "Firsttimestoryid": [
-        8027
+        8130
       ],
-      "Linkareaid": [
-        24,
-        26
-      ],
+      "Linkareaid": [],
       "Parameter": "7074",
       "Statename": "activity_xhsj_state_txt_02,activity_xhsj_state_txt_04",
       "Icon": "",

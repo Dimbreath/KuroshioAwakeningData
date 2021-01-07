@@ -19,6 +19,7 @@ function AcNewYearNpcPoint:InjectComponent()
 	self.txtVoice = self.injections.txtVoice
 	self.imgHead = self.injections.imgHead
 	self.traDialog = self.injections.traDialog
+	self.imgGift = self.injections.imgGift
 end
 
 function AcNewYearNpcPoint:Init()
@@ -38,6 +39,7 @@ function AcNewYearNpcPoint:SetData(boatId,newYearMapConfig)
 	local iconName = GameEntry.PreResourceManager.charactersConfig:GetIconName(resourceId)
 	DarkBoom.DarkBoomUtility.LoadIconSprite(self.imgHead,iconName, self.mask, false, function() self.imgHead:SetAlpha(1) end)
 	self.traDialog.alpha = 0
+	self.imgGift.gameObject:SetActive(self.model.reward_npc == self.boatId)
 end
 
 function AcNewYearNpcPoint:OnRelease()
@@ -60,12 +62,10 @@ function AcNewYearNpcPoint:RemoveListeners()
 end
 
 function AcNewYearNpcPoint:OnbtnLevelPointClick()
-	if self.model.reward_npc ~= 0 then
-		local weight = self.newYearMapConfig.weight
-		local random = math.random(1,100)
-		if random <= weight then
-			self.manager:ReqRewardNpc()
-		end
+	if self.model.reward_npc == self.boatId then
+		self.manager:ReqRewardNpc(function()
+			self.imgGift.gameObject:SetActive(self.model.reward_npc == self.boatId)
+		end)
 	end
 	self:ShowVoiceText()
 end

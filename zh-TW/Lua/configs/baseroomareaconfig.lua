@@ -23,7 +23,7 @@ BaseRoomAreaConfig.Values = {
 function BaseRoomAreaConfig.GetConfig(key)
 	local tb = BaseRoomAreaConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["areaname"] = 2,["areatype"] = 3,["initialfurniture"] = 4,["initialfurniturepos"] = 5,["furnituretype"] = 6,["furniturerotate"] = 7,["nazo"] = 8,}

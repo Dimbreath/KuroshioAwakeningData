@@ -38,7 +38,7 @@ PreCondiConfig.Values = {
 function PreCondiConfig.GetConfig(key)
 	local tb = PreCondiConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["type"] = 2,["parameternum"] = 3,["describe"] = 4,["config"] = 5,["nazo"] = 6,}

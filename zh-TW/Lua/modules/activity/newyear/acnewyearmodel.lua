@@ -7,6 +7,7 @@ local BuffConfig = require"Configs/BuffConfig"
 local NewYearIntegralConfig = require"Configs/NewYearIntegralConfig"
 local DayRankRewardConfig = require"Configs/DayRankRewardConfig"
 local RankRewardConfig = require"Configs/RankRewardConfig"
+local BattleConfig = require"Configs/BattleConfig"
 
 function AcNewYearModel:ctor()
     self:ResetData()
@@ -65,6 +66,12 @@ function AcNewYearModel:InitData()
     self.selectEnemyBuffList = {}
     self.isOwnBuff = false                -- 是否我方buff
     self.harbourId = 0
+    self.curTog = 0 --主界面当前页签状态
+    self.endBattleHarbourId = 0    --战斗结束剧情记录
+    self.endBattleResult = nil --记录战斗结果
+    self.endBattleSwitchTog = 0 --记录战斗结束后回到哪个页签0默认 1防守 2进攻
+    self.endBattleScrollPos = nil --记录战斗结束后地图拖动状态
+    self.endBattleData = nil --记录战斗结束回包数据
     self:ParseBattleYearNewConfig()
     self:ParseDayRankReward()
     self:ParseFinalRankReward()
@@ -90,6 +97,7 @@ function AcNewYearModel:SetInfos(serverData)
     self.defendActivityId = serverData.defend.id
     self.curMorale = serverData.defend.morale_point
     self.attackActivityId = serverData.attack.id
+    self.integral = serverData.integral
     for k,v in pairs(serverData.attack.country_counterattack) do
         self.country_counterattack[k] = v
     end
@@ -98,9 +106,9 @@ function AcNewYearModel:SetInfos(serverData)
     self.can_draw_server = serverData.attack.can_draw_server
     self.reward_npc = serverData.reward_npc
     for k,v in pairs(serverData.harbour_difficulty_passed) do
-        self.harbour_difficulty_passed[k] = {}
+        self.harbour_difficulty_passed[tonumber(k)] = {}
         for k1,v1 in pairs(v) do
-            self.harbour_difficulty_passed[k][v1] = true
+            self.harbour_difficulty_passed[tonumber(k)][v1] = true
         end
     end
     for k,v in pairs(serverData.active_buffs) do
@@ -135,11 +143,27 @@ function AcNewYearModel:GetNewYearHarbour(harbourId,difficultyId)
     end
 end
 
+function AcNewYearModel:FixBuffValueToDifficultyId(harbourId,buffValue)
+    buffValue = buffValue + 1
+    if buffValue <= 0 then
+        return 1
+    elseif buffValue > #self.newYearHarbourList[harbourId] then
+        return #self.newYearHarbourList[harbourId]
+    else
+        return buffValue
+    end
+end
+
 function AcNewYearModel:IsHarbourClear(harbourId,difficultyId)
     if self.harbour_difficulty_passed[harbourId] ~= nil then
         return self.harbour_difficulty_passed[harbourId][difficultyId] or false
     end
     return false
+end
+
+function AcNewYearModel:IsHarbourAnyDifficultyClear(harbourId)
+    local harbourModel = GameEntry.PlayerData:GetMapById(harbourId)
+    return harbourModel ~= nil and harbourModel.isCleared
 end
 
 function AcNewYearModel:GetHarbourInfo(harbourId)
@@ -154,8 +178,7 @@ function AcNewYearModel:GetHarbourStatus(harbourId)
         isUnLock = isUnLock and DarkBoom.CondiUtility.CheckSingleCondition(v,nil)
     end
     if isUnLock then
-        local harbourModel = GameEntry.PlayerData:GetMapById(harbourId)
-        local isClear = harbourModel ~= nil and harbourModel.isCleared
+        local isClear = self:IsHarbourAnyDifficultyClear(harbourId)
         if isClear then
             return self.harbourStatus.Clear
         else
@@ -273,7 +296,21 @@ function AcNewYearModel:AddSelectBuff(selectList,isEnemy)
 end
 
 function AcNewYearModel:IsActiveBuff(id)
-    return self.active_buffs[id] or false
+    return self.active_buffs[id] or self:IsBuffUnlock(id)
+end
+
+-- buff是否已经解锁
+function AcNewYearModel:IsBuffUnlock(id)
+    local config = BuffConfig.GetConfig(id)
+    if config == nil then
+        return false
+    end
+
+    if config.taskid <= 0 then
+        return true
+    end
+    
+    return false
 end
 
 function AcNewYearModel:IsSelectBuff(id)
@@ -453,6 +490,20 @@ function AcNewYearModel:GetItemInfo(itemId)
 		end
 	end
 	return itemNum
+end
+
+function AcNewYearModel:IsCostEnough(battleId)
+    local config = BattleConfig.GetConfig(battleId)
+    if config == nil then
+        return false,""
+    end
+    local res = DarkBoom.ResourceUnit.GetListFromString(config.itemcost)
+    for k,v in pairs(res) do
+        if not v:IsEnough() then
+            return false,v:GetResourceName()
+        end
+    end
+    return true,""
 end
 
 return AcNewYearModel

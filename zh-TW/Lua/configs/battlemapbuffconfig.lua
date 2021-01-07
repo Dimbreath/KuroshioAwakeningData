@@ -49,7 +49,7 @@ BattleMapBuffConfig.Values = {
 function BattleMapBuffConfig.GetConfig(key)
 	local tb = BattleMapBuffConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["bufftype"] = 2,["target"] = 3,["numtype"] = 4,["num"] = 5,["icon"] = 6,["buffeffect"] = 7,["nazo"] = 8,}

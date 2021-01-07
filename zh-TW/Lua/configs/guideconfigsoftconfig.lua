@@ -101,7 +101,7 @@ GuideConfigSoftConfig.Values = {
 function GuideConfigSoftConfig.GetConfig(key)
 	local tb = GuideConfigSoftConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["steptype"] = 2,["steporder"] = 3,["grouporder"] = 4,["lastid"] = 5,["group"] = 6,["request"] = 7,["precondi"] = 8,["prefab"] = 9,["item"] = 10,["storygroupid"] = 11,["guidetype"] = 12,["resourceid"] = 13,["title"] = 14,["context"] = 15,["value"] = 16,["open"] = 17,["end"] = 18,["datastatisticskey"] = 19,["nazo"] = 20,}

@@ -10,7 +10,7 @@ FontLanguageConfig.Values = {
 function FontLanguageConfig.GetConfig(key)
 	local tb = FontLanguageConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["language"] = 2,["desc"] = 3,["path"] = 4,["sdfpath"] = 5,["nazo"] = 6,}

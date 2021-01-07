@@ -10,7 +10,7 @@ ProspectCoinConfig.Values = {
 function ProspectCoinConfig.GetConfig(key)
 	local tb = ProspectCoinConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["activity_id"] = 2,["channel"] = 3,["company"] = 4,["reward"] = 5,["nazo"] = 6,}

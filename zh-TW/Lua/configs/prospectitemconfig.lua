@@ -14,7 +14,7 @@ ProspectItemConfig.Values = {
 function ProspectItemConfig.GetConfig(key)
 	local tb = ProspectItemConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["iatticetype"] = 2,["iattice_x"] = 3,["iattice_y"] = 4,["iattice_random"] = 5,["coinexchangeid"] = 6,["nazo"] = 7,}

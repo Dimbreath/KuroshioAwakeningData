@@ -86,7 +86,7 @@ CommanderBaseConfig.Values = {
 function CommanderBaseConfig.GetConfig(key)
 	local tb = CommanderBaseConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["level"] = 1,["exp"] = 2,["upperlimit"] = 3,["reward"] = 4,["limitfriend"] = 5,["coinadd"] = 6,["oiladd"] = 7,["oilreply"] = 8,["nazo"] = 9,}

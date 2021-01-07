@@ -13,7 +13,7 @@ LoginRewardConfig.Values = {
 function LoginRewardConfig.GetConfig(key)
 	local tb = LoginRewardConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["loginrewardid"] = 1,["longinrewardname"] = 2,["day1reward"] = 3,["day2reward"] = 4,["day3reward"] = 5,["day4reward"] = 6,["day5reward"] = 7,["day6reward"] = 8,["day7reward"] = 9,["day8reward"] = 10,["day9reward"] = 11,["day10reward"] = 12,["day11reward"] = 13,["day12reward"] = 14,["day13reward"] = 15,["day14reward"] = 16,["day15reward"] = 17,["day16reward"] = 18,["day17reward"] = 19,["day18reward"] = 20,["day19reward"] = 21,["day20reward"] = 22,["day21reward"] = 23,["day22reward"] = 24,["day23reward"] = 25,["day24reward"] = 26,["day25reward"] = 27,["day26reward"] = 28,["day27reward"] = 29,["day28reward"] = 30,["nazo"] = 31,}

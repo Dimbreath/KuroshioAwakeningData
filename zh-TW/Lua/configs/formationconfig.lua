@@ -7,7 +7,7 @@ FormationConfig.Values = {
 function FormationConfig.GetConfig(key)
 	local tb = FormationConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["formation_front"] = 2,["formation_middle"] = 3,["formation_after"] = 4,["nazo"] = 5,}

@@ -15,7 +15,7 @@ BattleMapHarbourConfig.Values = {
 function BattleMapHarbourConfig.GetConfig(key)
 	local tb = BattleMapHarbourConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["harbourid"] = 1,["level"] = 2,["limit"] = 3,["partynum"] = 4,["harbournamedesc"] = 5,["completereward"] = 6,["completerewardshow"] = 7,["bgm"] = 8,["tagpos"] = 9,["tagfixpos"] = 10,["originalmapsize"] = 11,["expandlimit"] = 12,["startlimit"] = 13,["distortlimit"] = 14,["resourcefolder"] = 15,["resourcetype"] = 16,["helpid"] = 17,["nazo"] = 18,}

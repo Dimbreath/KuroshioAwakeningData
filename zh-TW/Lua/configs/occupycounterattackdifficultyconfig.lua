@@ -88,7 +88,7 @@ OccupyCounterattackdifficultyConfig.Values = {
 function OccupyCounterattackdifficultyConfig.GetConfig(key)
 	local tb = OccupyCounterattackdifficultyConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["unlockcondition"] = 2,["number"] = 3,["difficulty"] = 4,["qualitychance"] = 5,["typechance"] = 6,["nazo"] = 7,}

@@ -190,7 +190,7 @@ BoatVoiceCfgConfig.Values = {
 function BoatVoiceCfgConfig.GetConfig(key)
 	local tb = BoatVoiceCfgConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["ghost"] = 2,["gachaend"] = 3,["drop"] = 4,["overviewclick"] = 5,["lobbyfirst"] = 6,["mail"] = 7,["lobbyclick"] = 8,["taskcomplete"] = 9,["back"] = 10,["attcksure"] = 11,["skill"] = 12,["fight"] = 13,["hp"] = 14,["feed"] = 15,["sink"] = 16,["mvp"] = 17,["fail"] = 18,["fightback"] = 19,["overviewenter"] = 20,["overviewenterlvup"] = 21,["hate"] = 22,["strange"] = 23,["friendly"] = 24,["toki"] = 25,["love"] = 26,["oath"] = 27,["lobbyclickadd"] = 28,["mood01"] = 29,["mood02"] = 30,["mood03"] = 31,["gift"] = 32,["birthday"] = 33,["gamename"] = 34,["shop"] = 35,["nazo"] = 36,}

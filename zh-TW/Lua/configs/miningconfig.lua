@@ -66,7 +66,7 @@ MiningConfig.Values = {
 function MiningConfig.GetConfig(key)
 	local tb = MiningConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["reward"] = 2,["payreward"] = 3,["exp"] = 4,["payexp"] = 5,["nazo"] = 6,}

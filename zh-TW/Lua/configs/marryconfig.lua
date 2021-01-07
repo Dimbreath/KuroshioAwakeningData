@@ -20,7 +20,7 @@ MarryConfig.Values = {
 function MarryConfig.GetConfig(key)
 	local tb = MarryConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["nextid"] = 2,["actiontype"] = 3,["speakername"] = 4,["speakernameen"] = 5,["content"] = 6,["showcharacter"] = 7,["parameter"] = 8,["endtime"] = 9,["voice"] = 10,["backgroundcontrol"] = 11,["charactercontrol"] = 12,["contextcontrol"] = 13,["itemcontrol"] = 14,["effectcontrol"] = 15,["nazo"] = 16,}

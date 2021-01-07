@@ -46,9 +46,12 @@ function AcNewYearEntry:OnbtnGoClick()
     local id = 0
     local activityConfig = DarkBoom.ActivitiesMgr.GetInstance():GetActivityConfigData(self.tagId)
 	if activityConfig ~= nil then
-		if DarkBoom.ActivityExtension.IsActivityInTime(activityConfig,DarkBoom.ActivityTimeType.Start,DarkBoom.ActivityTimeType.End) then
+		if DarkBoom.ActivityExtension.IsActivityInTime(activityConfig,DarkBoom.ActivityTimeType.Start,DarkBoom.ActivityTimeType.Disapper) then
 			id = tonumber(activityConfig.parameter_2)
-			CS.DarkBoom.WorldMapUtility.GoToWorldMap(id)
+			local _,continentalConfig = CS.Config.WorldIntercontinentalCfgList.getInst():TryGetValue(id)
+			if continentalConfig ~= nil and DarkBoom.CondiUtility.CheckCondition(continentalConfig.Precondi,nil,true) then				
+				CS.DarkBoom.WorldMapUtility.GoToWorldMap(id)
+			end	
 		else
 			GameEntry.UI:OpenMsgTipsUIFormWithKey("activity_map_tips_01")
 		end
@@ -61,7 +64,7 @@ end
 
 function AcNewYearEntry:OnOpen(tagId)
 	self.tagId = tagId
-	self.txtTime.text = CS.DarkBoom.LuaActivityBridge.GetActivityTime(tagId)
+	self.txtTime.text = CS.DarkBoom.LuaActivityBridge.GetActivityTime(78)
 	--self.txtDesc.text = GetDefaultText("newyear_activity_dec")
 end
 

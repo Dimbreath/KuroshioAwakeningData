@@ -5,7 +5,7 @@
       "Groupid": 1,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 492,
+      "Publicrate": 469,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -14,7 +14,7 @@
       "Groupid": 1,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 492,
+      "Publicrate": 469,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -23,7 +23,7 @@
       "Groupid": 1,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 1760,
+      "Publicrate": 1677,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -32,7 +32,7 @@
       "Groupid": 1,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 492,
+      "Publicrate": 469,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -41,7 +41,7 @@
       "Groupid": 1,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 1760,
+      "Publicrate": 1677,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -50,7 +50,7 @@
       "Groupid": 1,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 1760,
+      "Publicrate": 1677,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -59,7 +59,7 @@
       "Groupid": 1,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 1760,
+      "Publicrate": 1677,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -68,7 +68,7 @@
       "Groupid": 1,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 492,
+      "Publicrate": 469,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -77,7 +77,7 @@
       "Groupid": 1,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 492,
+      "Publicrate": 469,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -86,7 +86,16 @@
       "Groupid": 1,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 492,
+      "Publicrate": 469,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "4295017406": {
+      "Cuid": 4295017406,
+      "Groupid": 1,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 469,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -95,7 +104,7 @@
       "Groupid": 2,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -104,7 +113,7 @@
       "Groupid": 2,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -140,7 +149,7 @@
       "Groupid": 2,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -176,7 +185,7 @@
       "Groupid": 2,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -185,7 +194,7 @@
       "Groupid": 2,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -239,7 +248,7 @@
       "Groupid": 2,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -329,7 +338,7 @@
       "Groupid": 2,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -338,7 +347,7 @@
       "Groupid": 2,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -419,7 +428,7 @@
       "Groupid": 2,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -473,7 +482,16 @@
       "Groupid": 2,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "8589984702": {
+      "Cuid": 8589984702,
+      "Groupid": 2,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -482,7 +500,7 @@
       "Groupid": 20,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -491,7 +509,7 @@
       "Groupid": 20,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -527,7 +545,7 @@
       "Groupid": 20,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -563,8 +581,8 @@
       "Groupid": 20,
       "Boatid": 30040,
       "Publictype": 1,
-      "Publicrate": 19,
-      "Publicpro": 3,
+      "Publicrate": 18,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "85899376020": {
@@ -572,7 +590,7 @@
       "Groupid": 20,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -626,7 +644,7 @@
       "Groupid": 20,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -716,7 +734,7 @@
       "Groupid": 20,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -725,7 +743,7 @@
       "Groupid": 20,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -806,7 +824,7 @@
       "Groupid": 20,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -860,7 +878,16 @@
       "Groupid": 20,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "85899396030": {
+      "Cuid": 85899396030,
+      "Groupid": 20,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -869,7 +896,7 @@
       "Groupid": 21,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -878,7 +905,7 @@
       "Groupid": 21,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -914,7 +941,7 @@
       "Groupid": 21,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -950,7 +977,7 @@
       "Groupid": 21,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -959,8 +986,8 @@
       "Groupid": 21,
       "Boatid": 30100,
       "Publictype": 1,
-      "Publicrate": 70,
-      "Publicpro": 3,
+      "Publicrate": 67,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "90194343376": {
@@ -1013,7 +1040,7 @@
       "Groupid": 21,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1103,7 +1130,7 @@
       "Groupid": 21,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1112,7 +1139,7 @@
       "Groupid": 21,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1193,7 +1220,7 @@
       "Groupid": 21,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1247,7 +1274,16 @@
       "Groupid": 21,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "90194363326": {
+      "Cuid": 90194363326,
+      "Groupid": 21,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1256,7 +1292,7 @@
       "Groupid": 22,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1265,7 +1301,7 @@
       "Groupid": 22,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1301,7 +1337,7 @@
       "Groupid": 22,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1337,7 +1373,7 @@
       "Groupid": 22,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1346,7 +1382,7 @@
       "Groupid": 22,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1400,8 +1436,8 @@
       "Groupid": 22,
       "Boatid": 40100,
       "Publictype": 1,
-      "Publicrate": 70,
-      "Publicpro": 3,
+      "Publicrate": 67,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "94489320642": {
@@ -1490,7 +1526,7 @@
       "Groupid": 22,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1499,7 +1535,7 @@
       "Groupid": 22,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1580,7 +1616,7 @@
       "Groupid": 22,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1634,7 +1670,16 @@
       "Groupid": 22,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "94489330622": {
+      "Cuid": 94489330622,
+      "Groupid": 22,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1643,7 +1688,7 @@
       "Groupid": 23,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1652,7 +1697,7 @@
       "Groupid": 23,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1688,7 +1733,7 @@
       "Groupid": 23,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1724,7 +1769,7 @@
       "Groupid": 23,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1733,7 +1778,7 @@
       "Groupid": 23,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1787,7 +1832,7 @@
       "Groupid": 23,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1877,7 +1922,7 @@
       "Groupid": 23,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1886,7 +1931,7 @@
       "Groupid": 23,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1922,7 +1967,7 @@
       "Groupid": 23,
       "Boatid": 60120,
       "Publictype": 1,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -1976,7 +2021,7 @@
       "Groupid": 23,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -2030,7 +2075,16 @@
       "Groupid": 23,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "98784297918": {
+      "Cuid": 98784297918,
+      "Groupid": 23,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -2093,7 +2147,7 @@
       "Groupid": 24,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 64,
+      "Publicrate": 61,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -2138,7 +2192,7 @@
       "Groupid": 24,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 64,
+      "Publicrate": 61,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -2192,7 +2246,7 @@
       "Groupid": 24,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 64,
+      "Publicrate": 61,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -2282,7 +2336,7 @@
       "Groupid": 24,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 64,
+      "Publicrate": 61,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -2434,6 +2488,15 @@
       "Cuid": 103079265614,
       "Groupid": 24,
       "Boatid": 50510,
+      "Publictype": 0,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "103079265214": {
+      "Cuid": 103079265214,
+      "Groupid": 24,
+      "Boatid": 50110,
       "Publictype": 0,
       "Publicrate": 17,
       "Publicpro": 0,
@@ -2835,6 +2898,402 @@
       "Publicpro": 0,
       "Nazo": 0
     },
+    "115964127012": {
+      "Cuid": 115964127012,
+      "Groupid": 27,
+      "Boatid": 10020,
+      "Publictype": 0,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964127022": {
+      "Cuid": 115964127022,
+      "Groupid": 27,
+      "Boatid": 10030,
+      "Publictype": 0,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964127042": {
+      "Cuid": 115964127042,
+      "Groupid": 27,
+      "Boatid": 10050,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964127072": {
+      "Cuid": 115964127072,
+      "Groupid": 27,
+      "Boatid": 10080,
+      "Publictype": 0,
+      "Publicrate": 600,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964127102": {
+      "Cuid": 115964127102,
+      "Groupid": 27,
+      "Boatid": 10110,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964127112": {
+      "Cuid": 115964127112,
+      "Groupid": 27,
+      "Boatid": 10120,
+      "Publictype": 0,
+      "Publicrate": 67,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964127142": {
+      "Cuid": 115964127142,
+      "Groupid": 27,
+      "Boatid": 10150,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964137012": {
+      "Cuid": 115964137012,
+      "Groupid": 27,
+      "Boatid": 20020,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964137022": {
+      "Cuid": 115964137022,
+      "Groupid": 27,
+      "Boatid": 20030,
+      "Publictype": 0,
+      "Publicrate": 600,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964147032": {
+      "Cuid": 115964147032,
+      "Groupid": 27,
+      "Boatid": 30040,
+      "Publictype": 0,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964147092": {
+      "Cuid": 115964147092,
+      "Groupid": 27,
+      "Boatid": 30100,
+      "Publictype": 0,
+      "Publicrate": 67,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964147152": {
+      "Cuid": 115964147152,
+      "Groupid": 27,
+      "Boatid": 30160,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157012": {
+      "Cuid": 115964157012,
+      "Groupid": 27,
+      "Boatid": 40020,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157022": {
+      "Cuid": 115964157022,
+      "Groupid": 27,
+      "Boatid": 40030,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157042": {
+      "Cuid": 115964157042,
+      "Groupid": 27,
+      "Boatid": 40050,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157052": {
+      "Cuid": 115964157052,
+      "Groupid": 27,
+      "Boatid": 40060,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157092": {
+      "Cuid": 115964157092,
+      "Groupid": 27,
+      "Boatid": 40100,
+      "Publictype": 0,
+      "Publicrate": 67,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157122": {
+      "Cuid": 115964157122,
+      "Groupid": 27,
+      "Boatid": 40130,
+      "Publictype": 0,
+      "Publicrate": 600,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157192": {
+      "Cuid": 115964157192,
+      "Groupid": 27,
+      "Boatid": 40200,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157202": {
+      "Cuid": 115964157202,
+      "Groupid": 27,
+      "Boatid": 40210,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167052": {
+      "Cuid": 115964167052,
+      "Groupid": 27,
+      "Boatid": 50060,
+      "Publictype": 0,
+      "Publicrate": 600,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167092": {
+      "Cuid": 115964167092,
+      "Groupid": 27,
+      "Boatid": 50100,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167182": {
+      "Cuid": 115964167182,
+      "Groupid": 27,
+      "Boatid": 50190,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167252": {
+      "Cuid": 115964167252,
+      "Groupid": 27,
+      "Boatid": 50260,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167282": {
+      "Cuid": 115964167282,
+      "Groupid": 27,
+      "Boatid": 50290,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167302": {
+      "Cuid": 115964167302,
+      "Groupid": 27,
+      "Boatid": 50310,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167312": {
+      "Cuid": 115964167312,
+      "Groupid": 27,
+      "Boatid": 50320,
+      "Publictype": 0,
+      "Publicrate": 67,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964177062": {
+      "Cuid": 115964177062,
+      "Groupid": 27,
+      "Boatid": 60070,
+      "Publictype": 0,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964177072": {
+      "Cuid": 115964177072,
+      "Groupid": 27,
+      "Boatid": 60080,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964177082": {
+      "Cuid": 115964177082,
+      "Groupid": 27,
+      "Boatid": 60090,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964177162": {
+      "Cuid": 115964177162,
+      "Groupid": 27,
+      "Boatid": 60170,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167132": {
+      "Cuid": 115964167132,
+      "Groupid": 27,
+      "Boatid": 50140,
+      "Publictype": 1,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157292": {
+      "Cuid": 115964157292,
+      "Groupid": 27,
+      "Boatid": 40300,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157142": {
+      "Cuid": 115964157142,
+      "Groupid": 27,
+      "Boatid": 40150,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964157152": {
+      "Cuid": 115964157152,
+      "Groupid": 27,
+      "Boatid": 40160,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167202": {
+      "Cuid": 115964167202,
+      "Groupid": 27,
+      "Boatid": 50210,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167212": {
+      "Cuid": 115964167212,
+      "Groupid": 27,
+      "Boatid": 50220,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167462": {
+      "Cuid": 115964167462,
+      "Groupid": 27,
+      "Boatid": 50470,
+      "Publictype": 0,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964147002": {
+      "Cuid": 115964147002,
+      "Groupid": 27,
+      "Boatid": 30010,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964147322": {
+      "Cuid": 115964147322,
+      "Groupid": 27,
+      "Boatid": 30330,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167482": {
+      "Cuid": 115964167482,
+      "Groupid": 27,
+      "Boatid": 50490,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964177152": {
+      "Cuid": 115964177152,
+      "Groupid": 27,
+      "Boatid": 60160,
+      "Publictype": 0,
+      "Publicrate": 62,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964147132": {
+      "Cuid": 115964147132,
+      "Groupid": 27,
+      "Boatid": 30140,
+      "Publictype": 0,
+      "Publicrate": 476,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "115964167502": {
+      "Cuid": 115964167502,
+      "Groupid": 27,
+      "Boatid": 50510,
+      "Publictype": 0,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
     "38654715714": {
       "Cuid": 38654715714,
       "Groupid": 9,
@@ -3128,8 +3587,8 @@
       "Groupid": 4,
       "Boatid": 10020,
       "Publictype": 1,
-      "Publicrate": 19,
-      "Publicpro": 3,
+      "Publicrate": 18,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "17179879214": {
@@ -3137,7 +3596,7 @@
       "Groupid": 4,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3155,7 +3614,7 @@
       "Groupid": 4,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3209,7 +3668,7 @@
       "Groupid": 4,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3218,7 +3677,7 @@
       "Groupid": 4,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3272,7 +3731,7 @@
       "Groupid": 4,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3362,7 +3821,7 @@
       "Groupid": 4,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3371,7 +3830,7 @@
       "Groupid": 4,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3452,7 +3911,7 @@
       "Groupid": 4,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3506,7 +3965,16 @@
       "Groupid": 4,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "17179919294": {
+      "Cuid": 17179919294,
+      "Groupid": 4,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3695,7 +4163,7 @@
       "Groupid": 6,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3740,7 +4208,7 @@
       "Groupid": 6,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3794,7 +4262,7 @@
       "Groupid": 6,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -3884,7 +4352,7 @@
       "Groupid": 6,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4037,8 +4505,17 @@
       "Groupid": 6,
       "Boatid": 50340,
       "Publictype": 1,
-      "Publicrate": 59,
-      "Publicpro": 3,
+      "Publicrate": 57,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "25769853886": {
+      "Cuid": 25769853886,
+      "Groupid": 6,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 16,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "30064781092": {
@@ -4046,7 +4523,7 @@
       "Groupid": 7,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4055,8 +4532,8 @@
       "Groupid": 7,
       "Boatid": 10030,
       "Publictype": 1,
-      "Publicrate": 19,
-      "Publicpro": 3,
+      "Publicrate": 18,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "30064781122": {
@@ -4091,7 +4568,7 @@
       "Groupid": 7,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4127,7 +4604,7 @@
       "Groupid": 7,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4136,7 +4613,7 @@
       "Groupid": 7,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4190,7 +4667,7 @@
       "Groupid": 7,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4280,7 +4757,7 @@
       "Groupid": 7,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4289,7 +4766,7 @@
       "Groupid": 7,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4370,7 +4847,7 @@
       "Groupid": 7,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4424,7 +4901,16 @@
       "Groupid": 7,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "30064821182": {
+      "Cuid": 30064821182,
+      "Groupid": 7,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4478,7 +4964,7 @@
       "Groupid": 8,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4523,7 +5009,7 @@
       "Groupid": 8,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4577,7 +5063,7 @@
       "Groupid": 8,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4667,7 +5153,7 @@
       "Groupid": 8,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 59,
+      "Publicrate": 57,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4820,8 +5306,17 @@
       "Groupid": 8,
       "Boatid": 30180,
       "Publictype": 1,
-      "Publicrate": 59,
-      "Publicpro": 3,
+      "Publicrate": 57,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "34359788478": {
+      "Cuid": 34359788478,
+      "Groupid": 8,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 16,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "42949682980": {
@@ -4829,7 +5324,7 @@
       "Groupid": 10,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4838,7 +5333,7 @@
       "Groupid": 10,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4874,7 +5369,7 @@
       "Groupid": 10,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4910,7 +5405,7 @@
       "Groupid": 10,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4919,7 +5414,7 @@
       "Groupid": 10,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -4973,7 +5468,7 @@
       "Groupid": 10,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5063,7 +5558,7 @@
       "Groupid": 10,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5072,8 +5567,8 @@
       "Groupid": 10,
       "Boatid": 60070,
       "Publictype": 1,
-      "Publicrate": 19,
-      "Publicpro": 3,
+      "Publicrate": 18,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "42949733040": {
@@ -5153,7 +5648,7 @@
       "Groupid": 10,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5207,7 +5702,16 @@
       "Groupid": 10,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "42949723070": {
+      "Cuid": 42949723070,
+      "Groupid": 10,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5216,7 +5720,7 @@
       "Groupid": 11,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5225,7 +5729,7 @@
       "Groupid": 11,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5261,7 +5765,7 @@
       "Groupid": 11,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5297,7 +5801,7 @@
       "Groupid": 11,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5306,7 +5810,7 @@
       "Groupid": 11,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5360,7 +5864,7 @@
       "Groupid": 11,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5450,7 +5954,7 @@
       "Groupid": 11,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5459,7 +5963,7 @@
       "Groupid": 11,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5495,8 +5999,8 @@
       "Groupid": 11,
       "Boatid": 60250,
       "Publictype": 1,
-      "Publicrate": 18,
-      "Publicpro": 3,
+      "Publicrate": 17,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "47244680556": {
@@ -5549,7 +6053,7 @@
       "Groupid": 11,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5603,7 +6107,16 @@
       "Groupid": 11,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "47244690366": {
+      "Cuid": 47244690366,
+      "Groupid": 11,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5612,7 +6125,7 @@
       "Groupid": 12,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5621,7 +6134,7 @@
       "Groupid": 12,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5657,7 +6170,7 @@
       "Groupid": 12,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5693,7 +6206,7 @@
       "Groupid": 12,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5702,7 +6215,7 @@
       "Groupid": 12,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5756,7 +6269,7 @@
       "Groupid": 12,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5846,7 +6359,7 @@
       "Groupid": 12,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5855,7 +6368,7 @@
       "Groupid": 12,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5891,8 +6404,8 @@
       "Groupid": 12,
       "Boatid": 10100,
       "Publictype": 1,
-      "Publicrate": 18,
-      "Publicpro": 3,
+      "Publicrate": 17,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "51539647852": {
@@ -5945,7 +6458,7 @@
       "Groupid": 12,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -5999,7 +6512,16 @@
       "Groupid": 12,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "51539657662": {
+      "Cuid": 51539657662,
+      "Groupid": 12,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6008,7 +6530,7 @@
       "Groupid": 13,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6017,7 +6539,7 @@
       "Groupid": 13,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6053,7 +6575,7 @@
       "Groupid": 13,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6089,7 +6611,7 @@
       "Groupid": 13,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6098,7 +6620,7 @@
       "Groupid": 13,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6152,7 +6674,7 @@
       "Groupid": 13,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6242,7 +6764,7 @@
       "Groupid": 13,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6251,7 +6773,7 @@
       "Groupid": 13,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6332,7 +6854,7 @@
       "Groupid": 13,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6386,7 +6908,7 @@
       "Groupid": 13,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6395,8 +6917,17 @@
       "Groupid": 13,
       "Boatid": 60050,
       "Publictype": 1,
-      "Publicrate": 18,
-      "Publicpro": 3,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "55834624958": {
+      "Cuid": 55834624958,
+      "Groupid": 13,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "60129552164": {
@@ -6404,7 +6935,7 @@
       "Groupid": 14,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6413,7 +6944,7 @@
       "Groupid": 14,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6449,8 +6980,8 @@
       "Groupid": 14,
       "Boatid": 10120,
       "Publictype": 1,
-      "Publicrate": 70,
-      "Publicpro": 3,
+      "Publicrate": 67,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "60129552294": {
@@ -6485,7 +7016,7 @@
       "Groupid": 14,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6494,7 +7025,7 @@
       "Groupid": 14,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6548,7 +7079,7 @@
       "Groupid": 14,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6638,7 +7169,7 @@
       "Groupid": 14,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6647,7 +7178,7 @@
       "Groupid": 14,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6728,7 +7259,7 @@
       "Groupid": 14,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6782,7 +7313,16 @@
       "Groupid": 14,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "60129592254": {
+      "Cuid": 60129592254,
+      "Groupid": 14,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6791,7 +7331,7 @@
       "Groupid": 15,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6800,7 +7340,7 @@
       "Groupid": 15,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6836,7 +7376,7 @@
       "Groupid": 15,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6872,7 +7412,7 @@
       "Groupid": 15,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6881,7 +7421,7 @@
       "Groupid": 15,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -6935,7 +7475,7 @@
       "Groupid": 15,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7025,7 +7565,7 @@
       "Groupid": 15,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7034,7 +7574,7 @@
       "Groupid": 15,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7115,8 +7655,8 @@
       "Groupid": 15,
       "Boatid": 50470,
       "Publictype": 1,
-      "Publicrate": 19,
-      "Publicpro": 3,
+      "Publicrate": 18,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "64424539450": {
@@ -7169,7 +7709,16 @@
       "Groupid": 15,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "64424559550": {
+      "Cuid": 64424559550,
+      "Groupid": 15,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7178,7 +7727,7 @@
       "Groupid": 16,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7187,7 +7736,7 @@
       "Groupid": 16,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7223,7 +7772,7 @@
       "Groupid": 16,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7259,7 +7808,7 @@
       "Groupid": 16,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7268,7 +7817,7 @@
       "Groupid": 16,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7322,7 +7871,7 @@
       "Groupid": 16,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7412,7 +7961,7 @@
       "Groupid": 16,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7421,7 +7970,7 @@
       "Groupid": 16,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7502,7 +8051,7 @@
       "Groupid": 16,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7511,8 +8060,8 @@
       "Groupid": 16,
       "Boatid": 10160,
       "Publictype": 1,
-      "Publicrate": 18,
-      "Publicpro": 3,
+      "Publicrate": 17,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "68719506746": {
@@ -7565,7 +8114,16 @@
       "Groupid": 16,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "68719526846": {
+      "Cuid": 68719526846,
+      "Groupid": 16,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7574,7 +8132,7 @@
       "Groupid": 17,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7583,7 +8141,7 @@
       "Groupid": 17,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7619,7 +8177,7 @@
       "Groupid": 17,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7655,7 +8213,7 @@
       "Groupid": 17,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7664,7 +8222,7 @@
       "Groupid": 17,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7718,7 +8276,7 @@
       "Groupid": 17,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7808,7 +8366,7 @@
       "Groupid": 17,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7817,7 +8375,7 @@
       "Groupid": 17,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7898,7 +8456,7 @@
       "Groupid": 17,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7907,8 +8465,8 @@
       "Groupid": 17,
       "Boatid": 60140,
       "Publictype": 1,
-      "Publicrate": 18,
-      "Publicpro": 3,
+      "Publicrate": 17,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "73014474042": {
@@ -7961,7 +8519,16 @@
       "Groupid": 17,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "73014494142": {
+      "Cuid": 73014494142,
+      "Groupid": 17,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7970,7 +8537,7 @@
       "Groupid": 18,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -7979,7 +8546,7 @@
       "Groupid": 18,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8015,7 +8582,7 @@
       "Groupid": 18,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8051,7 +8618,7 @@
       "Groupid": 18,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8060,7 +8627,7 @@
       "Groupid": 18,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8114,7 +8681,7 @@
       "Groupid": 18,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8204,7 +8771,7 @@
       "Groupid": 18,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8213,7 +8780,7 @@
       "Groupid": 18,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8294,7 +8861,7 @@
       "Groupid": 18,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8303,8 +8870,8 @@
       "Groupid": 18,
       "Boatid": 10010,
       "Publictype": 1,
-      "Publicrate": 18,
-      "Publicpro": 3,
+      "Publicrate": 17,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "77309441338": {
@@ -8357,7 +8924,16 @@
       "Groupid": 18,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "77309461438": {
+      "Cuid": 77309461438,
+      "Groupid": 18,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8366,7 +8942,7 @@
       "Groupid": 19,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8375,7 +8951,7 @@
       "Groupid": 19,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8411,7 +8987,7 @@
       "Groupid": 19,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8447,7 +9023,7 @@
       "Groupid": 19,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8456,7 +9032,7 @@
       "Groupid": 19,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8510,7 +9086,7 @@
       "Groupid": 19,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8600,7 +9176,7 @@
       "Groupid": 19,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 67,
+      "Publicrate": 64,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8609,7 +9185,7 @@
       "Groupid": 19,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8690,7 +9266,7 @@
       "Groupid": 19,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8699,8 +9275,8 @@
       "Groupid": 19,
       "Boatid": 60230,
       "Publictype": 1,
-      "Publicrate": 18,
-      "Publicpro": 3,
+      "Publicrate": 17,
+      "Publicpro": 0,
       "Nazo": 0
     },
     "81604408634": {
@@ -8753,7 +9329,16 @@
       "Groupid": 19,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 18,
+      "Publicrate": 17,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "81604428734": {
+      "Cuid": 81604428734,
+      "Groupid": 19,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8762,7 +9347,7 @@
       "Groupid": 1001,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8771,7 +9356,7 @@
       "Groupid": 1001,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8807,7 +9392,7 @@
       "Groupid": 1001,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8843,7 +9428,7 @@
       "Groupid": 1001,
       "Boatid": 30040,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8852,7 +9437,7 @@
       "Groupid": 1001,
       "Boatid": 30100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8906,7 +9491,7 @@
       "Groupid": 1001,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -8996,7 +9581,7 @@
       "Groupid": 1001,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 70,
+      "Publicrate": 67,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -9005,7 +9590,7 @@
       "Groupid": 1001,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -9086,7 +9671,7 @@
       "Groupid": 1001,
       "Boatid": 50470,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -9140,7 +9725,16 @@
       "Groupid": 1001,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 18,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "4299262313406": {
+      "Cuid": 4299262313406,
+      "Groupid": 1001,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 18,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -9454,6 +10048,24 @@
       "Cuid": 433791747406,
       "Groupid": 101,
       "Boatid": 50510,
+      "Publictype": 0,
+      "Publicrate": 0,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "433791726936": {
+      "Cuid": 433791726936,
+      "Groupid": 101,
+      "Boatid": 30040,
+      "Publictype": 0,
+      "Publicrate": 0,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "433791747006": {
+      "Cuid": 433791747006,
+      "Groupid": 101,
+      "Boatid": 50110,
       "Publictype": 0,
       "Publicrate": 0,
       "Publicpro": 0,
@@ -9774,6 +10386,24 @@
       "Publicpro": 0,
       "Nazo": 0
     },
+    "438086694232": {
+      "Cuid": 438086694232,
+      "Groupid": 102,
+      "Boatid": 30040,
+      "Publictype": 0,
+      "Publicrate": 0,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "438086714302": {
+      "Cuid": 438086714302,
+      "Groupid": 102,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 0,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
     "442381641508": {
       "Cuid": 442381641508,
       "Groupid": 103,
@@ -10089,12 +10719,30 @@
       "Publicpro": 0,
       "Nazo": 0
     },
+    "442381661528": {
+      "Cuid": 442381661528,
+      "Groupid": 103,
+      "Boatid": 30040,
+      "Publictype": 0,
+      "Publicrate": 0,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "442381681598": {
+      "Cuid": 442381681598,
+      "Groupid": 103,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 0,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
     "446676608804": {
       "Cuid": 446676608804,
       "Groupid": 104,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 5,
+      "Publicrate": 4,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10103,7 +10751,7 @@
       "Groupid": 104,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 5,
+      "Publicrate": 4,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10139,7 +10787,7 @@
       "Groupid": 104,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10220,7 +10868,7 @@
       "Groupid": 104,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10301,7 +10949,7 @@
       "Groupid": 104,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10310,7 +10958,7 @@
       "Groupid": 104,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 5,
+      "Publicrate": 4,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10346,7 +10994,7 @@
       "Groupid": 104,
       "Boatid": 60210,
       "Publictype": 0,
-      "Publicrate": 19,
+      "Publicrate": 17,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10400,7 +11048,25 @@
       "Groupid": 104,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 5,
+      "Publicrate": 4,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "446676628824": {
+      "Cuid": 446676628824,
+      "Groupid": 104,
+      "Boatid": 30040,
+      "Publictype": 0,
+      "Publicrate": 4,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "446676648894": {
+      "Cuid": 446676648894,
+      "Groupid": 104,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 4,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10409,7 +11075,7 @@
       "Groupid": 105,
       "Boatid": 10020,
       "Publictype": 0,
-      "Publicrate": 10,
+      "Publicrate": 9,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10418,7 +11084,7 @@
       "Groupid": 105,
       "Boatid": 10030,
       "Publictype": 0,
-      "Publicrate": 10,
+      "Publicrate": 9,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10454,7 +11120,7 @@
       "Groupid": 105,
       "Boatid": 10120,
       "Publictype": 0,
-      "Publicrate": 39,
+      "Publicrate": 35,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10535,7 +11201,7 @@
       "Groupid": 105,
       "Boatid": 40100,
       "Publictype": 0,
-      "Publicrate": 39,
+      "Publicrate": 35,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10616,7 +11282,7 @@
       "Groupid": 105,
       "Boatid": 50320,
       "Publictype": 0,
-      "Publicrate": 39,
+      "Publicrate": 35,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10625,7 +11291,7 @@
       "Groupid": 105,
       "Boatid": 60070,
       "Publictype": 0,
-      "Publicrate": 10,
+      "Publicrate": 9,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10661,7 +11327,7 @@
       "Groupid": 105,
       "Boatid": 60210,
       "Publictype": 0,
-      "Publicrate": 39,
+      "Publicrate": 35,
       "Publicpro": 0,
       "Nazo": 0
     },
@@ -10715,7 +11381,25 @@
       "Groupid": 105,
       "Boatid": 50510,
       "Publictype": 0,
-      "Publicrate": 10,
+      "Publicrate": 9,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "450971596120": {
+      "Cuid": 450971596120,
+      "Groupid": 105,
+      "Boatid": 30040,
+      "Publictype": 0,
+      "Publicrate": 9,
+      "Publicpro": 0,
+      "Nazo": 0
+    },
+    "450971616190": {
+      "Cuid": 450971616190,
+      "Groupid": 105,
+      "Boatid": 50110,
+      "Publictype": 0,
+      "Publicrate": 9,
       "Publicpro": 0,
       "Nazo": 0
     }

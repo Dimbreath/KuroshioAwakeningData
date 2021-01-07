@@ -26,7 +26,7 @@ LottoRewardConfig.Values = {
 function LottoRewardConfig.GetConfig(key)
 	local tb = LottoRewardConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["groupid"] = 2,["reward"] = 3,["type"] = 4,["weight"] = 5,["guarantee"] = 6,["guarantee_times"] = 7,["monopoly_weight"] = 8,["isshow"] = 9,["bichu"] = 10,}

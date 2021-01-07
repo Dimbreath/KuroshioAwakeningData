@@ -7,7 +7,7 @@ BaseRoomCollectionConfig.Values = {
 function BaseRoomCollectionConfig.GetConfig(key)
 	local tb = BaseRoomCollectionConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["floorareaid"] = 3,["floorarealoc"] = 4,["carpetareaid"] = 5,["carpetarealoc"] = 6,["furnitureareaid"] = 7,["furniturearealoc"] = 8,["wallareaid"] = 9,["wallarealoc"] = 10,["wallpicturearea1id"] = 11,["wallpicturearea1loc"] = 12,["wallpicturearea2id"] = 13,["wallpicturearea2loc"] = 14,["wallpaperarea1id"] = 15,["wallpaperarea1loc"] = 16,["wallpaperarea2id"] = 17,["wallpaperarea2loc"] = 18,["nazo"] = 19,}

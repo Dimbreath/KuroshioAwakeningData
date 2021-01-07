@@ -18,7 +18,7 @@ CommanderTaskConfig.Values = {
 function CommanderTaskConfig.GetConfig(key)
 	local tb = CommanderTaskConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["phase"] = 2,["tasktype"] = 3,["task"] = 4,["nazo"] = 5,}

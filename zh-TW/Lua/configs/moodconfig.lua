@@ -11,7 +11,7 @@ MoodConfig.Values = {
 function MoodConfig.GetConfig(key)
 	local tb = MoodConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["moodmin"] = 2,["moodmax"] = 3,["icon"] = 4,["isdisplay"] = 5,["battleicon"] = 6,["buff"] = 7,["mooddes"] = 8,["buffdes"] = 9,["nazo"] = 10,}

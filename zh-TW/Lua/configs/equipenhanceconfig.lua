@@ -126,7 +126,7 @@ EquipEnhanceConfig.Values = {
 function EquipEnhanceConfig.GetConfig(key)
 	local tb = EquipEnhanceConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["quality"] = 1,["level"] = 2,["exp"] = 3,["cost"] = 4,["nazo"] = 5,}

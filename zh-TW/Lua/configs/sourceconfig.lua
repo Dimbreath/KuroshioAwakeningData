@@ -31,9 +31,11 @@ SourceConfig.Values = {
 	[9] = {9,[[成就獎勵]],"illustration_1_char_icon_1","13","0",'',0,},
 	[93] = {93,[[沐冬禮至]],"illustration_1_char_icon_3","12","71",'',0,},
 	[96] = {96,[[怒斬狂瀾]],"illustration_1_char_icon_3","12","76",'',0,},
-	[97] = {97,[[狩獵遊戲]],"illustration_1_char_icon_3","14","4",'',0,},
+	[97] = {97,[[狩獵遊戲]],"illustration_1_char_icon_3","14","5",'',0,},
 	[98] = {98,[[培養隊列]],"illustration_1_char_icon_3","8","1",'',0,},
+	[99] = {99,[[浴火飛翎]],"illustration_1_char_icon_3","12","80",'',0,},
 	[10] = {10,[[利維坦深淵]],"illustration_1_char_icon_1","6","0",'',0,},
+	[100] = {100,[[狩獵遊戲]],"illustration_1_char_icon_3","14","5","2",0,},
 	[11] = {11,[[出征首次通關獎勵]],"illustration_1_char_icon_1","2","0",'',0,},
 	[12] = {12,[[活動獎勵]],"illustration_1_char_icon_1","0","0",'',0,},
 	[13] = {13,[[月卡購買]],"illustration_1_char_icon_1","0","0",'',0,},
@@ -370,7 +372,7 @@ SourceConfig.Values = {
 function SourceConfig.GetConfig(key)
 	local tb = SourceConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["text"] = 2,["icon"] = 3,["type"] = 4,["value"] = 5,["value2"] = 6,["nazo"] = 7,}

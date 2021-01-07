@@ -11,7 +11,7 @@ WorldStoryPartConfig.Values = {
 function WorldStoryPartConfig.GetConfig(key)
 	local tb = WorldStoryPartConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["partname"] = 2,["partenname"] = 3,["chapterid"] = 4,["order"] = 5,["nazo"] = 6,}

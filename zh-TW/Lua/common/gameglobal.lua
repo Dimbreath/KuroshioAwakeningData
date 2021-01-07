@@ -1,11 +1,14 @@
 --赋值C#组件
 --- Import CS
+---@type CS.DarkBoom
 DarkBoom        	= CS.DarkBoom
+UnityEngine         = CS.UnityEngine
 GameEntry       	= CS.DarkBoom.GameEntry
 Debug           	= CS.UnityEngine.Debug
 LuaBridge       	= CS.DarkBoom.LuaBridge
 GameObject      	= CS.UnityEngine.GameObject
 Transform       	= CS.UnityEngine.Transform
+RectTransform       = CS.UnityEngine.RectTransform
 Random          	= CS.UnityEngine.Random
 Time            	= CS.UnityEngine.Time
 Color           	= CS.UnityEngine.Color

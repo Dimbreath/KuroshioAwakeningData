@@ -59,8 +59,8 @@
       "Boatid": 10290,
       "Boatid2": 10291,
       "Number": 7,
-      "Open": 0,
-      "Source": "0",
+      "Open": 1,
+      "Source": "97",
       "Nazo": 0
     },
     "10100": {
@@ -331,6 +331,15 @@
       "Number": 37,
       "Open": 1,
       "Source": "11048,25",
+      "Nazo": 0
+    },
+    "60060": {
+      "Cuid": 60060,
+      "Boatid": 60060,
+      "Boatid2": 60061,
+      "Number": 145,
+      "Open": 1,
+      "Source": "97",
       "Nazo": 0
     },
     "60100": {
@@ -914,8 +923,8 @@
       "Boatid": 50140,
       "Boatid2": 50141,
       "Number": 102,
-      "Open": 0,
-      "Source": "0",
+      "Open": 1,
+      "Source": "3",
       "Nazo": 0
     },
     "50380": {
@@ -1175,8 +1184,8 @@
       "Boatid": 50420,
       "Boatid2": 50421,
       "Number": 131,
-      "Open": 0,
-      "Source": "0",
+      "Open": 1,
+      "Source": "97",
       "Nazo": 0
     },
     "50030": {

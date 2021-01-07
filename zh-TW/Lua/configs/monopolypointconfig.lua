@@ -78,7 +78,7 @@ MonopolyPointConfig.Values = {
 function MonopolyPointConfig.GetConfig(key)
 	local tb = MonopolyPointConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["floorid"] = 1,["gridid"] = 2,["eventtype"] = 3,["eventcontent"] = 4,["mapid"] = 5,["mapasset"] = 6,["desc"] = 7,["story"] = 8,["nazo"] = 9,}

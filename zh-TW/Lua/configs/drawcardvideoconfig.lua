@@ -14,7 +14,7 @@ DrawcardVideoConfig.Values = {
 function DrawcardVideoConfig.GetConfig(key)
 	local tb = DrawcardVideoConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["videores"] = 3,["nazo"] = 4,}

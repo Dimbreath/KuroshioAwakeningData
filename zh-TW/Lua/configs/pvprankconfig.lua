@@ -18,7 +18,7 @@ PvpRankConfig.Values = {
 function PvpRankConfig.GetConfig(key)
 	local tb = PvpRankConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["rankupcondition_min"] = 3,["rankupcondition_max"] = 4,["icon"] = 5,["exp_pro"] = 6,["nazo"] = 7,}

@@ -49,7 +49,7 @@ TachieShowCfgConfig.Values = {
 function TachieShowCfgConfig.GetConfig(key)
 	local tb = TachieShowCfgConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["tachieshowid"] = 1,["bottom"] = 2,["initialposition"] = 3,["shake"] = 4,["shift"] = 5,["communicationscreen"] = 6,["fadein"] = 7,["move"] = 8,["scale"] = 9,["nazo"] = 10,}

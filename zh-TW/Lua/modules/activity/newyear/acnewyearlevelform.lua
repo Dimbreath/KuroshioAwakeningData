@@ -1,6 +1,6 @@
 local AcNewYearLevelForm  = class("AcNewYearLevelForm", BaseForm)
 local AcNewYearBuffComponent = require"Modules/Activity/NewYear/AcNewYearBuffComponent"
-
+local DropConfig = require"Configs/DropConfig"
 function AcNewYearLevelForm:LUA_OnInit(gameObject,userParamData)
 	self.super:LUA_OnInit(gameObject,userParamData)
 	self.injections = ParseInjections(gameObject)
@@ -13,6 +13,7 @@ end
 function AcNewYearLevelForm:InjectComponent()
 	self.btnBg = self.injections.btnBg
 	self.btnGo = self.injections.btnGo
+	self.btnSalvage = self.injections.btnSalvage
 	self.harbourDescComponent = self.injections.harbourDescComponent
 	self.enemyStageComponent = self.injections.enemyStageComponent
 	self.harbourRewardComponent = self.injections.harbourRewardComponent
@@ -37,8 +38,10 @@ function AcNewYearLevelForm:LUA_OnOpen(userData)
 		self:RefreshStoryView()
 	else
 		self:RefreshBattleView()
-		local buffComponent = AcNewYearBuffComponent.new(self.harbourBuffComponent.gameObject)
-		buffComponent:LUA_SetData(self.mask)
+		local buffComponent = self.harbourBuffComponent:GetComponent(typeof(DarkBoom.LuaView))
+		buffComponent:SetData(self.mask)
+		self.btnGo.gameObject:SetActive(not self.model:IsHarbourAnyDifficultyClear(self.harbourId))
+		self.btnSalvage.gameObject:SetActive(self.model:IsHarbourAnyDifficultyClear(self.harbourId))
 	end
 end
 
@@ -59,7 +62,7 @@ function AcNewYearLevelForm:RefreshBattleView()
 end
 
 function AcNewYearLevelForm:RefreshDifficultyInfo()
-	local curDifficultyId = self.model:GetBuffValue(true)
+	local curDifficultyId = self.model:FixBuffValueToDifficultyId(self.harbourId,self.model:GetBuffValue(true))
 	if self.difficultyId == curDifficultyId then
 		return
 	end
@@ -82,7 +85,9 @@ function AcNewYearLevelForm:RefreshDifficultyInfo()
 	if isClear then
 		rewardStr = battleYearNewConfig.salvagedropshow
 	end
-	self.harbourRewardComponent:SetData(self.mask, DarkBoom.DarkBoomUtility.ParseRewardString(rewardStr), GameEntry.Localization:GetString("occupy_harbourInfo_12"))
+	local rewardList = DarkBoom.LuaActivityBridge.ReservedFunc13({["rewardStr"] = rewardStr})
+
+	self.harbourRewardComponent:SetData(self.mask, rewardList, GameEntry.Localization:GetString("occupy_harbourInfo_12"))
 
 	local parameter = DarkBoom.CommonSidebarExtraParameter()
 	parameter.areaExtraNumber = self.harbourId
@@ -124,27 +129,6 @@ function AcNewYearLevelForm:RefreshStoryView()
 	self.activityHarbourNoBattleForm:Open(self.harbourId,self.mask)
 end
 
-function AcNewYearLevelForm:GetProItems(allItems,isClear)
-	local list = {}
-	local info = self.harbourInfoConfig
-	local dolls = info.Specialcommondoll
-	if isClear then
-		dolls = info.Specialfirstdoll
-	end
-	local dollList = {}
-	for k,v in pairs(dolls or {}) do
-		local data = DarkBoom.ItemCellData(v)
-		dollList[data.id] = true
-	end
-
-	for k,v in pairs(allItems) do
-		local wmItem = DarkBoom.WorldMapItemData(v.id, v.num, v.itemCellType, v.isGetted,v.maxNum)
-		wmItem.IsSpecial = dollList[v.id] or false
-		table.insert(list,wmItem)
-	end
-
-	return list
-end
 
 function AcNewYearLevelForm:SetUIStageData(stage, enemyList)
 	local stageTemp = {}
@@ -191,6 +175,9 @@ function AcNewYearLevelForm:AddListeners()
 	self.btnGo.onClick:AddListener(function()
 		self:OnbtnGoClick()
 	end)
+	self.btnSalvage.onClick:AddListener(function()
+		self:OnbtnGoClick()
+	end)
 	self.event.SetFormation:AddListener(self.OnSetFormationRet,self)
 	self.event.RefreshBuff:AddListener(self.RefreshDifficultyInfo,self)
 end
@@ -202,6 +189,9 @@ function AcNewYearLevelForm:RemoveListeners()
 
 	self.btnGo.onClick:RemoveAllListeners()
 	self.btnGo.onClick:Invoke()
+
+	self.btnSalvage.onClick:RemoveAllListeners()
+	self.btnSalvage.onClick:Invoke()
 
 	self.event.SetFormation:RemoveListener(self.OnSetFormationRet,self)
 	self.event.RefreshBuff:RemoveListener(self.RefreshDifficultyInfo,self)
@@ -234,8 +224,14 @@ function AcNewYearLevelForm:OnFormationEnsure(formationInfo)
 end
 
 function AcNewYearLevelForm:OnSetFormationRet(data)
-	print("----OnSetFormationRet,buff:"..self.model:GetSelectBuffJson())
+	local battleYearNewConfig = self.model:GetNewYearHarbour(self.harbourId,self.difficultyId)
+	local isEnough,tips = self.model:IsCostEnough(battleYearNewConfig.battleid)
+	if not isEnough then
+		GameEntry.UI:OpenMsgTipsUIForm(string.gsub(GetDefaultText("common_resource_not_enough"),"{0}",tips),DarkBoom.SoundEffectType.None)
+		return
+	end
 	self.manager:ReqStartBattle(self.harbourId,self.model:GetSelectBuffJson())
+	self.model.endBattleSwitchTog = self.model.curTog
 end
 
 

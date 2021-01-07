@@ -15,6 +15,7 @@ end
 
 function AcNewYearAttackPanel:InjectComponent()
 	self.traStage = self.injections.traStage
+	CS.SafeAreaUtility.SafeAreaToBlack(self.traStage:GetComponent("RectTransform"), true)
 	self.stagePoint = self.injections.stagePoint
 	self.imgCountryList =
 	{
@@ -32,6 +33,7 @@ function AcNewYearAttackPanel:InjectComponent()
 		self.injections.imgFinalProgress3,
 		self.injections.imgFinalProgress4,
 	}
+	self.imgHasGet = self.injections.imgHasGet
 end
 
 function AcNewYearAttackPanel:Init()
@@ -65,6 +67,7 @@ end
 function AcNewYearAttackPanel:RefreshStagePoint()
 	local harbourList = self.model:GetHarbourList(self.model.attackActivityId)
 	local index = 1
+	local scaleList = {-1,1,1,-1}
 	for k,v in pairs(harbourList) do
 		local countryId = self.model:GetAttackHarbourCountryId(k)
 		if self.stagePointList[k] == nil then
@@ -72,8 +75,8 @@ function AcNewYearAttackPanel:RefreshStagePoint()
             go:SetActive(true)
 			go.transform.localScale = Vector3.one
 			local scalex = 1
-			if index % 2 == 1 then
-				scalex = -1
+			if scaleList[index] then
+				scalex = scaleList[index]
 			end
 			local resourceId = tonumber(GetGlobalText("newYear_boss_"..countryId)) 
             local stagePoint = StagePoint.new(go,self.mask,scalex,resourceId)
@@ -89,7 +92,7 @@ function AcNewYearAttackPanel:RefreshFinalRwdProcess()
 	for i,v in ipairs(self.imgFinalProgressList) do
 		v.gameObject:SetActive(i <= process)
 	end
-	self.btnFinalRwd.enabled = self.model.can_draw_personal == 1
+	self.imgHasGet.gameObject:SetActive(self.model.can_draw_personal == 2)
 end
 
 function AcNewYearAttackPanel:OnStagePointClick(harbourId,harbourInfoConfig)
@@ -101,7 +104,13 @@ function AcNewYearAttackPanel:OnStagePointClick(harbourId,harbourInfoConfig)
 end
 
 function AcNewYearAttackPanel:OnbtnFinalRwdClick()
-	self.manager:ReqGetAttackReward(1)
+	if self.model.can_draw_personal == 0 then
+		GameEntry.UI:OpenMsgTipsUIForm(GetDefaultText("newyear_reward_tips"),DarkBoom.SoundEffectType.None)
+	elseif self.model.can_draw_personal == 1 then
+		self.manager:ReqGetAttackReward(1)
+	elseif self.model.can_draw_personal == 2 then
+		GameEntry.UI:OpenMsgTipsUIForm(GetDefaultText("firstcharge_text_03"),DarkBoom.SoundEffectType.None)
+	end
 end
 
 function AcNewYearAttackPanel:OnChangeUIShow(show)
@@ -109,6 +118,10 @@ function AcNewYearAttackPanel:OnChangeUIShow(show)
 end
 
 function AcNewYearAttackPanel:OnRelease()
+	for k,v in pairs(self.stagePointList) do
+		v:OnRelease()
+	end
+	self.stagePointList = {}
     self:RemoveListeners()
 end
 

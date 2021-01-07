@@ -56,7 +56,7 @@ BaseComfortLevelConfig.Values = {
 function BaseComfortLevelConfig.GetConfig(key)
 	local tb = BaseComfortLevelConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["level"] = 1,["comfort"] = 2,["basemood"] = 3,["visitmood"] = 4,["visitexp"] = 5,["time"] = 6,["nazo"] = 7,}

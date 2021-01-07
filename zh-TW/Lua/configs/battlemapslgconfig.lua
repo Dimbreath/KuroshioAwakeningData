@@ -15,7 +15,7 @@ BattleMapSLGConfig.Values = {
 function BattleMapSLGConfig.GetConfig(key)
 	local tb = BattleMapSLGConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["slgid"] = 1,["holdid"] = 2,["nazo"] = 3,}

@@ -106,7 +106,7 @@ BoatLevelExpConfig.Values = {
 function BoatLevelExpConfig.GetConfig(key)
 	local tb = BoatLevelExpConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["boatlevelid"] = 1,["icardexptonextlevel"] = 2,["icardbptonextlevel"] = 3,["ncardexptonextlevel"] = 4,["ncardbptonextlevel"] = 5,["rcardexptonextlevel"] = 6,["rcardbptonextlevel"] = 7,["srcardexptonextlevel"] = 8,["srcardbptonextlevel"] = 9,["ssrcardexptonextlevel"] = 10,["ssrcardbptonextlevel"] = 11,["nazo"] = 12,}

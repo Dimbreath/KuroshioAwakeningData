@@ -12,7 +12,7 @@ GlobalBuffConfig.Values = {
 function GlobalBuffConfig.GetConfig(key)
 	local tb = GlobalBuffConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["superposition"] = 2,["type"] = 3,["value"] = 4,["ext"] = 5,["nazo"] = 6,}

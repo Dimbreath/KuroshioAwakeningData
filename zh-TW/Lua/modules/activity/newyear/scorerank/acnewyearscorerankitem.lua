@@ -84,19 +84,23 @@ function AcNewYearScoreRankItem:LUA_SetData(obj)
           self.Rank.text = rankData.rank
           self.Rank.gameObject:SetActive(true)
        end
-    elseif rankData.rank > TableLength(self.rankSpecial) then  --排行列表第四名后排名
-        self.Rank.text = rankData.rank
-        self.Rank.gameObject:SetActive(true)
+    else
+        if rankData.rank > TableLength(self.rankSpecial) then  --排行列表第四名后排名
+           self.Rank.text = rankData.rank
+           self.Rank.gameObject:SetActive(true)
+        else
+           self.Rank.gameObject:SetActive(false)
+        end
     end
 
     --名字、头像、积分显示
     self.Name.text = rankData.uname
     self.Score.text = rankData.score
     local config = HeadConfig.GetConfig(rankData.avatar)
-    self.CharIcon.enabled = false
+    self.CharIcon.gameObject:SetActive(false)
     if config ~= nil then
         DarkBoom.BoatAssetUtility.LoadBoatLay(DarkBoomUtility.TryLongParse(config.resource), self.CharIcon, self.model.rankFormMask, false,function()
-            self.CharIcon.enabled = true
+            self.CharIcon.gameObject:SetActive(true)
         end)
     end
     self.rankData = rankData

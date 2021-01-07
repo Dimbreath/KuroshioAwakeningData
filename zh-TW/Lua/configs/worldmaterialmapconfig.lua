@@ -14,7 +14,7 @@ WorldMaterialMapConfig.Values = {
 function WorldMaterialMapConfig.GetConfig(key)
 	local tb = WorldMaterialMapConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["harbourid"] = 1,["harbourtype"] = 2,["activitytime"] = 3,["limittimes"] = 4,["circlesize"] = 5,["linepos"] = 6,["iconout"] = 7,["icon"] = 8,["tagpos"] = 9,["nazo"] = 10,}

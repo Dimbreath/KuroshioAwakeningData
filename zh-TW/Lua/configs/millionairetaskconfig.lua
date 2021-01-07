@@ -20,7 +20,7 @@ MillionaireTaskConfig.Values = {
 function MillionaireTaskConfig.GetConfig(key)
 	local tb = MillionaireTaskConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["id"] = 1,["name"] = 2,["task"] = 3,["nazo"] = 4,}

@@ -11,7 +11,7 @@ DelayRecruitConfig.Values = {
 function DelayRecruitConfig.GetConfig(key)
 	local tb = DelayRecruitConfig.Values[key]
 	if not tb then
-		print_error(key)
+		print_error(string.format("key type is %s,key = %s",type(key),key))
 		return nil
 	end
 	local config = {["groupid"] = 1,["cost01"] = 2,["time"] = 3,["quality"] = 4,["cost02"] = 5,["nazo"] = 6,}

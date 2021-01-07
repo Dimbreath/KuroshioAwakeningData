@@ -176,6 +176,28 @@
       "Guaranteerate": 3.0,
       "Nazo": 0
     },
+    "27": {
+      "Cuid": 27,
+      "Groupid": 27,
+      "Groupname": "浴火飛翎",
+      "Groupdes": "該卡池內單筆訂單獲取SSR級人偶的基礎機率為4%，若下達訂單累計達25次未獲得SSR級人偶，則超過該次數後每次下達訂單，SSR級人偶的獲取機率都將提升3%，即至多57筆訂單必定獲得SSR級人偶（種類取決於卡池），每次獲得SSR級人偶都將重置該卡池的人偶獲取機率和累計訂單數，每個卡池單獨計算。",
+      "ValueGold": "1,2,0",
+      "ValueItem": "1,160001,1",
+      "Sort": 17,
+      "Securityway": "1,10,4",
+      "Recruittype": 1,
+      "Bgpic": "recruit_1_yhfl_20201229",
+      "Banner": "recruit_1_tab_text_yhfl_20201229",
+      "Queuepic": "character_lay_5014000",
+      "Label": "character_lay_5014000",
+      "Labellocation": "40,-25,16,2",
+      "Recruitweight": "2,24;3,62;4,10;5,4",
+      "Previewlocation": "50140,498,60;",
+      "Security": 1,
+      "Guaranteetime": 25,
+      "Guaranteerate": 3.0,
+      "Nazo": 0
+    },
     "9": {
       "Cuid": 9,
       "Groupid": 9,

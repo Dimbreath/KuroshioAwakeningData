@@ -16,6 +16,7 @@ function AcNewYearBuffItem:ctor(gameObject)
     self.select = false
     self.selectCallBack = nil
     self.buffConfig = nil
+    self.canvasGroup = self.gameObject:GetComponent(typeof(CS.UnityEngine.CanvasGroup))
     self:AddListener()
 end
 
@@ -41,6 +42,7 @@ end
 
 function AcNewYearBuffItem:RemoveListener()
     self.btnSelect.onClick:RemoveAllListeners()
+    self.btnSelect.onClick:Invoke()
 end
 
 function AcNewYearBuffItem:SetData(buffId,select,selectCallBack,mask)
@@ -59,12 +61,16 @@ function AcNewYearBuffItem:SetData(buffId,select,selectCallBack,mask)
         self.imgBuffIcon.sprite = asset
         self.imgBuffIcon.gameObject:SetActive(true)
     end, mask)
+    self.txtDesc.text = self.buffConfig.dec
+
     self.traOurs.gameObject:SetActive(false)
     self.traEnemy.gameObject:SetActive(false)
     if not self.model:IsActiveBuff(self.buffId) then
+        self.canvasGroup.alpha = 0.5
         self.imgLock.gameObject:SetActive(true)
         self:SetSelect(false)
     else
+        self.canvasGroup.alpha = 1
         self.imgLock.gameObject:SetActive(false)
         self:SetSelect(select)
         if self.buffConfig.target == self.model.buffType.Our then
@@ -72,7 +78,7 @@ function AcNewYearBuffItem:SetData(buffId,select,selectCallBack,mask)
             self.txtCost.text = GetDefaultText("NewYear_Buff_tips_03")..self.buffConfig.value
         elseif self.buffConfig.target == self.model.buffType.Enemy then
             self.traEnemy.gameObject:SetActive(true)
-            self.txtCost.text = string.format("<color=#e63580>%s</color>",self.buffConfig.value)
+            self.txtDifficulty.text = string.format("<color=#e63580>%s</color>",self.buffConfig.value)
         end
     end
 end
@@ -92,6 +98,10 @@ end
 
 function AcNewYearBuffItem:GetBuffId()
     return self.buffId
+end
+
+function AcNewYearBuffItem:GetBuffConfig()
+    return self.buffConfig
 end
 
 function AcNewYearBuffItem:OnRelease()
